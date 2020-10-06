@@ -1,0 +1,232 @@
+Privacy Policy   Delphix
+Skip to main content
+Language
+Language
+English
+German
+French
+Japanese
+Portuguese
+Community
+Partners
+Contact
+Support
+Login
+Vision
+Vision
+The Delphix Vision
+What is DataOps
+Product
+Product
+Delphix DataOps Platform
+Integrations
+DataOps Marketplace
+Capabilities
+Virtualization
+Data Masking
+Data Access & Control
+Solutions
+Solutions
+By Topic
+Cloud Migration
+CX Transformation
+Cloud Data Compliance
+GDPR
+Test Data Management
+By Technology
+AWS
+Azure
+Google Cloud Platform
+Oracle
+SQL Server
+IBM DB2
+SAP ASE
+SAP
+By Role
+Developers & Testers
+IT Operations
+Risk and Compliance
+By Industry
+Financial Services
+Healthcare
+Consumer Goods and Retail
+Telecom
+Insurance
+Customers
+Resources
+Resources
+Customer Booklets
+Webinars
+White Papers
+Solution Briefs
+Data Sheets
+Videos
+More.
+Company
+Company
+About
+Leadership
+News
+Blogs
+Events
+Careers
+Diversity & Inclusion
+Language
+Language
+English
+German
+French
+Japanese
+Portuguese
+Community
+Partners
+Contact
+Support
+Login
+Get a Demo
+Company
+Privacy Policy
+Last Updated: December 3, 2018
+Thank you for your interest in Delphix Corp. and its affiliated companies ( Delphix ,  we , or  us ) and in the various websites, products and services provided by us (collectively, the  Delphix Services ).
+This Privacy Policy (this  Policy ) applies to the processing of Personal Information by Delphix in the context of the Delphix Services and in connection with its customer, partner and vendor relationships  or when you otherwise contact us or apply for a job.
+This Policy describes:
+the personal information we may collect;
+how we use your personal information;
+how we share your personal information;
+the rights and choices you have regarding your personal information;
+the limitations of this Policy regarding third-party sites or services;
+how we protect childrens privacy;
+the steps we take to protect your personal information;
+how we transfer your information;
+how we may change this Policy; and
+how you may contact us.
+By using the Delphix Services, you consent to the privacy practices described in this Policy.  This Policy is incorporated into and is subject to the Terms of Service for the Delphix Services you use.
+For the purpose of this Policy, Personal Information means any information relating to an identified or identifiable individual.
+Personal Information We May Collect
+In connection with the Delphix Services, we obtain Personal Information relating to you from various sources described below.
+Where applicable, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so. If you do not provide Personal Information when requested, you may not be able to benefit from a service if that information is necessary to provide you with the service or if we are legally required to collect it.
+User-provided Information . When you use the Delphix Services, you may provide us with information about you, including your name, email address, mailing address, and phone number. You may provide us with your Personal Information in various ways when using the Delphix Services. For example, you may provide us with your Personal Information when you use forums or submit forms on the Delphix Services or when you send us customer service-related requests using the Delphix Services or other means of communication.
+Cookies and Automatically Collected Information . When you use certain Delphix Services, we may send one or more cookies  small text files containing a string of alphanumeric characters  to your device.  We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service. Please review your web browser Help" file to learn the proper way to modify your cookie settings. Please note that if you delete or choose not to accept cookies, you may not be able to utilize the features of the Delphix Services to their fullest potential. We may use third party cookies as well.  For instance, we use Google Analytics to collect and process certain analytics data.  Google provides some additional privacy options described at www.google.com/policies/privacy/partners/ regarding Google Analytics cookies.  Delphix does not process or respond to web browsers do not track signals or other similar transmissions that indicate a request to disable online tracking of users who use the Delphix Services.  We may also automatically record certain information from your device by using various types of technology, including clear gifs" or web beacons.
+This automatically collected information may include your web browser and/or device type, the web pages that you visit just before or just after you use a Delphix Service, the pages or other content you view or otherwise interact with on a Delphix Service, and the dates and times that you visit, access, or use the Delphix Services. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened or clicked on a message. Also, we may automatically collect data on the use of our software (i.e., actions that a user takes in the product such as VDB provisioning, refresh, rollback). We analyze such data to improve our software. This information is gathered from all users.
+Third Party Web Beacons and Third Party Buttons . We may enable you to connect your Delphix account to, or otherwise interface with, third party services, including third party social networks and communications services.  In addition, we may implement third party buttons (such as Facebook like or share buttons) that may function as web beacons even when you do not interact with the button. Information collected through third-party web beacons and buttons is collected directly by these third parties, not by Delphix. Please consult that third partys own data collection, use, and disclosure policies for more information.
+Advertising and Analytics Services Provided by Others.
+We allow others to serve advertisements on our behalf across the Internet and to provide analytics services on our behalf.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Delphix Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by Delphix and these entities to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Delphix Services and other websites, and better understand your online activity.  This Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies. Please consult that third partys own data collection, use and disclosure policies for more information.
+Vendor and Partner Relationships.
+We may obtain Personal Information of employees of vendors and partners (e.g., professional contact details) via our vendor and partner relationships
+Human Resource Management.
+We may use your Personal Information for purposes of recruitment and employee administration.
+We do not collect any special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+How We Use Your Personal Information . We use may use the Personal Information we obtain about you to:
+operate, maintain, enhance and provide features of the Delphix Services, to provide services and information that you request, to respond to comments and questions and otherwise to provide support to users, and to process and deliver entries and rewards in connection with promotions that may be offered from time to time by Delphix.
+understand and analyze the usage trends and preferences of our users, to improve the Delphix Services, to evaluate and improve the quality of our products and services, and to develop new products, services, features, and functionality (including anonymization of Personal Information).
+contact you for administrative, informational, and marketing purposes. This may include providing customer service or sending communications, including updates on promotions and events, relating to products and services offered by us and by third parties we work with.  Where required under applicable law, we obtain appropriate consent to send you marketing communications.
+comply with applicable legal requirements and industry standards and our policies.
+enforce our Terms of Service.
+manage our vendor and partner relationships.
+process your information as necessary to consider you for, and assess your suitability for, employment opportunities with Delphix.
+In addition, we may use information we automatically collect when you use certain Delphix Services to: (i) analyze your preferences in order to personalize or customize the Delphix Services and provide customized advertisements, content, and information; (ii) monitor and analyze the effectiveness of the Delphix Services and third-party marketing activities; and (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed.
+We may process your Personal Information for the above purposes when:
+You consented to the use of your Personal Information. For example, we may seek to obtain your consent for our use of cookies and similar technologies, or to send you marketing communications.
+We need your Personal Information to provide you with products and services requested by you, or to respond to your inquiries.
+The processing is necessary for compliance with a legal obligation.
+We, or a third party, have a legitimate interest in using your Personal Information, such as to ensure and improve the safety, security, and performance of our products and services, to anonymize Personal Information and carry out data analyses.
+How We Share Your Personal Information . We will not disclose your Personal Information to third parties except as described in this Policy or as we disclose to you at the time the information is collected.
+With Our Affiliates.
+We may share your Personal Information with any members of our group, including the parent company, affiliates, subsidiaries and branch offices, to which it is reasonably necessary or desirable for us to disclose your Personal Information in order to carry out the above-mentioned purposes.
+Displaying Information on the Delphix Services .
+Any information that you voluntarily choose to upload to a publicly accessible site or venue using the Delphix Services, or that you elect to make public, will be available to anyone who has access to that content, including other users.
+Service Providers.
+We work with third party service providers to provide application development, communications, hosting, maintenance, and other services for us. These third parties may have access to or process your Personal Information as part of providing those services for us. We require these service providers by contract to only process Personal Information in accordance with our instructions and as necessary to perform services on our behalf or comply with legal requirements.
+As Required By Law and Similar Disclosures . We may preserve and disclose your Personal Information if required to do so by law or in the good-faith belief that such action is necessary to comply with applicable laws, in response to a court order, judicial or other government subpoena, warrant or request, or to otherwise cooperate with law enforcement or other governmental agencies.
+We also reserve the right to preserve and disclose your information that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Delphix Services and any facilities or equipment used to make the Delphix Services available, or (v) protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights, property, or safety of others.
+Third Party Advertising Partners.
+We may work with third party advertising partners to show ads that we think may interest you. These third party partners collect information from you via cookies and similar technologies. Where required under applicable law, we will request your consent to such collection and use of your information. You may be able to opt out of receiving personalized advertisements from our advertising partners who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliances Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations.  Links to those sites are here:
+- Network Advertising Initiative: http://www.networkadvertising.org/choices/
+- Digital Advertising Alliance: http://www.aboutads.info/choices/
+Merger, Sale, or Other Asset Transfers.   Your Personal Information may be disclosed and otherwise communicated to an acquirer, successor, or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
+Other Disclosures to Third Parties .
+We may make certain aggregated, de-identified, or non-identifying information about users of the Delphix Services available to third parties for various purposes, including (i) compliance with various reporting obligations, e.g., in response to a request for information if we are required by, or believe disclosure is required by, any applicable law, regulation or legal process, including in connection with lawful requests by law enforcement, national security, or other public authorities; (ii) for business or marketing purposes with our business partners, e.g., our resellers and advertising and analytics services providers; (iii) product safety analysis; or (iv) to assist such parties in understanding our users interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality of the Delphix Services.
+With Your Consent or as Otherwise Authorized.
+We may also otherwise disclose your Personal Information to third parties with your consent, or as otherwise authorized under applicable law.
+Your Rights and Choices
+Subject to applicable law, you have the right to:
+Request access to and receive information about the Personal Information we maintain about you, update or correct inaccuracies in your Personal Information, to restrict or to object to the processing of your Personal Information, to have the information anonymized or deleted, as appropriate, or to exercise your right to data portability to easily transfer Personal Information to another company. In addition, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
+Withdraw any consent you previously provided to us regarding the processing of your Personal Information, at any time and free of charge. We will apply your preferences going forward and this will not affect the lawfulness of the processing before your consent withdrawal.
+Those rights may be limited in some circumstances by local law requirements.
+If you receive commercial email or text messages from us, you may unsubscribe at any time by following the instructions contained within the email or text message. You may also opt out from receiving commercial email or text messages from us by sending your request to us by email at
+unsubscribe@delphix.com .
+If you wish to exercise your rights and choices with regard to your Personal Information, you may contact us at
+privacy@delphix.com , or by using the contact information provided in the Our Contact Information section below.
+Third-Party Services
+The Delphix Services may contain features or links to websites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators policies, if any, governing privacy and security, even if accessed through the Delphix Services. To the extent any features or linked websites you visit are not owned or operated by Delphix, we are not responsible for these websites content, use, or privacy practices.
+Childrens Privacy
+The Delphix Services are not directed to children under the age of 16. We do not knowingly collect information from children under the age of 16 without obtaining parental consent.
+Data Security and Retention
+We maintain appropriate administrative, technical, and physical safeguards to protect Personal Information against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Information in our possession. We restrict access to Personal Information about you to those employees who need to know that information to provide products or services to you. Please be aware that no security measures are perfect or impenetrable and thus we cannot and do not guarantee that your information will not be accessed, viewed, disclosed, altered, or destroyed by breach of any of our physical, technical, or organizational safeguards, subject to requirements under applicable law to ensure or warrant information security.
+We also take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it or when you request their deletion, unless we are required or permitted by law to keep the information for a longer period. We will only retain your Personal Information for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+To determine the appropriate retention period for Personal Information, we consider the amount, nature, and sensitivity of the Personal Information, the potential risk of harm from unauthorised use or disclosure of your Personal Information, the purposes for which we process your Personal Information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+Details of retention periods for different aspects of your Personal Information are available in our retention policy which you can request from us by contacting us at
+privacy@delphix.com . In some circumstances, you can ask us to delete your data by contacting us at privacy@delphix.com.
+Data Transfers
+We may transfer or disclose Personal Information we collect about you to recipients in countries other than your country, including to the United States where our headquarters are located and where the servers that we use are hosted. Also, we may transfer your Personal Information from the United States to the United Kingdom, Australia, Japan and/or member country of the European Union in connection with storage and processing of your Personal Information, fulfilling your requests, and providing the services associated with the Delphix Services. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer or disclose your Personal Information to other countries, we will protect that information as described in this Privacy Notice.
+If you are located in the European Economic Area (EEA), we comply with applicable legal requirements to provide adequate safeguards for the transfer of Personal Information to countries other than the country where you are located. In particular, may transfer Personal Information to countries for which adequacy decisions have been issued, use contractual protections for the transfer of Personal Information, such as the European Commission's Standard Contractual Clauses, or rely on third parties certification to the EU-U.S. or Swiss-U.S. Privacy Shield   Frameworks where applicable. You may contact us as specified in the Our Contact Information section below to obtain a copy of the safeguards we use to transfer Personal Information outside of the EEA.
+Changes and Updates to this Policy
+Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify this Policy, we will make it available on or through the Delphix Services, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. Your continued use of the Delphix Services after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of this Policy. If we update this Privacy Notice, in certain circumstances, we may seek your consent.
+Our Contact Information
+Please contact us with any questions or comments about this Policy or our data practices by email at
+privacy@delphix.com .
+Delphix Corp.
+ATTN: Privacy
+1400A Seaport Blvd., Suite 200
+Redwood City, CA 94063
+(650) 494-1645
+If you are located in the EEA, the entity responsible for the collection, use, and processing of your Personal Information described in this Policy is Delphix Software Ltd., located at Carrick House, Lypiatt Road, Cheltenham, Gloucestershire GL50 2QJ, United Kingdom.  You may reach us at
+privacy@delphix.com .
+Footer social
+Facebook
+Linkedin
+Twitter
+Product
+Delphix DataOps Platform
+DataOps Marketplace
+Virtualization
+Data Masking
+Data Access & Control
+Solutions
+CX Transformation
+Test Data Management
+Cloud Data Compliance
+GDPR
+Cloud Migration
+Healthcare
+Financial Services & Banking
+Consumer Goods and Retail
+Insurance
+Telecom
+Company
+About
+Vision
+Leadership
+News
+Blogs
+Careers
+Partners
+Resources
+Customers
+Webinars
+White Papers
+Solutions Briefs
+Data Sheets
+Events
+Support
+Community
+Support
+Product Documentation
+Knowledge Base
+Footer menu
+Privacy Policy
+Terms of Use
+Legal
+Cookie Policy
+security@delphix.com
+© 2020 Delphix

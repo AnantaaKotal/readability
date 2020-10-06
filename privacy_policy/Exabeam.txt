@@ -1,0 +1,397 @@
+Privacy Policy - Exabeam
+Product
+Advanced Analytics Modern threat detection using behavioral modeling and machine learning.
+Cloud Connectors Reliably collect logs from over 40 cloud services into Exabeam or any other SIEM to enhance your cloud security.
+Data Lake Unlimited collection and secure data storage without volume-based pricing.
+Entity Analytics Behavioral Analytics for Internet-Connected Devices to complete your UEBA solution.
+Incident Responder Add automation and orchestration to your SOC to make your cyber security incident response team more productive.
+SaaS Cloud Security operations without the operational overhead.
+Threat Hunter Point and click search for efficient threat hunting.
+Threat Intelligence Service Uncover potential threats in your environment with real-time insight into indicators of compromise (IOC) and malicious hosts.
+About
+About Us
+Newsroom
+Analyst Corner
+Partners
+Support
+Exabeam Community
+Careers
+Blog
+Blog
+Information Security
+SIEM
+UEBA
+Security Operations Center
+DLP
+Incident Response
+Library
+Library
+Case Studies
+Research Reports
+Webinars
+White Papers
+Data Sheets
+Podcasts
+SIEM Guide
+Contact
+Get a Demo
+Quick Links
+2020 Gartner Magic Quadrant for SIEM
+ESG Lab Review for Exabeam
+Management Team and Board of Directors
+Community
+SIEM Cost Comparision
+Exabeam SIEM
+Threat Detection
+Insider Threats
+Cloud Security
+Federal
+Get a Demo
+Product
+Advanced Analytics Modern threat detection using behavioral modeling and machine learning.
+Cloud Connectors Reliably collect logs from over 40 cloud services into Exabeam or any other SIEM to enhance your cloud security.
+Data Lake Unlimited collection and secure data storage without volume-based pricing.
+Entity Analytics Behavioral Analytics for Internet-Connected Devices to complete your UEBA solution.
+Incident Responder Add automation and orchestration to your SOC to make your cyber security incident response team more productive.
+SaaS Cloud Security operations without the operational overhead.
+Threat Hunter Point and click search for efficient threat hunting.
+Threat Intelligence Service Uncover potential threats in your environment with real-time insight into indicators of compromise (IOC) and malicious hosts.
+About
+About Us
+Newsroom
+Analyst Corner
+Partners
+Support
+Exabeam Community
+Careers
+Blog
+Blog
+Information Security
+SIEM
+UEBA
+Security Operations Center
+DLP
+Incident Response
+Library
+Library
+Case Studies
+Research Reports
+Webinars
+White Papers
+Data Sheets
+Podcasts
+SIEM Guide
+Contact
+Get a Demo
+1.844.EXABEAM
+info@exabeam.com
+Privacy Policy
+This Privacy Policy was last updated on
+April 7, 2020
+Our policy
+Welcome to the website (the  Site ) of Exabeam, Inc. ( Exabeam , we, us and/or our).
+This Site is operated by Exabeam and has been created to provide information about our company, our products and the related Exabeam services (together with the Site, the  Services ) to our visitors (you and/or your).
+The purpose of this Privacy Policy is to provide you with a clear understanding of the information we collect, how we will use it and the rights that you have.
+For customers of Exabeam, further details may be described in your customer contract.
+Also, notices highlighting certain uses we wish to make of the information we collect together with the ability to opt in or out of selected uses may also be provided at the time we collect the information from you.
+CONTENT
+Here is an outline of the Privacy Policy content that follows:
+Information We Collect
+How We Use Your Information
+How Long We Retain Your Information
+Your Rights
+Exclusions
+Links to Other Websites
+Do We Use Cookies?
+Data Security
+Children & the COPPA (Children Online Privacy Protection Act)
+California Online Privacy Protection Act
+Privacy Shield
+CAN SPAM Act
+Terms of Services
+Changes to Exabeams Privacy Policy
+Contacting Exabeam
+Last Updated
+Information We Collect
+The information we collect includes personally identifiable data that we receive from visitors to the Site and users of our Services, which includes information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context ( Personal Data ).
+For example, details such as your name, email address, mailing address, phone number, title and even IP address might be collected to the extent permitted by local laws.
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy.
+If you provide Personal Data to the Site or Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Exabeam as well as third parties that may be located in the United States.
+You can visit the Site without providing any Personal Data.
+If you choose not to provide any Personal Data, you may not be able to use certain portions of the Site or Services.
+Personal Data:
+We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access areas of the Site or use the Services.
+Whenever and wherever Exabeam collects Personal Data, you should see a link to this Privacy Policy.
+Non-Identifiable Data:
+When you interact with Exabeam through the Site or Services, we receive and store certain personally non-identifiable data.
+Such data, which is collected passively using various technologies, cannot presently be used to specifically identify you.
+Exabeam may store such data itself or such data may be included in databases owned and maintained by Exabeam affiliates, agents or service providers.
+As part of the Services, we may pool this data and use it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors Internet service providers.
+It is important to note that no Personal Data is available or used in this process.
+Aggregated Personal Data:
+In an ongoing effort to better understand and serve the users of the Site and Services, Exabeam often conducts research on its customer demographics, interests and behavior based on Personal Data and other information provided to us.
+This research may be compiled and analyzed on an aggregate basis, and Exabeam may share this aggregate data with its affiliates, agents and business partners.
+This aggregate information does not identify you personally.
+Exabeam may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+Third Party Analytics:
+We may allow third-party service providers to use cookies or similar technologies to collect information, which may include Personal Data, about you or your browsing activities on our Site or over time and across different websites following your use of the Services.
+For example, we use Google Analytics, a web analytics service provided by Google, Inc. (Google).
+Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Service.
+Users can set preferences for how Google advertises to you using the Google Ad Settings page.
+Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+For more information on how Google uses this data, go to
+http://www.google.com/policies/privacy/partners/ .
+HOW WE USE YOUR INFORMATION
+Exabeam is not in the business of selling your information.
+We consider this information to be a vital part of our relationship with you.
+Any use of your information by Exabeam must be justified in accordance with the following legal grounds:
+Consent:
+You have consented to our use of your information.
+Requirements include that the consent must be clear, affirmative and freely given.
+Contract Performance:
+Use of the information is necessary to enter into or perform an Exabeam contract with you.
+Legal Obligation:
+Exabeams use of your information is for compliance with our legal obligations.
+Legitimate Interests:
+Your information is used to achieve a legitimate interest and our reasons for using it outweigh any prejudice to your data protection rights.
+Legal Claims:
+Use of your information is necessary for us to defend, prosecute or make a claim against you, us or a third party.
+We may use the information we collect from you in the following ways to:
+Personalize your experience and to allow us to deliver the type of Services and product offerings in which you are most interested;
+Improve our Site to better serve you;
+Allow us to better respond to customer service requests;
+Administer a contest, promotion, survey or other Site feature;
+Quickly process your transactions;
+Ask for ratings and reviews of the Site, Services or products; and
+Follow up with you after correspondence (live chat, email or phone inquiries).
+There are, however, certain circumstances in which we may share your Personal Data with certain third parties or transfer your Personal Data without further notice to you, as set forth below:
+Business Transfers:
+As we develop our business, we might sell or buy businesses or assets.
+In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
+Related Companies:
+We may share your Personal Data with affiliated companies, such as subsidiaries, for purposes consistent with this Privacy Policy.
+Agents, Consultants and Related Third Parties:
+Exabeam, like many businesses, sometimes hires other companies to perform certain business-related functions.
+Examples of such functions include mailing information, maintaining databases and processing payments.
+When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+Legal Requirements:
+Exabeam may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to: (i) comply with a legal obligation, (ii) protect and defend the rights or property of Exabeam, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
+Marketing:
+In relation to Direct Marketing, where we are required to do so, we will obtain your consent before using your Personal Data for this purpose.
+If you prefer not to receive our Direct Marketing communications and/or not have your Personal Data shared the purpose of marketing, you can contact us to have your Personal Data erased from our Direct Marketing lists.
+Direct Marketing means our communication with you such as mail, telemarketing or email, using your Personal Data, to inform you about products and Services that we think may be of interest and value to you.
+This does not include communications regarding products or Services that you currently have, including improved ways to use the products, or additional features of the products as well as transactional information.
+Channel Partners:
+YIn some cases, a distributor or reseller who is part of Exabeams network of channel partners may assist us to deliver products and Services.
+Exabeam may share your Personal Data with its approved channel partners so that they may follow up with you after correspondence (live chat, email or phone inquiries).
+Transfers outside of the EEA:
+Your Personal Data may be accessed, transferred or stored by staff, partners or other persons outside the European Economic Area (EEA), and these locations may have data protection laws of a lower standard than in the EEA.
+We will, in all circumstances, safeguard Personal Data as set out in this Privacy Policy.
+Where we transfer Personal Data from inside the EEA to outside the EEA, we may be required to take specific additional measures to safeguard the relevant Personal Data.
+Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections to EEA data protection laws and therefore no additional safeguards are required to export Personal Data to these jurisdictions.
+In countries which have not had these approvals, we will establish legal grounds justifying such transfer, such as EU Commission-approved model contractual clauses, or other legal grounds permitted by applicable legal requirements.
+For a listing of countries and rules applicable to each, please visit
+https://ec.europa.eu/info/law/law-topic/data-protection_en .
+HOW LONG WE RETAIN YOUR INFORMATION
+Our retention periods for Personal Data are based on business needs and legal requirements.
+We retain your Personal Data for as long as is necessary for the processing purpose(s) for which the information was collected, and any other permissible, related purpose.
+For example, we may retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired, or to comply with regulatory requirements regarding the retention of such data.
+When Personal Data is no longer needed, we either irreversibly anonymize the Personal Data (and we may further retain and use the anonymized information) or securely destroy the Personal Data.
+YOUR RIGHTS
+If you have any questions in relation to our use of your Personal Data, you should first contact us as per the Contacting Exabeam section below.
+Under certain conditions, you may have the right to require us to:
+Provide you with further details on the use we make of your Personal Data;
+Provide you with a copy of information that you have provided to us;
+Update any inaccuracies in the Personal Data we hold;
+Delete any Personal Data the we no longer have a lawful ground to use;
+Where processing is based on consent, to withdraw your consent so that we stop that processing;
+Object to any processing based on the legitimate interests ground unless our reasons for undertaking that processing outweigh any prejudice to your data protection rights; and
+Restrict how we use your information while a complaint is being investigated.
+Your exercise of these rights is subject to certain exemptions to safeguard the public interest (e.g. the prevention or detection of crime) and our interests (e.g. the maintenance of legal privilege).
+If you exercise any of these rights, then we will check your entitlement and respond in most cases within a month.
+EXCLUSIONS
+This Privacy Policy does not apply to any Personal Data collected by Exabeam other than Personal Data collected through the Sites or Services.
+This Privacy Policy shall not apply to any unsolicited information you provide to Exabeam through the Site or Services or through any other means.
+This includes, but is not limited to, information posted to any public areas of the Site or Services, such as forums, any ideas for new products or modifications to existing products or Services, and other unsolicited submissions (collectively, Unsolicited Information).
+All Unsolicited Information shall be deemed to be non-confidential and Exabeam shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+LINKS TO OTHER WEBSITES
+This Privacy Policy applies ONLY to the Site and Services.
+The Services may contain links to other websites not operated or controlled by Exabeam (the Third-Party Sites).
+The rights and obligations we describe do NOT apply to the Third-Party Sites.
+The Third-Party Sites will have their own privacy policies for collecting and processing your Personal Data, and we urge you to check these policies before you submit Personal Data to the Third-Party Sites.
+Please understand that links from the Site or Services do not imply that Exabeam endorses or has reviewed the Third-Party Sites, and we do not accept any responsibility or liability for your use of the Third-Party Sites.
+DO WE USE COOKIES?
+Yes.
+Cookies are small files that our Site and Service transfers to your computer through your web browser (if you allow) that enables the us to recognize your computer and capture and remember certain information.
+They are also used to help us understand your preferences based on previous or current Site activity, which enables us to provide you with improved Services.
+We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies.
+You do this through your browser settings.
+Since each browser is a little different, look at your browsers Help Menu to learn the correct way to modify your cookies.
+If you do disable cookies, it will turn off some of the features of the Site.
+DATA SECURITY
+Exabeam maintains electronic, physical and procedural safeguards so that we meet or exceed the applicable privacy regulations for the protection of Personal Data provided via the Services from loss, misuse, unauthorized access, disclosure, alteration or destruction.
+The Site is scanned on a regular basis for security holes and known vulnerabilities, which includes scanning for malware, to make your visit safe. Personal Data is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and are required to keep the information confidential. In addition, Exabeam utilizes Transport Layer Security (TSL, which used to be known as SSL) technology across the Site.
+Exabeam will NEVER ask anyone for a password to be sent separately or in clear text. Anyone making such a request is probably trying to gain access to something that does not belong to them. If you ever receive such a request, please contact Exabeam (dpo@exabeam.com).
+However, no Internet or email transmission is ever fully secure or error free.
+Therefore, you should take special care in deciding what information you send to us via email.
+Please keep this in mind when disclosing any Personal Data to Exabeam via the Internet.
+CHILDREN & THE COPPA (Children Online Privacy Protection Act)
+When it comes to the collection of personal information from children under the age of 13 years old, the Childrens Online Privacy Protection Act (COPPA) puts parents in control.
+The Federal Trade Commission, United States consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect childrens privacy and safety online.
+Exabeam does not knowingly collect Personal Data from children under the age of 13.
+If you are under the age of 13, please do not submit any Personal Data through the Services.
+We encourage parents and legal guardians to monitor their childrens Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data without their permission.
+If you have reason to believe that a child under the age of 13 has provided Personal Data to Exabeam through the Site or Services, please contact us, and we will work with you to erase that information from our databases.
+CALIFORNIA ONLINE PRIVACY PROTECTION ACT
+CalOPPA was the first state law in the nation to require commercial websites and online services to post a privacy policy.
+The laws reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personal Data from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared.
+In compliance with CalOPPA, we agree to the following:
+Users can visit our site anonymously.
+We have a link to this Privacy Policy on our home page.
+Our Privacy Policy link includes the word Privacy and can easily be found on the page specified above.
+We will provide a notification of any Privacy Policy changes on our Privacy Policy page by revising the Last Updated date.
+You can change your Personal Data by emailing us.
+For more information, please visit
+http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+PRIVACY SHEILD
+Exabeam complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Exabeam has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification, please
+visit:
+https://www.privacyshield.gov/ .
+Exabeam is responsible for the processing of Personal Information it received, under the Privacy Shield Framework, or subsequently transfers to a third party acting as an agent on its behalf. Exabeam complies with the Privacy Sheild Principles for all onward transfers of Personal information from the EU and Switzerland.
+In compliance with the Privacy Shield Principles, Exabeam commits to resolve complaints about our collection or use of your personal information.
+EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Exabeam at: dpo@exabeam.com
+Exabeam has further committed to refer unresolved Privacy Shield complaints to the Data Protection Commission, the EU-data protection authority located in Ireland. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit:
+https://www.dataprotection.ie/
+for more information or to file a complaint.
+Under limited circumstances, EU and Swiss individuals with privacy complaints may invoke a binding arbitration option.
+CAN SPAM Act
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+We collect your email address to:
+Send information, respond to inquiries, and/or other requests or questions;
+Process orders and to send information and updates pertaining to orders;
+Send you additional information related to our products and/or Service; and
+Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+To be in accordance with CANSPAM, we agree to the following:
+Not use false or misleading subjects or email addresses
+Identify the message as an advertisement in some reasonable way;
+Include the physical address of our business or site headquarters;
+Monitor third-party email marketing services for compliance, if one is used;
+Honor opt-out/unsubscribe requests quickly; and
+Allow users to unsubscribe by using the link at the bottom of each email.
+TERMS OF SERVICES
+Your access to and use of the Site and Services is subject to the Terms of Service at
+www.exabeam.com/terms-and-conditions .
+CHANGES TO EXABEAMS PRIVACY POLICY
+The Services and our business may change from time to time.
+As a result, Exabeam may make changes to this Privacy Policy.
+Exabeam reserves the right to update or modify this Privacy Policy at any time without prior notice.
+Please review this policy periodically, and especially before you provide any Personal Data.
+This Privacy Policy was last updated on the date indicated at end.
+Your continued use of the Site or Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+CONTACTING EXABEAM
+If you have any questions about your Personal Data, then please contact us as specified below.
+We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site or Services.
+Please also feel free to contact us if you have any questions about Exabeams Privacy Policy or the information practices of the Services.
+You may contact us as follows:
+Attn:
+Data Protection Officer
+Exabeam, Inc.
+1051 E Hillsdale Boulevard, 4th Floor
+Foster City, CA 94404
+dpo@exabeam.com
+LAST UPDATED
+This Privacy Policy was last updated on April 7, 2020.
+This website uses cookies.
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that youve provided to them or that theyve collected from your use of their services. You consent to our cookies if you continue to use our website. Please refer to our
+Privacy Policy
+for more information. This message only appears once.
+Accept
+Product
+Exabeam Advanced Analytics
+Exabeam Cloud Connectors
+Exabeam Data Lake
+Exabeam Entity Analytics
+Exabeam Incident Responder
+Exabeam Threat Hunter
+Exabeam Threat Intelligence Service
+Exabeam Cloud Platform
+Cloud Deployment Options
+Partners
+Resellers
+Services Partners
+Technology Alliances
+Solutions
+Compliance
+Threat Detection
+Cloud Security
+IoT Monitoring
+SOC Automation
+Federal Solutions
+State and Local Solutions
+About
+Media Kit
+Support
+Exabeam Community
+Careers
+Learn
+Library
+Newsroom
+Glossary
+SIEM Cost Comparison
+Exabeam vs Competitors
+Analyst Corner
+Blog
+Information Security
+SIEM
+UEBA
+Security Operations Center
+DLP
+Incident Response
+SIEM Guide
+What is SIEM?
+SIEM Architecture
+Events and Logs
+UEBA
+SIEM Use Cases
+SIEM Analytics
+The SOC, SecOps and SIEM
+Incident Response and Automation
+SIEM Buyers Guide
+SIEM Essentials Quiz
+SIEM Concepts
+Contact
+1051 E. Hillsdale Blvd. 4th Floor
+Foster City, CA 94404
+1.844.EXABEAM
+info@exabeam.com
+© 2020 Exabeam
+Terms and Conditions
+
+Privacy Policy
+
+Ethical Trading Policy
+
+Sitemap
+The Exabeam security management platform
+Built on advanced data science, deep security expertise, and proven open source big data solutions.
+Product Overview
+Data Sources and Integrations
+Cloud Deployment Options
+Exabeam Cloud Platform
+Pricing and Quote Request
+Exabeam Solutions
+Exabeam Cloud Platform
+Exabeam Launches Cloud Platform at RSAC 2020 to Extend its SIEM Solution with New Applications, Tools and Content
+Learn More
+2020 Gartner Magic Quadrant for SIEM
+Exabeam named leader
+Learn More
+Securing Your Remote Workforce, Part 1: Detecting Phishing Scams Disguised as Updates
+Learn More
+2020 GARTNER MAGIC QUADRANT FOR SIEM
+Exabeam Named Leader
+Read the Report
+X

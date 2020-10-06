@@ -1,0 +1,142 @@
+Terms of Use   Illumio
+Skip to main content
+Blog
+ 
+Contact Sales
+Solutions
+Zero Trust
+Operationalize Zero Trust
+Industries
+Financial Institutions
+Law Firms
+Retail/PCI
+Federal
+Airlines
+Healthcare
+Compliance & Risk
+SWIFT
+PCI
+Cloud
+Amazon Web Services
+Microsoft Azure
+Google Cloud Platform
+OpenStack
+Multi-Cloud
+Initiatives
+Container Segmentation
+Environmental Separation
+Application Segmentation
+Securing Application Migration
+User Segmentation
+Encrypting Data in Motion
+Securing Microsoft Applications
+Secure a New Data Center
+Product
+Architecture
+Overview
+Adaptive Security Platform (ASP)
+Virtual Enforcement Node (VEN)
+Policy Compute Engine (PCE)
+Features
+Illumination
+Policy Generator
+Explorer
+SecureConnect
+Vulnerability Maps
+Segmentation Templates
+Learn More
+Documentation
+Integrations
+FAQ
+Firewalls TCO Calculator
+Certifications
+Customers
+OVERVIEW
+Customer Stories
+Baillie Gifford
+Ixom
+Creative Artists Agency
+Oracle NetSuite
+Plantronics
+Experience Illumio
+The Illumio Adaptive Security Platform ®
+(ASP) provides comprehensive visibility, security, and encryption for the enterprise.
+Request a Live Demo
+Partners
+Technology Partners
+All Partners
+Business Partners
+Partner Inquiry
+Illumio works with leading technology and business partners. Ready to join us?
+Become a Partner
+New: Partner Portal
+Log In To Partner Portal
+Resources
+Support
+News & Events
+News
+News Articles
+News Releases
+Videos
+Podcasts
+Awards
+Events
+Live Events
+On-Demand Webinars
+Media Kit
+All media resources available in a single kit.
+Download Media Kit
+Company
+What We Do
+Forbes Named Illumio Best Private Cloud Company
+Management
+Board of Directors
+Investors
+Careers
+#teamillumio
+Interns & New Grads
+See All Illumio Openings
+TRY ILLUMIO FREE
+Website Terms of Use
+These Terms of Use (together with the additional terms referred to below) govern your use of this website
+www.illumio.com
+(the
+Site ). Use of the Site includes accessing, browsing, registering and downloading. Please read the Terms of Use carefully, before you start to use the Site. By continuing to use the Site you agree to be bound by the Terms of Use and, where appropriate any other terms or conditions, guidelines or rules applicable to the products and services herein. If you do not agree with any of the Terms of Use, you must not continue to use the Site.
+These Terms of Use refer to the following additional terms, which also apply to the use of the Site: (a) the privacy policy, available at
+https://www.illumio.com/privacy-policy , which sets out the terms upon which we may process any personal data we collect from you, or that is provided by you; and (b) the master subscription agreement, available at
+https://www.illumio.com/eula .
+We may revise these Terms of Use at any time by amending this page. You should check this page from time to time to take notice of any changes that we make; as such changes will be binding upon you. No notice of any changes shall be given. We may update the Site from time to time, and may change the content at any time. We do not guarantee that our Site or any content on it will be free from errors or omissions. We make no promise that the Site will always be maintained with the same DNS names, IP addresses, authentication methods or URLs, or that it will always be available and uninterrupted.
+You are responsible for ensuring that all persons who access the Site through your internet connection are aware of these Terms of Use and the other applicable terms and conditions/policies mentioned, and comply with them.  These Terms of Use apply to you, related to any use of the Site from your internet connection, regardless of the user.
+Should you choose or be provided with a user identification code, password or any other piece of information as part of our security, purchasing or downloading procedures, you must treat such information as confidential. Such information should not be disclosed to any third party. We reserve the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time and without prior notice, if in our reasonable opinion you have failed to comply with any of the provisions of these Terms of Use. If you know or suspect that anyone other than you knows your user identification code and password you should immediately change your password.
+All content, software, data and intellectual property rights, including but not limited to all know how, concepts and logic found on or relating to the Site is the property of Illumio, Inc. or its licensors. None of the software, data or content found on the Site may be reproduced, republished, distributed, posted, sold, transferred or modified in any way without our prior express written permission. All intellectual property including but not limited to trademarks, logos and service marks displayed on the Site is registered by Illumio and protected throughout the world. No license, right or interest in any Illumio intellectual property is granted to you. You may print off reasonable copies of any page(s) from the Site for your own personal use and you may draw the attention of other users within your organization to content posted on the Site.  You may quote short portions of content on the Site, provided that (i) you credit Illumio at the end of such quote, and (ii) if you publish the quote on a website, you include an attribution link to
+www.illumio.com
+from within such article. You may not copy substantial portions of the content of an article or webpage on the Site or copy same in their entirety.  Should you wish to make use of any of the content on the Site other than as expressly permitted above, please contact
+legal@illumio.com
+for permission prior to any such use.
+The opinions expressed by Illumio employees on the community site or help forums are the individual's own and do not represent or necessarily correspond to the opinions of Illumio. We will not be responsible for any direct or indirect damages or losses caused or alleged to have been caused as a result of your use or reliance on such information.
+Nothing in these Terms of Use shall exclude or limit our liability for death or personal injury arising from our negligence, fraud or fraudulent misrepresentation, or any other liability which cannot be limited or excluded by law. To the maximum extent permitted by law we provide the Site without warranties, guarantees or representations. We assume no responsibility and shall not be liable for any loss or damage which may affect your computer equipment or other equipment/property arising out of your use of, access to or browsing of the Site. We will not be liable to any user of the Site for any loss or damage, whether in contract, tort (including but not limited to negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with including (but not limited to) the following: (a) any use of this Site or content found therein; (b) any failure or delay (including but not limited to) the use of or inability to use any component of the Site and any errors or interruptions of the Site; (c) the performance or non-performance by Illumio; (d) unsuitability, unreliability or inaccuracy of the Site; (e) inadequacy of the Site to meet your requirements; (f) incompatibility of the Site with any of your equipment, software or telecommunications links; (g) the provision of or failure to provide services; or (h) any information, software, products, services and related graphics obtained through the Site. In addition to the above exclusions, if you are a business user, please note that in particular, we will not be liable for any indirect losses however so arising. You agree not to use the Site for any commercial or business purposes, and acknowledge that we have no liability to you for any loss of profit, loss of business, business interruption or loss of business opportunity. Different limitations and exclusions of liability shall apply arising out of the supply of any product or services purchased, trialed or downloaded by you, which will be set out in the terms and conditions applicable to the particular purchase, trial or download.
+Whenever you make use of a feature that allows you to upload content to the Site, or to make contact with other users of the Site you agree that your use and the content you upload shall not: (a) breach any applicable local, national or international law or regulation; (b) be unlawful or fraudulent, or have any unlawful or fraudulent purpose; (c) be for the purpose of harming or attempting to harm minors in any way; (d) transmit, or procure the sending of, any unsolicited or unauthorized advertising or promotional material or any other form of similar solicitation; (e) knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware; (f) disseminate any unlawful, harassing, libelous, abusive, threatening, harmful, vulgar, pornographic, obscene or otherwise objectionable material; (g) attempt to gain access to other computer systems; (h) interfere with anyone elses enjoyment of the Site; or (i) interfere with or disrupt networks or websites connected to the Site.
+All content you upload to the Site shall be considered non-confidential and non-proprietary. You retain all ownership rights in your content, but you are required to grant us (and other users of the Site) license to use, store and copy that content and to distribute and make it available to third parties. We reserve the right to disclose your identity to any third party who claims that any content posted or uploaded by you to the Site constitutes a violation of their intellectual property rights or of their right to privacy. We accept no responsibility, or liability to any third party, for the content or accuracy of any content posted by you or any other user of the Site. We reserve the right to remove any posting you make on the Site if, in our sole opinion, your post does not comply with these Terms of Use. You further agree not to reproduce, duplicate, copy or re-sell any part of the Site; not to access without authority, interfere with, damage or disrupt any part of the Site, any software used in the provision of the Site or any equipment or network or software owned or used by any third party.
+You warrant that your access to and use of the Site is and will remain in accordance with all applicable laws and regulations. You shall hold harmless, defend and fully indemnify us against any claims, proceedings, damages, costs, expenses or liabilities whatsoever arising out of or relating to your use of the Site.
+You may link to our home page, provided that you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in any such way that suggests a form of association, approval or endorsement with or by Illumio where none exists. You must not establish a link to the Site in any website that does not belong to you. The Site must not be framed on any other site, nor may you create a link to any part of our Site other than the home page. Illumio reserves the right to withdraw linking permissions at any time and without notice. The website in which you are linking must comply with these Terms of Use in all respects. Should you wish to make use of any of the content on the Site other than that which is set out above, please contact
+legal@illumio.com . Where our Site contains links to other sites and resources provided by third parties, these links are provided for your information only. You acknowledge that we have no control over the content of those sites or resources.
+These Terms of Use, their subject matter and construction (and any non-contractual disputes or claims) are governed by the laws of the State of California and you agree to the exclusive jurisdiction of the courts located in Santa Clara County, California. We reserve the right to seek injunctive, or any other equitable relief, in any courts of competent jurisdiction should we, in our sole opinion, consider this to be necessary.
+SOLUTIONS
+PRODUCT
+CUSTOMERS
+PARTNERS
+COMPANY
+CAREERS
+REQUEST DEMO
+CONTACT US
+BLOG
+ILLUMIO LABS
+RESPONSIBLE DISCLOSURE
+FOLLOW US:
+© 2020 Illumio 920 De Guigne Drive, Sunnyvale, CA 94085
+Contact
+Legal
+Privacy
+Terms of Use
+Trust
+Sitemap

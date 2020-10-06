@@ -1,0 +1,118 @@
+Terms of Use - Netskope
+This website uses cookies for advertising and analytics purposes as described in our cookie policy. For more information and to set preferences, please
+click here . By continuing to browse this website, you accept our use of cookies.
+×
+×
+Search
+Language
+English
+Français
+
+Español
+Contact us
+Why Netskope Why Netskope Reimagine
+your perimeter Why Netskope? Only proven cloud security platform that is data-centric, cloud-smart, and as fast as your business. Data-Centric Netskope takes a data-centric approach to cloud security, following data everywhere it goes.
+Cloud-smart Netskope enables you to take advantage of our intimate, contextual understanding of the cloud to secure the cloud and web. Fast Netskope delivers real-time, cloud-native security, without the traditional performance trade-off. Our customers Our customers trust us to protect their data and users everywhere they go. Case studies Learn how Netskope customers are reimagining their perimeter.
+Products & Services Products & Services Netskope Platform Data-centric, cloud-smart, and fast. So you can reimagine your perimeter. Cloud native Cloud XD Deployment options NewEdge Technology integrations Truly unified Products & Services Our products and services help you secure your digital transformation journey every step of the way.
+Cloud Access Security Broker (CASB) Next Gen Secure Web Gateway (SWG) Private Access Public Cloud Security Services Professional Services Customer Success Training Support Capabilities Unrivaled visibility and real-time data and threat protection anywhere, on any device. Adaptive access control Cloud encryption Data protection Deployment options SSL/TLS inspection Third-party risk Threat protection Web content filtering Zero Trust Network Access
+Solutions Solutions Secure the cloud, web & private apps Protect users and data anywhere, on any device. Office 365 Managed cloud applications Unmanaged cloud AWS, Azure, & GCP Securing Remote Workers Modernize your security program Improve efficiency and performance for todays cloud- and mobile world. Data protection Threat protection Compliance Efficiency Performance Upgrade your security stack Upgrade your existing tools with modern functionality architected for todays world. Virtual Private Networks (VPNs) Secure web gateway (SWG) SSL decryption appliances First-generation CASB Industries Netskope helps the largest enterprises in the world secure their journey to the cloud. Financial Services & Insurance Government Healthcare & Life Sciences High-Technology Manufacturing Retail & Hospitality See more industries
+Resources Resources SASE Adoption Guide Get the guide Resource library Learn more about how Netskope can help you secure your journey to the cloud. Analyst reports Case studies Data sheets Demos & videos Ebooks Events Reports & guides Solution briefs On-demand webinars White papers Blog Read more about how Netskope is reimagining the perimeter. Behind the scenes Cloud architecture Data protection News & announcements Private access Security transformation Threat protection Threat Research Labs
+Company Company About Netskope We're redefining cloud, network, and data security. Leadership Our leadership team is fiercely committed to doing everything it takes to make our customers successful. Security & Assurance We take our responsibility to protect our users information and the services we provide to them very seriously. Netskope Threat Labs The Netskope Threat Labs discovers, analyzes, and designs defenses against the latest cloud threats affecting enterprises. Awards Careers Contact us Customers Events Executive briefing program Press releases Partners We partner with leaders across the security industry to help customers secure their journey to the cloud. Partner portal Solution providers Technology partners
+Request demo
+Search
+×
+Language
+English
+Français
+
+Español
+Contact us
+Why Netskope Why Netskope Reimagine
+your perimeter Why Netskope? Only proven cloud security platform that is data-centric, cloud-smart, and as fast as your business. Data-Centric Netskope takes a data-centric approach to cloud security, following data everywhere it goes.
+Cloud-smart Netskope enables you to take advantage of our intimate, contextual understanding of the cloud to secure the cloud and web. Fast Netskope delivers real-time, cloud-native security, without the traditional performance trade-off. Our customers Our customers trust us to protect their data and users everywhere they go. Case studies Learn how Netskope customers are reimagining their perimeter.
+Products & Services Products & Services Netskope Platform Data-centric, cloud-smart, and fast. So you can reimagine your perimeter. Cloud native Cloud XD Deployment options NewEdge Technology integrations Truly unified Products & Services Our products and services help you secure your digital transformation journey every step of the way.
+Cloud Access Security Broker (CASB) Next Gen Secure Web Gateway (SWG) Private Access Public Cloud Security Services Professional Services Customer Success Training Support Capabilities Unrivaled visibility and real-time data and threat protection anywhere, on any device. Adaptive access control Cloud encryption Data protection Deployment options SSL/TLS inspection Third-party risk Threat protection Web content filtering Zero Trust Network Access
+Solutions Solutions Secure the cloud, web & private apps Protect users and data anywhere, on any device. Office 365 Managed cloud applications Unmanaged cloud AWS, Azure, & GCP Securing Remote Workers Modernize your security program Improve efficiency and performance for todays cloud- and mobile world. Data protection Threat protection Compliance Efficiency Performance Upgrade your security stack Upgrade your existing tools with modern functionality architected for todays world. Virtual Private Networks (VPNs) Secure web gateway (SWG) SSL decryption appliances First-generation CASB Industries Netskope helps the largest enterprises in the world secure their journey to the cloud. Financial Services & Insurance Government Healthcare & Life Sciences High-Technology Manufacturing Retail & Hospitality See more industries
+Resources Resources SASE Adoption Guide Get the guide Resource library Learn more about how Netskope can help you secure your journey to the cloud. Analyst reports Case studies Data sheets Demos & videos Ebooks Events Reports & guides Solution briefs On-demand webinars White papers Blog Read more about how Netskope is reimagining the perimeter. Behind the scenes Cloud architecture Data protection News & announcements Private access Security transformation Threat protection Threat Research Labs
+Company Company About Netskope We're redefining cloud, network, and data security. Leadership Our leadership team is fiercely committed to doing everything it takes to make our customers successful. Security & Assurance We take our responsibility to protect our users information and the services we provide to them very seriously. Netskope Threat Labs The Netskope Threat Labs discovers, analyzes, and designs defenses against the latest cloud threats affecting enterprises. Awards Careers Contact us Customers Events Executive briefing program Press releases Partners We partner with leaders across the security industry to help customers secure their journey to the cloud. Partner portal Solution providers Technology partners
+Request demo
+Legal Notices and Terms of Use
+Welcome to the Netskope, Inc. (Netskope) Web site (the Web Site). Please review the following notices, terms and conditions concerning your use of the Web Site. By accessing, using or downloading any materials from the Web Site, you agree to follow and be bound by these notices, terms and conditions (the Terms). If you do not agree with these Terms, please do not use this Web Site.
+General Use Provisions
+All materials provided on this Web Site, including but not limited to information, documents, products, logos, graphics, sounds, images, software, and services (Materials), are provided either by Netskope or by third party manufacturers, authors, developers and vendors (Third Party Providers) and are the copyrighted work of Netskope and/or its Third Party Providers. Except as stated herein, none of the Materials may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means, including but not limited to electronic, mechanical, photocopying, recording, or other means, without the prior express written permission of Netskope. Also, you may not mirror any Materials contained on this Web Site on any other server without Netskopes prior express written permission.
+Except where expressly provided otherwise by Netskope, nothing on this Web Site shall be construed to confer any license offer for license or sale under any of Netskopes or any Third Party Providers intellectual property rights, whether by estoppel, implication, or otherwise. You acknowledge sole responsibility for obtaining any such licenses. See the Legal Contact Information below if you have any questions about obtaining such licenses. Materials provided by Third Party Providers have not been independently reviewed, tested, certified, or authenticated in whole or in part by Netskope and as such, Netskope makes no warranty with respect to the contents of such Materials, including non-infringement of intellectual property rights. Netskope does not provide, sell, license, or lease any of the Materials other than those specifically identified as being provided by Netskope.
+Netskope hereby grants you permission to display, copy, distribute and download Netskopes Materials on this Web Site provided that: (1) both the copyright notice identified below and this permission notice appear in the Materials; (2) the use of such Materials is solely for personal, non-commercial and informational use and will not be copied or posted on any networked computer, broadcast in any media, or used for commercial gain; and (3) the Materials are not modified in any way. This permission terminates automatically without notice if you breach any of these terms or conditions. Upon termination, you will immediately destroy any downloaded or printed Materials.
+Links to Third Party Sites
+This Web site may contain links to web sites controlled by parties other than Netskope. Netskope is not responsible for and does not endorse or accept any responsibility for the contents or use of these third party web sites. Netskope is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Netskope of the linked web site. It is your responsibility to take precautions to ensure that whatever you select for your use is free of viruses or other items of a destructive nature.
+Software Use Restrictions
+Any software that may be made available to access or download from this Web Site (Software) is the copyrighted work of Netskope. Use of the Software is governed by the terms of the  end user license agreement
+that accompanies or is included with the Software (License Agreement). An end user agrees to the License Agreement terms by installing, copying, or using the Software. The Software is made available for downloading solely for use by end users according to the License Agreement. Without limiting the foregoing, the copying or reproduction of the Software to any other server or location for further reproduction or redistribution is expressly prohibited. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited by law, and may result in severe liability and penalties. THE SOFTWARE IS WARRANTED, IF AT ALL, ONLY ACCORDING TO THE TERMS OF THE LICENSE AGREEMENT. EXCEPT AS MAY BE EXPRESSLY WARRANTED IN THE LICENSE AGREEMENT, NETSKOPE HEREBY DISCLAIMS ALL EXPRESS OR IMPLIED REPRESENTATIONS, WARRANTIES, GUARANTIES, AND CONDITIONS WITH REGARD TO THE SOFTWARE, INCLUDING BUT NOT LIMITED TO ANY IMPLIED REPRESENTATIONS, WARRANTIES, GUARANTIES, AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, EXCEPT TO THE EXTENT THAT SUCH DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.
+Restricted Rights Legend
+Any Software which is downloaded or accessed from this Server for or on behalf of the United States of America, its agencies and/or instrumentalities (U.S. Government), is provided with Restricted Rights. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software  Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Netskope, Inc., 2445 Augustine Dr, 3rd floor, Santa Clara, CA 95054.
+Submissions
+Except where expressly provided otherwise by Netskope, all comments, feedback, information or materials submitted to Netskope through or in association with this Web Site (Submissions) shall be considered non-confidential and Netskopes property. By providing such Submissions to Netskope, you agree to assign to Netskope, at no charge, all worldwide rights, title and interest in copyrights and other intellectual property rights to the Submissions. Netskope shall be free to use and/or disseminate such Submissions on an unrestricted basis for any purpose. You acknowledge that you are responsible for the Submissions that you provide, and that you, not Netskope, have full responsibility for the Submissions, including their legality, reliability, appropriateness, originality and copyright.
+Disclaimer
+EXCEPT WHERE EXPRESSLY PROVIDED OTHERWISE BY NETSKOPE, THE MATERIALS ON THE WEB SITE ARE PROVIDED AS IS AND NETSKOPE HEREBY DISCLAIMS ALL EXPRESS OR IMPLIED REPRESENTATIONS, WARRANTIES, GUARANTIES, AND CONDITIONS, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, EXCEPT TO THE EXTENT THAT SUCH DISCLAIMERS ARE HELD TO BE LEGALLY INVALID. NETSKOPE MAKES NO REPRESENTATIONS, WARRANTIES, GUARANTIES, OR CONDITIONS AS TO THE QUALITY, SUITABILITY, TRUTH, ACCURACY, OR COMPLETENESS OF ANY OF THE MATERIALS CONTAINED ON THE WEB SITE.
+Limitation of Liability
+NETSKOPE SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED AS A RESULT OF USING, MODIFYING, CONTRIBUTING, COPYING, DISTRIBUTING, OR DOWNLOADING THE MATERIALS. IN NO EVENT SHALL NETSKOPE BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGE (INCLUDING BUT NOT LIMITED TO LOSS OF BUSINESS, REVENUE, PROFITS, USE, DATA OR OTHER ECONOMIC ADVANTAGE), HOWEVER IT ARISES, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF INFORMATION AVAILABLE FROM THIS WEB SITE, EVEN IF NETSKOPE HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. YOU HAVE SOLE RESPONSIBILITY FOR THE ADEQUATE PROTECTION AND BACKUP OF DATA AND/OR EQUIPMENT USED IN CONNECTION WITH THE WEB SITE AND YOU WILL NOT MAKE A CLAIM AGAINST NETSKOPE FOR LOST DATA, RE-RUN TIME, INACCURATE OUTPUT, WORK DELAYS, OR LOST PROFITS RESULTING FROM THE USE OF THE MATERIALS. YOU AGREE TO HOLD NETSKOPE HARMLESS FROM, AND YOU COVENANT NOT TO SUE NETSKOPE FOR, ANY CLAIMS BASED ON OR RELATED TO THE USE OF THE WEB SITE.
+Local Laws; Export Control
+Netskope controls and operates this Web Site from its headquarters in the United States of America and makes no representation that these Materials are appropriate or available for use in other locations. If you use this Web Site from other locations, you are responsible for compliance with applicable local laws including but not limited to the export and import regulations of other countries. Unless otherwise explicitly stated, all marketing or promotional materials found on this Web Site are solely directed to individuals, companies or other entities located in the United States of America. You acknowledge and agree that Materials are subject to the U.S. Export Administration Laws and Regulations. Diversion of such Materials contrary to U.S. law is prohibited. You agree that none of the Materials, nor any direct product therefrom, is being or will be acquired for, shipped, transferred, or re-exported, directly or indirectly, to proscribed or embargoed countries or their nationals, nor be used for nuclear activities, chemical biological weapons, or missile projects unless authorized by the U.S. Government. Proscribed countries are set forth in the U.S. Export Administration Regulations. Countries subject to U.S. embargo are: Cuba, Iran, Iraq, North Korea, Syria, and the Sudan. This list is subject to change without further notice from Netskope, and you must comply with the list as it exists in fact. You certify that you are not on the U.S. Department of Commerces Denied Persons List or affiliated lists or on the U.S. Department of Treasurys Specially Designated Nationals List. You agree to comply strictly with all U.S. export laws and assume sole responsibility for obtaining licenses to export or re-export as may be required.
+General
+This Web Site may include inaccuracies or typographical errors. Netskope and the Third Party Providers may make improvements and/or changes in the products, services, programs, and prices described in this Web Site at any time without notice. Netskope may periodically make changes to the Web Site. These Terms will be interpreted and governed in accordance with California law and controlling U.S. federal law. No choice of law rules of any jurisdiction will apply. These Terms represent the entire understanding relating to the use of the Web Site and prevail over any prior or contemporaneous, conflicting or additional, communications. Netskope has the right to revise these Terms at any time without notice by updating this posting. Any rights not expressly granted herein are reserved by Netskope.
+Intellectual Property Notices
+Elements of the Web Site are protected by trade dress and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound or image from the Web Site may be copied or retransmitted unless expressly permitted by Netskope.
+Netskope, the Netskope logo, and other Netskope product names referenced herein are trademarks of Netskope, Inc. and/or one of its subsidiaries, and may be registered in the United States Patent and Trademark Office and in other countries. All other product names, company names, marks, logos, and symbols are trademarks of their respective owners.
+Digital Millenium Copyright Act Notice
+Netskope respects the intellectual property rights of others. Netskope may, in appropriate circumstances and at its sole discretion, terminate the access of users who infringe the copyrights or intellectual property rights of others.
+If you believe your work has been copied and is accessible at our web site in a way that constitutes copyright infringement, or that our web site contains links or other references to another online location that contains material or activity that infringes your copyright, you may notify us by providing our copyright agent the information required by the U.S. Online Copyright Infringement Liability Limitation Act of the U.S. Digital Millenium Copyright Act, 17 U.S.C. §512.
+Our agent for notice of claims of copyright infringement related to our products or our web site can be reached as follows:
+By Mail:
+Copyright Agent
+, Legal Department
+, 2445 Augustine Dr, 3rd floor, Santa Clara, CA 95054
+By Email:
+[email protected]
+Privacy
+Personal information submitted to the Web Site is subject to the  Netskope Privacy Policy .
+Legal Contact Information
+If you have any questions about these Terms, or if you would like to request permission to use any Materials, please contact the Netskope Legal Department at  [email protected] .
+© 2017 Netskope, Inc., 2445 Augustine Dr, 3rd floor, Santa Clara, CA 95054 U.S.A.
+All rights reserved.
+Contact Us
+Contact Us
+We'd love to hear from you!
+Explore
+Why Netskope
+Products
+Solutions
+Services
+About Next Gen SWG
+About CASBs
+About Zero Trust
+About SASE
+Resources
+Customer support
+Blog
+Events
+On-demand webinars
+Resource library
+Threat Labs
+Company
+About Netskope
+Careers
+Executive briefing program
+Our customers
+Press releases
+Partners
+Partner portal
+Contact
+Contact Us
+1-800-979-6988
+2445 Augustine Dr., 3rd floor
+Santa Clara, CA 95054
+Gartner Note: The Future of Network Security Is in the Cloud
+Get the report
+Privacy Policy
+Vulnerability Disclosure Policy
+Terms of Use
+© 2020, All rights reserved.

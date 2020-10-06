@@ -1,0 +1,77 @@
+Terms of Use - Collibra Marketplace
+Unsupported Screen Size: The viewport size is too small for the theme to render properly.
+Skip to content
+Collibra Marketplace
+Collibra Marketplace
+Explore
+Collibra.com
+Community
+University
+Developer Portal
+Login
+Register
+Sign In
+Search for:
+Find a partner
+FAQ
+Register
+Sign In
+Log out
+Dashboard
+Your List
+Notifications
+See all notifications
+Log out
+Explore
+Category
+Admin & Developer Tool Integration Collibra Connect Integration Tool JDBC Driver Native Integration Reporting & BI Template Standalone App UI Addon Workflow
+Use Case
+BI & Analytics Data Protection & Compliance Enterprise Data Governance Data Lineage Data Quality Master Data Management Metadata Management Reference Data Management
+Type
+Certified
+Vendor Supported
+Free
+Paid
+Terms of Use
+Date of Last Revision: January 14, 2019
+Access and use of the Collibra N.V. (Collibra, we, us, our) Marketplace website located at  https://marketplace.collibra.com/  (the Site) are subject to the following Terms of Use (as amended from time to time, the Terms of Use).  We reserve the right, at our sole discretion, to change or modify portions of these Terms of Use at any time without further notice. You should periodically visit this page to review the current Terms of Use so you are aware of any revision to which you are bound.  If we do this, we will post the changes to these Terms of Use on this page and will indicate at the top of this page the date these terms were last revised. Your continued use of the Site after any such changes constitutes your acceptance of the new Terms of Use. If you do not agree to abide by these or any future Terms of Use, do not use or access (or continue to use or access) the Site.
+In addition, when using certain services, you will be subject to any additional terms applicable to such services that may be posted on the Site from time to time, including, without limitation, the Privacy Policy.  All such terms are hereby incorporated by reference into these Terms of Use.
+Use of the Site
+You acknowledge and agree that the Site may contain tools, content or features (Site Content) that are protected by copyright, patent, trademark, trade secret and/or other proprietary rights and laws.  Except as expressly authorized by Collibra or except as expressly authorized by any additional terms applied to any Site Content , you agree not to: (a) modify, copy, frame, scrape, rent, lease, loan, sell, distribute or create derivative works based on the Site or the Site Content, in whole or in part; (b) create a false identity on the Site, misrepresent your identity, or use or attempt to use anothers account; (c) develop, support or use software, devices, scripts, robots, or any other means or processes (including crawlers, browser plugins and add-ons, or any other technology) to access the Site or to scrape the Site or any Site Content or otherwise copy profiles and other data from the Site; (e) override any security feature or bypass or circumvent any access controls or use limits of the Site (such as caps on keyword searches or profile views); (f) violate the intellectual property rights of Collibra or of any third party, including but not limited to copyrights, patents, trademarks, trade secrets, or other proprietary rights; (g) use the Site to transmit or store code, files, scripts, agents or programs intended to do harm, including, without limitation, viruses, worms, time bombs and Trojan horses; (h) reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for the Site or the Site Content or any related technology that is not open source; (i) imply or state that you are affiliated with or endorsed by Collibra as otherwise set forth herein or without Collibras express consent; (j) monitor the Sites availability, performance or functionality for any competitive purpose; (k) engage in framing, mirroring, or otherwise simulating the appearance or function of the Site; (l) overlay or otherwise modify the Site or its appearance (such as by inserting elements into the Site or removing, covering, or obscuring an advertisement included on the Site); and/or (m) interfere with the operation of, or place an unreasonable load on the Site (e.g., spam, denial of service attack, viruses, gaming algorithms). Sample code provided by Collibra and/or other companies on the Site may be used and distributed solely for purpose of connecting to, integrating with, or using the Collibra services in a manner authorized by Collibra and in accordance with your agreement with Collibra.
+The Collibra name and logos are trademarks or registered trademarks of Collibra (collectively the Collibra Trademarks).  Other company products and service names and logos used and displayed via the Site may be trademarks or registered trademarks of their respective owners.  Nothing in these Terms of Use or the Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of Collibra Trademarks displayed on the Site, without our prior written permission in each instance.  All goodwill generated from the use of Collibra Trademarks will inure to our exclusive benefit.
+Site Content
+Site Content may be made available for your use, including for download, on the Site.  Under no circumstances will Collibra be liable in any way for any Site Content, including, but not limited to, for any errors or omissions therein, or for any loss or damage of any kind incurred as a result of the use of any Site Content. Collibra expressly disclaims any obligation to provide service to Collibra customers for any loss or damage, including to Collibra products, from the use of Site Content.  You acknowledge that Collibra and its designees will have the right (but not the obligation) in their sole discretion to refuse or remove any Site Content. Without limiting the foregoing, Collibra and its designees will have the right to remove any Site Content that violates these Terms of Use or is deemed by Collibra, in its sole discretion, to be otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of any Site Content, including any reliance on the accuracy, completeness, or usefulness of such content.
+Third Party Content and Websites
+The Site may include third party Site Content, or third parties may provide links or other access to third party sites and resources on the Internet through the Site. Collibra has no control over third party Site Content and any third party sites and resources made available thereon and Collibra is not responsible for and does not endorse for any such content. You further acknowledge and agree that Collibra will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any third party Site Content, or other content, events, goods or services available on or through any third party sites or resources. Any dealings you have with third parties found while using the Site are between you and the third party, and you agree that Collibra is not liable for any loss or claim that you may have against any such third party.
+Indemnity and Release
+You agree to release, indemnify and hold Collibra and its affiliates and their officers, employees, directors and agent harmless from any and all losses, damages, expenses, including reasonable attorneys fees, rights, claims, actions of any kind and injury arising out of or relating to your use of the Site and the Site Content, your connection to the Site, your violation of these Terms of Use or your violation of any rights of another.
+Disclaimer of Warranties
+YOUR USE OF THE SITE IS AT YOUR SOLE RISK. THE SITE IS PROVIDED ON AN AS IS AND AS AVAILABLE BASIS. COLLIBRA EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+COLLIBRA MAKES NO WARRANTY THAT (I) THE SITE WILL MEET YOUR REQUIREMENTS, (II) THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITE AND/OR SITE CONTENT WILL BE ACCURATE OR RELIABLE, OR (IV) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SITE WILL MEET YOUR EXPECTATIONS.
+Limitation of Liability
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT COLLIBRA WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY DAMAGES, OR DAMAGES FOR LOSS OF PROFITS INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF COLLIBRA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE SITE; (II) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION  OBTAINED OR MESSAGES RECEIVED FROM THE SITE; (III) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (IV) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SITE; OR (V) ANY OTHER MATTER RELATING TO THE SITE.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SITE OR WITH THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USE OF THE SITE.
+General
+These Terms of Use constitute the entire agreement between you and Collibra and govern your use of the Site and the Site Content, superseding any prior agreements between you and Collibra with respect to the Site and the Site Content. You also may be subject to additional terms and conditions that may apply when you use affiliate or third-party sites, content or software. These Terms of Use will be governed by the laws of the State of New York without regard to its conflict of law provisions. With respect to any disputes or claims arising in connection with your use of the Site and the Site Content, you and Collibra agree to submit to the personal and exclusive jurisdiction of the state and federal courts located within New York County, New York. The failure of Collibra to exercise or enforce any right or provision of these Terms of Use will not constitute a waiver of such right or provision. If any provision of these Terms of Use is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties intentions as reflected in the provision, and the other provisions of these Terms of Use remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site or these Terms of Use must be filed within one (1) year after such claim or cause of action arose or be forever barred.  A printed version of this agreement and of any notice given in electronic form will be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. You may not assign these Terms of Use without the prior written consent of Collibra, but Collibra may assign or transfer these Terms of Use, in whole or in part, without restriction. The section titles in these Terms of Use are for convenience only and have no legal or contractual effect. Notices to you may be made via either email or regular mail. Collibra may also provide notices to you of changes to these Terms of Use or other matters by displaying notices or links to notices generally on the Site.
+Collibra makes it easy for data citizens to find, understand and trust the organizational data they need to make business decisions every day. Unlike traditional data governance solutions, Collibra is a cross-organizational platform that breaks down the traditional data silos, freeing the data so all users have access.
+Category
+Admin & Developer Tool Integration Collibra Connect Integration Tool JDBC Driver Native Integration Reporting & BI Template Standalone App UI Addon Workflow
+Use Case
+BI & Analytics Data Protection & Compliance Enterprise Data Governance Data Lineage Data Quality Master Data Management Metadata Management Reference Data Management
+Type
+Certified
+Vendor Supported
+Free
+Paid
+Our support FAQ
+© 2020 Collibra. All Rights Reserved.
+Modern Slavery Statement
+Privacy Policy
+California Resident Privacy Notice
+Terms of Use
+We have updated our
+Privacy Policy
+and have introduced a
+California Resident Privacy Notice . Please take the time to review. Okay
+A message to our Collibra community on COVID-19.
+Read more from our CEO . Okay

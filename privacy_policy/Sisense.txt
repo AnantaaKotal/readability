@@ -1,0 +1,176 @@
+Privacy Notice for the Sisense Software, Services, and Sisense Cloud   Sisense
+Free Trial
+By submitting this form, I agree to Sisense's
+privacy policy
+and
+terms of service .
+Free Trial
+By submitting this form, I agree to Sisense's
+privacy policy
+and
+terms of service .
+Watch a
+Sisense Demo
+By submitting this form, I agree to Sisense's
+privacy policy
+and
+terms of service .
+Why Sisense
+Platform
+Business Teams Explore and
+Collaborate
+Enterprise Scale, Secure,
+Govern
+Product Teams Customize, Embed and White Label
+Data Teams Connect to Cloud Data, Deploy at Scale
+_
+New Features
+Sisense Add-Ons
+Sisense Labs
+Sisense Partners
+Solutions
+Builders
+Developers
+Data Engineers
+Business Analysts
+Business Users
+Industry
+Enterprise
+Government
+Healthcare
+Supply Chain
+Manufacturing
+Retail
+Software
+Digital Marketing
+Travel and Hospitality
+Department
+Customer Service
+Finance
+Marketing
+IT
+Sales
+Executive
+Operations and Logistics
+Pharma and Life Sciences
+Human Resources
+Demo
+Resources
+Dashboard Examples
+Whitepapers & eBooks
+Webinars & Virtual Events
+Brochures
+Case Studies
+Glossary
+Blog
+Support
+Pricing
+COVID-19 Hub
+Watch Demo
+Privacy Policy
+Privacy Notice for the Sisense Software, Services, and Sisense Cloud
+Privacy Notice for the Sisense Software, Services, and Sisense Cloud
+Last updated: January 1, 2020
+What this Privacy Notice covers
+This Privacy Notice describes how Sisense Ltd. (collectively with its affiliates,  Sisense   we ,  our  or  us ) handles and protects the Personal Information it collects or receives from the users ( users  or  you ) of the Sisense Software, Services, and Sisense Cloud.
+Definitions
+Sisense Customer
+or
+Customer
+means the individual(s) or organization(s) that have entered into a license agreement with Sisense entitling them to received Services from Sisense or use the Sisense Cloud, including free trial users and OEM partners.
+ Sisense Cloud  shall mean the managed cloud hosting services as defined in the Sisense Cloud Terms and Conditions.
+ Personal Information  is information about you that is personally identifiable by name or can be linked to you through a personal identifier like your address, e-mail address, phone number, or location, and which is not otherwise publicly available. This definition is given here for this notice only, and some laws may use a different definition. If you are asserting your rights under law, the applicable legal definition governs your rights.
+Services
+means any services which may involve granting Sisense access to Sisense Customers information or records, such as support services, professional services, business intelligence consulting, and customer business relations.
+Software
+means any of Sisenses proprietary software products, including any cloud-based features incorporated in the software products.
+Sisense as a Data Processor under GDPR
+Sisense is business analytics software and services company. Customers use the Sisense software to analyze and create dashboards and reports of their data. Sisense related Services to licensees of our software, and we provide the Sisense Cloud to Customers who host their instance of the Sisense software on the could. For the purposes of compliance with the European Unions General Data Protection Regulation (GDPR), In cases where Sisense has access to Personal Information found in a Customers data, the Customer is the Data Controller of that Personal Information. Sisense is the Data Processor carrying out data processing activities and instructions on behalf of each Data Controller.
+Sisense as a Data Controller under GDPR
+For the purposes of compliance with the GDPR Sisense is a Data Controller of data, including any Personal Information contained in such data, that we use for our business purposes, such as our business records.
+Disclosures of information under Sisense Customer control
+Sisense provides its Services to Customers of its software. Sisense Cloud Customers use the Sisense Cloud to store, process, and distribute data belonging to them (or their customers, licensees, or users) through their IT systems, websites, software applications, bundled products, or other comparable means. As the controllers of Personal Information included in their data, Sisenses Customers are responsible for maintaining the privacy of Personal Information included in their data.   Sisense is not responsible for disclosures of information made by Sisense Customers through the Sisense Cloud or using the Sisense software on a Customers system. When we have access or process your Personal Information on behalf of our Customer, it is that Customer responsibility to protect your privacy.
+If you are concerned about your privacy while interacting with products and services provided by a Sisense Customer, you should address requests and inquiries relating to your Personal Information directly to that Customer. If you contact us regarding information belonging to our Customer, we may forward your requests or inquiries to the relevant Customer.
+When does Sisense have access to your Personal Information?
+When a Customer uses Sisense Software or requests Services from Sisense, Sisense may have access to their data. If a Customers data includes your Personal Information, Sisense may have limited access or exposure to Personal Information. Examples of situations where Sisense may have access or exposure to Customer data include:
+When a Customer uses cloud-based features of the Software, Sisense may have access to Customer data, data warehouse or other system access credentials, and software metadata associated with a user.  When a Customer shares a screen showing their data on a business consulting call to help it evaluate or use the Sisense Software, your Personal Information may be revealed to us.  When a Customer submits a file containing its data to our support help desk to resolve a Software issue, your data may be included in such data.  We have ongoing access to the Sisense Cloud environments on which our Customers run the Sisense software to host and process their data. If you are an authorized user of the Sisense software on the Sisense Cloud, the software stores your user ID and password on the Sisense Cloud environment.  If you interact with us as a Customer or on behalf of a Customer, we may have your name, contact information, billing address, and any other information you provided us.
+Our customers use the Sisense software for a wide range of business analytics purposes, and we do not preview, screen, or review their data. Therefore, we do not know what categories of Personal Information a Customer may collect and control about you in their data.
+How we use your Personal Information
+If we have access to your Personal Information as described above, we may only use it for the following purposes:
+To provide and operate the Software, Services and Sisense Cloud functions requested by our Customer.   We may use aggregated and anonymized data derived from Personal Information to enhance, improve and further develop the Software and Services (such as, creating new features or functions, enhancing the user experience, improving technical performance, etc.). Managing the business relationship with our Customer, such as providing service notices and billing.  We use the Customers contact and billing address to send the Customer offers and promotional information, subject to the Customers consent. We will use your contact information to provide you with notices related to your use of the Software, Services and Sisense Cloud. For the other purposes referenced in the Disclosure of Personal Information to third parties section below.
+Service providers
+We rely on certain trusted third-party service providers to power Software features, services and functions that make up the Services and the Sisense Cloud. For example, we host Sisense Cloud environments on third-party cloud platforms, and power cloud-based features using third-party services cloud environments. We may also use outsourced personnel to perform technical and support functions that may involve access to customer data.
+Sisense does not disclose your Personal Information to any third parties (other than our services providers) except in the limited circumstances detailed below. Our service providers do not have permission to use your Personal Information for any purpose other than to provide us the services we require to serve our Customers.
+Details of the service providers we use can be found
+here .
+Disclosure of Personal Information to third parties
+We do not disclose your Personal Information to third parties (except our service providers, as stated above), under the following circumstances and for the following purposes:
+When we have the Customers permission, to provide the Customer with Services it requests. When required by law to respond to subpoenas, court orders, or legal process by public authorities, including disclosures required by national security or law enforcement agencies. When we need to establish or exercise our legal rights, or to defend against legal claims, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, data breaches, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. If Sisense is acquired by or merged with another company, Sisense will come under the control of a new entity any rights and permission that Sisense has to access your Personal Information may be assigned to the new entity.
+Retention of information
+We may retain Customer data (including your Personal Information) for any lawfully permitted period of time, and as necessary to comply with our legal and contractual obligations, enforce our agreements, and enable us to investigate events and resolve disputes.
+Confidentiality, security, and data integrity
+We take great precautions to protect the integrity of your Personal Information. However, no data transmission over the Internet or stored on any other network or system can be guaranteed to be 100% secure. While we strive to protect information on our systems and the Sisense Cloud, we cannot and do not guarantee the security of any information you transmit.
+Rights of European Data Subjects under the General Data Protection Regulation (GDPR)
+If you are in one of the EU/EEA countries, Sisense has certain obligations as a data processor towards our Customers regarding your Personal Information, and certain obligations towards you as a data controller, under GDPR.  The Customer, as data controller, will be responsible for protecting your rights under the GDPR for your Personal information included in data under the Customers control.
+To learn more about your rights under the GDPR you can visit the European Commissions page on Protection of Personal Data, at:  http://ec.europa.eu/justice/data-protection/index_en.htm .
+Cross-border Personal Information transfers and the EU-U.S. Privacy Shield and Swiss  U.S. Privacy Shield
+Data hosted on the Sisense Cloud is hosted in the cloud environment selected by the Customer, which may be either in the EU or outside the EU. Our staff located in Israel, the United States, and Ukraine, have access to Customer data on the Sisense Cloud environment. Data we collect while providing our Services is hosted in the United States and Israel.
+Sisense complies with the EU-U.S. Privacy Shield Framework and the Swiss  U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, EEA, the United Kingdom, and Switzerland to the United States, in reliance on the Privacy Shield . Sisense has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit  https://www.privacyshield.gov/ .
+If you are in the European Union, EEA, the United Kingdom, or Switzerland, you have a right to access your Personal Information that we hold about you, and can correct, amend, or delete that information where it is inaccurate, or has been processed in violation of the Privacy Shield Principles, except where the burden or expense of providing you access would be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons would be violated.
+If you wish to exercise any of your rights in your Personal Information held by a Customer, please contact the relevant Customer (the data controller). If you wish to exercise any of your rights in your Personal Information held by us, please contact us at the contact information below. Note, however, that it is usually better to address requests related to your Personal Information directly to the relevant Customer, since it controls the information, knows how it was collected and used, and has additional copies of your Personal Information in its possession.
+You have a right to choose (opt-out) whether your Personal Information is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. In cases where we are acting as an agent (data processor) for a Customer, your choices are determined according to your relationship between you and that Customer, and you should direct your inquiries to that Customer.
+In cases where we control your information, and you gave us permission to share your information with a third party, you may exercise your choice to opt-out of the permission you gave us by contacting us at the contact information below (the services you requested from us may be affected by your choice). We will notify you and give you an opportunity to opt-out before using your Personal Information for a purpose that is materially different from the purpose for which we originally collected your data.
+In the context of an onward transfer of Personal Information to a third party (including our service providers), we have a responsibility for the processing of personal information we receive under the Privacy Shield and subsequently transfer to a third party acting as an agent on our behalf. We shall remain liable under the Privacy Shield Principles if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we can prove that we are not responsible for the event giving rise to the damage.
+We will investigate and attempt to resolve requests, complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Notice. We may require further information from you to identify you and address the matter at issue.
+Individuals in the European Union, EEA, the United Kingdom, and Switzerland may submit unresolved complaints to binding arbitration before the American Arbitration Association (AAA) under certain conditions. Information about AAA services can be found at its website:  http://go.adr.org/privacyshield.html .  The exclusive location for such arbitration shall be New York, NY, United States.
+Sisense is subject to the regulatory authority of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:
+Federal Trade Commission Attn: Consumer Response Center 600 Pennsylvania Avenue NW Washington, DC 20580 Email:  [email protected] www.ftc.gov
+People in the European Union and EEA, (EU Data Subjects), the United Kingdom, and Switzerland can invoke binding arbitration as stipulated in the EU-U.S. Privacy Shield Agreement, Annex I, for some residual claims not resolved by other redress mechanisms.
+Contacting Sisense about this Privacy Notice
+Any inquiries, concerns, or requests regarding the use or disclosure of your Personal Information should be directed to us at:
+[email protected] .
+Changes to this Privacy Notice
+This Privacy Notice was last changed on the date set forth at the top of this Privacy Notice. Sisense may update this Privacy Notice at any time and any such changes will become effective prospectively from the date of publication. We encourage you to check this page frequently for any changes to our Privacy Notice.
+Watch a Demo
+See Sisense in Action
+Sisense
+Contact Us
+About Us
+News & Buzz
+Careers
+Case Studies
+Partners
+Support & Community
+Online Documentation
+Sisense Labs
+Sisense Events
+Product
+Product Overview
+Marketplace
+Data Connectors
+Technology
+BI Dashboard Solution
+Sisense vs. Alternatives
+Schedule a Demo
+Analytics Software
+Big Data Analytics
+Cloud BI
+Resources
+Blog
+Whitepapers & eBooks
+Online Events
+Reporting Software
+Data Mashup
+Dashboard Examples
+Data Visualization Tools
+BI Solutions
+KPI Examples
+Glossary
+Follow
+Us
+Copyright © 2020 Sisense Inc.
+All rights reserved.
+Legal
+Privacy
+Free Trial
+TOP

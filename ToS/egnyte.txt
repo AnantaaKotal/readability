@@ -1,0 +1,733 @@
+Egnyte - Terms of Service
+Skip to main content
+Platform
+Egnyte Protect
+Egnyte Connect
+Egnyte Platform
+Featured eBook
+SMART CONTENT GOVERNANCE
+The Power of the Modern, Cloud-based Office.Without Conflict or Compromise
+GET THE EBOOK
+See More In Our Resource Center
+Solutions
+Industries
+Construction
+Life Science
+Finance
+Media & Advertising
+Healthcare
+See All
+Initiatives
+Secure Collaboration
+Infrastructure Modernization
+Data Lifecycle Management
+Regulatory Compliance
+Data Governance
+Featured Webinar
+AVOID CLINICAL TRIAL DISRUPTIONS FROM
+COVID-19
+Watch Now
+See More In Our Webinars
+Resources
+Resource Center
+Webinars & Demos
+Success Stories
+Videos
+Blog
+Egnyte University
+Egnyte Community
+Professional Services
+Technical Support
+Customer Story
+HAKKASAN OPTIMIZES GLOBAL OPERATIONS WITH EGNYTE
+LEARN MORE
+See More In Our Success Stories
+Partners
+Business
+Partners
+MSP Program
+Program Details
+Program FAQs
+Technology
+Partners
+Apps & Integrations
+Developer Toolkit
+Featured eBook
+SECURE REMOTE ACCESS TO FILES - NO VPN REQUIRED
+GET THE EBOOK
+See More In Our Resource Center
+Pricing
+Free Trial
+Contact Us
+Contact US Slide
+Contact Sales
+×
+X
+Join our Technology Partner Program!
+Login
+Search Placeholder
+Search
+Terms of Service
+(Last revision  May 1, 2018)
+This Terms of Service Agreement (Terms) are between you
+(you or Customer) and Egnyte, Inc. ("Egnyte, "we, "us, or
+"our). Please read them carefully because together with your order of
+Egnyte Services, these Terms form an agreement between you and Egnyte
+(Agreement). These Terms govern your initial purchase as well as any
+future purchases made by you that reference these Terms. These Terms
+apply whether your purchases are made directly from Egnyte or through
+Egnytes authorized resellers (each, a Reseller).
+By clicking on the I agree (or a similar) button that
+is presented to you at the time of your order, or by using, registering
+for, or accessing the Services described herein, you indicate that you
+have the power to form a contract with Egnyte and are agreeing to be
+bound by these Terms. If you are using the Services on behalf of an
+organization, unless that organization has a separate paid contract in
+effect with us, you are agreeing to these Terms for that organization,
+and representing to Egnyte that you have the authority to bind that
+organization to these Terms (in which event, you and you will refer
+to the organization). If you are using the Services on behalf of an
+organization that has a separate paid contract in effect with us, the
+terms of that contract will govern your use. Note that our Services are
+not intended for and may not be used by people under the age of 13. By
+using our Services, you are representing to us that you are over 13
+years of age.
+These Terms may be modified from time to time,
+though any such modifications shall only be applicable at the date of
+renewal of your Agreement with Egnyte. The date of the most recent
+revisions will appear on this page, so please check back periodically.
+Your use of or continued access to the Services after renewal
+constitutes your acceptance of those changes, whether or not you have
+reviewed them. If you do not agree to changes to the Terms, you must
+terminate the Agreement in accordance with these Terms effective as of
+the end of your Subscription Term.
+1. Definitions.
+Account means an account created by you or on your behalf within the Services.
+Administrator means i. with respect to the Egnyte
+Connect Service, the Power Users appointed by Customer to have
+administrative rights to the Egnyte Connect Service including to add
+licenses, cancel licenses and define the scope of the Egnyte Connect
+Service, and ii. with respect to the Egnyte Protect Service, those
+individuals identified by Customer to have the ability to interface
+directly with the Egnyte Protect Service.
+Connector means the Egnyte configured agent through
+which the Egnyte Protect Service will access Customers content
+repositories.
+Content means files, materials, data, text, audio, video, images or other content.
+Content Repository Users or CRUS means individuals
+existing in a content repository whose Content will be scanned under the
+Egnyte Protect Service in accordance with the terms of the Agreement.
+Documentation means the written materials describing
+the functionality, operation, and use of the Services that Egnyte
+provides or makes generally available to customers of the Services,
+including material located at
+https://helpdesk.egnyte.com/hc/en-us .
+Egnyte Connect Service is a service enabling secure
+file sharing, editing, and collaboration for content stored in private
+datacenters and/or through a cloud-based repository.
+Egnyte Protect Service is a content governance service
+that monitors pre-defined content repositories to identify potential
+corporate-wide access control problems within them.
+Order Form means Egnytes then-current standard form setting forth the Services, fees and payment terms.
+Services refers, collectively, to Egnytes hosted i.
+Connect Service and ii. Protect Service, the applicable features of
+which are more specifically described in the Order Form.
+Subscription Term means the period of Services as
+identified on the Order Form or identified by Customer during Egnytes
+online Services registration process.
+User means an individual authorized by Customer to be a
+Power User or a Business Partner User of the Egnyte Connect Service, as
+follows:
+Power User means an individual authorized by
+Customer who is an employee, consultant, or contractor of Customer. An individual who is a third party but requires Power User functionality
+may also be provisioned with a Power User license. Business Partner User also referred to as a
+Standard User, means an individual other than a Power User. For clarity,
+an employee, consultant, or contractor of Customer may not use a
+Business Partner User license. This Agreement contains certain provisions that are
+unique only to the Egnyte Connect Service or Egnyte Protect Service. Those provisions are only binding and enforceable to the extent that
+Customer has purchased a subscription to said Services.
+Section
+headings are provided for general reference only, and are not probative
+in interpreting the meaning of any provisions hereunder.
+2. Availability and Use of the Services.
+Services.
+General: Egnyte will make the Services available
+to Customer during the Term of this Agreement for its business purposes
+solely through any Account registered to Customer and in accordance with
+the Order Form placed with Egnyte. Any changes in the quantity or type
+of Services are subject to separate mutual, written agreement of the
+parties.
+For clarity, the Services are not for resale. Egnyte Protect Service: Egnyte Protect Service
+modules included in the base service are known as Access Control and
+Content Classification.
+Customer shall be responsible for configuring
+these modules per Customer requirements, all in accordance with and
+subject to the functionalities offered by Egnyte in such modules.
+Egnyte Connectors included in the Egnyte Protect Service are those
+Connectors certified in writing for usage by Egnyte and which Customer
+has identified for provisioning in connection with its content
+repositories.
+Access to the Services. Egnyte provides its Services
+in a hosted, cloud-based format. Egnyte makes the Egnyte Clients
+available to Customer, including Administrators and Users solely as an
+ancillary tool for accessing the Services.
+Customer acknowledges that,
+from time to time, Egnyte may issue updates to the Egnyte Clients (for
+example, to address security vulnerabilities, upgrade the protocol,
+improve usability or performance, and upgrade features). In that event,
+in order for Customer to best utilize the Services, either Customer will
+be offered the ability to upgrade the version of the Egnyte Clients
+which are currently running or they will be automatically upgraded by
+Egnyte.
+Egnyte Clients means the applications that are installed on
+Customers local server, desktop, mobile or other device (for example,
+mobile apps, desktop apps, and group apps) and that enable a User or
+Administrator to engage with the Services. Provision of Support. Egnyte will provide support as
+described in the Order Form. Egnyte may change its support model from
+time to time on written notice to Customer (which may include posting
+such changes on Egnytes customer support website) as long as the level
+of support is not materially less than that described in the Order Form
+as of the effective date of the Order Form. Security Measures and Backup Procedures. Egnyte will
+comply with the data protection and information security procedures
+described in Egnytes
+Data Protection Addendum . The
+Data Protection Addendum
+may be updated from time to time on written notice to reflect
+enhancements in the security and availability of the hardware and
+software cloud infrastructure used to provide the Services. To provide
+availability and redundancy of Customer Content, Egnyte maintains copies
+of the Content across two data centers at all times. 3. Your Responsibilities relating to Use of the Services.
+Content. Customer (i) is responsible for the accuracy
+and quality of the Content; (ii) will ensure that the Content complies
+with this Agreement and applicable laws; (iii) will promptly handle and
+resolve any notices and claims from a third party claiming that any
+Content violates such partys rights, including regarding take-down
+notices pursuant to the U.S. federal Digital Millennium Copyright Act,
+and (iv) will ensure that any and all necessary permissions are secured
+to enable Egnyte to access, copy and/or use Content as necessary to
+perform the Services including, but not limited to, consent of Users to
+process Content in general and any personal data in particular (and
+Customers signature on this Agreement confirms that Users consent has
+been secured). Absent a binding legal order, Egnyte does not access a
+Customers Account for the purpose of monitoring Content transmitted
+through the Egnyte Connect Service. Passwords and Accounts. Customer is responsible for
+all activities conducted under its User and Administrator logins, and
+for safeguarding the confidentiality of the User/Administrator names and
+passwords. Egnyte will have no liability to Customer or any third party
+as a result of any unauthorized disclosure or access to Customers
+Account or Content as a result of Customer, Administrator or User misuse
+or loss, or the theft of, any password or username. Customer will
+provide Egnyte with prompt written notice regarding any unauthorized use
+of an Account, Content or the Services of which Customer becomes aware,
+and will take all steps necessary to terminate such unauthorized use.
+In addition, Customer will provide Egnyte with any cooperation and
+assistance reasonably requested by Egnyte related to any such
+unauthorized use. Use Restrictions. Customer will comply with, and
+ensure its Users comply with, this Agreement. In addition, Customer and
+its Users and Administrators will not: (i) use the Services in any
+manner or for any purpose other than as expressly permitted by this
+Agreement including, without limitation, allowing Users who are to be
+classified as Power Users in accordance with the terms of this Agreement
+to use Business Partner User logins to the Egnyte Connect Service, (ii)
+allow multiple individuals to utilize the same User login credentials,
+(iii) resell, sublicense, lease or otherwise make the Services available
+to any third party; (iv) modify, copy or create derivative works based
+on the Services; (v) reverse engineer, disassemble or decompile the
+Services, or attempt to derive source code from the Services; (vi)
+remove, obscure or alter any proprietary right notice related to the
+Services;
+(vii) use the Egnyte Connect Service to send unsolicited or
+unauthorized junk mail, spam, chain letters, pyramid schemes or any
+other form of duplicative or unsolicited messages; (viii) store or
+transmit Content: (A) containing unlawful, defamatory, threatening,
+pornographic, abusive, or libelous material, (B) containing any material
+that encourages conduct that could constitute a criminal offense, or
+(C) that violates the intellectual property rights or rights to the
+publicity or privacy of others; (ix) use the Services to store or
+transmit viruses, worms, time bombs, Trojan horses or other harmful or
+malicious code, files, scripts, agents or programs; (x) interfere with
+or disrupt use of the Services by other Egnyte customers or to other
+servers or networks connected to the Services, or violate the
+regulations, policies or procedures of such other networks; (xi) access
+or attempt to access Egnytes other accounts, computer systems or
+networks not covered by this Agreement, through password mining or any
+other means; (xii)
+access or use the Services in a way intended to
+avoid incurring fees or exceeding usage limits or quotas; or (xiii) use
+the Services, or permit their use, for purposes of product evaluation,
+benchmarking or other comparative analysis intended for publication
+without Egnytes prior written consent. Notices. You acknowledge that once you have registered
+with us, we may send you communications or data regarding the Services
+using electronic means. These may include, but are not limited to (i)
+notices about your use of the Services, including any notices concerning
+violations of use, (ii) updates to the Services, (iii) materials
+regarding Egnyte's products and services, and (iv) information the law
+requires us to provide. We give you the opportunity to opt-out of
+receiving certain of these communications from us by following the
+opt-out instructions provided in the message. However, even if you
+opt-out, you understand that we may continue to provide you with
+required information by email at the address you specified when you
+signed up for the Services or via access to a website that we identify.
+Notices we email to you will be deemed given and received when the email
+is sent. If you provide Egnyte with legal notices, you must transmit it
+to us via email to
+legal@Egnyte.com , with a duplicate copy sent via
+registered mail, return receipt requested, to the following address:
+Egnyte, Inc., Attn: Legal Department, 1350 W. Middlefield Road, Mountain
+View, California 94043. Any such notice, in either case, must
+specifically reference that it is a notice given under these Terms. Third Party Services and Content. All transactions
+using the Services are between the transacting parties only. The
+Services may contain features and functionalities linking or providing
+you with certain functionality and access to third party content,
+including Web sites, directories, servers, networks, systems,
+information and databases, applications, software, programs, products or
+services, and the Internet as a whole. You acknowledge that Egnyte is
+not responsible for such content or services. We may also provide some
+content to you as part of the Services. However, Egnyte is neither an
+agent of any transacting party nor a direct party in any such
+transaction. Any of those activities, and any terms associated with
+those activities, are solely between you and the applicable third-party. 4. Fees and Payment.
+Purchases through Resellers. If you purchase Services
+through a Reseller, i. the scope of Services will be as stated in the
+Order Form placed with Egnyte on your behalf by the Reseller, ii.
+Reseller has sole responsibility for the accuracy of the Order Form,
+iii. you owe payment to the Reseller as agreed between you and the
+Reseller, and iv. the payment terms described in this Section will not
+apply to you. You acknowledge, however, that we may terminate your
+rights to use the Services and discontinue Services if we do not receive
+our corresponding payment from the Reseller. A Reseller is not
+authorized to make any promises or commitments on Egnytes behalf, and
+Egnyte is not bound by any obligations to you other than those specified
+in these Terms. Fees. You agree to pay, using a valid credit card (or
+other form of payment which we may accept from time to time), the
+charges and fees (such as recurring monthly or annual fees) set forth in
+the applicable Order Form (if any) or on our website (collectively,
+Fees) and any applicable Taxes (as defined below). You will pay Fees
+in the currency we quoted for your account (and we reserve the right to
+change the quoted currency at any time). We will automatically charge
+your credit card or invoice and collect payment in an alternative method
+at the start of the billing period and at the start of each renewal
+period. Except as specifically set forth in this Section, the Services
+are prepaid for the period selected (monthly, annually or otherwise)
+and are non-refundable . This includes Accounts that are renewed. Fees for Upgrade. If you upgrade or expand consumption
+of the Services (for example, to obtain additional storage, User
+access, additional CRUS, features or functionality to the Services)
+(collectively referred to as a Service Upgrade), additional fees will
+be due at Egnytes then-current pricing. Those fees will be immediately
+charged and/or invoiced as noted in Section 4.b above and will be due
+and payable for the entire month in which the Service Upgrade occurred
+and any remaining period under the then current Subscription Term (if
+longer than monthly, and with the Services Upgrades to be coterminous
+with the end of such Subscription Term). Fee Increases. We will notify you 45 days in advance,
+either through a posting on our website or by email to the address you
+have most recently provided to us, if we increase fees or institute new
+charges or fees. Any new charges or increase in fees will take effect at
+the beginning of the next renewal Subscription Term. For example, if
+you pay monthly, your use of the Services will be charged at the new
+price when the Services are renewed in the month that follows the last
+day of the above notice period. If you do not agree to these changes,
+you must cancel and stop using the Services in accordance with the
+termination provisions of the Agreement. Invoicing and Payment Terms. You agree to keep all
+information in your billing account current. In the event that we
+invoice you, then all fees will be due and payable upon receipt, unless
+otherwise indicated on your Order Form. We reserve the right to charge,
+and you agree to pay, a late fee on past due amounts. The late fee will
+be equal to the lesser of 1.5% of the unpaid amount each month or the
+maximum amount allowed by applicable law. We may use a third party to
+collect past due amounts. You must pay for all reasonable costs we incur
+to collect any past due amounts, including reasonable attorneys' fees
+and other legal fees and costs. In addition, we may suspend your access
+to the Services or cancel the Services if your account is past due five
+days after Egnyte provides you with written notice of a past due
+invoice. Taxes. Fees are exclusive of Taxes and you agree to
+pay or reimburse Egnyte for all Taxes arising out of this Agreement. For
+purposes of this Agreement, Taxes means any sales, use, withholding
+and other taxes (other than taxes on Egnytes income), export and import
+fees, customs duties and similar charges applicable to the transactions
+contemplated by this Agreement that are imposed by any government or
+other authority. You will promptly provide Egnyte with legally
+sufficient tax exemption certificates for each taxing jurisdiction for
+which you claim exemption.
+In the event any government or authority
+imposes withholding taxes on Egnytes fees, you shall increase the
+amount of fees payable to Egnyte in a manner such that Egnyte receives
+the full amount of committed fees. 5. Professional Services.
+General. Customer may wish to receive certain
+professional services from Egnytes dedicated professional services
+team.
+Such services may include a rollout plan, project management,
+data and permissions migration, integrations, and customizations, all as
+described in a mutually agreed upon Statement of Work (SOW)
+accompanying the applicable Order Form. To the extent payment terms are
+not specified in the SOW, the payment terms in the Agreement shall
+apply. Deliverables, Ownership. (i) Unless otherwise set
+forth in the applicable SOW, Egnyte shall own all rights, title and
+interest in and to the Deliverables (excluding any Customer Property,
+defined below), and related intellectual property rights. Subject to
+terms and conditions of the Agreement, and during the Subscription Term,
+Egnyte hereby provides Customer with a limited, non-exclusive,
+non-transferable and terminable license to use the Deliverables solely
+for Customers internal operations in connection with its authorized use
+of the Services. (ii) Nothing herein shall be construed to assign or
+transfer any intellectual property rights in the proprietary tools,
+libraries, know-how, techniques and expertise used by Egnyte to develop
+the Deliverables, and to the extent such items are delivered with or as
+part of the Deliverables, they are licensed, not assigned, to Customer,
+on the same terms as the Deliverables. (iii) Customer shall own all
+rights, title and interest in and to any Customer Property. Customer
+Property means any technology, Customer-specific business processes, or
+deliverables, specifically as such materials are designated as
+Customer-owned property in a SOW. Egnyte shall have the right to use any
+such Customer Property solely for the purpose of providing the
+professional services to Customer hereunder and as set forth in the
+applicable SOW. Professional Services Warranty. In regards to
+professional services only, Egnyte warrants that: (i) it and each of its
+employees, consultants and subcontractors, if any, that it uses to
+provide and perform the professional services has the necessary
+knowledge and experience to perform the professional services in
+accordance with this SOW; and (ii) the professional services will be
+performed for and delivered to Customer in a professional and
+workmanlike manner in accordance with the laws and regulations
+applicable to the performance of such professional services. Customer
+acknowledges that Egnytes ability to successfully perform professional
+services is dependent upon Customers provision of timely information,
+access to resources, and participation. If the professional services do
+not conform to the foregoing warranty, Egnyte will, without prejudice to
+its other rights and remedies under this Agreement or at law,
+re-perform the non-conforming portions of the professional services at
+no cost to Customer. 6. Confidentiality.
+Confidential Information Defined. "Confidential
+Information" means all confidential and proprietary information of a
+party ("Disclosing Party") disclosed to the other party ("Receiving
+Party"), whether orally or in writing, that is designated as
+confidential or that reasonably should be understood to be confidential
+given the nature of the information and the circumstances of disclosure,
+including the terms and conditions of this Agreement (including pricing
+and other terms reflected in the Order Form), the Content, the Services
+(including the Egnyte Clients), business and marketing plans,
+technology and technical information, product designs, and business
+processes. Confidential Information of a Disclosing Party includes any
+information the Disclosing Party has received from others which the
+Disclosing Party is obligated to treat as confidential or proprietary.
+Confidential Information will not include any information that, in each
+case without breach of any obligation owed to Disclosing Party: (i) is
+or becomes generally known to the public; (ii) was known to Receiving
+Party prior to its disclosure by Disclosing Party; (iii) was
+independently developed by Receiving Party; or (iv) is received from a
+third party who is not subject to an obligation of confidentiality
+vis-à-vis Disclosing Party. Obligations regarding Confidential Information.
+Receiving Party will not use or disclose any Confidential Information of
+Disclosing Party for any purpose outside the scope of this Agreement,
+except with Disclosing Party's prior written consent. Receiving Party
+will protect the confidentiality of Disclosing Party's Confidential
+Information in the same manner that it protects the confidentiality of
+its own confidential information of like kind (but in no event using
+less than reasonable care). Receiving Party will promptly notify
+Disclosing Party if it becomes aware of any actual or reasonably
+suspected breach of confidentiality of Disclosing Party's Confidential
+Information. The Data Protection Addendum referenced in Section 2.d
+above contains additional terms pertaining to security breaches. For purpose of clarification, in no manner are the
+non-disclosure/non-use provisions contained herein intended to constrain
+Egnyte in responding in the normal course to Customers or Users
+instructions while utilizing the functionalities of the Egnyte Connect
+Service (i.e. a User can instruct the Egnyte Connect Service to share
+Content with a third party outside of Customers organization and Egnyte
+will not have a duty to monitor the Content for confidentiality
+considerations). Egnyte will process Content only in accordance with
+Customers and Users instructions. Compelled Disclosures. If Receiving Party is compelled
+by law to disclose Confidential Information of Disclosing Party,
+Receiving Party will provide Disclosing Party with prior notice of such
+compelled disclosure (to the extent legally permitted) and reasonable
+assistance, at Disclosing Party's cost, if Disclosing Party wishes to
+contest the disclosure. The Receiving Party will (i) take reasonable
+steps to limit any such provision of Confidential Information to the
+specific Confidential Information required by such court or agency, and
+(ii) continue to otherwise protect all Confidential Information
+disclosed in response to such order, subpoena, regulation or process of
+law.
+Except for such required disclosure, the Confidential Information
+will remain subject to the terms of this Agreement and may only be
+disclosed as set forth in this Section 6. Injunctive Relief. If Receiving Party discloses (or
+threatens to disclose) any Confidential Information of Disclosing Party
+in breach of confidentiality protections hereunder, Disclosing Party
+will have the right, in addition to any other remedies available to it,
+to seek injunctive relief to enjoin such acts (without the need for the
+posting of a bond or other guarantee), it being acknowledged by the
+parties that any other available remedies are inadequate. Return of Confidential Information. Upon any
+termination of this Agreement, Receiving Party will continue to maintain
+the confidentiality of Disclosing Party's Confidential Information and,
+upon request, return to Disclosing Party or destroy (at Disclosing
+Party's election) all materials containing such Confidential
+Information.
+The aforementioned only pertains to Confidential
+Information transferred from one party to the other not within the usage
+of the Service; the destruction of Content on termination is governed
+by the terms of Section 11.d below. 7. Ownership.
+Ownership by Customer.
+As between Customer and
+Egnyte, Customer or its licensors own all right, title and interest in
+and to the Content provided, transmitted or processed through, or stored
+in, the Services. Customer hereby grants Egnyte the right to transmit,
+use, modify, adapt, reproduce, display or disclose the Content solely
+(i) to provide the Services to Customer or any User, (ii) to comply with
+any request of a governmental or regulatory body (including subpoenas
+or court orders) or as otherwise required by law, (iii) for statistical
+use (provided that such data is not personally identifiable), and (iv)
+as necessary to monitor and improve the Services and corresponding
+support. Customer represents and warrants that Customer has all rights
+in the Content necessary to grant these rights and use the Services, and
+that the transmission, storage, retrieval, and processing of the
+Content do not violate any law. Ownership by Egnyte.
+As between Egnyte and Customer,
+Egnyte or its licensors own all right, title and interest in and to the
+Services (including all hardware, Egnyte Clients and other items used to
+provide the Services), including all intellectual property rights in
+any of the foregoing. No title to or ownership of any proprietary rights
+related to the foregoing is transferred to Customer or any User
+pursuant to these Terms or any transaction contemplated by these Terms.
+Egnyte reserves all rights not explicitly granted to Customer. Egnyte is
+free to use any comments, suggestions, recommendations, and other
+feedback you provide with respect to the Services for any purpose,
+without obligation. 8. Warranty and Disclaimers of Warranty.
+EGNYTE WARRANTS THAT THE SERVICES WILL PERFORM IN ALL
+MATERIAL RESPECTS IN ACCORDANCE WITH THE DOCUMENTATION.
+EGNYTE MAY
+MODIFY THE DOCUMENTATION IN ITS SOLE DISCRETION AS LONG AS THE
+FUNCTIONALITY OF THE SERVICES WILL NOT BE MATERIALLY DECREASED DURING
+THE THEN CURRENT SUBSCRIPTION TERM.
+EXCEPT FOR THE FOREGOING WARRANTY
+AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EGNYTE MAKES NO
+OTHER REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS,
+IMPLIED, STATUTORY OR OTHERWISE. EGNYTE SPECIFICALLY DISCLAIMS, WITHOUT
+LIMITATION, ANY WARRANTY THAT THE SERVICES WILL BE UNINTERRUPTED OR
+ERROR-FREE, OR THAT THE CONTENT WILL BE SECURE BEYOND ANY POSSIBLE
+THREAT, OR ANY IMPLIED WARRANTY OF MERCHANTABILITY, SATISFACTORY
+QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, AND ANY
+WARRANTY ARISING OUT OF ANY COURSE OF PERFORMANCE, COURSE OF DEALING OR
+USAGE OF TRADE. SOME JURISDICTIONS DO NOT ALLOW THE FOREGOING
+EXCLUSIONS. IN SUCH AN EVENT, THESE EXCLUSIONS WILL NOT APPLY SOLELY TO
+THE EXTENT PROHIBITED BY APPLICABLE LAW.
+9. Indemnification.
+Indemnification by Egnyte.
+Without derogating from
+and subject to any of the other Terms, Egnyte will defend Customer from
+and against all claims, suits or actions made or brought against
+Customer by a third party (Claim) alleging that the Services infringe
+the intellectual property rights of that third party, and will indemnify
+Customer against any final judgment awarded (including reasonable
+attorneys fees and costs) or final settlement made with respect to such
+Claim which imposes a financial obligation on Customer. In addition to
+Egnytes obligation of indemnification, if the Services become or, in
+Egnytes opinion, are likely to become the subject of a claim of
+infringement, Egnyte may, at its sole option and expense, either procure
+for you the right to continue using the Services under the terms of the
+Agreement or replace or modify the Services to be non-infringing
+without material decrease in functionality. If neither of the foregoing
+options is reasonably practicable, in Egnytes judgment, Egnyte may
+terminate your access to the infringing Services and refund to you all
+prepaid subscription fees for the remainder of the Subscription Term on a
+pro rata basis. Egnyte will have no liability for any Claim to the
+extent the Claim is based upon (i) the Content; (ii) the Services in
+combination with any other product, service or device not furnished,
+recommended or approved by Egnyte, if such Claim would have been avoided
+without such combination; or (iii) your use of the Services other than
+in accordance with the Agreement. This Section 9.a states your exclusive
+remedy for any intellectual property claim against Egnyte regarding the
+Services. Indemnification by Customer.
+You agree to indemnify
+Egnyte, its officers, directors, employees, and agents, against any
+cost, loss, damage, or other liability arising from any third party
+demand or claim that any Content provided by you, or your use of the
+Services in breach of these Terms: (a) infringes any patent, trademark,
+or copyright of a third party, or misappropriates a trade secret (to the
+extent that such misappropriation is not the result of Egnyte's
+actions) or (b) violates applicable law or these Terms. Egnyte will
+provide you with notification of any such claim or demand that is
+subject to your indemnification obligation. Indemnification Process. A partys obligation of
+indemnification is subject to the party requesting the indemnification:
+(i) promptly notifying the party providing the indemnification in
+writing of the existence of a third party demand for which
+indemnification is sought; (ii) granting the party providing the
+indemnification sole control over the defense, negotiation, compromise
+and settlement of any legal proceedings; and (iii) cooperating with the
+party providing the indemnification with respect to any such legal
+proceedings. The party requesting the indemnification may elect to
+participate in any such legal proceedings with an attorney of its own
+choice and at its own expense. 10. Limitation of Liability.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE
+FOLLOWING APPLIES: (a) IN NO EVENT WILL THE LIABILITY OF EGNYTE, ITS
+AFFILIATES, OFFICERS, EMPLOYEES, OR AGENTS FOR ANY AND ALL CLAIMS
+RELATING TO THIS AGREEMENT OR THE TRANSACTIONS UNDER IT, INCLUDING THE
+SERVICES, EXCEED THE AMOUNT OF FEES THAT YOU PAID US DURING THE PREVIOUS
+TWELVE MONTH PERIOD, AND (b) IN NO EVENT WILL EGNYTE, ITS AFFILIATES,
+OFFICERS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT
+LIMITATION, DAMAGES FOR LOST PROFITS, REVENUE, GOODWILL, USE OR CONTENT)
+HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT
+LIMITATION, CONTRACT, TORT, WARRANTY, NEGLIGENCE OR OTHERWISE, EVEN IF
+EGNYTE HAS BEEN ADVISED AS TO THE POSSIBILITY OF SUCH DAMAGES. SOME
+STATES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR
+INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSIONS OR
+LIMITATIONS MAY NOT APPLY TO YOU.
+11. Term and Termination.
+Term. The Agreement will commence on the date that the
+Order Form is last signed by a party or the date of Customers online
+registration for the Services, and will continue for the Subscription
+Term designated in the Order Form or in the online registration process.
+Unless a party provides the other party with at least 30 days written
+notice of termination prior to the end of the Subscription Term (with
+termination effective at the end of the Subscription Term), the
+Agreement will automatically renew for the same Subscription Term as had
+been in effect prior to the renewal (and, in the case of support, at
+the same support level if that level is still offered by Egnyte) and
+Egnyte will charge your payment information on file with us commencing
+on the first day of the renewal Subscription Term. For a Customer
+initiated termination in accordance with the above, Customer shall
+follow the termination process set forth in the Account. If
+Customer attempts to terminate the Agreement during a Subscription Term
+other than for cause, Egnyte will not provide Customer with a refund
+for any pre-paid fees ; this, without derogating from Egnytes
+rights to bring a claim for all fees that Customer is committed to
+paying under the Agreement, with all such fees accelerating and becoming
+due on the date of termination. Suspension or Termination for Cause.
+A party may
+terminate this Agreement for cause immediately upon written notice: (i)
+for a material breach of this Agreement by the other party if the breach
+remains uncured 10 days after receipt of the initial written notice
+setting forth the breach in reasonable detail or (ii) if the other party
+becomes the subject of a bankruptcy, insolvency, receivership,
+liquidation, assignment for the benefit of creditors or similar
+proceeding (except to the extent that a party is prohibited by law from
+terminating under such conditions). Upon any termination for cause by
+Customer, Egnyte will refund Customer any prepaid subscription fees for
+the post-termination period on a pro rata basis. Additionally,
+Egnyte reserves the right to temporarily suspend or terminate your
+access to the Services for: (i) the use of the Services in a manner that
+may cause Egnyte to have legal liability or disrupt others' use of the
+Services; (ii) the detection of any malicious code, virus or other
+harmful code in your Account; or (iii) your use of excessive storage
+capacity or bandwidth. If circumstances allow, we will use commercially
+reasonable efforts to notify you of the suspension or termination
+through the Services. You acknowledge that if your access to the
+Services is suspended or terminated, you may no longer have access to
+the Content that is stored with the Services. Termination for Lack of Activity.
+In addition to our
+other rights of termination, if your Account is not currently subject to
+a paid subscription plan with us, we may terminate your Account if: (i)
+you do not engage in any activity in the Account within 30 days after
+registering for the Services, (ii) your trial has concluded and you do
+not convert to a paid Services plan, or (iii) you do not engage in any
+activity in an Account for 120 consecutive days. In the event of such
+termination, any or all of your Content may be lost. Post-Termination Obligations. Within ninety days of
+termination of the Agreement for any reason, Egnyte will destroy all
+copies of Content that remain within Egnytes Services infrastructure. Survival. The provisions of these Terms that by their
+nature are intended to extend beyond termination will survive
+termination of this Agreement for any reason. 12. General Provisions.
+Governing Law and Jurisdiction. The Agreement will be
+construed and enforced in all respects in accordance with the laws of
+the State of California, without reference to its choice of law rules.
+Any dispute between the parties will be brought exclusively in a court
+in Santa Clara County and each party irrevocably waives any claim that
+such court does not have personal jurisdiction over the party. Government Users. If you are a U.S. government entity, you acknowledge that any Egnyte Clients and Documentation are provided
+as Commercial Items as defined at 48 C.F.R. 2.101, and are being
+licensed to U.S. government end users as commercial computer software
+subject to the restricted rights described in 48 C.F.R. 2.101 and
+12.212. Independent Contractors. The parties are independent
+contractors, and no partnership, franchise, joint venture, agency,
+fiduciary or employment relationship between the parties is created
+hereby. Egnyte may subcontract portions of the Services in accordance
+with the terms set forth in the Data Protection Addendum referenced in
+Section 2.d above. Waiver. No failure or delay in exercising any right
+hereunder will constitute a waiver of such right. Except as otherwise
+provided, remedies provided in this Agreement are in addition to, and
+not exclusive of, any other remedies of a party at law or in equity. If
+any provision of this Agreement is held by a court of competent
+jurisdiction to be contrary to law, such provision will be modified by
+the court and interpreted so as best to accomplish the objectives of the
+original provision to the fullest extent permitted by law, and the
+remaining provisions will remain in effect. Assignment. You may not assign these Terms or your
+rights and obligations under them, in whole or in part, to any third
+party without our prior written consent, and any attempt by you to do so
+will be invalid. Force Majeure. Neither party will be liable to the
+other for any delay or failure to perform its obligations under this
+Agreement (excluding payment obligations) if the delay or failure arises
+from any cause or causes beyond that partys reasonable control
+including, but not limited to, natural disasters, war or acts of
+terrorism, industry-wide labor disruptions, Internet outages and
+governmental decrees. Public Announcement. Egnyte reserves the right to
+release a press announcement of the execution of the Agreement and to
+include Customers name on Egnytes customer lists and in its marketing
+materials, including on Egnytes websites; provided, however, that
+Egnyte will first coordinate any such actions with Customer. Entire Agreement. These Terms, as well as the Order
+Form or other online Services initiation process that we employ,
+constitute the entire Agreement between you and Egnyte, and supersede
+and replace any other prior or contemporaneous agreements and
+understandings with respect to the subject matter of the Agreement,
+including any non-disclosure agreement (with the confidentiality
+provisions of this Agreement to govern any prior disclosures of
+Confidential Information).
+Additional terms pertaining to Egnytes
+commitment to privacy can be found in its online
+Privacy Policy . These Terms create no third party beneficiary rights. DMCA.
+We respect the intellectual property of others,
+and reserve the right to delete or disable Content that appears to
+violate these terms or applicable law. The Digital Millennium Copyright
+Act of 1998 (the "DMCA") provides recourse for copyright owners who
+believe that material appearing on the Internet infringes their rights
+under U.S. copyright law. If you believe in good faith that Content
+infringes your copyright, you (or your agent) may send us a notice
+requesting that the Content be removed or access to it blocked. Federal
+law requires that your notification include the following information:
+(i) a physical or electronic signature of a person authorized to act on
+behalf of the owner of an exclusive right that is allegedly infringed;
+(ii) identification of the copyrighted work claimed to have been
+infringed or, if multiple copyrighted works at a single online site are
+covered by a single notification, a representative list of such works at
+that site; (iii) identification of the material that is claimed to be
+infringing or to be the subject of infringing activity and that is to be
+removed or access to which is to be disabled and information reasonably
+sufficient to permit us to locate the material; (iv) information
+reasonably sufficient to permit us to contact you, such as an address,
+telephone number, and, if available, an electronic mail; (v) a statement
+that you have a good faith belief that use of the material in the
+manner complained of is not authorized by the copyright owner, its
+agent, or the law; and (vi) a statement that the information in the
+notification is accurate, and under penalty of perjury, that you are
+authorized to act on behalf of the owner of an exclusive right that is
+allegedly infringed. The notification must be sent to:
+Egnyte Inc.
+Attn: Legal Department
+1350 W. Middlefield Road.
+Mountain View, California 94043 security@egnyte.com
+We provide the above contact information for purposes of the DMCA only and reserve the right to respond only to correspondence that is relevant to this purpose.
+US: 1-877-734-6983
+EMEA: +44.020.3356.3714
+About
+About Us
+Leadership
+Investors
+Offices
+Careers
+Support
+Professional Services
+Support Packages
+Technical Support
+Egnyte Community
+News
+Egnyte in the News
+Press Releases
+Events
+Newsletters
+Press Kit
+Fine Print
+Privacy Policy
+Terms of Service
+Site Map
+Compliance
+© 2020 Egnyte, Inc. All Rights Reserved
+Resources Footer
+Enterprise File Sharing
+Full Features
+Secure File Sharing
+Small Business
+Cloud File Server

@@ -1,0 +1,882 @@
+Terms of Service   Cloudways
+This website uses cookies
+Our website, platform and/or any sub domains use cookies to understand how you use our services, and to improve both your experience and our marketing relevance.
+Continue
+Change settings
+Find
+out more
+Cloudways allows us to focus on maintaining WooCommerce stores, rather than managing the hosting stack. ~ Silicon Dales
+Download Case Study
+Open Nav
+Cloudways
+Features
+Pricing
+Affiliate
+Company
+Learn
+Support
+Login
+Start Free
+Company
+Features
+Features That Make Us Unique
+Pricing
+Pay as you go plans that work for your business.
+Affiliate
+Earn commissions with our flexible affiliate plans.
+About US
+All about what we do and why we do it at Cloudways.
+Our Customers
+Managed digital experiences for agencies, SMBs and individuals.
+Careers
+Want to be a part of team Cloudways? Explore jobs now.
+Contact Us
+Just send us your questions and we will be there to provide help.
+Latest Update
+Learn
+Knowledge Base
+Step-by-step guides on using our platform effectively.
+Blog
+Updates, tips and best practices from the experts.
+Community Forum
+Connect, share & learn from our customers around the globe.
+Case Studies
+See how we have contributed to the success of growing businesses.
+EXPLORE ALL Resources
+Support
+24/7/365 Support
+System Status
+Sales Inquiries
+Login For Support
+Login
+Free Trial
+Cloudways
+We feel great pride in knowing that every time you choose Cloudways as your Hosting Platform, you put your trust and faith in us, so, it is of utmost importance
+Terms of Service
+Service Level Agreement
+Privacy Policy
+Acceptable Use Policy
+Cookie Policy
+Affiliate Program
+Your Agreement with Cloudways
+Definitions
+We/Us/Our/Cloudways Ltd. means Cloudways Ltd. (C 55975) of 52 Springvale Pope Pius XII Street, Mosta, Malta and/or any of its subsidiaries and/ or affiliates involved in providing the Services.
+You/Your/Yourself/User means the user of the Website and/or customer of the Services.
+Services means any services offered by Cloudways Ltd. on its Website including but not limited to cloud application deployment, management and infrastructure management  commonly referred to as the Cloudways Platform.
+Preliminary
+These terms of service (the Terms) relate to your use of the Services provided by Cloudways Ltd. under the domain name cloudways.com (the Website).
+We have the right to revise and amend these Terms and/or the Services from time to time to reflect changes in market conditions affecting our business, changes in technology, changes in payment methods, changes in relevant laws and regulatory requirements and changes in our systems capabilities or for any other reason in our sole discretion which we may decide. Your continued access to or use of the Website and/or the Services constitutes your acceptance of any such change and/or amendment.
+In using the Website and/or the Services, you agree as follows,
+1)
+Acceptance of the Terms. Your continued access to or use of the Website and/or the Services constitutes your acceptance of our Acceptable Use Policy, of our Privacy Policy, of our SLA and these Terms. Certain Services may require additional terms and conditions in which case your clicking of I ACCEPT buttons and/or other prompts and/or any other similar methods of acquiring your consent will constitute your acceptance of the said terms and conditions.
+2) You may not use the Services and may not accept the Terms if:
+a) You are not of legal age to form a binding contract between yourself and Cloudways, or
+b) You are a person barred from receiving the Services under the laws of Republic of Malta or other countries including the country in which you are resident or from which you use / will use the Services. Cloudways Ltd. provides valued added service via various third party cloud providers and applications. As a client of Cloudways Ltd. you agree to uphold the license / user agreements of any such cloud providers and application providers to the extent it applies to your use of any services offered by Cloudways Ltd. Please also read any cloud services and applications license agreements as may be applicable. As a user of Cloudways Ltd. services, you agree to uphold the terms of any such cloud services and applications license agreement to whatever extent they apply to your usage of cloud services, applications and/or Services.
+PLEASE KEEP IN MIND THAT SOME OF THE CONTENT THAT WE MAKE AVAILABLE TO YOU THROUGH CLOUDWAYS SERVICES MAY ORIGINATE FROM THIRD PARTY CLOUD SERVICES AND APPLICATIONS. ALL SUCH THIRD PARTY CONTENT IS PROVIDED TO YOU AS IS. AND YOUR USE THEREOF MAY BE SUBJECT TO CHANGE AND/OR REMOVAL AT ANY TIME BEYOND THE CONTROL OF CLOUDWAYS LTD. CLOUDWAYS LTD., SHALL UNDER NO CIRCUMSTANCES WHATSOEVER ACCEPT LIABILITY RESULTING FROM YOUR USE OF ANY SUCH THIRD PARTY SERVICES AND/OR CONTENT.
+1. You must provide accurate and complete registration information any time you register to use any of the Services. You are responsible for the security of your passwords and for any use of your account. If you become aware of any unauthorized use of your password or of your account, you agree to notify Cloudways Ltd. immediately. Accordingly, you agree that you will be solely responsible for all activities which occur under your account.
+2. You agree to use the application only for purposes that are permitted by (a) the Terms and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the Malta or other relevant countries).
+3. You may neither share nor re-sell your Cloudways account to any third parties.
+4. Unless you have been specifically permitted to do so in a separate agreement with Cloudways Ltd., you agree that you will not reproduce, duplicate, copy, sell, trade or resell the Services for any purpose.
+5. You agree not to engage in any activity that interferes with or disrupts the Services (or the servers and networks which are connected to the Services).
+6. Any license to use any third-party applications is granted directly from the original provider of the third-party application(s) directly to you. You agree to abide by all the terms and conditions of any such license. You will be solely responsible for paying for and obtaining the rights to any third-party applications you install and/or operate through and/or in connection with the Services, and for compliance with the applicable terms and conditions of each third-party application license.
+7. Some of the Services may require that you establish your own account with one or more third party cloud providers. You will be solely responsible for paying for and establishing an account (Customer Cloud Provider Account) with each third-party Cloud Provider you select, and for compliance with the terms of use applicable thereto. You agree to abide by the terms of service and acceptable use policy (AUP) of each third-party Cloud Provider that you use through the Services (if any). You must provide Cloudways Ltd. with your Customer Cloud Provider Account credentials (the CP Key) that are necessary for Cloudways Ltd. to access and manage your use of the third-party Cloud Provider servers, including, without limitation, accessing servers as necessary to identify or resolve technical problems or to respond to any issues related to or connected with the Services. Cloudways Ltd. will use reasonable efforts to maintain the confidentiality and security of your CP Keys.
+8. Cloudways Ltd. has also established its own accounts (Cloudways Provider Accounts) with one or more third-party cloud providers, which Cloudways Ltd. may use to provide you with the services. Cloudways Ltd. will be responsible for paying for and establishing the account with such Cloud Providers, provided that you will be responsible for paying Cloudways Ltd. the portion of the Cloud Provider fees allocated to you (of which you will be notified in advance), and for compliance with the terms of use applicable thereto.
+9. Cloudways Ltd. may offer (or act as intermediary in the offering of) certain application trials including the ability for you to install the said applications on a temporary basis for trial purposes. YOU ACKNOWLEDGE THAT THESE SERVERS AND APPLICATIONS ARE INTENDED TO BE TEMPORARY INSTALLATIONS AND THAT CLOUDWAYS LTD. MAY DELETE APPLICATIONS AND SHUT DOWN RELEVANT SERVERS AT ANY TIME.
+Limitation of liability
+To the fullest extent permitted by law, under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall Cloudways Ltd. or any other contributor or supplier of Cloudways Ltd., be liable to any person for any indirect, special, incidental, or consequential damages of any kind including, without limitation, damages for loss of goodwill, work stoppage, interruption of the services. computer failure or malfunction ,loss of data, or any and all other commercial damages or losses, even if such party shall have been informed of the possibility of such damages. You further understand and agree that while every reasonable precautions shall be undertaken by Cloudways Ltd., We are not /shall not be responsible for any loss or damage incurred by you, including but not limited to loss or damage as a result of:
+1. Any changes to the Services made by Cloudways Ltd., or any temporary or permanent cessation in the provision of the Services (or any features within the Services),
+2. The deletion of, corruption of, or failure to store, any content and other communications data maintained or transmitted by or through your use of service,
+3. Interruption of services, malware (including viruses and/or Trojans) and/or other errors over which Cloudways Ltd. has no control,
+4. Any third party services and/or content of any kind. You understand that any hyperlinks to third party websites shall be regulated by the terms and conditions of third parties and that access to/use of such third party website shall be at your own risk.
+Without prejudice to the foregoing, should a court of law or other adjudicating body still find against Cloudways Ltd. regarding any matter relating to the Services, Cloudways Ltd.s maximum liability against the claimant shall not exceed the total amount in fees which the claimant was paying/shall pay for six months of the Services in question.
+Mutual Confidentiality
+Both parties (Cloudways Ltd. and User) agree not to disclose to any third party-confidential information of Cloudways Ltd., or the User, except as may be necessary for Cloudways Ltd. to offer the Services. Both parties further agrees that they will not use, remove, transfer, transmit, reproduce or otherwise deal with confidential information or other tangible or intangible property of either party, except for the sole purpose of performing the Services.
+General Legal Terms
+1. Cloudways Ltd. may make changes to the Terms from time to time. When these changes are made, Cloudways Ltd. will make a new copy of the Terms available at http://www.cloudways.com/terms.php. Cloudways will also notify You of any substantial changes on the email address provided by You during the registration process, and give You the opportunity to terminate Your contract with Us should you not agree with these substantial changes. You understand and agree that if you use the Services after the date indicated in the said email , Cloudways Ltd. will treat your use as acceptance of the updated Terms.
+2. If Cloudways Ltd. provides you with a translation of the English language version of these Terms, the English language version of these Terms will prevail over any other language version in case of any conflict.
+3. Cloudways Ltd. is constantly striving to better its product offering and will contact the User using the email (or telephone number) provided after sign up for these and other purposes specifically relating to the Services such as: sending welcome emails, sending password reset information, notification of billing, follow-up on signup, and for other messaging needs; all the above in full compliance with Maltese data protection legislation.
+4. User irrevocably agrees to accept all notices, of whatever nature, legal or otherwise, by electronic mail or other digital delivery system at the discretion of Cloudways Ltd. for any matter or any proceeding for which notice is required.
+5. The Services may include hyperlinks to other websites, content or resources. Cloudways Ltd. may have no control over any web sites or resources which are provided by companies or persons other than Cloudways Ltd. The User agrees to be bound exclusively by the terms and conditions of any such third party web site.
+6. You acknowledge and agree that Cloudways Ltd. is not responsible for the availability of any such external sites or resources as described in (5.), and does not endorse any advertising, products or other materials on or available from such websites or resources.
+7. You agree that if Cloudways Ltd. does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Cloudways Ltd. has the benefit of under any applicable law), this will not be taken to be a formal waiver of Cloudways Ltd. rights and that those rights or remedies will still be available to Cloudways Ltd.
+8. Cloudways Ltd. employs industry standards technology and best practices to store and protect your Cloud and Application login information. In no case shall Cloudways Ltd. be held liable for any damages incurred as a result of such network or software related breach. In case of a breach Cloudways Ltd. will immediately notify you via email or phone call, as Cloudways Ltd. deems sufficient, to take necessary actions from your end.
+9. If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms is invalid, then that provision will be removed from the Terms without affecting the rest of the Terms. The remaining provisions of the Terms will continue to be valid and enforceable.
+10. Cloudways Ltd. may automatically back up and shut down applications and servers at various times, including without limitation, when you log out of the Service, if you do not respond to a prompt after a certain period of time, or if you explicitly request, or if Cloudways Ltd. detects that your application or server is malfunctioning. The data and software backed up during this process (a Backup) can be restored, but such restoration is not guaranteed to reproduce the exact state of the application or server at the time the Backup was created, particularly if you have used the terminal capability or otherwise directly accessed the Server.
+11. Cloudways Ltd. reserves the right to modify or discontinue the features, functionality and other attributes of the Services at any time in its sole discretion. You acknowledge and agree that Cloudways Ltd. will not be liable to you in connection with its modification or discontinuation of the Services.
+Support Level
+For a detailed overview of our different support levels (Standard, Advanced and Premium), you can refer to our
+Scope of Support
+page.
+Billable Period
+We charge in arrears, meaning that you will receive an invoice during the first week of every month for the Services that You used in the previous month.
+The Cloudways Platform is a pay as you go service, meaning you will only pay for the resources that you have actually used and for the time that you have actually used them (minimum time fraction for billing related purposes is one hour).
+Cloudways is liable to refund your unused prepaid account funds, if a refund request is presented within three months of funds addition. However, the refund will not include the amount already deducted for services consumed.
+Governing Law
+These Terms of Use are governed by and construed in accordance with Maltese law. Any dispute (including non-contractual disputes) arising from these Terms of Use shall be subject to the exclusive jurisdiction of the Maltese courts or other adjudicating bodies.
+Definitions
+We/Us/Our/Cloudways Ltd. means Cloudways Ltd. (C 55975) of 52 Springvale Pope Pius XII Street, Mosta, Malta and/or any of its subsidiaries and/ or affiliates involved in providing the Services.
+You/Your/Yourself/User/Customer means the user of the Website and/or customer of the Services.
+Services means any services offered by Cloudways Ltd. on its Website including but not limited to cloud application deployment, management and infrastructure management  commonly referred to as the Cloudways Platform.
+Cloudways Ltd. strives to provide a high quality service and backs it up with a comprehensive Service Level Agreement.
+This SLA is an integral part of your agreement with us as referenced in our
+Terms of Service .
+The compensations described in this SLA are your sole and exclusive compensations for the events covered by the SLA.
+Cloudways Ltd. may make changes to the Service Level Agreement from time to time. When these changes are made, Cloudways Ltd. will make a new copy of the Service Level Agreement available at http://www.cloudways.com/terms.php. Cloudways will also notify You of any substantial changes on the email address provided by You during the registration process, and give You the opportunity to terminate Your contract with Us should you not agree with these substantial changes. You understand and agree that if you use the Services after the date indicated in the said email , Cloudways Ltd. will treat your use as acceptance of the updated Service Level Agreement.
+Standard Level of Service (Service Standard)
+Cloudways goal is to ensure that our services are available to Customers twenty-four hours a day, seven days per week, and three hundred sixty-five days per year (Service Availability).
+Please note that Service Availability refers to Cloudways Platform Console and related services and in no case we are guaranteeing here the Service Availability of our Partner Cloud Providers (see third party SLAs in Clause 4 below).
+Cloudways offers two standard support options, Live Chat and Ticketing System.
+Chat Service is intended to provide an interactive method to request and receive basic information and troubleshooting assistance on a first-come, first-served basis. Particularly, and to avoid clogging the Live Chat system, interactive support sessions are subject to a maximum duration time depending on the support plan level you are in:
+Standard Support  15 minutes max chat duration
+Advanced Support  30 minutes max chat duration
+Premium Support  No limit (chat offered via Private Slack channel)
+When the chat duration goes above the limits set above, our Live Chat agents will create a ticket with all information provided during the chat session to be followed up by our senior engineers via our Ticketing System. Expected response times for tickets presented by Customers or created on the Customers behalf by our agents are as follows:
+High Priority Tickets (instant Live Chat available 24x7x365)
+Standard Support  3h
+Advanced Support  30
+Premium Support  10
+Normal Priority Tickets (instant Live Chat available 24x7x365)
+Standard Support  12h
+Advanced Support  6h
+Premium Support  2h
+Our Response Time goal is the time it takes to acknowledge and have the work started status only, not the time it takes to resolve the issue in question.
+High Priority tickets must be related to events that render Customers infrastructure and/or services unusable/inaccessible. Other type of events rated as High Priority by Customers and that dont match this description will be demoted to Normal Priority by Cloudways Ltd.s personnel and treated accordingly.
+Customers who have signed up for our Premium Support Add-on are offered two additional support options, a private Slack channel and phone support. Premium Support is offered from Monday to Sunday, 24h a day (24x7x365). Cloudways goal is to respond to any request through these channels within five minutes (Response Time). As with the standard support options, the Response Time goal is a time to acknowledge and work started only, not a time to resolve.
+Cloudways Ltd. realizes that our Service Availability and Response Time goals may not always be met. Accordingly, Clause 2 sets out credits should we fail to meet the Service Availability or Response Time goals.
+Credits disbursed when Service Standard is not met
+We will compensate our Customers in the event that our Service Standards are not met and provided the Customer(s) would have reported it through our Support Portal. Compensation will be through credit against Your next monthly invoice. You will receive a credit of five percent of Your total fee (for the month in which the SLA was not met) for each hour in which We fail to meet Our Service Standard levels. Collectively, these are referred to as SLA Credits. SLA Credits are based on our monitoring, may not exceed the total amount of Fees you have paid to us for the month in which we failed to meet the Service Standards set out in Clause 1, may not be aggregated, and will not be paid in cash.
+Situations in which we will not disburse any Credit
+Should we fail to meet the Service Standard goal as a result of scheduled outages, emergency maintenance or Force Majeure Events, the SLA Credit policy will not be applicable.
+If the failure to meet the Service Standards is based on a non-standard environment, customer authored code or changes to the Service by parties other than Cloudways Ltd., You will not be entitled to any SLA Credit.
+Third party Infrastructure Providers SLAs
+Click here
+to view DigitalOcean SLA.
+Click here
+to view Amazon EC2 SLA.
+Click here
+to view Google Compute Engine (GCE) SLA.
+Click here
+to view Vultr SLA .
+Click here
+to view Linode SLA
+Last Updated on 21 th
+May 2018
+Version 1.1
+NOTICE:
+The Privacy Policy below will go into effect on May 25, 2018. To view the current Privacy Policy, click
+here .
+INTRODUCTION
+This Privacy Policy ( Privacy Policy ) relates to the website
+www.cloudways.com
+and/or any sub-websites and/or associated domains (and/or sub-domains) of
+cloudways.com
+(hereinafter referred to as the  Site ), the services provided by
+Cloudways Limited , the owner of the Site, ( We ,  Us ,  Our ,  Ourselves  and/or  Cloudways ) and any related software applications (Apps), where Personal Data is processed by the same (via the Site, any of Our Apps or otherwise) relating to You. In this Privacy Policy,  You  and  Your  and  User  refer to an identified or identifiable natural person being the User of the Site and/or client (or prospective client) of any of Our services. Our full details, including contact details, can be read
+below .
+You may be reading this Privacy Policy as a User or visitor of the Site or You may have been directed here by one (or more) of Our agreements, Our condensed policies or Our other notices (digital or otherwise).
+Although this Privacy Policy provides detailed, layered information on how and why We generally process Personal Data (via the Site, any of Our Apps, or otherwise) as well as detailed information about Your various rights, the specific and tailor-made content of such agreements, condensed policies or other notices will, in most cases, provide You with more focused and detailed information on specific processing operations (for example, the specific legal basis for processing certain categories of Personal Data and the specific purpose for doing so depending on the matter at hand).
+Although Our goal is to always be as clear and transparent as possible, We appreciate that legal documents can sometimes be difficult to read. However, We strongly encourage You to read this Privacy Policy (which is layered for Your convenience) with care.
+Please do not hold back from contacting Us for any clarification You may need.
+For example, if You need clarification on a specific legal basis We are relying on to process Your Personal Data for a specific processing operation, We would be happy to provide You with any such information You may need.
+CONTENTS OF THIS PRIVACY POLICY
+CLOUDWAYS AS A DATA PROCESSOR
+APPLICABLE LAWS
+WHAT IS PERSONAL DATA?
+PERSONAL DATA WE COLLECT ABOUT YOU
+SOCIAL MEDIA
+HOW AND WHY WE COLLECT PERSONAL DATA
+PERSONAL DATA RELATING TO THIRD PARTIES
+WHAT WE USE YOUR PERSONAL DATA FOR (PURPOSE OF PROCESSING)
+SPECIAL NOTE ON CONSENT
+ACCURACY OF PERSONAL DATA
+DIRECT MARKETING
+TRANSFERS TO THIRD COUNTRIES
+INTERNET COMMUNICATIONS
+AUTHORISED DISCLOSURES
+SHARING OF PERSONAL DATA WITH OTHER CATEGORIES OF RECIPIENTS
+SECURITY MEASURES
+RETENTION PERIODS
+PROCESSING FOR STATISTICAL REASONS
+LINKS TO THIRD PARTY SOURCES
+COOKIES
+MINORS
+YOUR RIGHTS UNDER THE DATA PROTECTION LAWS
+YOUR RIGHT OF ACCESS
+YOUR RIGHT TO RECTIFICATION
+YOUR RIGHT TO ERASURE (THE RIGHT TO BE FORGOTTEN)
+YOUR RIGHT TO DATA RESTRICTION
+YOUR RIGHT TO DATA PORTABILITY
+YOUR RIGHT TO WITHDRAW CONSENT
+YOUR RIGHT TO OBJECT TO CERTAIN PROCESSING
+YOUR RIGHT TO LODGE A COMPLIANT
+WHAT WE MAY REQUIRE FROM YOU
+TIME LIMIT FOR A RESPONSE
+CLOUDWAYS DETAILS
+UPDATES
+CLOUDWAYS AS A DATA PROCESSOR
+If you are a legal or natural person acting as a DATA CONTROLLER seeking our services as a DATA PROCESSOR, please
+Click HERE.
+to view our Data Processing Agreement.
+Please note that the general terms of how we process personal data (for example, the technical and organisational measures (security measures) we implement to protect personal data we process) are the same whether we are doing this in our capacity as a data controller or as a data processor on behalf of a data controller.
+APPLICABLE LAWS
+As an entity established in Malta, EU, the main privacy laws that are applicable to Us in so far as You are concerned, are as follows:
+The (Chapter 586 of the Laws of Malta) as well as the various subsidiary legislation issued under the same  the  DPA ;
+The
+Regulation (EU) 2016/679
+of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, and repealing Directive 95/46/EC ( General Data Protection Regulation )  the  GDPR .
+All the above referred to together as the  Data Protection Laws 
+WHAT IS PERSONAL DATA?
+ PERSONAL DATA  means any information that identifies You as an individual or that relates to an identifiable individual.
+Whenever it is not possible or feasible for Us to make use of anonymous and/or anonymised data (in a manner that does not identify any Users of the Site or customers of Our services), We are nevertheless
+committed to protecting Your privacy and the security of Your Personal Data at all times.
+We collect Personal Data in various ways both digitally via the Site (either when You choose to provide Us with certain data or in some cases,
+automatically
+or from third parties) as well as non-digitally (for example when You fill in a physical form to benefit from one or more of Our services).
+PERSONAL DATA WE COLLECT ABOUT YOU
+There are various
+categories of Personal Data
+that We collect about You, namely:
+CONTACT DETAILS:
+Full Name
+Mailing address
+Telephone or mobile number
+Email address
+Collaboration and Instant messaging
+REGISTRATION DATA:
+Full Name
+Email address
+Business description
+Usernames
+Passwords
+Country and City of residence
+MARKETING DATA:
+Email address
+Mailing address
+Interests
+Website data
+Online identifiers (including IP addresses and information generated via Your browser)
+TRACKING DATA:
+IP address
+Location Data
+Configuration information
+Operational logs
+Location of files and other data
+FINANCIAL INFORMATION:
+Credit card information
+Paypal ID
+Bank details
+PROFILE DATA:
+Full Name
+Email address
+Telephone or mobile number
+Business description
+Country and City of residence
+ADDITIONAL INFORMATION:
+In some cases, (for example, if You are a client [or prospective client] of Our services, via the Site, any App or otherwise) We may request additional Personal Data as a means of securely identifying You or for another similar lawful purpose. The additional information We may request from You to be able to provide You with Our services includes:
+More secure identification methods
+Credentials/references
+Details of Your next of kin
+Certain special categories of data (sensitive Personal Data) such as health conditions/status (only where necessary and with the necessary safeguards in place).
+Many of the categories of Personal Data above are collected directly from You (for example, Your Contact Details and Your Registration Data). However,
+WE MAY ALSO COLLECT PERSONAL DATA FROM OTHER SOURCES,
+including publicly accessible databases, joint marketing partners, social media platforms and other third parties. We may also receive Personal Data about You from third parties when We need to confirm Your Contact Details .
+Should this be the case,
+and
+when acting as a data controller ,
+We will take all measures as required by law to further inform You about the source of such Personal Data as well as the categories of Personal Data We collect and process.
+There are certain instances at law where We are specifically forbidden from disclosing to You such activity (for example, when carrying out due diligence for anti-money laundering purposes).
+When acting as a data processor, Cloudways processes personal data on behalf of one or more data controllers. In such cases it is the data controllers obligation to provide data subjects with the said information. In case of uncertainty over who is the data controller, please contact us at the details below.
+For a detailed description of the reasons why We proces s (as a data controller)   the categories of Personal Data above
+(and any other specific Personal Data We process) as well as the corresponding legal ground(s) for doing so, please see the What We Use Your Personal Data For (Purpose of Processing)
+below .
+For
+information/Personal Data that We may collect automatically
+via the Site, please see the Cookies section
+below .
+SOCIAL MEDIA
+If You choose to connect one or more of Your
+social media
+accounts with Our Site to enable the sharing of Personal Data via social media platforms, certain categories of Personal Data relating to You from Your social media account(s) will be shared with Us.
+HOW AND WHY WE COLLECT PERSONAL DATA
+As a general rule , when acting as a data controller, We
+do not collect any Personal Data, that is, information that identifies You as an individual
+other than that which You choose to provide to Us
+such as the data (including Contact Details and Registration Data) You provide when registering with Our Site (where this is available), when contacting Us with enquiries relating to Our goods and/or services, when subscribing to any service offered by Us or via Our Site, such as any newsletters as may be issued by Us from time to time or even when subscribing to any offers We (and/or Our affiliates and/or corporate partners) may offer from time to time (see
+Personal Data We Collect About You above ).
+Unless otherwise specified and subject to various controls, as a general rule,
+We only collect Personal Data (from You or elsewhere) that We:
+Need to be able to provide You with the goods and/or services You request from Us
+Are legally required to collect/use and to keep for a predetermined period of time
+Believe to be necessary for Our legitimate business interests
+For a detailed description of the reasons why We process specific categories of personal data as well as the corresponding legal ground(s) for doing so, please see
+the What We Use Your Personal Data For (Purpose of Processing)
+below .
+PERSONAL DATA RELATING TO THIRD PARTIES
+By providing Us with or allowing Us to access Personal Data relating to individuals other than Yourself, You are letting Us know that You have the authority to send Us that Personal Data or the authority to permit Us to access those data in the manner described in this Privacy Policy.
+WHAT WE USE YOUR PERSONAL DATA FOR (PURPOSE OF PROCESSING)
+The following is description (in a clear and plain manner) of what We use Your Personal Data for and the corresponding legal ground(s) we rely on for doing so.
+For more detail on what is meant by terms such as  Contact Details ,  Registration Data
+and other categories of Personal Data used in the tables below, please see the section above relating to
+Personal Data We Collect About You .
+Please note that WHERE WE RELY ON YOUR CONSENT, THIS CAN BE WITHDRAWN AT WILL
+(See
+Special Note on Consent
+below ).
+PROSPECTIVE CLIENTS/USERS OF THE SITE/NEW CLIENTS OF OUR SERVICES:
+PURPOSE OF THE PROCESSING
+CATEGORIES OF PERSONAL DATA
+LEGAL BASIS FOR PROCESSING
+To register users (directly or through third-parties social signups).
+Registration Data
+Contractual necessity Legitimate interest
+To manage our relationship with you
+Registration Data
+Contact Details
+Legitimate Interest
+To be able to provide You with marketing and promotional offers that You may have requested from Us or that We may be authorized at law to provide to You
+Marketing Data
+Tracking Data
+Consent
+OR
+Legitimate Interests (where We dont need Your Consent)
+To establish and investigate any suspicious behaviour in order to protect Our business from any risk and fraud
+Registration Data
+Contact Details
+Legitimate Interest (detection and prevention of fraud)
+Subscribing to a newsletter or mailing list
+Registration Data
+Contact Details
+Consent
+Send You text messages and push notifications;
+Contact Details
+Registration data
+Contractual Necessity
+Or
+Consent
+ONGOING CLIENTS OF OUR SERVICES:
+PURPOSE OF THE PROCESSING
+CATEGORIES OF PERSONAL DATA
+LEGAL BASIS FOR PROCESSING
+Your being able to participate in a survey, feedback, feature demonstration,
+poll or a discussion across Our digital properties
+Registration Data Contact Details
+Consent
+Maintain records on Our systems
+Registration Data
+Contact Details
+Tracking Data
+Profile
+Data
+Financial Information
+Contractual Necessity
+Legitimate Interest (to ensure We have accurate records)
+Continue to manage Our relationship with You
+Registration Data
+Contact Details
+Tracking Data
+Financial Information
+Contractual Necessity
+Compliance with the Legal Obligations
+To process and manage payments transactions (where applicable)
+Financial Information
+Contractual Necessity
+To be able to provide You with (some or all of) Our services
+Registration Data
+Contact Details
+Profile data
+Marketing Data
+Contractual Necessity
+Comply with legal and regulatory obligations
+Registration Data
+Contact Details
+Tracking data
+Financial Information
+Legal Obligation
+To establish and investigate any suspicious behaviour in order to protect Our business from any risk and fraud
+Registration Data
+Contact Details
+Legitimate Interest (Recovery and detection & prevention of fraud)
+Subscribing to a newsletter or mailing list
+Registration Data
+Contact Details
+Consent
+To be able to provide You with marketing material that You may have requested from Us or that We may be authorized at law to provide to You
+Marketing Data
+Tracking Data
+Consent (where we need it)
+OR
+Legitimate Interests (where We dont need Your Consent)
+Send You text messages and push notifications;
+Contact Details
+Registration data
+Contractual Necessity
+Consent
+Should We need to process Your data for a new purpose in the future, which is entirely unrelated to the above, We will inform You of such processing in advance and You may exercise Your
+applicable rights
+(as explained below) in relation to such processing.
+Finally, do note that without certain Personal Data relating to You, We may not be in the position to provide some or all of the services You expect from Us or even to guarantee the full functionality of Our Site.
+SPECIAL NOTE ON CONSENT
+For the avoidance of all doubt, We would like to point out that in those limited cases where We cannot or choose not to rely on another legal ground (for example, Our legitimate interests), We will process Your Personal Data on the basis of Your consent. In some cases, We will require Your explicit consent, for example, when, on the basis of Your explicit consent We will process special categories of data concerning You such as Your health data or data that reveals Your race or ethnic origin (what was previously referred to as sensitive Personal Data) that might be needed as part of Our processing of Your application for a credit facility with Us.
+In those cases where We, as a data controller, process on the basis of Your consent ( which We will never presume
+but which We shall have obtained in a clear and manifest manner from You),
+YOU HAVE THE RIGHT TO WITHDRAW YOUR CONSENT
+AT ANY TIME
+and this, in the same manner as You shall have provided it to Us.
+Should You exercise Your right to withdraw Your consent at any time (by writing to Us at the physical or email address below),
+We will determine whether at that stage an alternative legal basis exists for processing Your Personal Data (for example, on the basis of a legal obligation to which We are subject) where We would be legally authorised (or even obliged) to process Your Personal Data without needing Your consent and if so, notify You accordingly.
+When We ask for such Personal Data, You may always decline, however should You decline to provide Us with necessary data that We require to provide requested services, We may not necessarily be able to provide You with such services (especially if consent is the only legal ground that is available to Us).
+Just to clarify,
+consent is not the only ground that permits Us to process Your Personal Data . In the last preceding section above We pointed out the various grounds that We rely on when processing Your Personal Data for specific purposes.
+ACCURACY OF PERSONAL DATA
+All reasonable efforts are made to keep any Personal Data We may hold about You up-to-date and as accurate as possible. You can check the information that We hold about You at any time by
+accessing and updating Your account information in the Cloudways platform to achieve accuracy, in addition you can contact us in the manner explained
+below . If You find any inaccuracies, We will correct them and where required, delete them as necessary.
+Please see
+below
+for a detailed list of Your legal rights in terms of any applicable data protection law.
+DIRECT MARKETING
+We only send mail, messages and other communications relating to marketing where We are authorised to do so at law . In most cases We rely on Your consent to do so (especially where We use electronic communications). If, at any time, You no longer wish to receive direct marketing communications from
+Us You can exercise this right by clicking the unsubscribe or opt-out link in the marketing emails we send you or let Us know by contacting Us at the details
+below
+or update Your preferences on any of Our Site(s) or Apps (where applicable).
+In the case of direct marketing sent by electronic communications (where We are legally authorised to do so) You will be given an easy way of opting out (or unsubscribing) from any such communications.
+Please note that even if You withdraw any consent You may have given Us or if You object to receiving such direct marketing material from Us (in those cases where We do not need Your consent), from time to time We may still need to send You certain important communications from which You cannot opt-out.
+TRANSFERS TO THIRD COUNTRIES
+As a general rule, the data We process about You (collected via the Site, any of our Apps or otherwise) will be stored and processed within the European Union (EU)/European Economic Area (EEA) or any other non-EEA country deemed by the European Commission to offer an adequate level of protection (the so-called white-listed countries listed
+here ).
+In some cases, it may be necessary for Us to transfer Your Personal Data to a non-EEA country not considered by the European Commission to offer an adequate level of protection. For example, for
+the implementation of Your desired transaction it can be necessary that We disclose Your Personal Data to other payment processors outside the EEA.
+In such cases, apart from all appropriate safeguards that We implement, in any case, to protect Your Personal Data, We have put in place additional adequate measures. For example, We have ensured that the recipient is bound by the EU Standard Contractual Clauses (the EU Model Clauses) designed to protect Your Personal Data as though it were an intra-EEA transfer. You are entitled to obtain a copy of these measures by contacting Us as explained below
+INTERNET COMMUNICATIONS
+You will be aware that data sent via the Internet may be transmitted across international borders even where sender and receiver of information are located in the same country. We cannot be held responsible for anything done or omitted to be done by You or any third party in connection with any Personal Data prior to Our receiving it including but not limited to any transfers of Personal Data from You to Us via a country having a lower level of data protection than that in place in the European Union, and this, by any technological means whatsoever (for example, WhatsApp, Skype, Dropbox etc.).
+Moreover,
+We shall accept no responsibility or liability whatsoever for the security of Your data while in transit through the internet unless Our responsibility results explicitly from a law having effect in Malta.
+AUTHORISED DISCLOSURES
+Without prejudice to anything contained in this Privacy Policy and in the interest of full transparency, We reserve the right to disclose (and otherwise process) any relevant Personal Data relating to You which We may be processing (including in certain cases relevant IP addresses) to authorised third parties in or outside the EU/EEA if such disclosures are allowed under the Data Protection Laws (whether or not You have provided Your consent) including but not limited to:
+1. For the purpose of preventing, detecting or suppressing fraud (for example, if You provide false or deceptive information about Yourself or attempt to pose as someone else, We may disclose any information We may have about You in Our possession so as to assist any type of investigation into Your actions);
+2. In the event of Cloudways being involved in a merger, sale, restructure, acquisition, joint venture, assignment, transfer;
+3. To protect and defend Our rights (including the right to property), safety, or those of Our affiliates, of Users of Our Site or even Your own;
+4. To protect against abuse, misuse or unauthorised use of Our Site;
+5. For any purpose that may be necessary for the performance of any agreement You may have entered into with Us (including the request for provision of services by third parties) or in order to take steps at Your request prior to entering into a contract;
+6. To comply with any legal obligations such as may arise by way of response to any Court subpoena or order or similar official request for Personal Data; or
+7. As may otherwise be specifically allowed or required by or under any applicable law (for example, under anti-money laundering legislation).
+SHARING OF PERSONAL DATA WITH OTHER CATEGORIES OF RECIPIENTS
+Relevant data will also be disclosed or shared as appropriate (and in all cases in line with the Data Protection Laws) to/with members and staff of Cloudways, to/with other entities within the Cloudways Group and/or to/with affiliated entities and/or subcontractors if pertinent to any of the purposes listed in this Privacy Policy (including to/with Our services providers who facilitate the functionality of the Site and/or any service You may require). Personal information will only be shared by Us to provide the services You request from Us or for any other lawful reason (including authorised disclosures not requiring Your consent).
+Any such authorised disclosures will be done in accordance with the Data Protection laws (for example all Our processors are contractually bound by the requirements in the said Data Protection Laws, including a strict obligation to keep any information they receive confidential and to ensure that their employees/personnel are also bound by similar obligations). The said service providers (Our processors) are also bound by a number of other obligations (in particular, Article 28 of the GDPR).
+Your Personal Data will never be shared with third parties for their marketing purposes (unless You give Your consent thereto).
+The list of third parties to whom We may disclose to and/or share Your Personal Data with is available on request.
+SECURITY MEASURES
+The personal information which We may hold (and/or transfer to any affiliates/partners/subcontractors as the case may be) will be held securely in accordance with Our internal security policy and the law.
+We use reasonable efforts to safeguard the confidentiality of any and/or all Personal Data that We may process relating to You and regularly review and enhance Our technical, physical and managerial procedures so as to ensure that Your Personal Data is protected from:
+unauthorised access
+improper use or disclosure
+unauthorised modification
+unlawful destruction or accidental loss.
+To this end We have implemented security policies, rules and technical and organisational measures to protect the Personal Data that We may have under Our control. All our members, staff and data processors (including specific subcontractors, including cloud service providers, who may have access to and are associated with the processing of Personal Data, are further obliged (under contract) to respect the confidentiality of Our Users or clients Personal Data as well as other obligations as imposed by the Data Protection Laws.
+Despite all the above, We cannot guarantee that a data transmission or a storage system can ever be 100% secure. For more information about Our security measures, please contact Us in the manner described
+below .
+Authorised third parties, and external/third party service providers, with permitted access to Your information (as explained in this Privacy Policy) are specifically required to apply appropriate technical and organisational security measures that may be necessary to safeguard the Personal Data being processed from unauthorised or accidental disclosure, loss or destruction and from any unlawful forms of processing.
+As stated above, the said service providers (Our data processors) are also bound by a number of other obligations in line with the Data Protection Laws (particularly, Article 28 of the GDPR).
+For the avoidance of all doubt, these are the same obligations that we are bound by when acting as data processor on behalf of one or more data controllers.
+RETENTION PERIODS
+We will retain Your Personal Data only for as long as is necessary
+(taking into consideration the purpose for which it was originally obtained). The criteria We use to determine what is necessary depends on the particular Personal Data in question and the specific relationship We have with You (including its duration).
+Our normal practice is to determine whether there is/are any specific EU and/or Maltese law(s) (for example tax or corporate laws)
+permitting
+or even
+obliging
+Us to keep certain Personal Data for a certain period of time (in which case We will keep the Personal Data for the maximum period indicated by any such law). For example, any data that can be deemed to be accounting records must be kept for ten (10 years).
+We would also have to determine whether there are any laws and/or contractual provisions that may be invoked against Us by You and/or third parties and if so, what the prescriptive periods for such actions are (this is usually five (5) years). In the latter case, We will keep any relevant Personal Data that We may need to defend Ourselves against any claim(s), challenge(s) or other such action(s) by You and/or third parties for such time as is necessary.
+Where Your Personal Data is no longer required by Us, We will either securely delete or anonymise the Personal Data in question.
+PROCESSING FOR STATISTICAL REASONS
+Research and statistics using User or client information is only carried out so that We may understand Our Users and/or clients needs, to develop and improve Our services/activities. In any case, We will always ensure to obtain any consent We may legally require from You beforehand. As in all other cases, We will also ensure to implement all appropriate safeguards as may be necessary.
+LINKS TO THIRD PARTY SOURCES
+Links that We provide to third-party websites are clearly marked and We are not in any way whatsoever responsible for (nor can We be deemed to endorse in any way) the content of such websites (including any applicable privacy policies or data processing operations of any kind). We suggest that You should read the privacy policies of any such third-party websites.
+COOKIES
+When You visit Our Site, We collect certain categories of Personal Data automatically through the use of cookies and similar technologies.
+For more detailed information including what cookies are and how and why We process such data in this manner (including the difference between essential and non-essential cookies) please read Our detailed but easy-to-read
+Cookie Policy
+MINORS
+The Site and Our services are not intended to be used by any persons under the age of thirteen (13) and therefore We will never intentionally collect any Personal Data from such persons. If You are under the age of consent, please consult and get Your parents or legal guardians permission to use the Site and to use Our services.
+We shall consider that any Personal Data of persons under the age of thirteen (13) received by Us, shall be sent with the proper authority and that the sender can demonstrate such authority at any time, upon Our request.
+YOUR RIGHTS UNDER THE DATA PROTECTION LAWS
+Before addressing any request You make with Us, We may first need to verify Your identity. In all cases We will try to act on Your requests as soon as reasonably possible.
+As explained in the
+Retention Periods
+section above, We may need to keep certain Personal Data for compliance with Our legal retention obligations but also to complete transactions that You requested prior to the change or deletion that You requested.
+Please note that when acting as a DATA PROCESSOR, Cloudways processes personal data on behalf of one or more data controllers. In such cases queries will generally be direct to our client(s)  the data controller(s).
+When We act as a data controller, Your various rights at law in so far as We are concerned include:
+YOUR RIGHT OF ACCESS
+You may, at any time request Us to confirm whether or not We are processing Personal Data that concerns You and, if We are, You shall have the right to access that Personal Data and to the following information:
+What Personal Data We have,
+Why We process them,
+Who We disclose them to,
+How long We intend on keeping them for (where possible),
+Whether We transfer them abroad and the safeguards We take to protect them,
+What Your rights are,
+How You can make a complaint,
+Where We got Your Personal Data from and
+Whether We have carried out any automated decision-making (including profiling) as well as related information.
+Upon request, We shall (without adversely affecting the rights and freedoms of others including Our own) provide You with a copy of the Personal Data undergoing processing within one month of receipt of the request, which period may be extended by two months where necessary, taking into account the complexity and number of the requests. We shall inform You of any such extension within one month of receipt of the request, together with the reasons for the delay.
+YOUR RIGHT TO RECTIFICATION
+You have the right to rectify Your Personal Data. You can exercise this right by accessing Your account information in Cloudways platform and updating the information which You like to rectify. You can also ask Us to rectify inaccurate Personal Data and to complete incomplete Personal Data concerning You. We may seek to verify the accuracy of the data before rectifying it.
+YOUR RIGHT TO ERASURE (THE RIGHT TO BE FORGOTTEN)
+You have the right to ask Us to delete Your Personal Data and We shall comply without undue delay but only where:
+The Personal Data are no longer necessary for the purposes for which they were collected; or
+You have withdrawn Your consent (in those instances where We process on the basis of Your consent) and We have no other legal ground to process Your Personal Data; or
+You shall have successfully exercised Your right to object (as explained
+below ); or
+Your Personal Data shall have been processed unlawfully; or
+There exists a legal obligation to which We are subject; or
+Special circumstances exist in connection with certain childrens rights.
+In any case, We shall not be legally bound to comply with Your erasure request if the processing of Your Personal Data is necessary:
+for compliance with a legal obligation to which We are subject (including but not limited to Our data retention obligations); or
+for the establishment, exercise or defence of legal claims.
+There are other legal grounds entitling Us to refuse erasure requests although the two instances above are the most likely grounds that may be invoked by Us to deny such requests.
+YOUR RIGHT TO DATA RESTRICTION
+You have the right to ask Us to restrict (that is, store but not further process) Your Personal Data but only where:
+The accuracy of Your Personal Data is contested (see the
+right to data rectification
+above), for a period enabling Us to verify the accuracy of the Personal Data; or
+The processing is unlawful and You oppose the erasure of Your Personal Data; or
+We no longer need the Personal Data for the purposes for which they were collected but You need the Personal Data for the establishment, exercise or defence of legal claims; or
+You exercised Your right to object and verification of Our legitimate grounds to override Your objection is pending.
+Following Your request for restriction, except for storing Your Personal Data, We may only process Your Personal Data:
+Where We have Your consent; or
+For the establishment, exercise or defence of legal claims; or
+For the protection of the rights of another natural or legal person; or
+For reasons of important public interest.
+YOUR RIGHT TO DATA PORTABILITY
+You have the right to ask Us to provide Your Personal Data (that You shall have provided to Us) to You in a structured, commonly used, machine-readable format, or (where technically feasible) to have it ported directly to another data controller, provided this does not adversely affect the rights and freedoms of others. This right shall only apply where:
+The processing is based on Your consent or on the performance of a contract with You; and
+Your Right to Withdraw Consent (when We rely on consent)
+YOUR RIGHT TO WITHDRAW CONSENT (WHEN WE RELY ON CONSENT)
+See Our
+Special Note
+on Consent for detailed information on this right ( which You may exercise at any time ).
+YOUR RIGHT TO OBJECT TO CERTAIN PROCESSING
+In those cases where We only process Your Personal Data when this is 1.) necessary for the performance of a task carried out in the public interest or 2.) when processing is necessary for the purposes of the legitimate interests pursued by Us or by a third party, You shall have the right to object to processing of Your Personal Data by Us. Where an objection is entered, the processing of data shall cease, unless We as data controller provide compelling and legitimate grounds requiring the continuation of the data processing which outweigh the objections You may have raised.
+When Your data is processed for direct marketing purposes, You have the right to object
+at any time
+to the processing of Your Personal Data, which includes profiling to the extent that it is related to such direct marketing.
+For the avoidance of all doubt, when We process Your Personal Data when this is necessary for the performance of a contract, when necessary for compliance with a legal obligation to which We are subject or when processing is necessary to protect Your vital interests or those of another natural person, this general right to object shall
+not
+subsist.
+YOUR RIGHT TO LODGE A COMPLAINT
+You also have the right to lodge complaints with the appropriate Data Protection Supervisory Authority. The competent authority in Malta is the
+Office of the Information and Data Protection Commissioner (OIDPC) .
+We kindly ask that You please attempt to resolve any issues You may have with Us first (even though, as stated above, You have a right to contact the competent authority at any time).
+WHAT WE MAY REQUIRE FROM YOU
+As one of the security measures We implement, before being in the position to help You exercise Your rights as described above We may need to verify Your identity to ensure that We do not disclose to or share any Personal Data with any unauthorised individuals.
+TIME LIMIT FOR A RESPONSE
+We try to reply to all legitimate requests within one month from receiving them. In some particular cases (for example, if the matter is particularly complex or if You send Us multiple requests), it may take Us longer than a month. In such cases, we will notify You accordingly and keep You updated.
+CLOUDWAYS DETAILS
+CLOUDWAYS LIMITED
+a company registered in
+Malta
+with company registration number
+C 55975
+and whose registered office address is at
+52 Springvale, Pope Pius XII Street, Mosta MST 2653, Malta
+is the data controller responsible for processing Your Personal Data that takes place via the Site or in the manner explained above (or in the Terms of Service or notice that directed You here).
+If You have any questions/comments about privacy or should You wish to exercise any of Your individual rights, please contact Us at:
+privacy@cloudways.com
+or by writing to
+52 Springvale, Pope Pius XII Street, Mosta MST 2653, Malta
+UPDATES
+We reserve the right, at Our complete discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. If You are an existing client with whom We have a contractual relationship You shall be informed by Us of any changes made to this Privacy Policy (as well as other terms and conditions relevant to the Site). We shall also archive and store previous versions of the Privacy Policy for Your review.
+As a User of the Site with which We have no contractual relationship or even a lawful way of tracing, it is in Your interest to regularly check for any updates to this Privacy Policy (which are usually deemed to be effective on the date they are published on the Site), in the event that Our attempts to notify You of such updates do not reach You.
+Last Updated on 21th May 2018
+Definitions
+We/Us/Our/Cloudways Ltd. means Cloudways Ltd. (C 55975) of 52 Springvale Pope Pius XII Street, Mosta, Malta and/or any of its subsidiaries and/ or affiliates involved in providing the Services.
+You/Your/Yourself/User means the user of the Website and/or customer of the Services.
+Services means any services offered by Cloudways Ltd. on its Website including but not limited to cloud application deployment, management and infrastructure management  commonly referred to as the Cloudways Platform.
+Preliminary
+The terms of this Acceptable User Policy (the Terms) relate to your use of the Services provided by Cloudways Ltd. under the domain name cloudways.com (the Website).
+We have the right to revise and amend these Terms and/or the Services from time to time to reflect changes in market conditions affecting our business, changes in technology, changes in payment methods, changes in relevant laws and regulatory requirements and changes in our systems capabilities or for any other reason in our sole discretion which we may decide. Your continued access to or use of the Website and/or the Services constitutes your acceptance of any such change and/or amendment.
+In using the Website and/or the Services, you agree as follows,
+1) Acceptance of the Terms:
+Your continued access to or use of the Website and/or the Services constitutes your acceptance of our Terms of Service, of our Privacy Policy, of our SLA and these Terms. Certain Services may require additional terms and conditions in which case your clicking of I ACCEPT buttons and/or other prompts and/or any other similar methods of acquiring your consent will constitute your acceptance of the said terms and conditions.
+2) Illegal Use:
+You agree not to use the Services for or in the pursuit of illegal purposes. Cloudways Ltd. cooperates with the authorities in investigations into illegal Internet use¸ and will take both criminal and civil legal action against Users who use the Services in an unlawful way. You agree not to directly or indirectly allow a third party to use the Services in an illegal or unsuitable manner.
+3) Harassment:
+You agree not to use the Services for harassment¸ threats¸ verbal abuse¸ and/or persistent unwanted contact(s) of any kind. Harassment covers any use of the Services to directly or indirectly contact any other user (including users of another Internet service) in an unwanted fashion. Harassment can be active¸ in forms including but not limited to unwanted emails¸ and/or chat messages¸ and/or verbal declarations on a public forum¸ and can be passive in the form of defamatory information posted on web sites.
+4) Disruption/Hacking:
+You agree not to make any attempt to disrupt or attack the systems or Services provided by Cloudways Ltd. or any third party (affiliated with us or otherwise). This includes any deliberate attempt to interfere with another users ability to take advantage of services offered online. This also includes any effort to secure access to hardware and Services without the consent of the provider for those Services. Hackers will be subject to the full extent of criminal law¸ and Cloudways Ltd. reserves the right to seek damages or resort to any and/or all legal remedies against Users who abuse¸ attack¸ or hack our systems¸ servers¸ or the Services or whoever uses the Service in a manner that is contrary to law or our Terms of Service, our Privacy Policy or this Acceptable User Policy.
+5) Fraud/False Advertising:
+You agree not to post or transmit fraudulent information on or through the Services. This can include false advertising¸ identity theft¸ misrepresentation of any kind including phishing¸ forged email headers and/or fictitious email addresses.
+6) Unsolicited Advertising/Spamming:
+You agree not to post or transmit any unsolicited material through any active medium such as email¸ chat¸ messaging¸ chain letters¸ advertisements¸ jokes¸ etc. Cloudways Ltd. does not tolerate unsolicited mass emailing (Spamming) of any kind¸ and the use of any of Cloudways Services for this purpose is strictly prohibited. To assist Cloudways Ltd. in the prevention of Spamming¸ Cloudways Ltd. may limit the number of recipients allowed per email and/or limit the number of emails You can send over a short period of time. Content falling in this category is defined by the receiving users desire to be contacted in the specified manner¸ so kindly use good judgment if you are sending to mailing lists. You further agree not to collect or harvest account information without the explicit prior consent of those from whom you collect the information.
+7) Disruptive Content:
+You agree not to post or transmit any disruptive content. Certain kinds of content broadcast or displayed on the Internet can generate a great deal of disruption and reaction from the Internet community as a whole. This can include¸ but is not limited to¸ material that is considered obscene¸ offensive¸ or extremely controversial. While Cloudways Ltd. does not actively censor its Users¸ the reaction this material can generate can be expensive and time consuming¸ and as such makes the continued support of Users generating this kind of content of questionable business value to Cloudways Ltd. You understand and agree that Cloudways Ltd. may suspend or terminate your Services should your usage constitute disruptive content¸ as determined by Cloudways Ltd. in its sole discretion¸ from the Internet community at large.
+8) Adult Content:
+You agree not to use the Services to post or host any type of adult content on your website. It may include but not be limited to material considered to be pornographic content and images. You understand and agree that Cloudways Ltd. may suspend or terminate your Services should your usage constitute adult content¸ as determined by Cloudways Ltd. in its sole discretion.
+9) Reselling or Reconfiguring the Services:
+You may not resell the Services or redistribute or reconfigure the Services to allow others to use the Services in an illegal¸ fraudulent or inappropriate manner. Interpretation of this clause will be at the sole discretion of Cloudways Ltd.
+10) Weapons and Firearms:
+You agree not to use the Services to post or host any type of weapons and firearms related content on your website. This includes but not limited to sale of parts/components/kits for weapons and firearms, 3D printed parts, demo videos, and ammunition sales. You understand and agree that Cloudways Ltd. may suspend or terminate your Services should your usage violates this stated policy, as determined by Cloudways Ltd. in its sole discretion.
+11) Copyright Infringement:
+Cloudways Ltd. respects the intellectual property rights of others and expects You to do the same. It is a violation of this Acceptable Use Policy to use the Services to transmit and/or store copyrighted material in a manner that is contrary to any applicable legislation. If Cloudways Ltd. has a reasonable belief¸ in its sole judgment¸ that You have violated this Acceptable Use Policy¸ Cloudways Ltd. may take any action it deems appropriate¸ which may include¸ without limitation¸ notifying You of a suspected violation¸ suspending your account¸ or terminating your account. These actions are in addition to and not by way of substitution of any and/or all other remedies that we may have against You under any applicable law.
+If you believe your work has been copied in any way that constitutes infringement¸ please provide us with the following information:
+(a) An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+(b) A description of the copyrighted work that you claim has been infringed;
+(c) Identification of where the material (including the URL if possible) that you claim is infringing is located;
+(d) Your address¸ telephone number and email address;
+(e) A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner¸ its agent or the law; and
+(f) A statement by you¸ made under penalty of perjury if you are asked to testify on the matter in a court of law¸ that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owners behalf.
+For all copyright infringement and related matters¸ you may contact us on
+contact@cloudways.com
+II. CHANGES TO THE ACCEPTABLE USE POLICY
+Cloudways Ltd. may make changes to the Acceptable Use Policy from time to time. When these changes are made, Cloudways Ltd. will make a new copy of the Acceptable Use Policy available at http://www.cloudways.com/terms.php. Cloudways will also notify You of any substantial changes on the email address provided by You during the registration process, and give You the opportunity to terminate Your contract with Us should you not agree with these substantial changes.
+You understand and agree that if you use the Services after the date indicated in the said email , Cloudways Ltd. will treat your use as acceptance of the updated Acceptable Use Policy.
+Governing Law
+These Terms of Use are governed by and construed in accordance with Maltese law. Any dispute (including non-contractual disputes) arising from these Terms of Use shall be subject to the exclusive jurisdiction of the Maltese courts or other adjudicating bodies.
+Last Updated on 21 th
+May 2018
+Version 1.1
+NOTICE:
+The Cookie Policy below will go into effect on May 25, 2018. To view the current Policy, click
+here .
+INTRODUCTION
+This cookie policy ( Cookie Policy ) relates to the website
+https://www.cloudways.com
+and/or any sub-website and/or associated domains (and/or sub-domains) of
+https://www.cloudways.com
+(hereinafter referred to as the  Site  owned by
+Cloudways Limited ). In this Cookie Policy,  We ,  Us ,  Our ,  Ourselves  and/or  Cloudways  shall refer to
+Cloudways Limited
+(C 55975) and  You  and  Your  and User refer to an identified or identifiable natural person being the user of this Site and/or client of any of Cloudways services. Our full details, including contact details, can be read
+below .
+For more information about how We process Your Personal Data, please read Our
+Privacy Policy .
+CONTENTS OF THIS COOKIE POLICY
+WHAT ARE COOKIES?
+WHY WE USE COOKIES
+ESSENTIAL COOKIES
+NON-ESSENTIAL COOKIES
+SPECIFIC COOKIES USED ON THIS SITE
+WHAT ARE WEB BEACONS AND HOW WE USE THEM?
+HOW TO DELETE OR DISABLE COOKIES VIA YOUR BROWSER
+CLOUDWAYS DETAILS
+UPDATES
+WHAT ARE COOKIES?
+Our Site uses cookies, an element of data (usually, a very small file) that a website can send to Your browser, which may then store it on Your computer or mobile device.
+These cookies allow Us to correctly operate the Site and/or to provide You with web pages or content that are tailored to You. For example, some cookies remember Your custom preferences. This information can, in some cases, be carried from one visit of our Site (or related site) to the next (for example, to help You avoid having to re-enter certain information when You visit the same page later. Some of these cookies require Your consent (as explained below).
+Some cookies are created for each session when You visit Our Site, while others are persistent and may remain for a number of months or years to facilitate Your access to Our Site.
+WHY WE USE COOKIES
+We absolutely respect Your right to privacy.
+We use cookies to ensure the functionality of our Site and to make Your website experience better.
+You can remove any cookies already stored on Your computer or mobile device (as explained below) but this may prevent You from using parts of this Site or may cause You to see this message, or part thereof, again.
+Apart from the cookies We make use of Ourselves, various third-party cookies may also be stored on Your computer or mobile device.
+ESSENTIAL AND NON-ESSENTIAL COOKIES
+We divide cookies into two main categories namely:
+1)
+ESSENTIAL COOKIES . These are strictly necessary to ensure that the Site functions in Your everyday use of it or for Us to provide You with the service(s) You expect from Us. Cookies used for the sole purpose of carrying out or facilitating the transmission of a communication will also be considered as essential cookies.
+We do not require Your consent to use such essential cookies but You may still block or delete them
+( see below ).
+Some examples of
+essential
+cookies as found in the European Commissions EU Internet Handbook (see
+http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm ) are as follows:
+USER-INPUT
+cookies (session-id) such as first-party cookies to keep track of the Users input when filling online forms, shopping carts, etc., for the duration of a session or persistent cookies limited to a few hours in some cases
+AUTHENTICATION
+cookies, to identify the User once he has logged in, for the duration of a session
+USER-CENTRIC SECURITY
+cookies, used to detect authentication abuses, for a limited persistent duration
+MULTIMEDIA CONTENT PLAYER
+cookies, used to store technical data to play back video or audio content, for the duration of a session
+LOAD-BALANCING
+cookies, for the duration of session
+USER-INTERFACE CUSTOMISATION
+cookies such as language or font preferences, for the duration of a session (or slightly longer)
+THIRD-PARTY SOCIAL PLUG-IN CONTENT-SHARING
+cookies, for logged-in members of a social network
+2)
+NON-ESSENTIAL COOKIES . These are not required for the essential functioning of the Site, although they may greatly enhance Your experience of using Our Site. For example, non-essential cookies may be used for the following reasons:
+PREFERENCES . These cookies would remember Your custom preferences. For example, this helps You avoid having to re-enter certain information when You visit the same page later;
+MARKETING . Here, the cookies would be used to gather information about Your browsing habits allowing Us to provide You with more relevant information and material that would be of interest to You;
+STATISTICS . These help Us gather information about users on Our Site(s), such as when You first visited the Site and/or how often You access it and at what particular time. These also include cookies that log how You came across the Site, using which search engine or other link.
+WE SHALL ONLY PLACE NON-ESSENTIAL COOKIES ON YOUR COMPUTER OR MOBILE DEVICE IF YOU CONSENT TO THAT SPECIFIC CATEGORY OF COOKIE
+being placed by way of a pop-up on relevant areas of our Site the first time you visit it and possibly subsequently (if necessary) and/or by accepting this Cookie Policy (or other similarly effective mechanism). This will not prevent You from deleting or disabling cookies by modifying Your browser settings as
+explained below .
+YOU MAY WITHDRAW SUCH CONSENT FOR NON-ESSENTIAL COOKIES AT ANY TIME BY THE SAME METHOD IN WHICH YOU GAVE IT TO US.
+SPECIFIC COOKIES USED ON THIS SITE:
+As a result of your interaction with the Site, a number of cookies are created. These cookies can be classified into the following categories, depending upon their usage:
+STRICTLY NECESSARY OR ESSENTIAL:
+These required cookies allow you to access/use our services, navigate our platform and access relevant information about your account. Disabling or removing these cookies will impact the delivery of services on our Sites. For example of these cookies is authentication cookie that authenticate users for the duration of their visit.
+PERFORMANCE:
+These cookies help us improve your Cloudways experience by recording your access and interaction with the Cloudways services and websites. These cookies are used to collect information about the performance of our on-Site activities. For example, Cloudways uses Google Analytics to track traffic on the site.
+FUNCTIONALITY:
+These cookies provide you with better access to Cloudways Services by storing your preferences about Cloudways products and services. For example, we use UserVoice, a user feedback tool to collect the opinions of the users.
+MARKETING:
+These cookies and similar tracking technologies (see above) track your online activities and show you ads based on your interests. For example HubSpot.
+WHAT ARE WEB BEACONS AND HOW WE USE THEM?
+Also known as pixel tags or clear GIFs, web beacons are small images that may be included on our sites. Together with cookies, these work to identify users and their behavior. We use Web beacons to show you ads based on your preferences. Web beacons help us track and monitor our marketing activities.
+HOW TO DELETE OR DISABLE COOKIES VIA YOUR BROWSER
+Even if We obtain Your consent to use non-essential cookies or if We use essential cookies (where we dont need your consent), You can still control Your settings in Your browser to delete or disable cookies.
+If Your browser is NOT configured, by default, to block all or certain cookies, You may manually configure Your browser to either reject all cookies or control which cookies are set on Your computer or mobile device through the Site. Should You wish to reject all or certain cookies used by Our Site, You may modify Your web browser preferences to do so.
+If You reject ALL cookies (including
+Essential Cookies ) then You might be unable to use some of the features or services available on Our Site and You might also experience a lack of full functionality of the Site.
+Usually, the information on how to change Your options regarding cookies can be obtained by referring to Your operating systems manual or to the Help section of Your web browser, or by contacting Your Internet Service Provider.
+You may also find all the necessary information on how to make the necessary configuration settings by visiting the following helpful site:
+http://www.allaboutcookies.org/manage-cookies/
+Please read Our
+Privacy Policy
+which, among other things, explains all Your rights as a data subject.
+For more information please feel free to contact us as indicated below.
+CLOUDWAYS DETAILS
+Cloudways is the data controller responsible for processing of Your personal data that takes place via the Site or in the manner explained above.
+If You have any questions/ comments about privacy, You should contact Us at:
+privacy@cloudways.com
+or by writing to
+Cloudways Limited, 52, Springvale, Pope Pius XII Street, Mosta, MST2653, Malta
+UPDATES
+We reserve the right, at Our complete discretion, to change, modify, add and/or remove portions of this Cookie Policy at any time. If You are an existing client with whom We have a contractual relationship You shall be informed by Us of any changes made to this Cookie Policy (as well as other terms and conditions relevant to the Site). We shall also archive and store previous versions of the Cookie Policy for Your review.
+As a User of this Site with which We have no contractual relationship or even a lawful way of tracing, it is in Your interest to regularly check for any updates to this Cookie Policy, in the event that Our attempts to notify You of such updates do not reach You.
+Last Updated on 21th May 2018
+The following Terms and Conditions (T&C, Terms or Agreement) apply to your participation in the Affiliate Program offered by Cloudways (we, us, our) or any of our affiliated entities. The Affiliate Program (the Program) allows you (the Affiliate, your) to promote Cloudways services and receive commissions as set out in this T&C. The Terms and Conditions incorporate by reference our Acceptable Use Policy (AUP) and our Privacy Policy.
+1. Participation in the Affiliate Program
+To join Cloudways affiliate program;
+Step # 1:
+First,
+log in to Cloudways Platform with your credentials. To join our affiliate program, click on the Grid Icon from the top menu bar and then select Affiliate Program.
+Step # 2:
+Fill out the form to complete your affiliate profile and click CREATE YOUR AFFILIATE PROFILE.
+Step # 3:
+Once your affiliate profile is created, you will be able to access your Affiliate Panel by clicking on ACCESS YOUR AFFILIATE PANEL at the top of the page. For any changes to your affiliate profile, click SAVE CHANGES at the bottom of the page.
+2. Your Responsibilities
+As a Cloudways Affiliate, you agree that:
+You are responsible for providing us with full and accurate account information and for keeping that information up to date. Such information includes, but is not limited to: contact details, all website URL(s) where Cloudways will be promoted, promotional practices and means, payment details and any other details we may require. We reserve the right to request additional data regarding all the websites where you promote Cloudways and the promotional practices you use. Failure to provide accurate information may result in exclusion from the Program, suspension or termination of your Affiliate account and forfeiture of any commissions.
+You should act in good faith to refer customers in good standing. Customers in good standing are hosting account owners who have provided valid contact information, are not flagged for fraud risk, have active accounts as per the Cloudways Terms of Service and actively use their accounts. Active account usage is determined at our sole discretion and may be based on the following: The referred customer has maintained an active account with a running server on the Cloudways platform and that the user has not canceled the account subscription or churned out.
+You should not take action or make recommendations to your referrals that result in a potential revenue loss for Cloudways.
+You should not engage in incentivized programs and business-opportunity sites, using marketing practices that might be unethical or likely to attract customers, not in good standing.
+You should not use on behalf of your referrals or encourage your referrals to use on their Cloudways accounts any copyrighted or third-party material without the proper licenses.
+You should not copy, alter or modify any icons, buttons, banners, graphics, files or content contained in Cloudways Links, including but not limited to removing or altering any copyright or trademark notices, without prior written approval from us.
+You should not engage in any SEO/spam link building techniques in order to generate more referrals for Cloudways.
+You agree not to violate any applicable law.
+You should be loyal to Cloudways and should not misuse its confidence and shall not damage its reputation.
+You are required to disclose the affiliate relationship with Cloudways on your website.
+If we detect a pattern in your affiliate practices that in our reasonable opinion violates any aspect of the T&C, we reserve the right to suspend or terminate your affiliate account and cancel all outstanding commission payments due.
+3. Affiliate Advertising
+When advertising our services, you should use only promotional materials approved by Cloudways. Approved materials are only those we provide in your Affiliate Area or the ones that a Cloudways representative approves in writing. Approved materials may contain the Cloudways trade names, service marks, and/or logos for display on your Affiliate Site and slogans. We hereby grant you a limited, non-exclusive, non-transferable license to access and download such promotional materials for placement on your website for the sole and exclusive purpose of promoting websites owned, operated or controlled by Cloudways. By using such promotional materials, you agree to work with us in order to establish and maintain approved promotional materials.
+Upon termination of your affiliate account, the limited, non-exclusive license to access and download promotional materials of Cloudways shall be automatically withdrawn.
+Inappropriate ways of advertising include, but are not limited to:
+Using any illegal or spam method of advertising, e.g. unsolicited email, unauthorized placing of the link in forums, newsgroups, message boards etc.;
+Bidding on keywords and phrases containing the Cloudways trademark, or variations or misspellings of the trademarked term on Pay per Click or Pay per Impression campaigns on the search engines (Google, Yahoo, MSN, Ask, Bing or others) without our prior approval. You are not allowed to use the Cloudways Website(s) as display URL in PPC ads and to direct-link or redirect to the Cloudways Website(s) without our prior approval;
+Using non-unique copyright infringing content to promote Cloudways;
+Using traffic generated by pay to read, pay to click, banner exchanges, click exchanges, PPV advertising, pop-up/under, or similar methods;
+Providing cash backs, rewards or any other kind of incentives to obtain the sale without our prior approval;
+Offering price savings methods, including coupon(s), voucher(s), discount codes, or added value offers without our prior approval;
+Using our advertising and promotional materials, trademark or name in a way which negatively affects our image;
+Using iframes or any other techniques or technology that places your affiliate tracking cookie by any means other than an actual click-through;
+Using link cloaking or masking techniques or technology with the goal to promote Cloudways on websites and/or networks not explicitly listed in your affiliate profile and hiding that traffic source;
+Your website(s) must NOT contain lewd, obscene, illegal or pornographic material or any other material that is deemed to be objectionable. This includes, but is not limited to, bigotry, hatred, pornography, satanic materials, trademark and copyright materials, all content of an adult nature, etc. The designation of any materials as such is subject to our reasonable opinion;
+Your domain name(s), company name, logo, trademark, product(s), project(s), service(s) must NOT contain keywords and phrases containing the Clouways trademark or any other variations or misspellings confusingly similar to Cloudways trademark, name, logo or domain name, without our prior approval;
+Your domain name(s), company name, logo, trademark, your product(s), project(s), service(s) must NOT contain keywords and phrases that contain or are confusingly similar to third-party trademarks, names, logos or domain names, unless you have been duly authorized by the trademark owner.
+Cloudways shall have the sole right to decide if a promotional method you use is appropriate. The use of any advertising method that we consider inappropriate may result in a warning, suspension or termination of your affiliate account and cancellation of all outstanding commission payments due.
+4. Affiliate Tracking Cookies
+We track affiliate sales automatically through the use of cookies. The cookies are placed in the browser of the user that clicks on the affiliate link to reach our website. Each cookie is stored for 90 days. If there is a previous affiliate cookie in the same users browser the new cookies will overwrite it. Cloudways is not responsible for cookies intentionally deleted by users.
+5. Affiliate Commissions
+We shall pay you a per-sale commission for any valid sale you refer to Cloudways. For a valid sale ALL of the following are true:
+The sale was made as a result of your active referral efforts. We determine that if any of the following is true:
+At the time of order the customer has an active cookie indicating you as the last affiliate who referred them to our website, provided that the customer has not reached our website through a search engine with a search string not containing the Cloudways name;
+You claim that you have referred a customer no later than 45 days from their order date, the customer does not object to that claim and we do not have information that attributes the sale to another advertising channel.
+Your affiliate account must be active at the time of the sale. No commission is due for sales that were made before you registered for our Affiliate Program.
+The customer you refer has not used our services before and has not signed up for an affiliate account with us before.
+The customer completed their order processes without any assistance from you, including when you act on behalf of the customer.
+The sale is for any of our web hosting plans. Sales for other services or additional account features do not qualify for commissions.
+The referred customer has maintained an active account with a running server on our platform and that the user has not canceled the account subscription or churned out.
+Sales of hosting accounts that are canceled by the customer or suspended by Cloudways for any reason do not qualify for an affiliate commission.
+We reserve the right to mark any sale as invalid at our own discretion, without providing any explanation or justification.
+6. Commission Payments
+Cloudways shall pay all affiliate commissions based on the structure and in the US dollar currency unless a custom agreement exists in writing. The sale gets approved when the referred client has paid a minimum of 2 invoices. When this happens, the status of your Sale commission changes from pending to approved in the affiliate panel. We shall pay:
+ To affiliate before the 10th of each month through PayPal once their affiliate earnings reach $250 (approved commission) criteria.
+ To affiliate before the 10th of each month through wire transfer once their affiliate earnings reach $1,000 (approved commission) criteria.
+ In case affiliate is a paying customer at Cloudways, in that case, they can add commissions to Cloudways funds also. The minimum requirement for funds transfer is $100 approved commission. This is processed along with payouts.
+We reserve the right to extend the holding period as set out in the T&C and without prior notice for as long as is reasonably necessary in order to establish the validity of a sale.
+You are solely responsible for keeping all your information up to date including postal and email addresses, names, payment information and any other personal information that will impact our ability to process a commission payout.
+We may suspend your commission payouts at any time and for any period, if we suspect fraudulent or other improper activity or a potential violation of this Agreement by you or any customer you refer.
+We reserve the right to deduct from your current and future commissions any and all commissions paid out for sales that are fraudulent, questionable, or canceled. Where no current and future commissions are due, we will send you a bill for the balance of such refunded purchase upon termination of the program or termination of the referred customer account.
+7. Invoicing
+We shall provide you with a statement of commissions due in your Affiliate Area.
+The Affiliate Program Terms and Conditions will be considered a valid Self-billing Agreement between you and Cloudways that shall continue until termination of your Affiliate account.
+8. Relationship of the Parties
+Both Cloudways and the Affiliate agree that they enter into this Agreement as independent contractors, and nothing in this Agreement will create any partnership, joint venture, agency franchise, sales representative, or employment relationship between them. The Affiliate has no authority to make or accept any offers or representations on behalf of Cloudways. The Affiliate cannot make any statement, whether on the Affiliate website or otherwise, that reasonably would contradict anything in this section.
+9. Account Termination
+You can cancel and terminate your affiliate account at any time by contacting us through your Affiliate Area. We will send you written confirmation that your account has been terminated.
+Cloudways can terminate an affiliate account:
+With a seven-day prior notice without explanation.
+Immediately with no prior notice, if you or your affiliate account violate the Affiliate Program Terms and Conditions.
+Once an affiliate account is terminated, we will no longer track the sales associated with the affiliate and you will not qualify for future affiliate commissions. Any commissions due at the time of termination will be paid to the Affiliate as per payout criteria. No outstanding commission payments will be due if we terminate your account because of the violation of this T&C.
+Upon termination of the affiliate account, this Agreement shall be automatically terminated.
+10. Limitation of Liability
+YOU AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU WILL NOT UNDER ANY CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, HOLD US OR OUR LICENSORS, AGENTS, EMPLOYEES, DIRECTORS, OFFICERS AND/OR THIRD PARTY VENDORS LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOST PROFITS, COST SAVINGS, REVENUE, BUSINESS, DATA OR USE, OR ANY OTHER PECUNIARY LOSS BY YOU OR ANY OTHER THIRD PARTY. YOU AGREE THAT THE FOREGOING LIMITATIONS APPLY WHETHER IN AN ACTION IN CONTRACT OR TORT OR ANY OTHER LEGAL THEORY AND APPLY EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL WE BE LIABLE TO YOU WITH RESPECT TO ANY AND ALL BREACHES, DEFAULTS, OR CLAIMS OF LIABILITY UNDER THIS AGREEMENT OR UNDER ANY OTHER DOCUMENT. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. YOU AGREE THAT IN THOSE JURISDICTIONS, OUR LIABILITY WILL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
+This provision shall survive termination of the Agreement.
+With a seven-day prior notice without explanation.
+Immediately with no prior notice, if you or your affiliate account violate the Affiliate Program Terms and Conditions.
+Once an affiliate account is terminated, we will no longer track the sales associated with the affiliate and you will not qualify for future affiliate commissions. Any commissions due at the time of termination will be paid to the Affiliate as per payout criteria. No outstanding commission payments will be due if we terminate your account because of the violation of this T&C.
+Upon termination of the affiliate account, this Agreement shall be automatically terminated.
+11. Governing Law
+Any dispute, controversy or claim arising under this Agreement shall be resolved in accordance with the legislation in the jurisdiction of Malta.
+12. Changes to the Affiliate Program Terms
+We may alter this Agreement and any policies or provisions incorporated by reference at any time. The amendments and/or supplements of the Agreement shall be effective immediately upon posting to the website of Cloudways. The current T&C is always available on the Cloudways website. Only a Cloudways officer may alter this T&C. No agent of, or person employed by or under contract with, Cloudways has any authority to alter or vary this T&C in any way. No oral explanation or oral information given by any party shall alter the interpretation of this T&C.
+30
+Days
+18
+Hours
+54
+Mins
+09
+Secs
+PRODUCT & SOLUTION
+WordPress Hosting
+WooCommerce Hosting
+Enterprise WordPress Hosting
+Magento Hosting
+PHP Hosting
+Laravel Hosting
+Drupal Hosting
+Joomla Hosting
+PrestaShop Hosting
+Ecommerce Hosting
+Managed
+Amazon Cloud
+Managed Google Cloud
+Managed DigitalOcean
+Managed Linode
+Managed Vultr
+Affiliate Program
+QUICK LINKS
+Features
+Pricing
+Breeze  Cache
+Free SSL
+Staging Environment
+Add-ons
+CloudwaysCDN
+CloudwaysBot
+Free Website Migration
+COMPANY
+About Us
+Careers
+Reviews
+Media Kit
+Testimonials
+Sitemap
+Terms
+Partners
+Mavericks
+SUPPORT
+Our Support
+Knowledge Base
+Blog
+Resource Center
+Community
+Feedback
+Contact Us
+Write For Us
+52 Springvale, Pope Pius XII Street Mosta MST2653, Malta
+English
+US (English)
+© 2020 Cloudways Ltd. All rights reserved

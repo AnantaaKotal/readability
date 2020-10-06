@@ -1,0 +1,188 @@
+Privacy Policy - Netskope
+This website uses cookies for advertising and analytics purposes as described in our cookie policy. For more information and to set preferences, please
+click here . By continuing to browse this website, you accept our use of cookies.
+×
+×
+Search
+Language
+English
+Français
+
+Español
+Contact us
+Why Netskope Why Netskope Reimagine
+your perimeter Why Netskope? Only proven cloud security platform that is data-centric, cloud-smart, and as fast as your business. Data-Centric Netskope takes a data-centric approach to cloud security, following data everywhere it goes.
+Cloud-smart Netskope enables you to take advantage of our intimate, contextual understanding of the cloud to secure the cloud and web. Fast Netskope delivers real-time, cloud-native security, without the traditional performance trade-off. Our customers Our customers trust us to protect their data and users everywhere they go. Case studies Learn how Netskope customers are reimagining their perimeter.
+Products & Services Products & Services Netskope Platform Data-centric, cloud-smart, and fast. So you can reimagine your perimeter. Cloud native Cloud XD Deployment options NewEdge Technology integrations Truly unified Products & Services Our products and services help you secure your digital transformation journey every step of the way.
+Cloud Access Security Broker (CASB) Next Gen Secure Web Gateway (SWG) Private Access Public Cloud Security Services Professional Services Customer Success Training Support Capabilities Unrivaled visibility and real-time data and threat protection anywhere, on any device. Adaptive access control Cloud encryption Data protection Deployment options SSL/TLS inspection Third-party risk Threat protection Web content filtering Zero Trust Network Access
+Solutions Solutions Secure the cloud, web & private apps Protect users and data anywhere, on any device. Office 365 Managed cloud applications Unmanaged cloud AWS, Azure, & GCP Securing Remote Workers Modernize your security program Improve efficiency and performance for todays cloud- and mobile world. Data protection Threat protection Compliance Efficiency Performance Upgrade your security stack Upgrade your existing tools with modern functionality architected for todays world. Virtual Private Networks (VPNs) Secure web gateway (SWG) SSL decryption appliances First-generation CASB Industries Netskope helps the largest enterprises in the world secure their journey to the cloud. Financial Services & Insurance Government Healthcare & Life Sciences High-Technology Manufacturing Retail & Hospitality See more industries
+Resources Resources SASE Adoption Guide Get the guide Resource library Learn more about how Netskope can help you secure your journey to the cloud. Analyst reports Case studies Data sheets Demos & videos Ebooks Events Reports & guides Solution briefs On-demand webinars White papers Blog Read more about how Netskope is reimagining the perimeter. Behind the scenes Cloud architecture Data protection News & announcements Private access Security transformation Threat protection Threat Research Labs
+Company Company About Netskope We're redefining cloud, network, and data security. Leadership Our leadership team is fiercely committed to doing everything it takes to make our customers successful. Security & Assurance We take our responsibility to protect our users information and the services we provide to them very seriously. Netskope Threat Labs The Netskope Threat Labs discovers, analyzes, and designs defenses against the latest cloud threats affecting enterprises. Awards Careers Contact us Customers Events Executive briefing program Press releases Partners We partner with leaders across the security industry to help customers secure their journey to the cloud. Partner portal Solution providers Technology partners
+Request Demo
+Search
+×
+Language
+English
+Français
+
+Español
+Contact us
+Why Netskope Why Netskope Reimagine
+your perimeter Why Netskope? Only proven cloud security platform that is data-centric, cloud-smart, and as fast as your business. Data-Centric Netskope takes a data-centric approach to cloud security, following data everywhere it goes.
+Cloud-smart Netskope enables you to take advantage of our intimate, contextual understanding of the cloud to secure the cloud and web. Fast Netskope delivers real-time, cloud-native security, without the traditional performance trade-off. Our customers Our customers trust us to protect their data and users everywhere they go. Case studies Learn how Netskope customers are reimagining their perimeter.
+Products & Services Products & Services Netskope Platform Data-centric, cloud-smart, and fast. So you can reimagine your perimeter. Cloud native Cloud XD Deployment options NewEdge Technology integrations Truly unified Products & Services Our products and services help you secure your digital transformation journey every step of the way.
+Cloud Access Security Broker (CASB) Next Gen Secure Web Gateway (SWG) Private Access Public Cloud Security Services Professional Services Customer Success Training Support Capabilities Unrivaled visibility and real-time data and threat protection anywhere, on any device. Adaptive access control Cloud encryption Data protection Deployment options SSL/TLS inspection Third-party risk Threat protection Web content filtering Zero Trust Network Access
+Solutions Solutions Secure the cloud, web & private apps Protect users and data anywhere, on any device. Office 365 Managed cloud applications Unmanaged cloud AWS, Azure, & GCP Securing Remote Workers Modernize your security program Improve efficiency and performance for todays cloud- and mobile world. Data protection Threat protection Compliance Efficiency Performance Upgrade your security stack Upgrade your existing tools with modern functionality architected for todays world. Virtual Private Networks (VPNs) Secure web gateway (SWG) SSL decryption appliances First-generation CASB Industries Netskope helps the largest enterprises in the world secure their journey to the cloud. Financial Services & Insurance Government Healthcare & Life Sciences High-Technology Manufacturing Retail & Hospitality See more industries
+Resources Resources SASE Adoption Guide Get the guide Resource library Learn more about how Netskope can help you secure your journey to the cloud. Analyst reports Case studies Data sheets Demos & videos Ebooks Events Reports & guides Solution briefs On-demand webinars White papers Blog Read more about how Netskope is reimagining the perimeter. Behind the scenes Cloud architecture Data protection News & announcements Private access Security transformation Threat protection Threat Research Labs
+Company Company About Netskope We're redefining cloud, network, and data security. Leadership Our leadership team is fiercely committed to doing everything it takes to make our customers successful. Security & Assurance We take our responsibility to protect our users information and the services we provide to them very seriously. Netskope Threat Labs The Netskope Threat Labs discovers, analyzes, and designs defenses against the latest cloud threats affecting enterprises. Awards Careers Contact us Customers Events Executive briefing program Press releases Partners We partner with leaders across the security industry to help customers secure their journey to the cloud. Partner portal Solution providers Technology partners
+Request Demo
+Netskope Privacy Policy
+Last Updated: February 5, 2020
+Netskope, Inc. respects your privacy and is committed to protecting the personal information you share with us. This Privacy Statement describes how Netskope collects, uses, shares, and secures the personal information you provide. It also describes your choices regarding use, access and correction of your personal information.
+This Privacy Statement covers Netskope, Inc. and its affiliated companies and subsidiaries (collectively Netskope, We, Us, or Our) websites, mobile and desktop service agent applications, and services that link to or reference this Privacy Statement. When visiting web sites of Netskope please review the applicable privacy policies disclosed on those sites. Netskope offers and provides a variety of products, information, services, and solutions, collectively referred to throughout this document as Services. The term partner is used in these Terms in the popular sense as referring to a person or entity that has entered into a collaborative relationship with Netskope and does not imply the existence of a legal partnership. Personal information is any information that can be used to identify an individual, and may include but is not limited to first and last name, email address, telephone number, postal or other physical address, login information (User ID, account number, password), marketing preferences, social media account information, other contact information, title, occupation, work industry, and other information which you may submit to Netskope for it to provide products, services, and information to you. If we link other data with your personal information, we will treat that linked data as personal information. By proceeding to use the Site and/or the Netskope Services you consent that we may process the personal data that we collect from you in accordance with this Privacy Statement. The use of information collected through our Platform/Service shall be limited to the purpose of providing the service for which the Client has engaged Netskope. Please review the Disclosures Specific to Netskope Services section below for additional information.
+Personal Information Collection
+We may collect personal information from you, such as name, company, email address, and phone number. As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
+We may receive information about you from other sources, including third parties from whom we have obtained data such as name, title, company, email address, physical mailing address, phone number, and information about the advertising link clicked, information requested, or event registered for, etc. We may combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. If you believe that your personal information has been provided to us and would like to request that it be removed from our database, please contact us at the contact information below.
+We collect personal information for a variety of reasons, such as:
+Processing your order for a product or services, including, but not limited to:
+Purchases
+Product evaluations
+Technology previews
+Beta downloads
+Payment transactions
+Registering for information requests such as reports, white papers, or data sheets
+Registering for an online program, event, seminars, promotions or sweepstakes
+Participating in events, surveys, questionnaires, or evaluations
+Providing you with a newsletter subscription
+Sending marketing communications
+Registering as a partner
+Creating an account
+Enabling the use of certain features of our products and services
+Downloading and registering mobile applications
+Personalizing your experience.
+Providing customer support
+Managing a job application
+When you download and use our Services, we automatically collect information on the type of device you use, and operating system version. We do not ask for, access or track any location-based information other than your IP address from your mobile device at any time while downloading or using our mobile applications or Services.
+In some instances, like many other commercial websites, Netskope and the third parties we engage may automatically collect data through cookies, web logs, web beacons, and other similar applications. This information is used to better understand and improve the usability, performance, and effectiveness of the website and to help tailor content or offers for you. Please read the Cookies and Other Web Technologies section below for more information.
+How We Use Personal Information Collected
+Netskope may use personal information for the purposes of operating our business, providing customers and business partners with information and services and to help us better understand your needs and interests, improving our websites, sending marketing and other communication related to our business, and for other legitimate purposes permitted by applicable law. Specifically, some of the ways we may use personal information include:
+Delivering products or services you have requested including processing and fulfillment of your order and to send you emails to confirm your order status and shipment.
+To provide ongoing service and support
+Analyzing, supporting, and improving our Services and your online experience.
+Personalizing websites, newsletters and other communications.
+Administering and processing your training and certification exams.
+To administer and fulfill information requests and our promotions and offers.
+Sending communications to you, including for marketing, surveys, quality assurance, or customer satisfaction purposes, either directly from Netskope or from our partners.
+To contact you if necessary.
+To help us learn more about your preferences.
+To analyze trends and statistics.
+To protect the security or integrity of our websites and business.
+You can update your communication preferences at any time. See Your Choices below.
+Access to and Accuracy of Your Personal Information
+You may request that we update, change or remove information posted on or submitted through our Site or that we provide you with information about whether we hold or process any of your personal information by contacting  [email protected]  or by regular mail addressed to:
+Netskope, Inc.
+Attn: Privacy
+2445 Augustine Dr, 3rd floor
+Santa Clara, CA 95054
+We will respond to these requests within a reasonable timeframe. Copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time. We may also retain your information in our business records for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+Your Choices
+You may sign-up to receive our newsletter or other communications and information from us related to our Services. If you would like to discontinue receiving this information, you may update your email preferences by using the Unsubscribe link found in each promotional email we send to you or by sending us a message through email,  [email protected] , or by mail to: Netskope Systems, Inc., Attn: Privacy, 2445 Augustine Dr, 3rd floor, Santa Clara, CA 95054. Please be sure to include your name, email address, and specific, relevant information about the material you no longer wish to receive.
+These choices do not apply to service notifications or other required communications that are considered part of certain Services, which you may receive periodically unless you stop using or cancel the Service in accordance with its terms and conditions.
+We partner with third parties to either display advertising on our website or to manage our advertising on other sites. Our third party partners may use cookies or similar technologies in order to provide you with advertising based upon your browsing activities and interests. If you wish to opt-out of interest-based advertising by third parties click  here  (or if located in the European Union click  here ). Please note, generic, non-personalized ads will continue to be displayed.
+By using our websites, Services, or otherwise providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use. For example, if we learn of a security systems breach, we may attempt to notify you electronically by posting a notice on our websites, by sending an email, or otherwise contacting you.
+Personal Information Sharing and Disclosure
+Your personal information may be shared with Netskope offices or partners around the world. In such case, this Privacy Statement governs the entities concerned.
+Within Netskope, data is stored in controlled servers with restricted access. Your personal information may be stored and processed worldwide in the global offices of Netskope and any of our worldwide subsidiaries or affiliates. Unless otherwise specified in this Privacy Statement, your personal information is not shared outside Netskope without your permission. Netskope may send your personal information to other companies or people under any of the following circumstances:
+If sharing your information is necessary to provide a product, service or information you have requested; by way of example, sharing your information with a bank, logistics company, event organizer, marketing agency, etc.
+As part of a joint sales or event promotion with our business partners.
+To keep you up to date on the latest product announcements, software updates, special offers or other information we think you would like to hear about either from us, through our marketing agencies or from our business partners.
+For the purpose of conducting US Export law compliance checks, passing your information to our contracted vendors.
+With business partners, service vendors, authorized third-party agents, or contractors to provide a requested Solution, service or transaction. Examples include, but are not limited to: processing of orders and credit card transactions, hosting websites, hosting seminar registration, assisting with sales-related efforts or post-sales support, and providing customer support.
+In aggregated form which cannot reasonably be used to directly identify you.
+Provided that any such disclosure shall be aggregated, the Customer agrees that Netskope may use for its business purposes portions of the Customer Data, or specific metrics derived from Customers usage of the Netskopes Services, or both.
+We may collect and aggregate statistics on our product usage and any related cloud service usage across Customers that will help Netskope perform industry benchmarking of service usage, product usage trending, and for projecting business and operational scaling.
+In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company.
+In certain situations, Netskope may be required to disclose personal data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. We reserve our right to disclose your personal information to a third party if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) comply with any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Legal Notice and Terms of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Netskope, its users or the public as required or permitted by law.
+If we otherwise notify you and you consent to the sharing (if required under local law.)
+Choice. We will give you an opportunity to choose (optin or optout) whether your Personal information is 1) disclosed to a third party (other than an agent or service provider doing work at our direction), or 2) to be used for a purpose that is materially different than that for which it was collected or subsequently authorized by you
+Cookies and Other Web Technologies
+Cookies, web beacons and/or similar devices were originally designed to help a website distinguish a users browser from a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site or to track the users activities. A cookie is a small string of text that a website can send to your browser. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your email address. Currently, Netskope and its partners use cookies or similar technologies to enhance the users visit; in general, cookies can securely store a users ID and password, personalize home pages, identify which parts of a site have been visited or keep track of selections. A web beacon is a small transparent gif image that is embedded in an HTML page or email used to track when the page or email has been viewed. A similar device may be used by which a product or service may send data to a server when a set of user-initiated events occur such as when a selection is made. This device is similar to a cookie in that it tracks your visit and the data can only be read by the server that receives the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer.
+These tools collect certain standard information that your browser sends to our website such as your browser type and the address of the website from which you arrived at our website. They may also collect information about:
+Your Internet Protocol (IP) address . This is a number automatically assigned to your computer or device whenever you are connecting to the Internet. It allows web servers to locate and identify your device, this is a unique address assigned to your device by your Internet service provider or information systems department on a TCP/IP network.
+Clickstream behavior . For example, the pages you view and the links you click.
+These tools help make your visit to our website easier, more efficient, and more valuable by providing you with a customized experience and recognizing you when you return. If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of Netskopes website if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our website. To use/navigate through many parts of our website, you do not need to turn on cookies. There is currently no industry standard for how companies should respond to do not track signals, although one may develop in the future. Our websites may not recognize and respond to all do not track signals at this time. If we do so in the future, we will describe how in this Privacy Statement.
+Our website also include widgets, which are interactive mini-programs that run on our site to provide specific services from another company (such as displaying the news, opinions, music, and more). Personal information, such as your email address, may be collected through such widgets. Cookies may also be set by widgets to enable it to function properly. Information collected by widgets is governed by the privacy policy of the company that created the widget.
+Personal Information Security
+Your Netskope account information is protected for your privacy in accordance with the best industry practices that are available to Netskope on a commercial reasonable basis. Netskope safeguards the personal information you send us and takes reasonable physical, technical, and organizational measures to prevent unauthorized access, unlawful processing, and unauthorized or accidental loss, destruction, or damage to your personal information. Netskope uses industry-standard SSL-encryption to enhance the security of sensitive data transmissions in most of our websites. While we strive to protect your personal information, we need your cooperation to ensure the security of the information you transmit to us. The Internet, however, cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any personal information you provide to us. We urge you to take every precaution to protect your personal information while using the Internet. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your login and password private. Additionally, you should use a secure up-to-date Internet browser, follow the vendor suggestion and apply updates when required. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+Retention of Personal Information
+We will retain your personal information as needed to fulfill the purposes for which it was collected. We will retain and use your personal information as necessary to comply with our business requirements, legal obligations, resolve disputes, protect our assets, and enforce our agreements.
+Children and Privacy
+Netskope encourages parents and guardians to take an active role in their childrens online activities. Netskopes services, product ad campaigns, and marketing materials are intended to be used or viewed by adults over 18 years of age. Accordingly, we do not knowingly collect personal information from anyone we know to be under 13 years of age. If we are made aware that information is or has been submitted by or collected from a child below 13, we will immediately delete their personal information.
+Third Party and Linked Websites
+Our website may contain links to websites and services operated by other companies that are outside our control and not covered by this Privacy Statement. Some of these third-party sites may be co-branded with a Netskope logo, even though they are not operated or maintained by Netskope. Netskope does not share your personal information with those websites and is not responsible for their privacy practices. Once you have left our website, we encourage you to review the privacy statements posted on those websites (and all websites) you visit.
+Forums, Blogs, and Chat Rooms
+Some of Netskopes websites allow our users to publish content via discussion forums, blogs, and other means. Any information that is disclosed in these forums becomes public information, which could be read, collected or used by other users to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. You should exercise caution when deciding to disclose your personal information. Netskope may, from time to time, send emails, and/or post on our website opinions, regarding our products and services received from website participants. Each participants opinion expressed is his or her own and should not be considered as reflecting the opinion of Netskope. Note also that your use of these online communication tools is subject to our  Legal Notices and Terms of Use . Personal information given to Netskope may be transferred across state and country borders for data consolidation, storage and simplified information management. To request removal of your personal information from our blog or community forum, contact us at  [email protected] . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Consent to Transfer, Processing and Storage of Personal Information
+As Netskope is a global organization, we may transfer your personal information to Netskope in the United States of America, to any Netskope subsidiary worldwide, or to third parties and business partners as described above that are located in various countries around the world. By using our websites and Services or providing any personal information to us, where applicable law permits, you consent to the transfer, processing, and storage of such information outside of your country of residence where data protection standards may be different.
+Netskope safeguards and enables the global transfer of personal information in a number of ways:
+Privacy Shield
+Netskope participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, the United Kingdom and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Frameworks applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerces
+Privacy Shield List
+Netskope is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Netskope complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Netskope is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  https://feedback-form.truste.com/watchdog/request .
+Where applicable for human resources data, in the context of employment relationship, and employee data that Netskope processes in its role as a service provider, Netskope commits to cooperation with the panel of the EU Data Protection Authorities (DPAs), the state or national data protection authority where the employee works or the Swiss Federal Data Protection and Information Commissioner (FDPIC), as applicable, to investigate unresolved complaints.
+Under certain conditions, more fully described on the  Privacy Shield website , you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+What law governs this Privacy Policy?
+This Site is controlled and operated by Netskope from the United States. Netskope strives to comply with all applicable laws worldwide that are designed to protect your privacy. Although legal requirements may vary by jurisdictions, Netskope intends to adhere to the principles set forth in this Privacy Statement even if we process your personal Information from your country to countries that may not require an adequate level of protection for your personal Information. In other words, our goal is to provide protection for your personal Information no matter where that personal Information is collected, transferred, or retained.
+Your California Privacy Rights
+Residents of the State of California, under California Civil Code § 1798.83, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personal information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
+Netskope qualifies for the alternative option. We have a comprehensive privacy statement, and provide you with details on how you may either opt-out or opt-in to the use of your personal information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year.
+If you are a California resident and request information about how to exercise your third party disclosure choices, please write us at Netskope, Inc. Attn: Privacy, 2445 Augustine Dr, 3rd floor, Santa Clara, CA 95054 or email us your request,  [email protected] .
+Disclosures Specific to Netskope Services
+Netskope may collect some personal information under the direction of its Clients and has no direct relationship with the individuals whose personal data it processes. If you are an employee, contractor, user, and/or customer of one of our Clients that use our service, please contact the Client that you interact with directly. Personal information collected through our application can include, but is not limited to User IDs (which can include email addresses), IP addresses, operating system, access methods, applications and cloud services accessed, File Object (like file name or email subject), length of connection, etc. We process the information included in file/Social media contents to scan for threats and for the purposes of data loss prevention. We store the metadata about the results of this processing which does not include any of the contents other than the file name. We do not share or transfer information collected through our application with third parties for advertising/marketing purposes or otherwise unless aggregated and non-directly identifying, to help Netskope perform industry benchmarking of service usage, product usage trending, and for projecting business and operational scaling. We may transfer personal information to companies that help us provide our services. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Netskopes Client (the data controller). Upon receiving a request to remove data from a Client, Netskope will respond within a reasonable timeframe. Netskope will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Netskope will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+How to Contact Us
+We value your opinions. Should you have questions or comments related to this Privacy Statement or our collection, use, or disclosure of your personal information please contact our privacy team: Netskope, Inc. Attn: Privacy, 2445 Augustine Dr, 3rd floor, Santa Clara, CA 95054 or  [email protected] .
+Updates to this Netskope Privacy Statement
+We may update this Privacy Statement from time to time. If we modify our Privacy Statement, we will post the revised version here, with an updated revision date. You agree to visit these pages periodically to be aware of and review any such revisions. If we make material changes to our Privacy Statement, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our websites or sending you a notification. By continuing to use our website after such revisions are in effect, you accept and agree to the revisions and to abide by them.
+The Netskope Privacy Statement was revised and posted as of February 5, 2020.
+Click here for the  previous version of the privacy statement .
+Contact Us
+Contact Us
+We'd love to hear from you!
+Explore
+Why Netskope
+Products
+Solutions
+Services
+About Next Gen SWG
+About CASBs
+About Zero Trust
+About SASE
+Resources
+Customer support
+Blog
+Events
+On-demand webinars
+Resource library
+Threat Labs
+Company
+About Netskope
+Careers
+Executive briefing program
+Our customers
+Press releases
+Partners
+Partner portal
+Contact
+Contact Us
+1-800-979-6988
+2445 Augustine Dr., 3rd floor
+Santa Clara, CA 95054
+Gartner Note: The Future of Network Security Is in the Cloud
+Get the report
+Privacy Policy
+Vulnerability Disclosure Policy
+Terms of Use
+© 2020, All rights reserved.

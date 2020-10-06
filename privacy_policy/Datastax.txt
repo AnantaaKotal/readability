@@ -1,0 +1,411 @@
+DataStax AppStax Privacy and Data Processing Policy
+  Datastax
+Support
+Academy
+Documentation
+Downloads
+Solutions
+Solutions Overview
+INITIATIVES
+Hybrid and Multi-Cloud
+Microservices Applications
+System Modernization
+Streaming and IoT
+Customer Insights and Analytics
+Projects
+Mainframe Migration
+Time Series Data
+eCommerce
+Customer 360
+Security & Compliance
+See all Projects
+Industry
+Banking and Finance
+Insurance
+Retail
+Federal
+Success Stories
+Capital One
+eBay
+Macy's
+Equinix
+MobilePay
+See All Success Stories
+What's Ahead in Data Management in 2020?
+A panel of experts, moderated by Philip Russom, TDWIs lead analyst for data management, discuss the 2020 trends in data management.
+Register Today
+Products
+Cloud
+DataStax Astra
+Database as a Service
+Database Software
+DataStax Enterprise
+Always-on Distributed Hybrid Cloud Database
+DSE Graph
+Scalable and Distributed Graph Database
+DSE Search
+Search Data Quickly and at Scale
+DSE Analytics
+Real-time Analytics at Scale
+Apache Cassandra
+Open-Source Distributed Database
+Tools
+DataStax Studio
+Visualize, Profile, and Manipulate Data
+DataStax Apache Kafka® Connector
+Stream Data to Your Database
+DataStax Bulk Loader
+Fastest, Easiest Way to Load Data
+DataStax Drivers
+Client Libraries for App Developers
+DSE OpsCenter
+Simplified Database Management and Monitoring
+Kubernetes and Containers
+Cloud-Native Data Management Solutions
+Services & Support
+DataStax Technical Support
+Standard technical support for DataStax Enterprise
+DataStax Luna
+Subscription-based support for Apache Cassandra
+DataStax Premium Support
+Add-on support offerings to enhance your experience
+Professional Services
+Instructor Led Training
+DataStax Luna
+Subscription-based support for open source Apache Cassandra. Develop and deploy applications with confidence.
+Contact Us Today
+Partners
+Partners Overview
+CLOUD PLATFORM
+Microsoft Azure
+Google Cloud Platform
+Amazon Web Services
+Partner with Datastax
+Partner Program
+Become a Partner
+Partner Portal
+PARTNER DIRECTORY
+Consulting Partners
+OEM Partners
+Cloud Partners
+Technology Partners
+Download DataStax
+All the software, tools and drivers you need to get your next great idea up and running.
+Download Now
+Resources
+Resource Library
+Resources
+Webinars
+Datasheets
+Whitepapers
+Reports
+Technical Guides
+Examples
+Case Studies
+Infographics
+Podcasts
+Videos
+eBooks
+Get connected
+Blog
+Events
+Community
+The Distributed Data Show
+C* Developer Workshops
+Academy
+Online Courses
+Short Courses
+Certifications
+Best Practices for Migrating from a Relational Data Platform to Apache Cassandra
+Find out the key signs that indicate your existing relational database isnt cutting it anymore.
+Register Today
+Company
+About Datastax
+About Us
+Leadership
+Careers
+Contact Us
+Security Assurance
+s
+PRESS
+Press Releases
+In The News
+Awards & Recognition
+NOSQL EVENTS
+Accelerate: A NoSQL Original Series
+Getting Started with NoSQL and Apache Cassandra
+Sharpen your skills with advice from the foremost experts in distributed database technology and build the next generation of powerful applications.
+Read Now
+Support
+Academy
+Documentation
+Try for Free
+DataStax AppStax Privacy and Data Processing Policy
+Last Updated: 12 February 2020
+This  DataStax AppStax Privacy and Data Processing Policy (DataStax AppStax DPP) forms a part of the DataStax AppStax Terms (the Agreement) or other agreement(s) entered into between you or the entity which you represent (Customer) and DataStax, Inc. Capitalised terms shall have the meanings as set out in section 18.
+Scope
+This DataStax AppStax DPP applies to the use by Customer of DataStax AppStax services.
+This DataStax AppStax DPP governs the processing of Account Data, which is the Personal Data that is processed by DataStax, where applicable, in relation to DataStax AppStax services.
+This DataStax AppStax DPP is updated from time to time by DataStax.
+In respect of sections 1.1 and 1.2, the Customer and DataStax have entered into this DataStax AppStax DPP to ensure that adequate safeguards are put in place with respect to the protection of such Personal Data as required by the EU Data Protection Laws.
+Each party will comply with all applicable rules, regulations and laws to it, including the performance of this DataStax AppStax DPP.
+Personal Data Processing
+The type of Personal Data (categories of data) that may be processed pursuant to this DataStax AppStax DPP and the subject matter, duration, nature (processing operations), purpose of the processing, and the categories of Data Subjects, are as described in this section 2 and section 3  as amended from time to time. Customer shall use all reasonable endeavours to avoid making Personal Data, other than such Personal Data requested by DataStax, accessible by DataStax.
+Each of the Customer and DataStax warrant in relation to Personal Data that it will where applicable comply (and will procure that any of its staff and/or Processors comply) with EU Data Protection Laws and all other applicable laws.
+In respect of the parties' rights and obligations regarding the processing of Personal Data under this DataStax AppStax DPP, the parties hereby acknowledge and agree that DataStax is the Controller as defined under this DataStax AppStax DPP and accordingly DataStax agrees that it shall process all Personal Data, defined under section 3, in accordance with its obligations pursuant to this DataStax AppStax DPP.
+DataStax details
+DataStax, Inc  is the Data Controller of Personal Data, as set out under this DataStax AppStax DPP.
+How to contact us regarding this DataStax AppStax DPP: privacy@datastax.com
+DataStaxs representative within the European Union is:
+DataStax
+19-23 Wells Street
+Fitzrovia
+London W1T 3PQ privacy@datastax.com
+Details of Personal Data Processing: Subject Matter:
+Account Data Categories of data subjects:
+Customer, Customers staff; Categories of data:
+Account Data: First name, last name, company name, date of registration, email address; Special categories of data:
+DataStax does not intend to process any special categories of data; Purpose of data processing:
+Account Data:
+A. the provision of services initiated by Customer from time to time;
+B. verification;
+C. account management activities;
+D. relevant outreach activities;
+E. information provision;
+F. provision of information relating to DataStax Products;
+G. analysis; Processing operations:
+Account Data processing operations: storage, analysis, verification, operational.  Duration of processing:
+Account Data:  As required by applicable laws, necessary for the performance of the Agreement, the necessary provision of Products, upon Termination as outlined under the Agreement.
+Legal basis for processing Personal Data
+DataStaxs legal basis for processing Personal Data as described in section 3, except provision of information relating to DataStax Products, is that the processing is necessary for the performance of the Agreement or that the processing is necessary for the purposes of the legitimate interests pursued by DataStax, except where such interests are overridden by the interests or fundamental rights and freedoms of the Data Subject which require protection of Personal Data, in particular where the Data Subject is a child;
+legitimate Interests pursued by DataStax are:
+A. the provision of DataStax Products to Customer;
+B. performance of the Agreement and DPP between DataStax and Customer;
+C. improvement of DataStax Products and user experience,
+D. compliance with any applicable laws.
+Where DataStax processes information for the purposes of provision of information relating to DataStax Products as described in section 3, DataStax does so on the lawful basis of consent. That is the Data Subject (Customer) has given consent for the processing of Personal Data for this purpose (provision of information relating to DataStax Products).
+[reserved]
+Sharing of Personal Data
+DataStax shares the Personal Data described in section 3 with the following categories of recipients:
+A. Suppliers and/or vendors;
+B. Customer;
+C. Entities in the DataStax Group.
+DataStax Obligations
+With respect to all Personal Data, and insofar as DataStax processes Personal Data, DataStax warrants that it shall:
+only process the Personal Data, described in section 3, in order to provide the Products and shall act only in accordance with this DataStax AppStax DPP and the Agreement;
+if applicable laws require DataStax to process Personal Data other than pursuant to this DataStax AppStax DPP, DataStax will notify the Customer (unless prohibited from so doing by applicable laws);
+implement appropriate technical and organisational measures to ensure a level of security appropriate to the risks that are presented by the processing, in particular protection against accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to Personal Data. Such measures include, without limitation, the security measures set out at
+https://www.datastax.com/products/datastax-security-assurance ;
+take reasonable steps to ensure that only authorised personnel have access to such Personal Data and that any persons whom it authorises to have access to the Personal Data are under obligations of confidentiality;
+as soon as reasonably practicable following termination or expiry of the Agreement or other such longer period as specified in: the DataStax Data Retention Policy (if applicable, available at
+https://www.datastax.com/security/dataretention ); the DataStax AppStax DPP; or the Agreement, DataStax will delete all Personal Data (including copies thereof) processed pursuant to this DataStax AppStax DPP, unless required to retain the Personal Data by applicable laws;
+Customer Obligations
+Customer agrees that, taking into account DataStax obligations under this DataStax AppStax DPP, Customer is solely responsible for its use of DataStax AppStax to ensure:
+that Customer does not disclose or otherwise compromise Account Data;
+that unless otherwise directed by DataStax in writing, Customer shall not make any Personal Data accessible to or by DataStax outside of such Personal Data that is requested by DataStax;
+that Customer warrants that it has all and any applicable legal consents and authority required by any applicable laws  to disclose any and all Personal Data that it shares with DataStax.
+Data Subject Rights and Information
+The Data Subject has the right to request from DataStax access to and rectification or erasure of Personal Data or restriction of processing concerning the Data Subject or to object to processing as well as the right to data portability;
+the right to lodge a complaint with a Supervisory Authority (the Information Commissioners Office being DataStax lead Supervisory Authority);
+the provision of Personal Data is necessary to enter into a contract;
+the Data Subject is not obliged to provide the Personal Data, however without such information DataStax cannot provide the Products for the Customer.
+Security
+DataStax recognises and takes the privacy and security of its Customer seriously. DataStax's approach to security can be found at:
+https://www.datastax.com/products/datastax-security-assurance
+Processing
+The Customer grants a general authorisation: (a) to DataStax to appoint other members of the DataStax Group as Data Processors; and (b) to DataStax and other members of the DataStax Group to appoint third party data centre operators, providers of information technology tools, and outsourced service providers as Sub-Processors to support the performance and delivery of the DataStax AppStax services.
+DataStax will ensure that any Data Processor it engages to provide the services on its behalf in connection with the Agreement does so only on the basis of a written contract which imposes on such Data Processor terms substantially no less protective of Personal Data than those imposed on DataStax in this DataStax AppStax DPP. DataStax shall procure the performance by such Data Processor of the Relevant Terms.
+Data Transfers
+The Customer acknowledges that the provision of DataStax AppStax under the Agreement may require the processing of Personal Data by DataStax and its Data Processor(s) in countries outside the EEA from time to time.
+In relation to any processing of Personal Data by DataStax that takes place in a country outside the EEA that is not an Adequate Country, the parties agree that the Standard Contractual Clauses ( https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004D0915&from=EN ) are incorporated into this DataStax AppStax DPP and deemed to have been executed by the parties (such that DataStax will comply with the obligations of the data importer in the Standard Contractual Clauses and the Customer will comply with the obligations of 'data exporter') and that the Appendices in Annex B (Appendices to the SCCs) of this DataStax AppStax DPP shall be incorporated into those Standard Contractual Clauses and shall apply in respect of that processing.
+The following terms shall apply to the Standard Contractual Clauses:
+Customer may exercise its right of audit under clause II(g) of the Standard Contractual Clauses as set out in, and subject to the requirements of section 12.2 and 13 of this DataStax AppStax DPP;
+DataStax may appoint Data Processors as set out, and subject to the requirements of sections 11 and 12.3 of this DataStax AppStax DPP; if, in the performance of this DataStax AppStax DPP and/or the Agreement, DataStax transfers any Personal Data to a Data Processor (which shall include without limitation any affiliates of DataStax) and without prejudice to section 11 where such Data Processor will process Personal Data outside the EEA, DataStax shall in advance of any such transfer ensure that a mechanism to achieve adequacy in respect of that processing is in place such as:
+the requirement for DataStax to execute or procure that the third party execute on behalf of the Customer standard contractual clauses approved by the EU authorities under EU Data Protection Laws;
+the requirement for the third party to be certified under the Privacy Shield framework; or
+the existence of any other specifically approved safeguard for data transfers (as recognised under the EU Data Protection Laws) and/or a European Commission finding of adequacy.
+Audit and Records
+DataStax shall, in accordance with and to the extent required by EU Data Protection Laws and Clause II(g) of the Standard Contractual Clauses where applicable, make available to the Customer such information in DataStax's possession or control as the Customer may reasonably request and which DataStax is lawfully entitled to disclose with a view to demonstrating DataStax's compliance with the obligations of Data Processors under EU Data Protection Law in relation to its processing of Personal Data.
+The Customer where applicable may exercise its right of audit under EU Data Protection Laws and Clause II(g), through DataStax providing:
+to Customer a summary of an audit report provided that the applicable audit(s): are performed periodically; are assessed against relevant standards; are conducted by auditor(s) selected by DataStax but otherwise conducted with all due and necessary independence and professionalism; and are documented in a report that affirms that DataStax's controls meet the standards against which they are assessed; and
+additional information in DataStax's possession or control to a Supervisory Authority when it requests or requires additional information in relation to the data processing activities carried out by DataStax under this DataStax AppStax DPP, unless DataStax is  prohibited from doing so by applicable laws.
+DataStax shall further provide detailed written responses (on a confidential basis) to all reasonable requests for information made by Customer, including responses to information security and audit questionnaires, that Customer considers necessary under Clause II(g) of the Standard Contractual Clauses.
+Customer shall promptly notify DataStax with information regarding any non-compliance discovered during the course of a review of the audit summaries and additional information provided by DataStax, and DataStax shall use commercially reasonable efforts to address any confirmed non-compliance.
+This section does not affect the rights of Data Subjects or Supervisory Authorities under the Standard Contractual Clauses where applicable, nor does it vary or modify the Standard Contractual Clauses where they are applicable.
+Section 13 is subject to the Customer and DataStax having an applicable non-disclosure or confidentiality agreement in place, the Customer agrees to enter such an agreement pursuant to exercising its rights under section 13.
+Request for Financial Resources Proof
+DataStax shall, in accordance with and to the extent required by Clause II(f) of the Standard Contractual Clauses where applicable, make available to the Customer such information in DataStax's possession or control as the Customer may reasonably request and which DataStax is lawfully entitled to disclose with a view to demonstrating DataStax's compliance with the obligations under the Standard Contractual Clauses.
+The Customer where applicable may exercise its right that DataStax provide evidence of financial resources sufficient to fulfil its responsibilities under clause III (which may include insurance coverage), under Standard Contractual Clause II(f), through DataStax providing:
+to Customer a summary of an insurance policy that is active.
+Customer shall promptly notify DataStax with information regarding any non-compliance discovered during the course of reviewing such a summary of an insurance policy as described in section 14.2.1 and DataStax shall use commercially reasonable efforts to address any confirmed non-compliance.
+This section does not affect the rights of Data Subjects or Supervisory Authorities under the Standard Contractual Clauses where applicable, nor does it vary or modify the Standard Contractual Clauses where they are applicable.
+Section 14 is subject to the Customer and DataStax having an applicable non-disclosure or confidentiality agreement in place, the Customer agrees to enter such an agreement pursuant to exercising its rights under section 14.
+Requests for Personal Data
+If a government or government agency demands that DataStax supply it with Personal Data as defined in section 3 of this DataStax AppStax DPP, DataStax will attempt to direct the government (or agency) towards making a request directly to the Customer. DataStax may therefore supply the government (or agency) with limited contact information, Account Data that is known or available to DataStax. If compelled by the government (or agency) to disclose Personal Data related to this DataStax AppStax DPP, as defined under section 3, DataStax will first give Customer reasonable notice of this so that Customer may seek a protective, injunctive or other such appropriate judicial or otherwise order, unless DataStax is prohibited by applicable laws from giving Customer such notice. If the Standard Contractual Clauses apply, nothing in this section varies or modifies the Standard Contractual Clauses.
+Conflict of terms
+This DataStax AppStax DPP is without prejudice to the rights and obligations of the parties under the Agreement which shall continue to have full force and effect. In the event of any conflict between the terms of this DataStax AppStax DPP and the terms of the Agreement, the terms of this DataStax AppStax DPP shall prevail so far as the subject matter concerns the processing of Personal Data within the scope of this DataStax AppStax DPP.
+Miscellaneous
+If the Customer decides that a Security Breach must be notified to any Supervisory Authority and/or Data Subjects and/or the public or portions of the public, the Customer will notify DataStax before the communication is made and supply DataStax with copies of any written documentation to be filed with the Supervisory Authority and of any notification the Customer proposes to make (whether to any Supervisory Authority, Data Subjects the public or portions of the public) which references DataStax, its security measures and/or role in the Security Breach, whether or not by name. Subject to the Customer's compliance with any mandatory notification deadlines under the GDPR, the Customer will consult with DataStax in good faith and take account of any clarifications or corrections DataStax reasonably requests to such notifications and which are consistent with the GDPR.
+DataStax's liability to the Customer and Customer Group under or in connection with this DataStax AppStax DPP (including under the Standard Contractual Clauses incorporated via section 12 of this DataStax AppStax DPP) shall be subject to the same limitations and exclusions of liability as apply under the Agreement as if that liability arose under the Agreement.  Nothing in this DataStax AppStax DPP will limit DataStax's liability in respect of personal injury or death in negligence or for any other liability or loss which may not be limited by agreement under applicable law.
+This DataStax AppStax DPP sets out all of the terms that have been agreed between the parties in relation to the Processing of Personal Data as defined in sections 1, 2 and 3.  Other than in respect of statements made fraudulently, no other representations or terms shall apply or form part of this DataStax AppStax DPP.
+A person who is not a party to this DataStax AppStax DPP shall not have any rights to enforce this DataStax AppStax DPP including (where applicable) under the Contracts (Rights of Third Parties) Act 1999 of the United Kingdom to enforce any term of this DataStax AppStax DPP.
+Should any provision of this DataStax AppStax DPP be invalid or unenforceable, then the remainder of this DataStax AppStax DPP shall remain valid and in force.  The invalid or unenforceable provision shall be either amended as necessary to ensure its validity and enforceability, while preserving the parties intentions as closely as possible or, if this is not possible, construed in a manner as if the invalid or unenforceable part had never been contained therein.
+Without prejudice to clause II (h) (iii), clause IV, and clause V of the Standard Contractual Clauses, this DataStax AppStax DPP shall be governed by and construed in accordance with the laws of the country of territory stipulated for this purpose in the Agreement and each of the parties agrees to submit to the choice of jurisdiction as stipulated in the Agreement in respect of any claim or matter arising under this DataStax AppStax DPP
+Other than in respect of any accrued liabilities of either party and the provisions of this section 17, this DataStax AppStax DPP shall terminate automatically on the expiry or termination for whatever reason of the Agreement.  Notwithstanding the foregoing, DataStaxs obligations hereunder with respect to any Customer Personal Data processed pursuant to this DataStax AppStax DPP shall continue until the later of the expiration or termination of the Agreement or DataStaxs deletion of Customers Personal Data.
+Definitions and Interpretation
+The following expressions are used in this DataStax AppStax DPP:
+ Account Data  means the data created or made available by the Customer in order to register for and/or use the Products;
+" Adequate Country " means a country or territory that is recognised under EU Data Protection Laws      from time to time as providing adequate protection for personal data;
+ Agreement  means the DataStax AppStax Terms that the Customer entered into with DataStax for the provision of DataStax AppStax services;
+ Breach
+Notice  means an announcement by either DataStax or Customer of a Security Breach,  to anyone or entity other than DataStax or Customer;
+ Customer ,  Customers ,  Customers ,  You ,  you  means you or the entity which you represent;
+" Customer
+Group " means Customer and any corporate entities which are from time to time: (a) under Common Control with Customer; and (b) established and/or doing business in the European Economic Area or Switzerland;
+" Data Controller  shall have the meaning ascribed to it in the EU Data Protection Laws;
+ Data Exporter ,  data exporter  is defined by the Standard Contractual Clauses;
+ Data importer ,  data importer  is defined by the Standard Contractual Clauses;
+" Data Processor " shall have the meaning ascribed to it in the EU Data Protection Laws;
+ Data Subject ,  data subject  shall have the meaning ascribed to it in the EU Data Protection Laws;
+" Data Subject Request " means a request from or on behalf of a Data Subject relating to and including the exercise of their rights under articles 12 to 23 of the GDPR which include but are not limited to,  access to, or rectification, erasure or data portability in respect of that persons Personal Data or an objection from or on behalf of a Data Subject to the processing of its Personal Data;
+ DataStax  means DataStax, Inc;
+" DataStax Group " means DataStax and any corporate entities which are from time to time under Common Control with or by DataStax;
+ DataStax AppStax  means the DataStax service designated DataStax AppStax;
+ DataStax AppStax DPP  means this DataStax AppStax Privacy and Data Processing Policy;
+ DataStax Data Retention Policy  means the policy set out at:
+https://www.datastax.com/security/dataretention
+ EEA  means the European Economic Area.
+" EU Data Protection Laws " means all laws and regulations, including laws and regulations of the European Union, the European Economic Area, their member states and the United Kingdom, applicable to the processing of Personal Data under the Agreement, including (where applicable) the GDPR;
+" GDPR " means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (known as the General Data Protection Regulation);
+" Personal Data " means all data which is defined as Personal Data under the EU Data Protection Laws and to which EU Data Protection Laws apply and which is provided by the Customer to DataStax or accessed, stored or otherwise processed by DataStax;
+ Privacy Shield  means the framework, under which Personal Data flows to the United States of America, established by the European Commission Implementing Decision (EU) 2016/1250 OF 12 July 2016 in the Official Journal of the European Union;
+" Processing " shall have the meaning ascribed to it in the EU Data Protection Laws;
+" Products " means the applicable products and/or services that Customer has procured from DataStax under the Agreement;
+ Relevant Terms  means the agreement that DataStax imposes, or will impose, upon any Data Processor it engages to provide the services on its behalf in connection with the Agreement and which terms are substantially no less protective of Personal Data than those imposed on DataStax in this DataStax AppStax DPP;
+ Security Breach  means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, Personal Data that DataStax processes under this DataStax AppStax DPP. A Security Breach will not include unsuccessful attempts or activities that do not compromise the security of the Personal Data processed under this DataStax AppStax DPP in DataStaxs reasonable opinion, including unsuccessful attempts and activities such as: pings, unsuccessful log in, firewall attacks, no compromise of security of Account Data, port scans, denial of service attacks, or other similar events and attacks;
+ Standard Contractual Clauses  means the Controller-to-Controller standard contractual clauses as referred to in COMMISSION DECISION of 27 December 2004 2001/497/EC(as referred to in
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004D0915&from=EN );
+ Sub-Processor  shall have the meaning ascribed to it in the EU Data Protection Laws;
+" Supervisory Authority " shall have the meaning ascribed to it in the EU Data Protection Laws; and
+An entity " Controls " another entity if it: (a) holds a majority of the voting rights in it; (b) is a member or shareholder of it and has the right to remove a majority of its board of directors or equivalent managing body; (c) is a member or shareholder of it and controls alone or pursuant to an agreement with other shareholders or members, a majority of the voting rights in it; or (d) has the right to exercise a dominant influence over it pursuant to its constitutional documents or pursuant to a contract; and two entities are treated as being in " Common Control " if either controls the other (directly or indirectly) or both are controlled (directly or indirectly) by the same entity.
+Annex B
+Appendices to the SCCs
+As further described in section 12 of the DataStax AppStax Privacy and Data Processing Policy, the following Appendices are incorporated into the SCCs entered into between the parties to the DataStax AppStax DPP.
+Appendix B
+to the Standard Contractual Clauses
+This Appendix forms part of the Clauses and must be completed and signed by the parties
+The Member States may complete or specify, according to their national procedures, any additional necessary information to be contained in this Appendix
+DESCRIPTION OF THE TRANSFER
+(To be completed by the parties)
+Data subjects
+The personal data transferred concern the following categories of data subjects:
+The categories of data are defined in section 3 of the DataStax AppStax Privacy and Data Processing Policy.
+Purposes of the transfer(s)
+The transfer is made for the following purposes:
+The purposes of the transfer are defined in section 3 of the DataStax AppStax Privacy and Data Processing Policy.
+Categories of data
+The personal data transferred the following categories of data:
+The categories of data are defined in section 3 of the DataStax AppStax Privacy and Data Processing Policy.
+Recipients
+The personal data transferred may be disclosed only to the following recipients or categories of recipients:
+The recipients or categories of recipients are defined in section 6 and 12 of the DataStax AppStax Privacy and Data Processing Policy.
+Sensitive data
+(if appropriate)
+The personal data transferred concern the following categories of sensitive data:
+The special categories of data are defined in section 3 of the DataStax AppStax Privacy and Data Processing Policy.
+Data protection registration information of data exporter
+(where applicable)
+Additional useful information
+(storage limits and other relevant information)
+Data importer acts as an Independent Controller. The Data exporter acts as an Independent Controller. Data importer does not act as a processor. Data importer does not act as a joint-controller.  Data exporter is not a processor of Data importer.
+Contact points for data protection enquiries
+Data importer
+DataStax, Inc                                privacy@datastax.com
+3975 Freedom Circle
+4th Floor
+Santa Clara, California 95054, United States of America
+Data exporter
+Is the Customer,  Customer being defined under this DataStax AppStax Privacy and Data Processing Policy.
+Appendix C
+to the Standard Contractual Clauses
+This Appendix forms part of the Clauses and must be completed and signed by the parties.
+Description of the technical and organisational security measures implemented by the data importer in accordance with Clauses II(a) and 5(c) (or document/legislation attached):
+The technical and organisational security measures set out at:
+https://www.datastax.com/products/datastax-security-assurance ,
+as amended from time to time.
+Solutions
+Initiatives
+Hybrid and Multi-Cloud
+Microservices Applications
+System Modernization
+Streaming IoT
+Customer Insights and Analytics
+Projects
+All Projects
+Industry
+Banking and Finance
+Insurance
+Retail
+Federal
+Partners
+Cloud Platform Partners
+Microsoft Azure
+Google Cloud Platform
+Amazon Web Services
+Partner with DataStax
+Partner Program
+Become a Partner
+Partner Portal
+Partner Directory
+Consulting Partners
+OEM Partners
+Cloud Partners
+Technology Partners
+Company
+About Us
+Apache Cassandra
+Leadership
+Events
+Press Releases
+In The News
+Careers
+Resources
+Webinars
+Datasheets
+Case Studies
+Whitepapers
+Reports
+Videos
+Podcasts
+Blog
+Academy
+Online Courses
+Short Courses
+Certifications
+Instructor Led Training
+Public Training
+Developer Blog
+Downloads
+DataStax Enterprise
+DataStax Enterprise OpsCenter
+DataStax Studio
+DataStax Bulk Loader
+DataStax Apache Kafka® Connector
+CQLSH
+DataStax Drivers
+DataStax Labs
+General Inquiries:
++1 (650) 389-6000
+info@datastax.com
+© 2020 DataStax
+Privacy Policy
+Terms of Use
+Sitemap
+Cookie Settings
+DataStax, Titan, and TitanDB are registered trademarks of DataStax, Inc. and its subsidiaries in the
+United States and/or other countries.
+Apache, Apache Cassandra, Cassandra, Apache Tomcat, Tomcat, Apache Lucene, Lucene, Apache Solr, Apache
+Hadoop, Hadoop, Apache Spark, Spark, Apache TinkerPop, TinkerPop, Apache Kafka and Kafka are either
+registered trademarks or trademarks of the Apache Software Foundation or its subsidiaries in Canada,
+the United States and/or other countries. Kubernetes is the registered trademark of the Linux
+Foundation.

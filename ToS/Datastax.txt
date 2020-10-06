@@ -1,0 +1,256 @@
+DataStax Accelerate Terms of Service   Datastax
+Support
+Academy
+Documentation
+Downloads
+Solutions
+Solutions Overview
+INITIATIVES
+Hybrid and Multi-Cloud
+Microservices Applications
+System Modernization
+Streaming and IoT
+Customer Insights and Analytics
+Projects
+Mainframe Migration
+Time Series Data
+eCommerce
+Customer 360
+Security & Compliance
+See all Projects
+Industry
+Banking and Finance
+Insurance
+Retail
+Federal
+Success Stories
+Capital One
+eBay
+Macy's
+Equinix
+MobilePay
+See All Success Stories
+What's Ahead in Data Management in 2020?
+A panel of experts, moderated by Philip Russom, TDWIs lead analyst for data management, discuss the 2020 trends in data management.
+Register Today
+Products
+Cloud
+DataStax Astra
+Database as a Service
+Database Software
+DataStax Enterprise
+Always-on Distributed Hybrid Cloud Database
+DSE Graph
+Scalable and Distributed Graph Database
+DSE Search
+Search Data Quickly and at Scale
+DSE Analytics
+Real-time Analytics at Scale
+Apache Cassandra
+Open-Source Distributed Database
+Tools
+DataStax Studio
+Visualize, Profile, and Manipulate Data
+DataStax Apache Kafka® Connector
+Stream Data to Your Database
+DataStax Bulk Loader
+Fastest, Easiest Way to Load Data
+DataStax Drivers
+Client Libraries for App Developers
+DSE OpsCenter
+Simplified Database Management and Monitoring
+Kubernetes and Containers
+Cloud-Native Data Management Solutions
+Services & Support
+DataStax Technical Support
+Standard technical support for DataStax Enterprise
+DataStax Luna
+Subscription-based support for Apache Cassandra
+DataStax Premium Support
+Add-on support offerings to enhance your experience
+Professional Services
+Instructor Led Training
+DataStax Luna
+Subscription-based support for open source Apache Cassandra. Develop and deploy applications with confidence.
+Contact Us Today
+Partners
+Partners Overview
+CLOUD PLATFORM
+Microsoft Azure
+Google Cloud Platform
+Amazon Web Services
+Partner with Datastax
+Partner Program
+Become a Partner
+Partner Portal
+PARTNER DIRECTORY
+Consulting Partners
+OEM Partners
+Cloud Partners
+Technology Partners
+Download DataStax
+All the software, tools and drivers you need to get your next great idea up and running.
+Download Now
+Resources
+Resource Library
+Resources
+Webinars
+Datasheets
+Whitepapers
+Reports
+Technical Guides
+Examples
+Case Studies
+Infographics
+Podcasts
+Videos
+eBooks
+Get connected
+Blog
+Events
+Community
+The Distributed Data Show
+C* Developer Workshops
+Academy
+Online Courses
+Short Courses
+Certifications
+Best Practices for Migrating from a Relational Data Platform to Apache Cassandra
+Find out the key signs that indicate your existing relational database isnt cutting it anymore.
+Register Today
+Company
+About Datastax
+About Us
+Leadership
+Careers
+Contact Us
+Security Assurance
+s
+PRESS
+Press Releases
+In The News
+Awards & Recognition
+NOSQL EVENTS
+Accelerate: A NoSQL Original Series
+Getting Started with NoSQL and Apache Cassandra
+Sharpen your skills with advice from the foremost experts in distributed database technology and build the next generation of powerful applications.
+Read Now
+Support
+Academy
+Documentation
+Try for Free
+DataStax Accelerate
+Terms of Service
+EFFECTIVE: August 20, 2019
+These Terms of Service govern the 2020 DataStax Accelerate Website (Website). This document constitutes a binding legal agreement. Please read carefully these Terms of Service and our Privacy Notice  (Add privacy link).  By accessing, browsing, and using the Website and/or attending the event, you agree that you have read, understood, and agree to be bound by these Terms of Service.
+Use of the Services
+In order to register for DataStax Accelerate you must be at least 18 years old.
+You may view, download and print the materials we make available on the Website, solely for your own personal, non-commercial use.
+You may not mirror any content contained within this Website without our express written consent
+Except as stated herein, none of the Websites content may be reproduced, distributed, published, displayed, downloaded, or transmitted in any form by any means without DataStax prior written permission or the appropriate copyright owner.
+If you choose to attend DataStax Accelerate you agree to follow our Code of Conduct. You can find our complete policy here.  (add code of conduct link)
+We do not grant you any licenses, express or implied, to the intellectual property of DataStax or its licensors except as expressly stated in these Terms of Service
+Your Content
+Any material, information or ideas that you transmit to or post to or through this Website by any means ( Your Content ) will be treated as non-confidential and non-proprietary, despite any legends to the contrary, and may be used by DataStax for any purpose. You acknowledge and agree that you are solely responsible for Your Content.  You represent and warrant that: (1) you either are the sole and exclusive owner of all Your Content that you make available through the Website or you have all rights, licenses, consents and releases that are necessary to grant to DataStax the rights to use Your Content as contemplated; and (2) neither Your Content nor your posting, uploading, publication, submission or transmittal of Your Content or our use of Your Content (or any portion thereof) on, through or by means of the Website will infringe, misappropriate or violate a third partys patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation. You agree not to post, upload, publish, submit or transmit any content that: (1) infringes, misappropriates or violates a third partys intellectual property rights, or rights of publicity or privacy; (2) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (3) is fraudulent, false, misleading or deceptive; (4) is defamatory, obscene, pornographic, vulgar or offensive; (5) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (6) is violent or threatening or promotes violence or actions that are threatening to any person or entity; (7) promotes illegal or harmful activities or substances; or (8) could be found to be offensive or promote discrimination against any individual or group (see our Code of Conduct here). Notwithstanding the foregoing, any Personal Data provided by you will be handled in accordance with the  DataStax Privacy Notice .  Personal Data is information that directly or indirectly identifies you or another individual, and may include name, title, company name, job function, expertise, postal address, telephone number, email address, browser and device information (including IP Address), and information collected through cookies and other similar technologies.
+Our Content
+The content available at the Website belongs to DataStax or its licensors. The contents are made available to you for the purpose of promoting or providing information related to DataStax Accelerate.  The Website and any content are provided as is. DataStax makes no warranty that the Website or its content will meet your expectations .
+Registration
+If you wish to register for DataStax Accelerate you must provide the following:
+Contact information (Name, company name address, email address)
+Valid payment information
+Accurate billing information
+The DataStax Accelerate fees are non-refundable. Tickets may be transferred after authorization is requested and approved. If you wish to transfer your ticket you may request authorization by contacting DataStax at events@datastax.com.
+Indemnity
+You agree to defend, indemnify, and hold DataStax, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with Your Content or your violation of these Terms of Service.
+Disclaimer
+DATASTAX ACCELERATE, THE WEBSITE AND ANY CONTENT ARE PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.  WITHOUT LIMITING THE FOREGOING, DATASTAX EXPRESSLY DISCLAIMS ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. DATASTAX MAKES NO WARRANTY THAT DATASTAX ACCELERATE, THE WEBSITE OR ITS CONTENT WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS.  DATASTAX MAKES NO WARRANTY REGARDING THE QUALITY OF ANY PRODUCTS, SERVICES OR CONTENT PURCHASED OR OBTAINED THROUGH THE WEBSITE OR DATASTAX ACCELERATE OR THE ACCURACY, TIMELINESS, TRUTHFULNESS, COMPLETENESS OR RELIABILITY OF ANY CONTENT OBTAINED THROUGH THE WEBSITE OR DATASTAX ACCELERATE. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM DATASTAX OR THROUGH THE WEBSITE, WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF THE WEBSITE AND WITH OTHER PERSONS WITH WHOM YOU COMMUNICATE OR INTERACT AS A RESULT OF YOUR USE OF THE WEBSITE.  YOU UNDERSTAND THAT DATASTAX DOES NOT SCREEN OR INQUIRE INTO THE BACKGROUND OF ANY USERS OF THE WEBSITE, NOR DOES DATASTAX MAKE ANY ATTEMPT TO VERIFY THE STATEMENTS OF USERS OF THE WEBSITE. DATASTAX MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS OF THE WEBSITE OR THEIR COMPATIBILITY WITH ANY CURRENT OR FUTURE USERS OF THE WEBSITE.  YOU AGREE TO TAKE REASONABLE PRECAUTIONS IN ALL COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF THE WEBSITE AND WITH OTHER PERSONS WITH WHOM YOU COMMUNICATE OR INTERACT AS A RESULT OF YOUR USE OF THE WEBSITE.
+Limitation of liability
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL DATASTAX BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT DAMAGES ARISING FROM YOUR USE OF THE WEBSITE OR FOR ANY CONTENT PROVIDED ON OR THROUGH THE WEBSITE OR DATASTAX ACCELERATE, EVEN IF DATASTAX HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, DATASTAX AGGREGATE LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID BY YOU TO DATASTAX FOR USE OF THE WEBSITE.
+Applicable law
+These Terms of Service and any action related thereto will be governed by the laws of the State of California without regard to its conflict of laws provisions.  The exclusive jurisdiction and venue of any action to prevent the actual or threatened infringement, misappropriation or violation of a partys copyrights, trademarks, trade secrets, patents or other intellectual property rights will be the state and federal courts located in the Northern District of California and each of the parties hereto waives any objection to jurisdiction and venue in such courts.
+Modification
+We may modify these Terms of Service at any time without notice to you by updating and posting a new version on the Website and revising the effective date at the top of the page. Your continued use of this Website following such changes constitutes your acceptance of the revised terms.
+Termination
+We reserve the right to discontinue all or part of the Website, limit or revoke your access to and use of the Website, or to remove Your Content at any time, with or without cause.  Export control  This Website is controlled and operated by DataStax from within the United States.  DataStax makes no representations that materials contained within the Website are appropriate or available for use in other locations, and access to the Website from locations where such activity is illegal is prohibited.  Those who choose to use the Website from other locations do so on their own initiative and are solely responsible for compliance with all applicable laws. You agree to comply fully with all U.S. and foreign export laws and regulations and to ensure that you do not use or export or re-export directly or indirectly the Website or any content accessible through it in violation of, or for any purposes prohibited by, such laws and regulations.  You represent and warrant that: (1) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a terrorist supporting country; and (2) you are not listed on any U.S. Government list of prohibited or restricted parties.  General  This agreement may not be modified, supplemented, qualified, or interpreted by any trade usage or prior course of dealing not made a part of the agreement by its express terms.  The invalidity or unenforceability of any provision of this agreement shall not affect the validity of this agreement as a whole and any such provision should be enforced by authorities, and reconstructed if need be, to apply to the maximum extent allowable under applicable law.  The failure by either party to enforce at any time any of the provisions of this agreement, to exercise any election or option provided herein, or to require at any time the performance of the other of any of the provisions herein will not in any way be construed as a waiver of such provisions.  Reasonable attorneys fees and costs will be awarded to the prevailing party in the event of litigation involving the enforcement or interpretation of this agreement. The section headings used herein are for convenience only and shall not be given any legal import.  Other products and services  These Website Terms of Use do not govern your use of any products or services that may be offered by DataStax from or in connection with the Website, or otherwise, which are subject to their own terms and conditions.  For example, our End User General Terms, governing access to and use of the DataStax Enterprise software and related services, may be found at www.datastax.com/terms. The Website may also contain links to other internet sites and third-party resources, and we may employ third party technologies in connection with our Website that require you to accept such third partys terms.  DataStax is not responsible for either the availability of these outside resources or their content, including for any services you may obtain by contacting any person as a result of use of the Website or the features hereof. DataStax may, but is not obligated to, monitor your use of the Website.
+Contacting DataStax
+For questions, comments or concerns regarding these Terms of Service, please contact us at  Accelerate@datastax.com
+Contact Us
+Have questions? Were here to help. Direct your questions (based on topic area) to one of the emails below and a representative will get back to you within 48 hours. We look forward to seeing you at DataStax Accelerate!
+General inquiry or sponsorship opportunities:  Accelerate@datastax.com
+Registration questions:  Acceleratereg@events.datastax.com
+Solutions
+Initiatives
+Hybrid and Multi-Cloud
+Microservices Applications
+System Modernization
+Streaming IoT
+Customer Insights and Analytics
+Projects
+All Projects
+Industry
+Banking and Finance
+Insurance
+Retail
+Federal
+Partners
+Cloud Platform Partners
+Microsoft Azure
+Google Cloud Platform
+Amazon Web Services
+Partner with DataStax
+Partner Program
+Become a Partner
+Partner Portal
+Partner Directory
+Consulting Partners
+OEM Partners
+Cloud Partners
+Technology Partners
+Company
+About Us
+Apache Cassandra
+Leadership
+Events
+Press Releases
+In The News
+Careers
+Resources
+Webinars
+Datasheets
+Case Studies
+Whitepapers
+Reports
+Videos
+Podcasts
+Blog
+Academy
+Online Courses
+Short Courses
+Certifications
+Instructor Led Training
+Public Training
+Developer Blog
+Downloads
+DataStax Enterprise
+DataStax Enterprise OpsCenter
+DataStax Studio
+DataStax Bulk Loader
+DataStax Apache Kafka® Connector
+CQLSH
+DataStax Drivers
+DataStax Labs
+General Inquiries:
++1 (650) 389-6000
+info@datastax.com
+© 2020 DataStax
+Privacy Policy
+Terms of Use
+Sitemap
+Cookie Settings
+DataStax, Titan, and TitanDB are registered trademarks of DataStax, Inc. and its subsidiaries in the
+United States and/or other countries.
+Apache, Apache Cassandra, Cassandra, Apache Tomcat, Tomcat, Apache Lucene, Lucene, Apache Solr, Apache
+Hadoop, Hadoop, Apache Spark, Spark, Apache TinkerPop, TinkerPop, Apache Kafka and Kafka are either
+registered trademarks or trademarks of the Apache Software Foundation or its subsidiaries in Canada,
+the United States and/or other countries. Kubernetes is the registered trademark of the Linux
+Foundation.

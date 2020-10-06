@@ -1,0 +1,361 @@
+Terms of Service - Databricks
+MENU MENU Platform
+Overview Unified Data Analytics Platform
+Data Science Workspace
+Collaborative Notebooks Machine Learning Runtime Managed MLflow
+Unified Data Service
+Delta Lake Databricks Runtime
+Enterprise Cloud Service
+Enterprise Security Simple Administration Production Ready Platform
+Pricing
+BY CLOUD ENVIRONMENT Azure
+Product News
+AWS
+Product News
+By Technology Apache Spark Delta Lake TensorFlow MLflow R
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Solutions
+By Use Case AutoML Cybersecurity Analytics Deep Learning Internet of Things GDPR Genomics Machine Learning & Graph Processing
+By Industry Advertising & Marketing Technology Enterprise Technology & Software Federal Government Financial Services Gaming Healthcare
+By Industry Cont. Life Sciences Media & Entertainment Oil and Gas Industry Retail & Consumer Packaged Goods
+Accelerate Discovery with Unified Data Analytics for Genomics
+LEARN MORE >
+Customers Learn
+DIVE IN Resources Documentation FAQ Forums Research
+PROFESSIONAL SERVICES
+Industry Best Practices Databricks Roadmap Access Advisory Services
+TRAINING & CERTIFICATION
+Welcome to Education Course Catalog Public Class Schedule Private Class Request FAQ - Frequently Asked Questions Education Policies
+Learn
+about Apache Spark, Delta Lake, MLflow, TensorFlow, deep learning, applying software engineering principles to data engineering and machine learning
+LEARN MORE >
+Partners
+FEATURED PARTNERS Microsoft AWS Tableau Informatica Talend
+PARTNERS Technology Consulting and System Integrator
+Events
+Spark + Ai Summit North America 2020 Europe 2019 Video Archive
+Other Events Upcoming Local Events Webinars Meetups Global Events
+Data + ML Spark + AI Summit Training
+Join us at Spark + AI Summit --- The Virtual Event for Data Teams
+NOW FREE
+Open Source
+Apache Spark What is Spark Comparing Spark & Databricks Use Cases Resources Meetups Technical Blogs
+Other Technologies Delta Lake MLflow TensorFlow Koalas
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Company
+Databricks About Us Careers at Databricks Leadership Board of Directors Newsroom Research
+Blogs All Posts Company Posts Engineering Posts
+Contact Contact Databricks
+Join us to help data teams
+solve the world's toughest problems
+SEE JOBS >
+Toggle Search
+Search
+Search
+EN
+FR
+DE
+JP
+Support
+Contact
+Log In
+Try Databricks
+Toggle navigation
+Search
+Search
+Free Trial
+Support
+Log In
+EN
+FR
+DE
+MENU MENU Platform
+Overview Unified Data Analytics Platform
+Data Science Workspace
+Collaborative Notebooks Machine Learning Runtime Managed MLflow
+Unified Data Service
+Delta Lake Databricks Runtime
+Enterprise Cloud Service
+Enterprise Security Simple Administration Production Ready Platform
+Pricing
+BY CLOUD ENVIRONMENT Azure
+Product News
+AWS
+Product News
+By Technology Apache Spark Delta Lake TensorFlow MLflow R
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Solutions
+By Use Case AutoML Cybersecurity Analytics Deep Learning Internet of Things GDPR Genomics Machine Learning & Graph Processing
+By Industry Advertising & Marketing Technology Enterprise Technology & Software Federal Government Financial Services Gaming Healthcare
+By Industry Cont. Life Sciences Media & Entertainment Oil and Gas Industry Retail & Consumer Packaged Goods
+Accelerate Discovery with Unified Data Analytics for Genomics
+LEARN MORE >
+Customers Learn
+DIVE IN Resources Documentation FAQ Forums Research
+PROFESSIONAL SERVICES
+Industry Best Practices Databricks Roadmap Access Advisory Services
+TRAINING & CERTIFICATION
+Welcome to Education Course Catalog Public Class Schedule Private Class Request FAQ - Frequently Asked Questions Education Policies
+Learn
+about Apache Spark, Delta Lake, MLflow, TensorFlow, deep learning, applying software engineering principles to data engineering and machine learning
+LEARN MORE >
+Partners
+FEATURED PARTNERS Microsoft AWS Tableau Informatica Talend
+PARTNERS Technology Consulting and System Integrator
+Events
+Spark + Ai Summit North America 2020 Europe 2019 Video Archive
+Other Events Upcoming Local Events Webinars Meetups Global Events
+Data + ML Spark + AI Summit Training
+Join us at Spark + AI Summit --- The Virtual Event for Data Teams
+NOW FREE
+Open Source
+Apache Spark What is Spark Comparing Spark & Databricks Use Cases Resources Meetups Technical Blogs
+Other Technologies Delta Lake MLflow TensorFlow Koalas
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Company
+Databricks About Us Careers at Databricks Leadership Board of Directors Newsroom Research
+Blogs All Posts Company Posts Engineering Posts
+Contact Contact Databricks
+Join us to help data teams
+solve the world's toughest problems
+SEE JOBS >
+Terms
+Databricks Terms of Service
+Services Addendum
+Website Terms of Use
+Community Edition Terms of Service
+Acceptable Use Policy
+Privacy
+Privacy Policy
+Cookie Policy
+Databricks Subprocessors
+Privacy FAQs
+Customer Data Processing Addendum
+Security
+Databricks Security
+GDPR
+Terms of Service
+These Terms of Service (the  Terms ) and any accompanying or future Order Form you enter into with Databricks, Inc. ( Databricks  or  we ) issued under these Terms (together with these Terms, the  Agreement ) govern your access to and use of the services provided to you by Databricks (the  Databricks Services ). As set forth in an Order Form or as otherwise agreed to by Databricks, the Databricks Services may include one or more of the following: (a) subscription software data processing services (the  Platform Services ), (b) subscription support services ( Support Services ), (c) training services (the  Training Services ), (d) professional services (the  Professional Services ), or (e) any other services the parties agree in an Order Form that Databricks will provide. If you are acting on behalf of an entity, you represent and warrant that you are authorized to bind that entity to these Terms, in which case  Customer ,  you , or  your  shall refer to that entity (otherwise, such terms refer to you as an individual). By accepting these Terms, either by executing these Terms separately or by executing an initial Order Form that indicates your acceptance of these Terms (an  Initial Order Form ), whether by signature or by clicking an I Accept button or checkbox, you agree in full to these Terms. If you do not have authority to bind your entity or do not agree with these Terms, you must not accept these Terms and may not use the Databricks Services. The  Effective Date  of these Terms is the earliest to occur of the effective date of the Initial Order Form, the date you execute these Terms, or the date you first access or use the Databricks Services.
+Certain Definitions . Certain terms not defined elsewhere in the Agreement are defined below in this Section. Capitalized terms used but not defined in an Order Form shall have the meaning assigned to them, if any, within these Terms.
+ Acceptable Use Policy  means the acceptable use policy governing the Platform Services, made available at
+https://databricks.com/aup
+(or such other location as Databricks may provide, and as may be updated from time to time).
+ Affiliate  of a party means an entity that Controls, is Controlled by, or is under common Control with such party.
+ Applicable Data Protection Laws  means all worldwide data protection and privacy Laws applicable to the processing of the Personal Data in question, including without limitation to the extent applicable, those of the United States, the European Economic Area (including the European Union and their member states, Switzerland, and the United Kingdom) ( EEA ), Canada, Australia, Japan and Singapore.
+ Authorized User  means employees or agents of Customer (or other individuals solely to the extent explicitly permitted in an Order Form) selected by Customer to access and use the Subscription Services.
+ BAA  means a business associate agreement as defined by HIPAA (or substantively similar agreement if you are not in the United States and/or are not regulated by HIPAA), governing the parties respective obligations with respect to any PHI that may be contained within Customer Content.
+ Beta Service  means any Databricks Service (or feature of a Databricks Service) that is clearly designated as beta, experimental, preview or similar, that is provided prior to general commercial release, and that Databricks at its sole discretion offers to Customer, and Customer at its sole discretion elects to use.
+ Cloud Provider  means, unless specified otherwise in an Order Form, Amazon Web Services.
+ Confidential Information  means any business or technical information disclosed by either party to the other that is designated as confidential at the time of disclosure or that, under the circumstances, a person exercising reasonable business judgment would understand to be confidential or proprietary. Without limiting the foregoing, all Customer Content is considered to be Customers Confidential Information, all non-public elements of the Databricks Services and any Beta Services are considered to be Databricks Confidential Information, and the terms of this Agreement, any information that either party derives relating to the conduct or performance of the other partys personnel, services or Systems, and any information that either party conveys to the other party concerning data security measures, incidents, or findings constitute Confidential Information of both parties. Confidential Information shall not include information that the receiving party can demonstrate (a) is or becomes publicly known through no fault of the receiving party; (b) is, when it is supplied, already known to whoever it is disclosed to in circumstances in which they are not prevented from disclosing it to others; (c) is independently obtained by whoever it is disclosed to in circumstances in which they are not prevented from disclosing it to others; or (d) was independently developed by the receiving party without use of or reference to the Confidential Information.
+ Control ,  Controlled  or  Controlling  means, whether direct or indirect: (a) the beneficial ownership of more than fifty percent (50%) of the voting equity securities, or the substantively equivalent voting interests, of an entity; or (b) the ability to determine the strategic direction or operating decisions of an entity.
+ Customer Cloud Environment  means the cloud environment provided by the Cloud Provider into which Databricks deploys the Customer Data Plane.
+ Customer Content  means all Customer Data, Customer Instructional Input, and Customer Results.
+ Customer Data  means the data, other than Customer Instructional Input, made available by Customer and its Authorized Users for processing by, or use within, the Subscription Services.
+ Customer Data Plane  means the elements of the Platform Services deployed into the Customer Cloud Environment; the primary processing of Customer Data by the Platform Services occurs within the Customer Data Plane and this activity results in fees being charged to Customer by Cloud Provider (e.g., for EC2 compute resources in the Customer Cloud Environment). For the avoidance of doubt, the term Customer Data Plane does not include Customer-controlled storage, including but not limited to Customers AWS S3 bucket (and for which Customer may incur separate charges).
+ Customer Instructional Input  means information other than Customer Data that Customer inputs into the Platform Services to direct how the Platform Services process Customer Data, including without limitation the code and any libraries (including third party libraries) Customer utilizes within the Platform Services.
+ Customer Results  means any output Customer or its Authorized Users generate from their use of the Platform Services.
+ Databricks Control Plane  means the elements of the Platform Services residing within Databricks Cloud Provider account, including without limitation the user interface of the Platform Services.
+ Documentation  means the documentation related to the Platform Services located at
+https://docs.databricks.com/user-guide/index.html
+(or such other location as Databricks may provide, and as may be updated from time to time).
+ DPA  means the Databricks Data Processing Addendum applicable to Databricks Customers, available on the Effective date at
+https://databricks.com/dpa .
+ Excluded Claims  means claims arising from (a) personal injury or death caused by the negligence of a party, its employees or agents; (b) fraud or fraudulent misrepresentation; (c) Databricks indemnification obligations for an IP Claim; or (d) Customers indemnification obligations.
+ Fees  means all amounts payable for Databricks Services under an applicable Order Form.
+ HIPAA  means the Health Insurance Portability and Accountability Act of 1996, as amended and supplemented from time-to-time.
+ Intellectual Property Rights  means all worldwide intellectual property rights available under applicable law including without limitation rights with respect to patents, copyrights, moral rights, trademarks, trade secrets, know-how, and databases.
+ IP Claim  shall have the meaning assigned to such term in Section 8.1.
+ Laws means any international, federal, state, provincial or other local laws, rules, regulations, ordinances or judicial decisions enacted or issued by a court or other governmental authority of any country, state, province, county, city or other municipality, and any self-regulatory regimes applicable to Customers use of the Databricks Services.
+ Monthly PAYG Service  means the Platform Services provided on a month-to-month basis with payment based only on Customers usage of the Platform Services during the billing month.
+ Order Form  means an order form, online order (including click-thru setup of the Platform Services) or similar agreement, including any exhibits or attachments thereto, for the provision of Databricks Services, entered into by the parties, incorporated by reference into, and governed by, the Agreement.
+ PCI-DSS  means the Payment Card Industry Data Security Standard.
+ Personal Data  shall have the meaning given to such term (or substantively equivalent term) under the Applicable Data Protection Laws.
+ PHI  means health information regulated by HIPAA or by any similar privacy Law governing the use of or access to health information.
+ Subscription Services  means the Platform Services and Support Services.
+ System  means any application, computing or storage device, or network.
+Databricks Services.
+Order Forms.
+Minimum Terms.
+Order Forms for Databricks Services shall identify: (i) specific Databricks Services to be provided, (ii) any limitations on permitted use that may differ from those set forth in these Terms, (iii) the service term or other timing considerations, (iv) Fees, (v) any applicable limitations on number or type of Authorized Users, and (vi) any other applicable terms and conditions ( Minimum Order Terms ).
+Direct Orders; Reseller Orders . Customer may submit Order Forms directly through Databricks (each, a  Direct Order ) or through a Databricks-authorized reseller ( Authorized Reseller , and such Order Form, a  Reseller Order ). Reseller Orders shall be agreed upon between the Authorized Reseller and Customer, and shall, unless otherwise agreed in writing by Databricks, include at least the Minimum Order Terms. Notwithstanding the foregoing, Customer acknowledges that any Reseller Order is subject to Databricks prior approval and agrees that no term in any Reseller Order will be deemed to modify the Agreement unless preauthorized in writing by Databricks.
+Subscription Services .
+Authorized Users .
+Selecting Authorized Users . If we have agreed to provide you with Subscription Services, you may select Authorized Users to access and use the Subscription Services, subject to the restrictions set forth below and to any numeric or other limits established in an Order Form or as otherwise agreed to by the parties. You must obtain separate credentials (user IDs and passwords) via the Subscription Services for each Authorized User.
+Your Responsibilities Regarding Authorized Users . You shall at all times be responsible for and expressly assume the risks associated with all use of the Subscription Services under an Authorized Users account (including for the payment of Fees related to such use), whether such action was taken by an Authorized User or by another party, and whether or not such action was authorized by an Authorized User, provided that such action was not (1) taken by Databricks or by a party acting under the direction of Databricks or (2) an action by a third party that Databricks should reasonably have prevented. This responsibility includes the security of each Authorized Users credentials, and you shall not share (and shall instruct each Authorized User not to share) such credentials with any other person or entity, or otherwise permit any other person or entity to access or use the Subscription Services, except to the extent permitted in an Order Form.
+Provision of the Subscription Services . Subject to your, and your Authorized Users, compliance with the terms and conditions of this Agreement (including payment of any Fees as due under Section 5 (Payment)), Databricks will provide you with the Subscription Services, and you and your Authorized Users may access and use the Subscription Services solely for your internal business purposes, unless any other permitted use is set forth in an applicable Order Form. Databricks reserves the right to improve or otherwise modify its internal System architecture at any time subject to maintaining appropriate industry standards of practice relating to the provision and security of the Subscription Services, and provided that any such modification does not materially diminish the core functionality of the Subscription Services. As between the parties, you retain all ownership rights in Customer Data, Customer Results and, subject to Databricks rights in Usage Data (as defined in Section 3.3(a)), Customer Instructional Input, and any other information or materials you provide to Databricks to enable Databricks to perform any of the Databricks Services. Additionally, to the extent Customer utilizes third party open source libraries within the Customer Instructional Input, the foregoing shall not be read to imply ownership by Customer in such libraries.
+Shared Responsibility Deployment .
+Generally . You acknowledge that the Platform Services are implemented in a manner that divides the Platform Services between the Customer Cloud Environment and the Databricks Control Plane, and that accordingly each party must undertake certain technical and organizational measures in order to protect the Platform Services and the Customer Content. Without limiting the foregoing, Customer acknowledges and agrees that (1) in order to utilize the Platform Services, Customer must have an account with the Cloud Provider; (2) Databricks does not host the Customer Cloud Environment into which the Platform Services are deployed or the Systems in which your Customer Data may be stored (e.g., an AWS S3 bucket); (3) while certain Customer Data may occasionally be present within the Platform Services (e.g., within the Customer Results), the Platform Services are not designed to archive or permanently retain Customer Data, but merely to provide an environment to facilitate Customers processing of Customer Data within the Customer Cloud Environment by permitting Customer to generate and execute Customer Instructional Input and view Customer Results; and (4) Databricks and the Platform Services do not provide backup services or disaster recovery to enable recovery of Customer Data. Accordingly, and without limiting the foregoing, but subject to Section 9.1, Databricks is not responsible for any loss, destruction, alteration, or corruption of Customer Content, except to the extent caused by the gross negligence or willful misconduct of Databricks or to the extent caused by any third party that Databricks should reasonably have prevented from having access.
+Customer Responsibilities . Customer acknowledges and agrees that Customer is responsible for (1) protecting the security of all Customer credentials used to access the Subscription Services (with Databricks also responsible for taking adequate steps to protect Customer credentials to the extent such credentials are within the control of Databricks); (2) securing the Customer Cloud Environment and any Customer System (with such steps to include without limitation the regular rotation of access keys and other industry standard steps to preclude unauthorized access); (3) backing up Customer Instructional Input (e.g., via Github or other third party system); (4) backing up and securing Customer Data under Customers control within the Customer Cloud Environment or other Customer controlled System (e.g., by turning on versioning and encryption within AWS S3); and (5) any security or other issues resulting from any Customer Instructional Input, and Customer expressly assumes the risks associated with the foregoing responsibilities.
+Databricks Responsibilities . Databricks acknowledges and agrees that, as between the parties and except to the extent caused by the action or intentional or negligent inaction of Customer or Customers Authorized Users, including without limitation any customizations or configurations of the Platform Services by Customer or anything specified to be Customers responsibility in (ii), above, Databricks is primarily responsible for (1) the operation (excluding to the extent such operation is directed by the Customer Instructional Content) of the Databricks Control Plane (including the user interface of the Platform Services and the portion of the Platform Services within the Databricks Control Plane in which the Customer Instructional Input and Customer Results are held until deleted by Customer) and the Databricks software that operates the computing resources in the Customer Data Plane; and (2) implementing reasonable technical and organizational measures designed in accordance with the ISMS Standard (defined below) to protect the security of the foregoing. Additionally, while it is Customers responsibility to back up Customer Instructional Input, Databricks will, at Customers reasonable request, provide commercially reasonable assistance with recovery efforts where reasonably possible.
+Training Services .
+Generally . Databricks may provide, as set forth in an Order Form, certain Training Services, delivered (i) by instructors ( Instructor-led Training Services ), either in person or online-only; or (ii) as a self-paced online training course ( Self-Paced Training Services ). If we have agreed to provide you with Training Services, we will provide qualified training personnel and/or suitable training materials. You shall make available to Databricks any materials Databricks reasonably requires to perform the Training Services, but unless agreed between the parties in writing, shall not provide Databricks any Customer Data for use with the Training Services.
+Instructor-led Training Services . If we have agreed to provide you with Instructor-led Training Services, except as otherwise mutually agreed upon by the parties, you shall, as reasonably applicable: (i) provide qualified personnel to assist in coordinating and implementing the Instructor-led Training Services; (ii) provide Databricks with access to your sites and facilities (or temporary off-site facilities) during normal business hours and as otherwise reasonably required by Databricks to perform the Instructor-led Training Services; (iii) provide Databricks with such working space and office support (including access to telephones, photocopying equipment, and the like) as Databricks may reasonably request; and (iv) perform your duties and tasks as may be reasonably required to permit Databricks to perform the Instructor-led Training Services, including any such duties and tasks that may be set forth in an Order Form.
+Self-Paced Training Services . Databricks may make available certain Self-Paced Training Services. Unless otherwise set forth in an Order Form or when signing up for a Self-Paced Training Service, the Self-Paced Training Services shall expire 12 months from the earlier of purchase or activation and are licensed on a per-user basis.
+Professional Services . Terms regarding the delivery of Professional Services, if applicable, shall be set forth in an Order Form.
+Downloadable Services.
+Databricks may make available to you certain Databricks Services as software from time to time in a downloadable manner ( Downloadable Services ). Unless expressly stated otherwise at the time of download or as otherwise agreed by Databricks, Downloadable Services may only be used as a part of the Databricks Services. You are granted a non-exclusive, royalty-free right and license to use and copy during the term of this Agreement the Downloadable Services solely as necessary to enable your use of the Databricks Services.
+Beta Services.
+If you elect to receive any Beta Services offered by Databricks, you agree that, in addition to adhering to all other restrictions generally applicable to your use of the Subscription Services under this Agreement and any requirements set forth by Databricks in writing regarding the particular Beta Services, you shall not use such Beta Services for production workloads or for any mission critical work, and that you shall not use sensitive data (e.g., PHI or Cardholder Data) in conjunction with such Beta Services unless explicitly permitted in an Order Form.
+Feedback . You are under no duty to provide any suggestions, enhancement requests, or other feedback regarding the Databricks Services ( Feedback ). If you choose to offer Feedback to Databricks, you hereby grant Databricks a perpetual, irrevocable, non-exclusive, worldwide, fully-paid, sub-licensable, assignable license to incorporate into the Databricks Services or otherwise use any Feedback Databricks receives from you. You also irrevocably waive in favor of Databricks any moral rights which you may have in such Feedback pursuant to applicable copyright law.
+Ownership of the Databricks Services.
+Except as expressly set forth in this Agreement, Databricks retains all Intellectual Property Rights and all other proprietary rights related to the Databricks Services. You shall not delete or alter the copyright, trademark, or other proprietary rights notices or markings appearing within the Databricks Services as delivered to you. You agree that the Databricks Services are provided on a non-exclusive basis and that no transfer of ownership of Intellectual Property Rights shall occur. You further acknowledge and agree that portions of the Databricks Services, including but not limited to the source code and the specific design and structure of individual modules or programs, constitute or contain trade secrets and other Intellectual Property Rights of Databricks and its licensors.
+Compliance with Customer Onsite Access Policies.
+If in the course of providing Training Services or any other Databricks Services, Databricks personnel go onsite at Customers premises, Databricks shall require such personnel to comply with Customers commercially reasonable onsite access policies that have been provided by Customer to such personnel reasonably in advance.
+Customer Obligations; Customer Data .
+Customer Responsibilities . In addition to the responsibilities set forth in Section 2.2(c), Customer is responsible for ensuring that Databricks at all times has updated and accurate contact information for the appropriate person for Databricks to notify regarding data security issues relating to the Databricks Services, with such contact information to be updated in each Order Form and any subsequent changes to be provided by email to
+customercontact@databricks.com
+(with Contact Detail Change in the subject).
+Restrictions on Use.
+You shall not (and shall not permit your Authorized Users to):
+violate the Acceptable Use Policy;
+copy, modify, disassemble, decompile, reverse engineer, or attempt to view or discover the source code of the Databricks Services, in whole or in part, or permit or authorize a third party to do so, except to the extent such activities are expressly permitted by this Agreement or by law notwithstanding this prohibition;
+sell, resell, license, sublicense, distribute, rent, lease, or otherwise provide access to the Databricks Services to any third party except to the extent explicitly authorized in writing by Databricks;
+use the Databricks Services to develop or offer a service made available to any third party that could reasonably be seen to serve as a substitute for such third partys possible subscription to any Databricks product or service;
+transfer or assign any of your rights hereunder except as permitted under Section 12.5; or
+during any free trial period granted by Databricks, including during the use of any Beta Service, use the Databricks Services for any purpose other than to evaluate the desirability of entering into a paid subscription to the Databricks Services (in which case Databricks reserves the right to charge you for such use at Databricks standard rates without foregoing any other available remedies).
+Customer Data and Customer Instructional Input .
+Ownership; Usage Data . As between you and Databricks, you retain all ownership rights in Customer Content. Notwithstanding the foregoing, you acknowledge and agree that Databricks may collect usage data and telemetry regarding your Authorized Users use of the Subscription Services and that such usage data may occasionally contain Customer Instructional Input (e.g., it may contain the queries entered by an Authorized User) but will not contain Customer Data or Customer Results ( Usage Data ). Databricks will not share or publicly make available any Usage Data that identifies Customer, or any of its Authorized Users, other data subjects, or customers, nor use any Usage Data in a manner that derives its value from the unique aspects of your Customer Instructional Input.
+PHI Data under HIPAA . You agree that you may not include in Customer Data or Customer Instructional Input, or generate any Customer Results that include, any PHI unless you have entered into (i) an Order Form that explicitly permits you to process PHI within the Platform Services, and then only with respect to the workspace(s) identified in such Order Form (the  PHI
+Permitted Workspaces ); and (ii) a BAA with Databricks which, upon mutual execution, shall be incorporated by reference into and subject to this Agreement. If you have not entered into a BAA with Databricks or if you provide PHI to Databricks other than through the PHI Permitted Workspaces, Databricks will have no liability under this Agreement relating to PHI, notwithstanding anything in this Agreement or in HIPAA or any similar Laws to the contrary.
+Cardholder Data Under PCI-DSS . You agree that you may not include in Customer Data or Customer Instructional Input, or generate any Customer Results that include, any cardholder data as defined under PCI-DSS ( Cardholder Data ) unless you have entered into an Order Form that (i) specifies Databricks then-current certification status under PCI-DSS; and (ii) explicitly permits you to process Cardholder Data within the Platform Services (including specifying the types and quantities of such data) and, and then only with respect to the workspace(s) identified in such Order Form (the  PCI Permitted Workspaces ). If you have not entered into such mutually executed Order Form with Databricks, or if you provide Cardholder Data to Databricks other than through the PCI Permitted Workspaces, Databricks will have no liability under this Agreement relating to Cardholder Data, notwithstanding anything in this Agreement or in PCI-DSS or any similar regulations to the contrary.
+Additional Limitations . You represent and warrant to Databricks that your use of Databricks Services shall comply with all applicable Laws, including without limitation any Applicable Data Protection Laws, and that, without limiting the foregoing, Customer Data and Customer Instructional Input shall not contain:
+any data for which you do not have all rights, power and authority necessary for its collection, use and processing as contemplated by this Agreement;
+any data with respect to which your use and provision to Databricks pursuant to this Agreement would breach any agreement between you and any third party; or
+any data with respect to which its usage as contemplated herein would violate any applicable Laws, including without limitation any Applicable Data Protection Laws.
+Term .
+Term of Agreement . This Agreement shall become effective on the Effective Date and shall continue in full force and effect until terminated by either party pursuant to this Section 4. The Agreement may be terminated by either party without cause on thirty (30) days prior written notice if (a) there are no operative Order Forms outstanding or (b) the other party is in material breach of the Agreement and the breaching party fails to cure the breach prior to the end of the notice period. If the Agreement terminates pursuant to the prior sentence due to Databricks material breach, Databricks will refund to you that portion of any prepayments related to Databricks Services not yet provided. Either party can immediately terminate the Agreement if the other becomes insolvent, makes an assignment for the benefit of its creditors, has a receiver, examiner, or administrator of its undertaking or the whole or a substantial part of its assets appointed, or an order is made, or an effective resolution is passed, for its administration, examinership, receivership, liquidation, winding-up or other similar process, or has any distress, execution or other process levied or enforced against the whole or a substantial part of its assets (which is not discharged, paid out, withdrawn or removed within 30 days), or is subject to any proceedings which are equivalent or substantially similar to any of the foregoing under any applicable jurisdiction, or ceases to conduct business or threatens to do so.
+Term of Order Forms . The Term of an Order Form shall be as specified in the Order Form.
+Monthly PAYG Services.
+Notwithstanding anything in this Agreement to the contrary, Databricks may suspend or terminate any Monthly PAYG Services account, and delete any Customer Content relating to such account that may be stored within the Subscription Services or other Databricks Systems, upon thirty (30) days prior written notice (email sufficient) if Databricks reasonably determines the account is inactive as set forth in the Acceptable Use Policy.
+Suspension; Termination . Databricks may temporarily suspend or terminate the Databricks Services at any time (a) immediately without notice if Databricks reasonably suspects that you have violated Section 3 or your responsibilities set forth in Section 2.2(c) in a manner that may cause material harm or material risk of harm to Databricks or to any other party, (b) upon ten (10) business days notice if Databricks reasonably suspects that you have committed any other violation of Section 3 or your responsibilities set forth in Section 2.2(c) or (c) if you or your Responsible Customer (as defined below) fail to pay undisputed Fees after receiving notice that you are more than thirty (30) days delinquent in payment.
+Effects of Termination . Upon termination for any reason, you shall purge all stored elements of the Databricks Services from your Systems, Databricks will, upon your written request, purge all your Confidential Information from its Systems, and each party, upon request by the other party, shall provide certification of such action. All provisions of the Agreement that by their nature should survive termination shall so survive, including without limitation each partys confidentiality obligations under Section 6.
+Payment . Unless Customers usage of the Databricks Services is being paid for by a third party under contract with Databricks (such third party, the  Responsible Customer ), Customer shall pay all Fees specified in the applicable Order Form. With respect to Direct Orders, except as otherwise specified therein: (a) all Fees owed to Databricks shall be paid in U.S. Dollars; (b) invoiced payments shall be due within 30 days of the date of your receipt of each invoice; and (c) Fees for all Databricks Services shall be invoiced in full upon execution of the applicable Order Form. With respect to a Reseller Order, payment terms shall be specified on such Reseller Order, provided that should Customer fail to pay Fees when due to an Authorized Reseller, Databricks may seek payment directly from Customer. All past due payments, except to the extent reasonably disputed, shall accrue interest at the highest rate allowed under applicable law but in no event more than one and one-half percent (1.5%) per month. You shall be solely responsible for payment of any applicable sales, value added or use taxes, or similar government fees or taxes.
+Confidentiality; Data Protection .
+Confidentiality . A receiving party will not use the disclosing partys Confidential Information except as permitted under this Agreement or to enforce its rights under this Agreement and will not disclose such Confidential Information to any third party except to those of its employees and/or subcontractors who have a bona fide need to know such Confidential Information for the performance or enforcement of this Agreement; provided that each such employee and/or subcontractor is bound by a written agreement that contains use and disclosure restrictions consistent with the terms set forth in this Section 6.1. Each receiving party will protect the disclosing partys Confidential Information from unauthorized use and disclosure using efforts equivalent to the efforts that the receiving party ordinarily uses with respect to its own Confidential Information of similar nature and in no event using less than a reasonable standard of care; provided, however, that a party may disclose such Confidential Information as required by applicable law, regulation, court order or action by applicable regulatory authority, subject to the party required to make such disclosure giving reasonable notice to the other party to enable it to contest such order or requirement or limit the scope of such request. The provisions of this Section 6.1 shall supersede any non-disclosure agreement by and between the parties (whether entered into before, on or after the Effective Date) that would purport to address the confidentiality and security of Customer Data and such agreement shall have no further force or effect with respect to Customer Data.
+Data Protection . Databricks is certified as ISO/IEC 27001:2013 compliant as of the Effective Date and shall remain certified to this or an equivalent or greater standard (the  ISMS Standard ) throughout the term of this Agreement. Databricks will maintain appropriate administrative, physical, and technical safeguards according to the ISMS Standard for protection of the security and confidentiality of Customer Data under Databricks control. Those safeguards will include, but will not be limited to, measures designed to prevent unauthorized access to or disclosure of Customer Data under Databricks control. Without limiting the foregoing, Databricks acknowledges that it may receive or have access to Personal Data provided by your Authorized Users during the term of this Agreement. Except with respect to a free trial, the terms of the DPA are hereby incorporated by reference and shall apply to the extent Customer Data includes Personal Data, as defined in the DPA. To the extent Personal Data from the European Economic Area (EEA), the United Kingdom and Switzerland are processed by Databricks, the EU-US and/or Swiss-US Privacy Shield, and/or the Standard Contractual Clauses shall apply, as further set forth in the DPA. Where the Standard Contractual Clauses are applicable according to the DPA, Customer and its applicable Affiliates are each the data exporter, and Customers acceptance of this Agreement, and Customers or an applicable Affiliates execution of an Order Form, shall be treated as its execution of the Standard Contractual Clauses and Appendices.
+Warranties; Disclaimer .
+Warranties . Databricks warrants that, during the term of the Agreement, it will employ appropriate industry standards of practice designed to: (a) ensure that its provision of the Databricks Services under this Agreement will not infringe any third party Intellectual Property Rights or other proprietary rights; (b) prevent the transmission of malware or malicious code via the Databricks Services; (c) meet its performance, confidentiality and other obligations under this Agreement; (d) prevent unauthorized access to or disclosure of Customer Content; and (e) ensure that the Platform Services operate during the applicable Order Form term(s) substantially in accordance with the Documentation.
+Disclaimer .
+THE WARRANTIES IN SECTION 7.1 ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, REGARDING DATABRICKS AND DATABRICKS SERVICES PROVIDED HEREUNDER. SUBJECT TO SECTION 9.1, DATABRICKS SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, CONDITIONS AND OTHER TERMS, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY OR FITNESS FOR A PARTICULAR PURPOSE. NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN (BUT SUBJECT ALWAYS TO SECTION 9.1): (a) BETA SERVICES AND ANY SERVICES PROVIDED UNDER ANY FREE TRIAL PERIOD ARE PROVIDED AS-IS AND WITHOUT WARRANTY OF ANY KIND BY DATABRICKS; (b) WITHOUT LIMITATION, DATABRICKS DOES NOT MAKE ANY WARRANTY OF ACCURACY, COMPLETENESS, TIMELINESS, OR UNINTERRUPTABILITY, OF THE DATABRICKS SERVICES; (c) DATABRICKS IS NOT RESPONSIBLE FOR RESULTS OBTAINED FROM THE USE OF THE DATABRICKS SERVICES OR FOR CONCLUSIONS DRAWN FROM SUCH USE; AND (d)
+DATABRICKS EFFORTS TO RESTORE LOST OR CORRUPTED CUSTOMER INSTRUCTIONAL INPUT PURSUANT TO SECTION 2.2(c)(iii) SHALL CONSTITUTE DATABRICKS SOLE LIABILITY AND YOUR SOLE AND EXCLUSIVE REMEDY IN THE EVENT OF ANY LOSS OR CORRUPTION OF CUSTOMER CONTENT IN CONNECTION WITH THE DATABRICKS SERVICES.
+Indemnification .
+Indemnification by Databricks . Subject to Section 8.5, Databricks will defend Customer against any claim, demand, suit or proceeding made or brought against Customer by a third party (a  Claim Against Customer ) alleging that the Databricks Services as provided to Customer by Databricks or Customers use of the Databricks Services in accordance with the Documentation and this Agreement infringes or misappropriates such partys Intellectual Property Rights (an  IP Claim ), and will indemnify Customer from and against any damages, attorney fees and costs finally awarded against Customer as a result of, or for amounts paid by Customer under a settlement approved by Databricks in writing of, a Claim Against Customer. Notwithstanding the foregoing, Databricks will have no liability for any infringement or misappropriation claim of any kind if such claim arises from: (a) the public open source version of Apache Spark (located at github.com/apache/spark), if the claim of infringement or misappropriation does not allege with specificity that the infringement or misappropriation arises from the Platform Services (as opposed to Apache Spark itself); (b) the combination, operation or use of the Databricks Services with equipment, devices, software or data (including without limitation your Confidential Information) not supplied by Databricks, if a claim would not have occurred but for such combination, operation or use; or (c) your or an Authorized Users use of the Databricks Services other than in accordance with the Documentation and this Agreement.
+Injunction . If Databricks receives information about an infringement or misappropriation claim related to a Databricks Service, then Databricks may at its sole option and expense: (a) replace or modify the applicable Databricks Services to make them non-infringing and of equivalent functionality; (b) procure for you the right to continue using the Databricks Services under the terms of this Agreement; or (c) if Databricks is unable to accomplish either (a) or (b) despite using its reasonable efforts, terminate your rights and Databricks obligation under this Agreement with respect to such Databricks Services and refund to you any Fees prepaid by you for Databricks Services not yet provided.
+Indemnification by Customer . Subject to Section 8.5, Customer shall defend Databricks and its Affiliates and its and each of their officers, employees, directors, and agents (each, a  Databricks Indemnitee ) against any claim, demand, suit or proceeding made or brought against a Databricks Indemnitee by a third party (a  Claim Against Databricks ) (a) alleging that any Customer Content or its use with the Databricks Services infringes or misappropriates such partys Intellectual Property Rights; or (b) arising from or related to Customers use of the Databricks Services in violation of any Law or this Agreement, and shall indemnify each Databricks Indemnitee from and against any damages, attorney fees and costs finally awarded against a Databricks Indemnitee as a result of, or for amounts paid by a Databricks Indemnitee under a settlement approved by Customer in writing of, a Claim Against Databricks.
+Sole Remedy for Infringement of Intellectual Property Rights.
+SUBJECT TO SECTION 8.5 BELOW, THE FOREGOING SECTIONS 8.1 and 8.2 STATE THE ENTIRE OBLIGATION OF DATABRICKS AND ITS LICENSORS WITH RESPECT TO ANY ALLEGED OR ACTUAL INFRINGEMENT OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS BY THE DATABRICKS SERVICES.
+Conditions of Indemnification.
+As a condition to an indemnifying partys (each, an  Indemnitor ) obligations under this Section 8, a party seeking indemnification (each, an  Indemnitee ) will: (a) promptly notify the Indemnitor of the claim for which the Indemnitee is seeking indemnification (but late notice will only relieve Indemnitor of its obligation to indemnify to the extent that it has been prejudiced by the delay); (b) grant the Indemnitor sole control of the defense (including selection of counsel) and settlement of the claim; (c) provide the Indemnitor, at the Indemnitors expense, with all assistance, information and authority reasonably required for the defense and settlement of the claim; (d) preserve and will not waive legal, professional or any other privilege attaching to any of the records, documents, or other information in relation to such claim without prior notification of consent by the Indemnitor. The Indemnitor will not settle any claim in a manner that does not fully discharge the claim against an Indemnitee or that imposes any obligation on, or restricts any right of, an Indemnitee without the Indemnitees prior written consent, which may not be unreasonably withheld or delayed. An Indemnitee has the right to retain counsel, at the Indemnitees expense, to participate in the defense or settlement of any claim. The Indemnitor will not be liable for any settlement or compromise that an Indemnitee enters into without the Indemnitors prior written consent.
+Limitation of Liability .
+Nothing in this Agreement shall limit either partys liability for
+the Excluded Claims; or
+any other liability that cannot be excluded or limited by applicable Laws.
+Subject to Section 9.1, neither party nor its Affiliates shall be liable for any:
+loss of profits or revenue;
+loss from damage to business or goodwill;
+loss arising from inaccurate or unexpected results of algorithms submitted by the other party to the Databricks Services; or
+other indirect, incidental, special, punitive, or consequential loss or damages; even if a party has been advised of the possibility of such losses or damages arising
+SUBJECT TO SECTION 9.1, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EACH PARTY TOGETHER WITH ALL OF ITS AFFILIATES ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL AMOUNT PAID BY CUSTOMER AND ITS AFFILIATES HEREUNDER FOR THE DATABRICKS SERVICES GIVING RISE TO THE LIABILITY IN THE TWELVE (12) MONTHS PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE. THE FOREGOING LIMITATION SHALL APPLY WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY, BUT WILL NOT LIMIT CUSTOMERS AND ITS AFFILIATES PAYMENT OBLIGATIONS UNDER THE FEES AND PAYMENT SECTION ABOVE.
+Notwithstanding the previous paragraph, but subject to Section 9.1, any liability relating to Databricks Services provided free of charge, including any Beta Services or Databricks Services provided during a free trial period, shall be limited to five thousand US dollars (USD $5,000).
+Export . The Databricks Services, and/or derivatives thereof, may be subject to export Laws of the United States and other jurisdictions. Each party represents that it is not named on any U.S. government denied-party list. You shall not permit your users to access or use any Databricks Services in a U.S. embargoed country (as of the Effective Date, Cuba, Iran, North Korea, Sudan, Syria or Crimea) or in violation of any U.S. export Law.
+Equitable Relief.
+Each party acknowledges and agrees that the other party may be irreparably harmed in the event that such party breaches Section 6 (Confidentiality), and that monetary damages alone cannot fully compensate the non-breaching party for such harm. Accordingly, each party hereto hereby agrees that the non-breaching party shall be entitled to injunctive relief to prevent or stop such breach, and to obtain specific enforcement thereof. Any such equitable remedies obtained shall be in addition to, and not foreclose, any other remedies that may be available.
+General .
+Governing Law and Venue . The governing law and exclusive venue applicable to any lawsuit or other dispute arising in connection with this Agreement shall be determined by the location of Customers principal place of business ( Domicile ), as follows:
+Customers Domicile
+Governing Law
+Venue
+(courts with exclusive jurisdiction)
+California
+California
+San Francisco
+(state and U.S. federal courts)
+North America except California; South America; Middle East; Africa
+Delaware
+Delaware
+(state and U.S. federal courts)
+United Kingdom
+England & Wales
+London
+Europe except United Kingdom
+(including all of Russia and Turkey)
+Ireland
+Dublin
+Pacific & Asia
+(excluding Middle East)
+Singapore
+Singapore*
+*
+Any dispute subject to Singapore venue shall be referred to and finally resolved by arbitration in accordance with the rules of the Singapore International Arbitration Centre ( SIAC ) then in force, which rules are deemed to be incorporated by reference into this Agreement. The number of arbitrators shall be one, unless the SIAC registrar determines that, in view of all the circumstances of the case, a three-member tribunal is appropriate. The language to be used in the arbitration proceedings shall be English. The decision of the arbitrator shall be final and binding upon the parties. Nothing in this paragraph shall prevent either party, in cases in which interim, injunctive or declaratory relief is required, from commencing proceedings and pursuing claims before a court of competent jurisdiction.
+The parties hereby irrevocably consent to the personal jurisdiction and venue of the courts (or the SIAC where applicable) in the venues shown above. In all cases, the application of law shall be without regard to, or application of, conflict of law rules or principles, and the United Nations Convention on Contracts for the International Sale of Goods shall not apply.
+U.S. Government Users . If Customer is a U.S. government entity, or this Agreement otherwise becomes subject to the Federal Acquisition Regulation (FAR), Customer acknowledges that the Platform Services constitute software and documentation provided as Commercial Items under 48 C.F.R. 2.101 and developed solely at private expense, and are being licensed and made accessible to U.S. government users as commercial computer software subject to the restricted rights described in 48 C.F.R. 12.212.
+Insurance Coverage.
+Databricks will maintain commercially appropriate insurance coverage given the nature of the Databricks Services and Databricks obligations under this Agreement. Such insurance will be in an industry standard form with admitted insurance carriers with A.M. ratings of A- IX or better, and shall include commercially appropriate cyber liability insurance coverage. Upon Customers request, Databricks will provide to Customer proof evidencing Databricks insurance coverage.
+Entire Agreement, Construction, Amendment
+and
+Execution.
+This Agreement (including all Order Forms) is the complete and exclusive understanding and agreement between the parties regarding its subject matter. Nothing in the preceding sentence shall limit or exclude any liability for fraud or fraudulent misrepresentation. To the extent any provision in an Order Form clearly conflicts with a provision of these Terms or a provision of an earlier Order Form, the provision in the new Order Form shall be binding and the conflicting provision in these Terms or in the earlier Order Form shall be deemed modified solely to the extent reasonably necessary to eliminate the conflict and solely with respect to the new Order Form (unless expressly intended to permanently amend the Agreement). If any provision of this Agreement is held to be unenforceable or invalid, that provision shall be enforced to the maximum extent possible, and the other provisions shall remain in full force and effect. The headings in this Agreement are solely for convenience, and shall not be taken into consideration in interpretation of the Agreement. Each party acknowledges and agrees that it has adequate sophistication, including legal representation, to fully review and understand this Agreement; therefore, in interpretation of the Agreement with respect to any drafting ambiguities that may be identified or alleged, no presumption shall be given in favor of the non-drafting party. This Agreement may not be modified or amended except by mutual written agreement of the parties. Without limiting the foregoing, no Customer purchase order shall be deemed to modify an Order Form or this Agreement unless expressly pre-authorized in writing by Databricks. This Agreement (including all Order Forms) may be executed in two or more counterparts, each of which shall be deemed an original and all of which, taken together, shall constitute one and the same instrument. A partys electronic signature or transmission of any document by electronic means shall be deemed to bind such party as if signed and transmitted in physical form.
+Assignment.
+No assignment, novation or transfer of a partys rights and obligations under this Agreement ( Assignment ) is permitted except with the prior written approval of the other party, which shall not be unreasonably withheld; provided, however, that either party may freely make an Assignment to a successor in interest upon a change of Control.
+Notice.
+Any required notice under this Agreement shall be deemed given when received by letter delivered by nationally recognized overnight delivery service or recorded prepaid mail. Unless notified in writing of a change of address, you shall send any required notice to Databricks, Inc., 160 Spear Street, Suite 1300, San Francisco, CA 94105, USA, attention: Legal Department, and Databricks shall send any required notice to you directed to the most recent address you have provided to Databricks for such notice. Notwithstanding the foregoing, notice as required under Section 4.4 may be provided by email sent to a person the party providing notice reasonably believes to have responsibility for the other partys activities under this Agreement.
+Force Majeure.
+Notwithstanding anything herein to the contrary, Customer understands and agrees that its use of the Databricks Services may be interrupted by circumstances beyond Databricks reasonable control, including without limitation acts of God, acts of government, changes in law or regulations, acts or omissions of third parties, flood, fire, earthquakes, civil unrest, wars, acts of terror, strikes or other actions taken by labor organizations, computer, telecommunications, the Internet, Internet service provider or hosting facility failures or delays involving hardware, software or power systems not within Databricks possession or reasonable control, and network intrusions or denial of service attacks, or any other cause, whether similar or dissimilar to any of the foregoing that is beyond Databricks reasonable control (individually or collectively as applicable,  Force Majeure ). Databricks shall not be responsible or otherwise liable for any Force Majeure or any consequences thereof.
+Last Updated July 15, 2019. For earlier versions, please send a request to
+databricks-tos@databricks.com
+(with TOS Request in the subject).
+Product
+Databricks
+Feature Comparison
+Pricing
+Security
+Documentation
+FAQ
+Forums
+Apache Spark
+About Apache Spark
+Certification
+Instructor-Led Apache Spark Training
+Community Events Guidelines
+Solutions
+Industries
+Data Science Teams
+Data Engineering Teams
+Use Cases
+Customers
+Global Services
+Professional Services
+Education Services
+Company
+About Us
+Leadership
+Board of Directors
+Partners
+Newsroom
+Careers at Databricks
+Contact Us
+Blog
+See All
+Company Blog
+Engineering Blog
+Resources
+Databricks Inc.
+160 Spear Street, 13th Floor
+San Francisco, CA 94105
+1-866-330-0121
+Contact Us
+Follow Databricks on Twitter
+Follow Databricks on LinkedIn
+Follow Databricks on Facebook
+Follow Databricks on YouTube
+Follow Databricks on Glassdoor
+Databricks Blog RSS feed
+© Databricks
+. All rights reserved. Apache, Apache Spark, Spark and the Spark logo are trademarks of the
+Apache Software Foundation . Privacy Policy
+ 
+Terms of Use

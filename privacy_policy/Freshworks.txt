@@ -1,0 +1,301 @@
+Refreshing Cloud Business Suite   Privacy Notice Freshworks Inc
+Products
+Empower your support team to work together and resolve customer issues faster.
+Customer Support Software
+Keep your sales team in the know about prospects and close deals faster.
+Sales CRM Software
+Freddy AI for CX
+AI-powered CX automation suite to deliver effortless customer experiences.
+Learn more
+Streamline your IT service and manage internal requests from your employees.
+IT Service Management Software
+Engage with website visitors and product users for sales and customer success.
+Customer Messaging Software
+Intelligent marketing automation to acquire, engage, and retain your customers
+Conversion Optimization Suite
+Reimagine your cloud-based phone system for businesses of all sizes across 90+ countries.
+Call Center Software
+Recruit and onboard top talent. Manage all employee data and time off in one place.
+HR Software for growing businesses
+Modern project management software for teams to plan, track, collaborate and deliver results on time.
+Project management software
+Enable your teams, partners, and agents to collaborate with full context.
+Enable your teams, partners, and agents to collaborate with full context.
+Monitor your website's availability. Get down alerts and status pages for free.
+Free website monitoring tool
+Setup your hosted public status page, in 1-click, free forever.
+HOSTED PUBLIC STATUS PAGES
+New
+Prevent churn, increase account expansion, and strengthen customer relationships
+Customer Success Software
+Explore refreshing apps and integrations for Freshworks products
+Visit the Marketplace
+Platform
+Company
+About
+Leadership
+Board of Directors
+Investors
+Affiliates
+Partners
+Careers
+Press
+Contact Us
+Resources
+Blogs
+Academy
+Videos
+Customers
+Support
+Help & Support
+Services
+North America
+English
+Europe
+English (Europe)
+Deutsch
+Nederlands
+Français
+Svenska
+Español
+Russia
+Polish
+Turkish
+Latin America
+Español
+Português Brasileiro
+Asia Pacific
+
+Korean Republic
+Simplifed Chinese
+Thai
+Traditional Chinese
+English (Europe)
+Deutsch
+Nederlands
+Français
+Svenska
+Español
+Español
+Português Brasileiro
+
+Korean Republic
+Russia
+Simplifed Chinese
+Thai
+Polish
+Traditional Chinese
+Turkish
+English
+Privacy Policies
+Privacy
+Privacy
+Cookie Policy
+ANZ Privacy Requirements
+Data Hosting
+Sub-processors
+Freshworks Privacy Notice
+Effective Date
+May 25, 2020
+For prior version, please click
+here .
+Freshworks Inc. and its Group Companies (collectively  Freshworks , "we", "us", and "ours") is committed to protecting your privacy. This Privacy Notice ( Notice ) describes how Freshworks processes Personal Data in its capacity as a controller (i.e. Freshworks decides what Personal Data is collected and what it is used for) or processor (i.e. Freshworks only processes the data as per the controller's instructions), as the case may be. This policy is applicable to Freshworks Products (web platform and mobile applications) and to Freshworks public website
+www.freshworks.com . In this policy the term  Website  shall have the same meaning as defined in the Terms of Service( Terms ). It also describes your choices regarding use, access and correction of your Personal Data.
+QUICK LINKS
+We recommend that you read this Notice in full to ensure you are fully informed. However, if you only want to access a particular section of this Notice, then you can click on the relevant link below to jump to that section.
+Definitions
+Whom does this Notice Apply to?
+Any Questions?
+What Personal Data does Freshworks collect and why?
+Personal Data we collect and process for our own purposes: Collected Data
+What is our legal basis for processing Personal Data (EEA and Swiss visitors only)?
+How we process Service Data
+Single Sign-On
+Social Media Features
+Sharing of Personal Data
+Information that we obtain from third parties
+Privacy Shield Compliance
+How does Freshworks keep Personal Data secure?
+EEA and Swiss Specific Rights
+California-Resident Specific Rights
+Other Communications
+Retention of Personal Data
+Link to Third Party Sites
+Childrens Personal Data
+Amendments
+Legal Disclosure
+Contacting Freshworks
+DEFINITIONS
+The capitalized terms used in this Notice but not defined herein shall have the same meaning as defined in the Terms of Service at  https://freshworks.com/terms/(Terms) .
+WHOM DOES THIS NOTICE APPLY TO?
+This Notice applies to (i) entities or individuals, including End-Users and Users, who have subscribed to our Service(s) and have agreed to the Terms (hereinafter referred to as the  Customer ) and (ii) individuals ( Individuals ) from whom Freshworks collects data as a controller as specified below.
+ANY QUESTIONS?
+If you have questions or complaints regarding our privacy notice or practices, please contact us at privacy @freshworks.com .
+WHAT PERSONAL DATA DOES FRESHWORKS COLLECT AND WHY?
+A) Personal Data we collect and process for our own purposes: Collected Data
+When you visit our Websites or participate in Freshworkss events, Freshworks may collect information, which may include Personal Data, from Individuals as set forth below (collectively referred to as Collected Data). For the purposes of General Data Protection Regulation (GDPR), Freshworks shall be the controller for the Collected Data  this means that Freshworks decides what Collected Data is processed and why.
+For Freshinbox users only : We may store From, To, CC, Subject, Thread ID, Message ID and Label ID whenever an email is linked with Freshinbox manually by you. We will also create a copy of the email thread in the inbox of all your team members. If any team member access is revoked by you, we will delete the created email from the corresponding team member's inbox. We will never delete the original email which was linked to Freshinbox originally.
+When does Freshworks process Collected Data?
+1) Sign-up, billing and Account information.
+When you subscribe and sign-up to any of our Service(s), we may collect your (i) contact information such as name, e-mail address, mailing address, IP address, geographic location, or phone number of the Account admin; (ii) billing information, such as credit card number and billing address; (iii) name and e-mail address when Account admin/Agent(s) provide feedback from within the Service(s); and (iv) unique identifiers, such as username, account number or password.
+Subject to this Notice and the Terms, we will use such data, including without limitation, to (i) provide you the Service(s); (ii) send you communication from the Service(s); (iii) assess needs of your business to determine or suggest suitable Service(s); (iv) send you requested information about the Service(s); (v) respond to customer service requests, questions and concerns; (vi) administer your Account; (vii) send you promotional and marketing communications (where you have requested us to do so); and (viii) facilitate your transactions with other users when you use our Service(s).
+2) Freshworks Careers.
+When you apply for an open position by populating the application form, we may collect your (i) contact information, such as name, email address, mailing address, phone number, links to your social networking profiles; and (ii) any other information contained in the resume that you submit to us.
+Subject to this Notice, we will use such data to evaluate you for the open position that you have applied for or any position that we consider you suitable for at the time you submit your resume or at any later date. Unless you notify us otherwise by an e-mail to  support@freshteam.com , we will retain such data for a period of 1 year for archival purposes. If you wish to update the data you provided to us, you may do so by contacting us at  support@freshteam.com .
+For the purposes of evaluating you for an open position, you understand that we may internally rate you based on parsing of your resume and your information. If you do not wish to be rated by us, please do not provide us your information.
+3) Events.
+When you attend an event conducted by Freshworks, including webinars or seminars, we may collect your contact information such as name, e-mail address, designation and company name.
+Subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) send you promotional and marketing communications (where you have requested us to do so); and (iv) respond to your questions and concerns.
+4) Program Registrations.
+When you register for any of our programs through a registration form on our Websites, we may collect information such as name, e-mail address, company name and website URL, company details, location and contact information. Subject to this Notice, we will use such data, including without limitation, to (i) facilitate your use of the program portal for which you have registered; (ii) send you communication from within the Service(s); (iii) send you requested information about our Service(s); (iv) respond to your requests, questions and concerns; and (v) send you promotional and marketing communications (where you have requested us to do so).
+5) Public forums, Forms and Newsletters.
+When you visit our publicly accessible community forums and blogs or submit any forms on our Website, you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Further, we may collect your (i) contact information such as name, e-mail address, mailing address, or phone number; (ii) information about your business, such as company name, company size, business type; and (iii) a short bio about you to identify you as the author of the post. When you actively subscribe to our newsletters, we collect your e-mail address to share our newsletters with you.
+Subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) send you promotional and marketing communications (where you have requested us to do so); and (iv) respond to your questions and concerns.
+6) Cookies and Similar Technologies.
+We and our third party advertising partners use cookies and similar technologies in analyzing trends, administering the website, tracking users movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Most web browsers support cookies and users can control the use of cookies at the individual browser level. Please note that if you choose to disable cookies, it may limit your use of certain features or functions on our Websites and services.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our Website (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. We link this automatically collected data to other data we collect about you. We do this mainly to improve services We offer you, to improve marketing, analytics, and/or Website performance and functionality.
+Please see our  Cookies Policy  for further information about our use of Cookies and similar technologies.
+7) Analytics.
+Apart from the aforementioned information collected by us, we automatically receive and record certain Personal Data of yours when You visit our Websites. This includes device model, IP address, the type of browser being used, usage pattern through cookies and browser settings, query logs and product usage logs. We also collect clicks, scrolls, conversion and drop-off on our Websites and Service(s) to render user journey at real-time. Subject to this Notice, we will use such data and Service Data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) respond to customer service requests, questions and concerns; and (iv) for any analytical purposes.
+You authorize Freshworks and its service providers to perform analytics on such Collected Data and Service Data, to (i) improve, enhance, support and operate the Websites; and (ii) compile statistical reports and record insights into usage patterns. You acknowledge that Freshworks uses Collected Data and Service Data, as the case may be, for the aforementioned purposes.
+8) Testimonials.
+We may post your testimonials/comments/reviews on our Websites which may contain your Personal Data. Prior to posting the testimonial, we will obtain your consent to post your name along with the testimonial. If you want your testimonial removed, please contact us at  support@freshworks.com .
+You understand that we will not be liable to any person for unauthorized publishing of testimonials by customers of Glowboard. If you, as a Customer of our Service Glowboard, wish to publish on your websites, any testimonials you have received from third parties via e-mails or widgets, it is your responsibility to obtain consent from such third parties prior to publishing the testimonials.
+9) Marketing communications.
+When you have agreed to, we may use your e-mail address, collected as part of Collected Data, to send our newsletters and/or marketing communications about our products and services. Where you have so requested, we will also send you marketing communications about our third party partners. If you no longer wish to receive these communications, you can opt out by following the instructions contained in the e-mails you receive or by contacting us at  support@freshworks.com .
+What is our legal basis for processing Personal Data (EEA and Swiss visitors only)?
+If you are a visitor from the European Economic Area or Switzerland, our legal basis for collecting and using the Personal Data described above will depend on the Personal Data concerned and the specific context in which we collect it.
+However, we will normally collect Personal Data from you only where we need the Personal Data to perform a contract with you, or where the processing is in our legitimate interests or rely upon your consent where we are legally required to do so and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect Personal Data from you or may otherwise need the Personal Data to protect your vital interests or those of another person.
+If we ask you to provide Personal Data to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your Personal Data is mandatory or not (as well as of the possible consequences if you do not provide your Personal Data).
+Similarly, if we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
+If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Data, please contact us using the contact details provided below.
+B) How we process Service Data
+For purposes of the GDPR and the Swiss Federal Act on Data Protection, we are the processor when we process Service Data as per your instructions. We are the controller of Service Data when we process Service Data for improving our Service(s) as expressly permitted by you according to this Notice. Service Data, as defined in the Terms, means all electronic data, text, messages or other materials, including Personal Data of Users and End-Users, submitted to the Service(s) by you through your Account in connection with your use of the Service(s), including data collected under Other Information and Mobile Applications below.
+If you are an EEA or Switzerland-based customer, then you are responsible for compliance with the applicable data protection law where you are the controllers. In your role as a controller, you are authorizing, on behalf of you and your authorized agents and End-Users, and representing that you have the authority to provide such authorization to the processing and transfer of Personal Data in and to the United States and other countries which may have different privacy laws from your or their country of residence. As the controller, it shall be your responsibility to inform the End-Users about the processing, and, where required, obtain necessary consent or authorization for any Personal Data that is collected as part of the Service Data through your use of the Service(s). We will take all steps reasonably necessary to ensure that the Service Data is treated securely and in accordance with this Notice. We will work with you to help you provide notice to your customers concerning the purpose for which Personal Data is processed by Us.
+As the processor of Personal Data on your behalf, we follow your instructions with respect to the Service Data to the extent consistent with the functionality of our Service(s).  We implement technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, Personal Data.
+Except as expressly permitted by you under this Notice, we do not own, control or direct the use of Service Data, and only access such information as reasonably necessary to provide the Service(s) (including to respond to support requests), as otherwise authorized by you or as required by law. Unless we explicitly agree otherwise in writing, you will not process sensitive personal data (such as health data) on our platform.
+Other Information.
+Where an User or End-User uses the Service(s), we automatically receive and record certain information of such user. This information includes device model, IP address, the type of browser being used, usage pattern through cookies and browser settings, query logs and product usage logs (collectively referred to as  Other Information ). If you are a customer of Freshchat, please note that you will have the option to opt out of tracking certain events from within Freshchat.
+Mobile Applications.
+When you download, install and use our Mobile Applications, we automatically collect information on the type of device you use, operating system version, and the device identifier (or  UDID ).
+We use mobile analytics software to allow Us to better understand the functionality of our Mobile Software on your phone. This Software may record certain information such as how often you use the application, the events that occure within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the Mobile Applications.
+Subject to this Notice, we will use such data to (i) provide and manage Mobile Application; (ii) if you have opted in to receiving push notifications, send you push notifications from time-to-time in order to update you about any events or promotions that we may be running and/or update you about new features to our Service(s); (iii) send you promotional and marketing communications (where you have requested us to do so). If you no longer wish to receive these types of communications, you may turn them off at the device level.
+Improving and enhancing our Service(s).
+You expressly authorize us and the service providers we use to process the Service Data in our systems to (i) provide, improve, enhance, support and operate the Service(s) and its availability; (ii) develop new products and services including improving our products and services using machine learning technologies; and (iii) compile statistical reports and record insights into usage patterns.
+SINGLE SIGN-ON
+You can log in to our Websites using sign-in services such as Google, Facebook Connect and LinkedIn. These services will authenticate your identity and provide you the option to share certain Personal Data with us such as your name and e-mail address. Services like Google, Facebook Connect, Twitter, LinkedIn give you the option to post information about your activities on our Websites to your profile page and to share information with others within your network.
+SOCIAL MEDIA FEATURES
+Our Websites includes social media features, such as the Facebook Like button, the Share This button or interactive mini-programs. Where you interact with these features, they may collect your IP address, which page you are visiting on our Websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy notice of the company providing them. Please see our  Cookies Policy  for further information.
+SHARING OF PERSONAL DATA
+We process Personal Data in the United States and the European Economic Area ( EEA ) and in other countries through third parties that we may use. You may refer to the page  here  for more information on hosting options.
+We may also share your Personal Data as follows:
+With third party assisting Freshworks in providing you the Service(s) ( Sub-Processors"  listed
+here ). Our Sub-Processors are given access to Customers Account and Service Data only as reasonably necessary to provide the Service(s) and will be subject to confidentiality obligations in their service agreements;
+With third party service providers providing services, such as research and analytics, marketing and data enrichment or for them to reach out to you on our behalf;
+For Freshinbox users : with third parties (sub contractors) to permit such parties to provide services that help us to provide our business activities, which may include assisting us with marketing, advertising our product/service offerings, or providing, maintaining and improving the features and functionality of the Services, among other things. The data shared is limited to your name, email address, the company information and your communication history. This will never include sharing any email data which we have access to through the Gmail Restricted Scopes (the Gmail Restricted Scope designates certain Google OAuth API scopes which are subjected to additional security and privacy requirements as mentioned in Google's API Services  User Data Policy  for your account). For example, we may provide personal information to our sub-contractors for direct emailing of our newsletters or notifications of our product/service offerings. All third parties are engaged under contract and obliged to meet appropriate security requirements and comply with all applicable legislation;
+With third-party payment processors who process your credit card and other payment information for Freshworks but are otherwise not permitted to store, retain or use such information;
+With third party partners for the purpose of assisting us in onboarding you and providing any further support needed to use our Service(s);
+With sponsors of contests for which you register;
+With third-party social media networks, advertising networks and websites;
+With affiliates within Freshworks and companies that we will acquire in the future when they are made part of the Freshworks group for customer support, marketing, technical operations, account management or organizational purposes and to provide, enhance and improve the Service(s);
+If we are involved in a merger, reorganization or other fundamental corporate change with a third party, or sell/buy a business unit to/from a third party, or if all or a portion of our business, assets or stock are acquired by a third party, with such third party including at the due diligence stage. In accordance with applicable laws, we will use reasonable efforts to notify you of any transfer of Personal Data to unaffiliated third party.
+All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request.
+INFORMATION THAT WE OBTAIN FROM THIRD PARTIES
+From time to time, we may receive personal information about you from third party sources like databases and social media but only where we have checked that these third parties either have your consent or are otherwise legally permitted or required to disclose your personal information to us.
+The types of information we obtain from such third parties include your name, e-mail address, postal address, location, designation, telephone number and we use the information we receive from these third parties to maintain and improve customer support experience, improve the accuracy of the records we hold about you and for our sales and marketing purposes.
+Privacy Shield Compliance
+Freshworks Inc. participates in and has certified its compliance with the EU-U.S. and Swiss-US Privacy Shield Framework. Freshworks Inc. is committed to subjecting all Personal Data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Frameworks applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerces Privacy Shield List [ https://www.privacyshield.gov/list ]. Freshworks Inc. complies with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and United Kingdom and/or Switzerland, as applicable, to the United States in reliance on Privacy Shield. Freshworks Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit  https://www.privacyshield.gov/ .
+Freshworks Inc. is responsible for the Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Freshworks Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, and Switzerland including the onward transfer liability provisions. Freshworks further commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Freshworks Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Freshworks Inc. and/or its Group Companies may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  https://feedback-form.truste.com/watchdog/request .
+Under certain conditions, more fully described on the Privacy Shield website [ https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint ], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+HOW DOES FRESHWORKS KEEP PERSONAL DATA SECURE?
+We use appropriate technical and organizational measures to protect the Personal Data that we collect and process. The measures we use are designed to provide a level of security appropriate to the risk of processing your Personal Data.
+While information security risks are always evolving, so are the controls. The controls, so implemented, are periodically reviewed as part of internal and external audits. If you have questions about the security of your Personal Data, please contact us immediately as described in this Privacy Notice.
+EEA AND SWISS SPECIFIC RIGHTS
+A) Collected Data
+If you are an individual resident in EEA or Switzerland, you have the following data protection rights regarding Collected Data:
+If you wish to  access, correct, update or request deletion  of your Personal Data, you can do so at any time by contacting us.
+You can  object to processing  of your Personal Data, ask us to  restrict processing  of your Personal Data or  request portability  of your Personal Data. Again, you can exercise these rights by contacting us.
+You have the right to  opt-out of marketing communications  we send you at any time. You can exercise this right by clicking on the unsubscribe or opt-out link in the marketing e-mails we send you. To opt-out of other forms of marketing (such as postal marketing or telemarketing), please contact us.
+Similarly, if we have collected and process your Personal Data with your consent, then you can  withdraw your consent  at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
+You have the  right to complain to a data protection authority  about our collection and use of your Personal Data. For more information, please contact your local data protection authority.
+If you seek access to, or wish to correct, update, modify or delete Personal Data (hereinafter referred to as a  Request ) which forms a part of Collected Data, please contact us at  support@freshworks.com . We respond to all requests we receive from individuals wishing to exercise their data protection rights within a reasonable timeframe in accordance with applicable data protection laws.
+B) Service Data
+We acknowledge that you have the right to access your Personal Data. Freshworks has no direct relationship with the individuals whose Personal Data it processes. If you seek access to, or wish to correct, update, modify or delete Personal Data (hereinafter referred to as a  Request ) which is part of the Service Data and processed by us on behalf of our Customer or if you are an End-User of one of our Customers and would no longer like to be contacted by one of our Customers that uses our Service(s), you should direct your query to our Customer i.e, the controller. if requested to remove data, We will respond within a reasonable timeframe.
+If you are a Customer of our Service(s) and wish to raise a Request on behalf of your Users and End-Users in connection with Service Data, you may raise a ticket on the support portal of the relevant Service. Please note that if a Customer has subscribed to more than one Service, a Request on a particular Service support portal is specific to that Service only and separate Requests need to be raised across other relevant Service support portals.
+CALIFORNIA-RESIDENT SPECIFIC RIGHTS
+To the extent you are a 'consumer' as defined under the California Consumer Privacy Act of 2018 ("CCPA") and Freshworks is a 'business' as defined under CCPA, the following applies to you:
+Subject to the provisions of the CCPA, you have the right to request in the manner provided herein, for the following:
+a. Right to request for information about the:
+- Categories of Personal Data Freshworks has collected about you.
+- Specific pieces of Personal Data Freshworks has collected about you.
+- Categories of sources from which the Personal Data is collected.
+- Business or commercial purpose for collecting Personal Data.
+- Categories of third parties with whom the business shares Personal Data.
+b. Right to request for deletion of any Personal Data collected about you by Freshworks.
+If you seek to exercise the foregoing rights to access or delete Personal Data which constitutes 'personal information' as defined in CCPA, please contact us at  privacy@freshworks.com  or write to us  here . We respond to all requests we receive from you wishing to exercise your data protection rights within a reasonable timeframe in accordance with applicable data protection laws. By writing to us, you agree to receive communication from us seeking information from you in order to verify you to be the consumer from whom we have collected the Personal Data from and such other information as reasonably required to enable us to honour your request.
+The list of categories of Personal Data collected and disclosed about consumers are enlisted under the head ' What Personal Data does Freshworks collect and why? ' and the list of categories of third parties to whom the Personal Data was or may be made disclosed are enlisted under the head ' Sharing of Personal Data '. Separately, Freshworks does not sell your Personal Data.
+OTHER COMMUNICATIONS
+If you are our Customer, we will send you announcements related to the Service(s) on occasions when it is necessary to do so. For instance, if our Service(s) is temporarily suspended for maintenance, we might send you an e-mail. Generally, you may not opt-out of communications which are not promotional in nature. If you do not wish to receive them, you may deactivate your Account.
+RETENTION OF PERSONAL DATA
+If you wish to request that we no longer use your Collected Data, please contact us at  support@freshworks.com .
+Personal Data contained in the Service Data is retained and deleted in accordance with the Terms.
+Notwithstanding the foregoing, we will retain Collected Data and Service Data as necessary to comply with our legal obligations, for litigation/defense purposes, maintain accurate financial and other records, resolve disputes, and enforce our agreements.
+LINKS TO THIRD PARTY SITES
+Our Websites contain links to other websites that are not owned or controlled by Freshworks. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Websites and to read the privacy policies of each and every website that collects Personal Data.
+CHILDREN'S PERSONAL DATA
+Freshworks does not knowingly collect any Personal Data from children under the age of 16. If you are under the age of 16, please do not submit any Personal Data through our Websites or Service(s). We encourage parents and legal guardians to monitor their childrens Internet usage and to help enforce this Notice by instructing their children never to provide Personal Data through our Service(s) or Websites without their permission. If you have reason to believe that a child under the age of 16 has provided Personal Data to us through our Websites or Service(s), please contact us and we will endeavor to delete that information and terminate the child's account from our databases.
+AMENDMENTS
+Amendments to this Notice will be posted to this URL and will be effective when posted. If we make any material changes, we will notify you by means of a notice on this Website prior to the change becoming effective and if you are our Customer, via e-mail (specified in your Account). Provided we will not be notifying you if we amend the Notice to make addition, deletions or modifications to the list of cookies from time to time to keep the list of cookies current and accurate. You should frequently visit this Notice to check for amendments. Your continued use of our Websites or the Service(s) following the posting of any amendment, modification, or change to this Notice shall constitute your acceptance of the amendments to this Notice. You can choose to discontinue use of the Websites or Service(s), if you do not accept the terms of this Notice, or any modified version of this Notice.
+LEGAL DISCLOSURE
+We, including our Group Companies reserve the right to disclose your personal data contained in Collected Data and Service Data as required by applicable law, in response to lawful requests by public authorities, including meeting national security or law enforcement requirements and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or other legal process served on us. Collected Data and Service Data will also be shared between our Group Companies for the activities permitted under the Terms and this Notice.
+In the event Freshworks goes through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, Customers Account, Collected Data and Service Data will likely be among the assets transferred. A prominent notice will be displayed on our Websites to intimate you of any such change in ownership or control and Customers will be notified via an e-mail from  support@freshworks.com .
+CONTACTING FRESHWORKS
+If you have any questions about this privacy notice or your dealings with the Freshworks, you can contact us at  privacy @freshworks.com  or  via
+postal mail at Freshworks Inc., 2950 S.Delaware Street, Suite 201, San Mateo, CA 94403 for the attention of the Data Protection Officer with a copy to  legal@freshworks.com .
+Freshworks
+Freshdesk
+Freshservice
+Freshsales
+Freshcaller
+Freshchat
+Freshteam
+Freshmarketer
+Freshconnect
+Freshping
+Freshrelease
+Freshstatus
+Freshsuccess
+COMPANY
+About
+Leadership
+Board of Directors
+Investors
+Customers
+Solutions
+Affiliates
+Partners
+Careers
+News room
+GDPR
+Tax FAQs
+Contact us
+EVENTS
+Customer First Summit
+Experience Roadshow
+Refresh
+CASE STUDIES
+Citizens Advice
+CONNECT WITH US
+Terms of service
+Privacy Notice
+Takedown Policy
+GDPR
+Security
+Unsubscribe
+Tax FAQs
+Copyright © Freshworks Inc. All Rights Reserved
+We use cookies to offer you a better browsing experience, analyse site traffic, personalize content, and serve targeted advertisements. Read about how we use cookies in our  Privacy Notice . Our  Cookie Policy  provides information about managing cookie settings.
+Accept Cookies
+Sorry, our deep-dive didnt help. Please try a different search term.

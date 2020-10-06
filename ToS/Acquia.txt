@@ -1,0 +1,177 @@
+Terms of Service
+Skip to main navigation
+X
+We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and serve targeted advertisements. Read about how we use cookies and how you can control them by clicking "Cookie Settings." If you continue to use this site, you consent to our use of cookies.
+Cookie Settings
+Accept Cookies
+Privacy Preference Center
+Acquias websites may request cookies to be set on your device. We use cookies to enrich and personalize your user experience. Cookies help us know when you visit our websites, how you interact with us, and what content you view, so we can customize your experience with Acquia, including offering you more relevant content and advertising. You can also change your cookie preferences. Note, that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+Essential Website Cookies:
+These cookies are strictly necessary to provide you with services available through our websites and to use some of its features (such as access to secure areas). Since these cookies are strictly necessary to deliver the websites, you cannot refuse them without impacting your experience and how our websites function. You can block or delete them by changing your browser settings, as described under the heading "How can I control cookies?" in the Cookie Policy.
+Non-Essential Website Cookies:
+These cookies collect information that is used to help us understand how our websites are being used, how effective our marketing campaigns are, or to help us customize our websites and applications to enhance your experience. You can click below to remove these cookies from your website experience. However, without these cookies, certain functionality may become unavailable or unusable.
+Cookie Policy
+Analytics and Customization Cookies
+Save settings
+Keyword
+Menu
+Information for:
+Developers
+Partners
+Switch Language
+English Deutsch Français Español
+Support
+Login
+Request a Demo
+Solutions
+Show Sub Menu
+Developer Solutions
+Marketer Solutions
+Partner Program
+Customer Success
+Training & Certification
+Industries
+Products
+Show Sub Menu
+Drupal Cloud
+Show Sub Menu
+Build & Manage
+Cloud
+Website Hosting
+Cohesion
+Low-Code Site Builder
+Site Factory
+Multi-site Management
+Edge
+Data Security
+Lightning
+Fast Site Development
+Developer Studio
+Developer Toolchain
+Marketing Cloud
+Show Sub Menu
+Personalize & Connect
+Lift
+Personalization
+AgilOne
+Customer Data Platform
+Mautic
+Campaign Management
+Maestro
+Distributed Campaign Management
+DAM
+Digital Asset Manager
+Resources
+Show Sub Menu
+Webinars
+Blog
+Events
+eBooks
+Whitepapers
+About
+Show Sub Menu
+About Us
+Our Customers
+Leadership
+Careers
+Newsroom
+Contact Us
+Show Sub Menu
+Dummy   DO NOT DELETE
+Breadcrumb
+Home
+Terms of Service
+Terms of Service
+ATTENTION: THESE TERMS OF SERVICE (TERMS OF SERVICE OR TERMS) FOR ACQUIA CLOUD PROFESSIONAL (ACQUIA CLOUD PROFESSIONAL OR THE SERVICES) CONSTITUTES A BINDING CONTRACT ON YOU AND GOVERNS YOUR USE OF AND ACCESS TO THE SERVICES BY YOU, AGENTS AND END-USERS.
+ACCEPTANCE OF TERMS
+By accepting these Terms, either by accessing or using the Services, or authorizing or permitting any agent or end-user to access or use the Services, You agree to be bound by these Terms. If You are entering into these Terms on behalf of a company, organization or another legal entity (an Entity), You are agreeing to these Terms for that Entity and representing to Acquia that You have the authority to bind such Entity and its Affiliates to these Terms, in which case the terms You, Your or a related capitalized term herein shall refer to such Entity and its Affiliates. If You do not have such authority, or if You do not agree with these Terms, You must not accept these Terms and may not use the Services. These Terms, or any part thereof, may be modified by us, including the addition or removal of terms at any time, and such modifications, additions or deletions will be effective immediately upon posting. Your use of the Services after such posting shall be deemed to constitute acceptance by You of such modifications, additions or deletions.
+THE SUBSCRIPTION TERM
+These Terms are effective as soon as You click the "I agree" button (the "Effective Date"). The "Initial Subscription Term" will be for the period specified in Your order and commences on the Effective Date. At the end of Your Initial Subscription Term, Your subscription shall automatically renew for successive renewal subscription terms (each a "Renewal Subscription Term") equal in duration to the Initial Subscription Term at our then current subscription fees unless You elect not to renew Your subscription as further described below under Cancellation and Termination. The "Initial Subscription Term" and any "Renewal Subscription Term" are referred to herein as the "Subscription Term".
+THE SERVICES
+Acquia Cloud Professional is a self-service, Drupal-tuned cloud platform that will provide You with a pre-configured environment for delivering Drupal-powered content and services. We will host and maintain Your Content on our Platform in the Data Center Region You select during Your Subscription Term. We will provide the level of Services as more fully described at  https://www.acquia.com/cloud-pricing  when You purchased the Services. You are fully responsible for migrating Your Content onto the Services. We may offer You assistance for a fee under a separate statement of work. We will use commercially reasonable efforts to provide the Services twenty-four (24) hours a day, seven (7) days a week throughout the Subscription Term, except for: (i) periodic maintenance procedures or updates which we may undertake from time to time, and (ii) causes beyond our reasonable control, for example, an act of God, an act of government, Internet service provider failure or delay, hostile network attacks, network congestion, or other failures. Unavailability of the Service does not constitute a breach of these Terms.
+We will conduct daily, weekly and monthly backups of Your Content on the Services for disaster recovery. You may also process on-demand backups and restores at Your discretion. We will provide a shared single server development Platform with the specifications You ordered with Your subscription. You are permitted to run the number of applications included with Your subscription.
+If Your subscription includes access to the Acquia Cloud UI, You will have access to Acquia Technology. Acquia may change the Acquia Technology from time to time or discontinue any portion thereof without notifying You. Acquia Technology includes open source software. Subject to Your compliance with the terms and conditions of these Terms, we hereby grant to You a non-exclusive, non-transferable, revocable license for You and Your users to access and use the Acquia Technology solely for purposes of utilizing the Services. Your use of Acquia Search and the number of Search queries You may perform and the number of documents included in Your Search index will be limited depending on the type of subscription You purchased. If You exceed Your allocated limits, You will incur additional charges. You agree that You will not place excessive burdens on our infrastructure, instances or other resources, including support services. You understand that bandwidth, connection speeds, and other similar indices of capacity are maximum numbers. Consistently reaching these capacity numbers may result in our need to place restrictions on Your use of the Services. You further agree that we may place restrictions on Your use of the Services, including support services, to the extent they exceed the use of these resources for similarly situated customers.
+In performing Subscription Services, Acquia will comply with the Acquia Privacy Policy available at https://www.acquia.com/about-us/legal/privacy-policy  and incorporated herein by reference. The Acquia Privacy Policy is subject to change at Acquias discretion; however, Acquia policy changes will not result in a material reduction in the level of protection provided for Customer Data during the Subscription Term. Where Customers use of the Subscription Services includes the processing of personal data by Acquia that are subject to the EU Data Protection Directive 95/46/EC, such data processing by Acquia complies with the requirements of the EU-U.S. Privacy Shield for which it is certified. Acquia shall process personal data on behalf of and in accordance with Customers instructions consistent with this Agreement and as necessary to provide the Services.
+Support Services
+We will provide the applicable support services in accordance with the Support Users Guide located at:  https://docs.acquia.com/support/guide  (Support Guide). Support must be requested by You in accordance with the support request procedures set forth therein. You will be allotted a certain number of support tickets and advisory hours (if applicable) per the subscription level You have purchased.
+FEES AND PAYMENT
+Your use of the Services will be subject to the fee schedule applicable to your subscription. We reserve the right to change our subscription fees. You shall pay all fees associated with Your use of the Services in accordance with the billing policies set forth at:  https://docs.acquia.com/support/billing . You shall provide us with accurate information, including, but not limited to, account permissions, billing, and other account information.
+All fees are exclusive of all taxes, levies and duties imposed by taxing authorities and You shall be responsible for payment of such taxes. You agree to pay for any taxes that are applicable to your use of the Services and payments you make to Us.
+You must provide us with a valid credit card and non-disposable email address. We will charge Your credit card for your subscription fees either monthly or annually in advance (depending on your subscription). We will also charge your credit card for any usage based fees (if applicable to your subscription). If we are unable to effect payment via your credit card, we will attempt to notify you via email. We may disable your access to the Services until payment is received. You agree to pay reasonable attorneys' fees and court costs incurred by Us to collect any unpaid amounts owed by You. Amounts paid for the Services are not refundable. Until Your Subscription to the Service is terminated, You acknowledge and understand that We will continue to charge You for the Services regardless of whether the Services are used or not until You notify us to cancel Your subscription. You must pay for an entire subscription for which you order regardless if you use all the Services you are entitled to or cancel your subscription during the Subscription Term.
+YOUR OBLIGATIONS
+You shall comply with the laws applicable to Your use of the Services, the Acquia Privacy Policy at:  https://www.acquia.com/about-us/legal/privacy-policy  (Privacy Policy) and the Acquia Acceptable Use Policy at:  https://www.acquia.com/about-us/legal/acquia-acceptable-use-policy  (AUP). You shall cooperate with our reasonable investigation of Services outages, security problems, and any suspected breach of these Terms.
+You shall use reasonable security precautions in connection with Your use of the Services.
+You understand that staging environment is a shared development staging environment and is only for low impact testing and development activities.
+You shall not permit or assist others to access or use the Services for any purpose other than as permitted herein. You shall not, directly or indirectly, (i) reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code or underlying ideas or algorithms of the Services; (ii) modify, translate, or create derivative works based on the Services; (iii) rent, lease, distribute, sell, resell, assign, or otherwise transfer rights to the Services; (iv) use the Services for timesharing or service bureau purposes; (v) modify, remove, or obscure any copyright, trademark or other proprietary rights notices from the Services; (vi) publish or disclose to third parties any evaluation of the Services without Acquias prior written consent, (vii) use the Services in order to build a competitive product or service, or (viii) copy any features, functions, or graphics of the Services.
+You shall only register for Services using a valid and active email address.
+YOUR CONTENT
+You represent to us that You have all necessary rights in Your Content to permit You to use the Services without infringing the rights of any copyright owners, violating any applicable laws, or violating the terms of any license or agreement to which You are bound.
+To enable Us to provide You with the Services, You hereby grants Us, our Affiliates and sublicensees (including Authorized Contractors whose technologies and services interface with the Services that include the Content) a worldwide, royalty-free, non-exclusive, limited term license to use, process, store, display, and transmit Content solely as necessary for Us to provide the Services in accordance with this Agreement. Subject to the limited licenses granted herein, We acquire no right, title, or interest from You or Your licensors hereunder in or to Content, including any intellectual property rights therein.
+You acknowledge we do not screen Content but that we shall have the right (but not the obligation) to refuse, move, or delete any Content that violates these Terms. We also have the right to remove any Content that violates these Terms or is otherwise objectionable in our sole discretion. You acknowledge and agree that we may preserve Content and may also disclose Content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to (a) comply with legal process, (b) enforce these Terms, (c) respond to claims that any Content violates the rights of third parties, or (d) protect our rights, property, or personal safety and those of the users and the public.
+We may immediately disable Your access to the Services, and/or terminate Your Services, without refund, if we believe that You have violated any of these Terms.
+UNAUTHORIZED ACCESS TO YOUR CONTENT OR USE OF THE SERVICES
+We are not responsible to You or any third party for unauthorized access to Your Content or the unauthorized use of the Services. You are responsible for the use of the Services by any employee of Yours, any person You authorize to use the Services, any person to whom You have given access to the Services, and any person who gains access to Your Content or the Services as a result of Your failure to use reasonable security precautions, even if such use was not authorized by You. We are not responsible for any Content that includes any Regulated Data that you submit to the Services. You shall have the sole responsibility for adequate protection and backup of any Content used in connection with the use of the Services.
+PROPRIETARY RIGHTS
+You will not receive any object code or source code relating to the Acquia Technology and Services. Acquia, its licensors, and its service providers own and reserve all rights, title, and interest in and to the Acquia Technology and Services, including all related intellectual property rights. Subject to the limited rights expressly granted to You, no rights are granted to You in the Services.
+Except as provided in Section 6, Acquia acknowledges and agrees that it obtains no right, title or interest from You (or Your licensors) under these Terms in or to any Content that You create, submit, post, transmit or display on, or through, the Services, including all related intellectual property rights.
+DIGITAL MILLENNIUM COPYRIGHT ACT
+We respect the intellectual property rights of others and expect You to do the same. We will respond to notices of copyright infringement consistent with the Digital Millennium Copyright Act (the DMCA) and our response to such notices may include removing or disabling access to any allegedly infringing Content, suspending Your access to the Services, and terminating access to the Services if we do not receive a satisfactory response from You following receipt of an infringement notice.
+If You believe that Content residing or accessible on the Services infringes a copyright, You (the Notifying Party) are asked to send a notice of copyright infringement containing the following information to the Designated Agent at the address below: (a) description of the copyrighted work or material that the Notifying Party claims has been infringed; (b) the URL where the material that the Notifying Party claims is infringing is located on our Services, or a description of that location sufficiently detailed for us to find it; (c) contact information about the Notifying Party, including address, telephone number, and e-mail address; (d) a written statement that the Notifying Party has a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or law; (e) a statement by the Notifying Party, made under penalty of perjury, that the information provided in the notice is accurate and that the Notifying Party is either the copyright owner or is authorized to make the complaint on behalf of the copyright owner; and (f) an electronic or physical signature of the Notifying Party.
+Acquias Designated Copyright Agent to receive notifications of claimed infringement can be reached as follows: Acquia Inc., Attention: Legal Department, 53 State Street, 10th Floor, Boston, MA 02109, or  [email protected] . Please note that if You fail to comply with all of the requirements of this section, Your DMCA notice may not be valid and any removal requests may not be acted upon. Please also note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+CANCELLATION AND TERMINATION
+By You.  You may elect not to renew Your subscription by notifying us at least 30 days prior to the start of a Renewal Subscription Term. For monthly subscription plans You may elect not to renew such subscription by notifying us at least 15 days prior to the start of Your next monthly billing period and for annual subscription plans You may elect not to renew such subscription by notifying us at least 15 days prior to the start of Your next annual billing period. To notify us of non-renewal or cancelation, You will need to complete the steps outlined at:  https://docs.acquia.com/support/billing . Deleting Your website does not result in canceling Your subscription.
+Termination by Us.  We may stop offering any of our Services at any time. If we do, we may terminate Your subscription without cause by notifying You in writing at least twenty-five (25) days prior to such termination. We may also terminate Your subscription for cause and Your use of the Services if, in our opinion, You have breached or otherwise fail to comply with any of these Terms. Depending on the breach, we may offer You a limited period of time to cure Your breach, not to exceed five days. We may terminate Your subscription and/or Your access to the Services if Your non-payment of any fees owed to us that are delinquent by twenty-five (25) days or more. You agree to provide us with complete and accurate billing and contact information. We may terminate Your Subscription if the billing or contact information is false, fraudulent, or invalid.
+Effect of Termination.  Upon termination, You will no longer have access to the Services and We will delete any Content residing on the Platform. We do not issue any refunds upon termination or cancellation.
+CONFIDENTIAL INFORMATION
+You and we agree to maintain the confidentiality of any proprietary information received by the other party during, or prior to entering into, these Terms that a party should know is confidential or proprietary based on the circumstances surrounding the disclosure including, without limitation, non-public technical and business information ("Confidential Information") during the Subscription and for a period of five (5) years after the termination of Your subscription. This section shall not apply to any publicly available or independently developed information. The receiving party of any Confidential Information of the other party agrees not to use said Confidential Information for any purpose except as necessary to fulfill its obligations and exercise its rights under these Terms. The receiving party shall protect the secrecy of and avoid disclosure and unauthorized use of the disclosing party's Confidential Information to the same degree that it takes to protect its own confidential information and in no event less than reasonable care. We may use Your registration information to contact You for marketing purposes.
+WARRANTY DISCLAIMER
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICES ARE PROVIDED ON AN AS IS AND AS AVAILABLE BASIS. WE EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+WE DO NOT REPRESENT OR WARRANT THAT (i) THE USE OF THE SERVICES WILL BE SECURE, TIMELY, UNINTERRUPTED, OR ERROR-FREE OR OPERATE IN COMBINATION WITH ANY OTHER HARDWARE OR SOFTWARE, (ii) THE SERVICES OR SUPPORT WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (iii) ERRORS OR DEFECTS WILL BE CORRECTED, OR (iv) THE SERVICES OR SUPPORT ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THE SERVICES MAY BE SUBJECT TO LIMITATIONS OR ISSUES INHERENT IN THE USE OF THE INTERNET AND ACQUIA IS NOT RESPONSIBLE FOR ANY PROBLEMS OR OTHER DAMAGE RESULTING FROM SUCH LIMITATIONS OR ISSUES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES AND SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY FAILURE OR NONPERFORMANCE OF THE SERVICE OR ANY ERROR OR OMISSION IN THE SERVICE AND OUR SOLE OBLIGATION SHALL BE FOR US TO USE COMMERCIALLY REASONABLE EFFORTS TO REMEDIATE THE ERROR OR DEFECT IN THE SERVICE.
+INDEMNIFICATION
+You agree to indemnify and hold us and our subsidiaries, affiliates, officers, directors, agents, partners and employees harmless from any claim or demand (including reasonable attorneys fees and any damages award, fine or other amount imposed on us) made by any third party due to or arising out of Your Content, inappropriate use of the Services, violation of these Terms, Your gross negligence, willful misconduct, or violation of law or violation of any rights of another. Your obligations under this subsection include claims arising out of the acts or omissions of Your employees and agents, any other person to whom You have given access to the Services, and any person who gains access to the Services as a result of Your failure to use reasonable security precautions, even if the acts or omissions of such persons were not authorized by You. We will choose legal counsel to defend the claim, provided that these decisions must be reasonable and must be promptly communicated to You. You must comply with our reasonable requests for assistance and cooperation in the defense of the claim. You must pay expenses due under this Section as we incur them.
+LIMITATION OF LIABILITY
+We are not liable to You for special, indirect, incidental, consequential, punitive, exemplary, or other similar damages, including, without limitation, loss revenue or profits, in any way arising out of or related to these Terms even if we have been advised of the possibility of such damages. We are not labile to You for any lost Content. Our maximum aggregate liability for all claims by You relating to these Terms shall not exceed the fees paid by You in the immediately preceding twelve (12) month period giving rise to the claim.
+IMPORT AND EXPORT COMPLIANCE
+Each party shall comply with all applicable import, re-import, export, and re-export control laws, treaties, agreements, and regulations. Export controls may include, but are not limited to, those of the Export Administration Regulations of the U.S. Department of Commerce (EAR), the Department of State International Traffic in Arms Regulations (ITAR), and country-specific economic sanctions programs implemented by the Office of Foreign Assets Control (OFAC), which may restrict or require licenses for the export of Items from the United States and their re-export from other countries. Each party represents that it is not named on any U.S. government denied-party list. You shall not permit users to access or use Services in a U.S.-embargoed country or in violation of any U.S. export law or regulation.
+USER CONTRIBUTIONS AND PRIVACY
+There are many opportunities within the Service, including but not limited to the Acquia forums and commenting on Acquia blog posts, for You to actively participate. In the process of doing so, You may provide certain comments, suggestions, data, or other information to us about the Service (collectively Information). We reserve the right to retain and use any such Information in current or future products or services without further compensation to You. To the extent such Information is protectable under intellectual property laws, You agree to cooperate with us as needed to obtain such protection as we may desire and You agree to assign Your rights to such Information to us.
+SUBSCRIPTION SERVICE ANALYSES
+We may (i) compile statistical and other information related to the performance, operation, and use of the Services, and (ii) use and share data from the Services environment in aggregated form for security and operations management to create statistical analyses and for research and development purposes (clauses i and ii are collectively referred to as Service Analyses). Service Analyses will not incorporate any information in a form that could serve to identify You or an individual. Acquia retains all intellectual property rights in Service Analyses.
+DEFINITIONS
+Acquia Technology  means Acquia Cloud, Acquia Cloud UI, Acquia Search, Acquia Insight, Mollom and any other technology and information, methodologies, data, designs, ideas, concepts, know-how, techniques, user-interfaces, templates, documentation, software, hardware, modules, development tools, and other tangible or intangible technical material or information that Acquia possesses or owns.
+"Affiliate"  means any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity. "Control," for purposes hereof, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
+Authorized Contractors  means independent contractors, licensors, or subcontractors that assist Us in the delivery of the Services.
+"Confidential Information"  means all information disclosed by one of us to the other, whether before or after the acceptance of these Terms, that the recipient should reasonably understand to be confidential including: (i) for You, all information transmitted to or from, or stored on, the Services, (ii) for Acquia, unpublished prices and other terms of service, audit and security reports, product development plans, and other proprietary information or technology, and (iii) for both of us, information that is marked or otherwise conspicuously designated as confidential. Information that is independently developed by one of us, without reference to the other's Confidential Information, or that becomes available to one of us other than through violation of the Agreement or applicable law, shall not be "Confidential Information" of the other party. "PII" means: (i) a combination of any information that identifies an individual with that individual's sensitive and non-public financial, health or other data or attribute, such as a combination of the individual's name, address, or phone number with the individual's social security number or other government issued number, financial account number, date of birth, address, biometric data, mother's maiden name, or other personally identifiable information; (ii) any "non-public personal information" as that term is defined in the Gramm-Leach-Bliley Act found at 15 USC Subchapter 1, § 6809(4), and (iii) "protected health information" as defined in the Health Insurance Portability and Accountability Act found at 45 CFR §160.103.
+"Content"  means all applications, software programs, data, records, files, images, graphics, audio, video, photographs, reports, forms, and other content and material, in any format, that are submitted, stored, posted, displayed, transmitted, or otherwise used by You with the Subscription Services.
+Data Center Region  refers to the geographic region in which the Acquia Cloud Professional cloud platform environment is physically located and the Content is housed.
+Platform  means the cloud platform ordered by You and made available by Acquia to You.
+Regulated Data  means individual personal data to which Acquia is exposed during the provision of Services that is regulated by various acts, legislations and directives relating to privacy and security requirements for its protection and processing both in the United States and elsewhere in world.
+GENERAL
+We may provide notices to You via either email, via our ticketing system, through the Acquia Cloud user interface, or regular mail. The Services may also provide notices of changes to these Terms or other matters by displaying notices or links to notice to You generally on the Service.
+You may not assign these Terms to another party. These Terms are governed by the laws of the Commonwealth of Massachusetts without regard to its conflict of law provisions. In the event of any dispute or claim arising out of this Agreement cannot be resolved within thirty (30) days, either party may make a written demand for one day mediation. If the dispute is not resolved by mediation, the dispute shall be settled by binding arbitration conducted in accordance with the JAMS procedures pursuant to its Streamlined Arbitration Rules and Procedure, by a single arbitrator, in Boston, Massachusetts. The arbitrator shall be selected as provided in the Streamlined Arbitration Rules and Procedure. The arbitrator may not award non-monetary or equitable relief of any sort. No discovery shall be permitted in connection with the arbitration unless it is expressly authorized by the arbitrator upon a showing of substantial need by the party seeking discovery. All aspects of the arbitration shall be treated as confidential and will not be disclosed by either party except as necessary to comply with legal or regulatory requirements. Judgment on the arbitrators award may be entered in any court having jurisdiction. Each party shall bear its own costs of the arbitration. The fees and expenses of the mediator and the arbitrator shall be shared equally by the parties. If any part of these Terms are found to be invalid or unenforceable that part will be enforced to the maximum extent permitted by law and the remainder of these Terms will remain in full force. Nothing contained herein shall be construed as creating an agency, partnership, or other form of joint enterprise between the parties. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of our Services or these Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred. More than one persons claims may not be consolidated under any circumstances in any form of any class or representative proceeding or otherwise.
+If any part of these Terms are found unenforceable by a court, the rest of these Terms will nonetheless continue in effect, and the unenforceable part shall be reformed to the extent possible to make it enforceable but still consistent with the business and financial objectives of the parties underlying these Terms. Each of us may enforce each of our respective rights under these Terms even if we have waived the right or failed to enforce the same or other rights in the past. The relationship between us is that of independent contractors and not business partners. Neither of us is the agent for the other and neither of us has the right to bind the other on any agreement with a third party.
+53 State Street, 10th Floor
+Boston, MA 02109  888-922-7842
+Contact Us
+Company
+Case Studies
+Acquia Engage
+Engage Awards
+Careers
+Newsroom
+Resources
+Developer Center
+Ideas & Publications
+Webinars
+Drupal 9
+Product Documentation
+Facebook Icon
+Twitter Icon
+LinkedIn Icon
+YouTube Icon
+Copyright © 2020 Acquia, Inc. All Rights Reserved. Drupal is a
+registered trademark of
+Dries Buytaert .
+Legal
+Security Issue?

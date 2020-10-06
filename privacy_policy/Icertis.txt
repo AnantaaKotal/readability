@@ -1,0 +1,253 @@
+Privacy Policy & Statement - Icertis
+Skip to content
+Demo
+DEMO
+
+Home
+The Platform
+AI Applications
+Icertis Blockchain Framework
+Business Applications
+Experiences
+For Coupa Users
+For Microsoft Users
+For Salesforce Users
+SAP Ariba Integration
+For Workday Users
+Solutions
+Customers
+Resources
+Blog
+Toolkit
+Support
+Company
+COVID-19 Response
+Executive Team
+Careers
+Newsroom
+Events
+Partners
+The Platform
+ICM Portfolio
+ICM Platform Overview
+AI Applications
+Blockchain Framework
+Business Applications
+Experiences
+For Users
+Coupa
+Microsoft
+Salesforce
+SAP Ariba
+Workday
+Solutions
+Industry
+Energy and Utilities
+Financial Services
+Healthcare
+Manufacturing
+Pharmaceutical
+Professional Services
+Retail
+Technology
+Transportation
+Role
+Corporate
+Finance
+Legal
+Procurement
+Sales
+Customers
+Resources
+ICM Resources
+Blog
+Toolkit
+Support
+Deutsch
+Español
+Français
+Company
+About
+Careers
+COVID-19 Response
+Events
+Executive Team
+Newsroom
+Partners
+Search for:
+Privacy Statement 2020-03-06T11:17:36-08:00
+Privacy Statement Icertis, Inc. and its affiliates and subsidiaries (Icertis, We, and Us) are committed to protecting your privacy and providing you with a safe online experience. This Privacy Policy covers the collection, use and disclosure of information collected through the website at
+https://www.icertis.com
+(the Icertis Web Site)  and the information processed through the Icertis Contract Management Platform (Platform). This policy is updated and the policy is effective from 05-Mar-2020. The Platform will process personal data only in accordance with the documented instructions of Subscriber (and not for any other purpose) and applicable data protection laws, including those regarding transfers of personal data to any jurisdiction outside the European Economic Area.
+U.SE.U. Privacy Shield
+Icertis complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as administered by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Icertis has certified to the Department of Commerce that it adheres to the Privacy Shield Principles (as defined and described at the Privacy Shield website listed below). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit
+https://www.privacyshield.gov/
+Icertiss participation in the Privacy Shield applies to all personal data that is subject to the Icertis Privacy Statement and is received from the European Union and the European Economic Area. Icertis will comply with the Privacy Shield Principles in respect of such personal data.
+Icertiss accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Icertis remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Icertis proves that it is not responsible for the event giving rise to the damage.
+We encourage you to contact us should you have a Privacy Shield-related (or general privacy-related) complaint by using the information provided on the Contact Us page on the Icertis Web Site. For any complaints that cannot be resolved with Icertis directly, Icertis has chosen to use JAMS as the recourse mechanism (as further described in the Privacy Shield Principles). As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Icertis is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+Collection of your Personal Information
+Depending on the context in which you interact with us, Icertis may collect or receive personally identifiable information, such as your e-mail address, name, home or work address or telephone number and company information such as business address and employee count.  We may collect this information when you submit requests to us or send us email in the context of our relationship as an actual or potential service provider to you.  We also might obtain information from third party business partners, such as contact information provided by any of our referral partners.
+There is also information about your computer hardware and software that is automatically collected by Icertis on the Icertis Web Site. This information can include: your IP address, browser type, domain names, access times and referring web site addresses. This information, which does identify individual users, is used by Icertis to sell and market Icertiss services, and to provide general statistics regarding use of the Icertis Web Site.
+Use of your Personal Information
+Icertis collects and uses your personal information to operate the Icertis Web Site and deliver the Platform and related services. Icertis may also use your personally identifiable information to inform you of other products or services available from Icertis and its affiliates.
+Information Sharing
+We will share your personal information with third parties only in the ways that are described in this privacy policy. Icertis does not sell, rent or lease its customer lists to third parties.
+Icertis may share data with affiliates and subsidiaries, trusted partners and our own service providers, to help us perform statistical analysis, send you email or postal mail, provide customer support, and support our business and the services and Platform we provide. All such third parties are prohibited from using your personal information except to provide these services to Icertis and they are required to maintain the confidentiality of your information.
+Icertis will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process, such as a subpoena, served on Icertis or the site; (b) protect and defend the rights or property of Icertis; and, (c) act under exigent circumstances to protect the personal safety of users of Icertis, or the public.
+If Icertis is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+Use of Cookies
+The Icertis Web Site uses cookies to help you personalize your online experience. A cookie is a text file that is placed on your local storage by a web page server. Cookies are useful to personalize your online experience.
+Disabling Cookies. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to disable and manage your cookies settings. If you disable cookies you may still browse public areas of the Site, but some features and Services may not function.
+Site Analytics. As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences. We may link this automatically-collected data to personally identifiable information.
+Advertising. We partner with third parties to either display advertising on our the Icertis Web Site or to manage our advertising on other sites. Our third-party advertising partners may use technologies such as cookies to gather information about Visitor and Customer activities on the Icertis Web Site and other sites in order to provide advertising based upon Visitor and Customer browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out at
+http://www.aboutads.info/choices/
+(or if located in the European Union,
+http://www.youronlinechoices.eu/ ). Please note this does not opt you out of being served ads on our Icertis Web Site.
+Security of your Personal Information
+The security of personal information is very important to us. Icertis puts measures in place to secure your personal information from unauthorized access, use or disclosure. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. When sensitive information (such as log-in credentials) is submitted, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. That said, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot guarantee its absolute security. If you have any questions about security on the Icertis Web Site, you can contact us at
+itsecure@icertis.com .
+Change and Removal of Personal Information
+Please contact us at
+https://www.icertis.com/company/contact/
+or
+info@icertis.com
+for requests to access, correct, amend, delete, or limit the use or disclosure of your personal information. We will respond to your request within a reasonable timeframe
+We will retain your information for as long as your account is active, as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Opt-Out
+If you subscribe to our newsletter(s), or if otherwise permitted by law, we will use your name and email address to send promotional material and periodic updates to you. You may choose to stop receiving these communications by following the unsubscribe instructions included in these emails or you can contact us at  info@icertis.com .
+Third Party Links
+Our Site includes links to other web sites whose privacy practices may differ from those of Icertis. If you submit personal information to any of those sites, your information is governed by their privacy policies. Icertis is not responsible for the privacy statements or other content on web sites outside of the Icertis Web Site.
+Data Processed through the Icertis Platform
+Icertis may process customer personally identifiable information and third party personally identifiable information under the direction of our Customers, who are the controllers of that data. We have no ownership of this information of individuals whose personally identifiable information may be processed as part of the use of our Platform.
+An individual who seeks access to their data, seeks to correct, amend or delete inaccurate data, or that wishes to opt-out of communications sent from us on behalf of an Icertis customer, should direct his/her query to the Icertis customer he/she interacts with directly (the data controller). If an Icertis customer requests that we remove personally identifiable information on their behalf, we will respond to their request within 30 days.
+Icertis may transfer personal information to other companies that help us manage our Platform. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our customers.
+Clients who use the Icertis Platform may submit the personal information of other individuals at their organization to register them as authorized users. It is the customers obligation, as the data controller, to inform its authorized users about the purposes for which information about them is collected and may be used on this Platform.
+Data Subject Rights
+Taking into account the nature of the processing, Icertis shall at all times cooperate with and assist our customers in so far as possible to enable them to meet applicable deadlines and requirements under applicable data protection laws in relation to a data subjects right (i) of rectification of personal data, (ii) of erasure of personal data, (iii) to restriction of processing of personal data, (iv) to portability of personal, (v) to object to the lawfulness of the processing of personal data, and (vi) to not be subject to a decision based solely on automated processing.
+Icertis AMPLIFY 2020 Conference Registrant Terms and Conditions
+These Icertis AMPLIFY 2020 Conference Registrant Terms and Conditions (Terms and Conditions) govern the relationship between you (You or Registrant) and Icertis, Inc. and its affiliates (collectively, Icertis) in connection with your registration, participation and presence at Icertis AMPLIFY 2020 (Conference) and any communication and information you exchange with Icertis in connection with the Conference.
+By registering for the Conference, you agree to comply with these Terms and Conditions.
+1) Registration and Participation.
+Advance registration is required to attend the Conference.  Registration is only confirmed upon receipt of the confirmation email which also includes additional information regarding the Conference. Registrant must be at least 21 years of age to register for the Conference.  Icertis and the venue hosting the Conference (Venue) reserve the right, at their sole discretion and with no additional liability, to refuse entrance, immediately remove and terminate the participation of any Registrant whose conduct is deemed objectionable, disorderly, or disruptive to Icertis, the Conference, or the Venue, or in violation of any law.
+2) Conference Cancellation.
+In the event that the Conference is cancelled by Icertis, any fees incurred for the cancellation of travel and hotel reservations are the exclusive responsibility of Registrant.
+3) Disclaimer.
+Conference materials, including the agenda, are provided for information purposes only and are subject to change. Icertis shall not be liable for damages of any kind resulting from errors or omissions in its Conference materials, nor shall Icertis be liable for any damages resulting from the use of its Conference materials or other information conveyed at the Conference. Icertis may provide information or statements about planned or potential products or services features at the Conference. Such statements are not a commitment of any kind by Icertis that such features or products or services will ever be made commercially available or available according to any specific timeframe. Icertis may change its plans regarding future product or service releases at any time for any or no reason. If Registrant elects to provide feedback or product or service improvement suggestions about Icertis products or services to Icertis personnel at the Conference, Registrant does so freely without any reservation of rights, and places no restrictions on Icertis as to the use of such feedback or suggestions.
+The views expressed by any Conference attendee, speaker, exhibitor, or co-sponsor are not necessarily those of Icertis. All Conference attendees, speakers, exhibitors, and co-sponsors are solely responsible for the content of their respective individual or corporate presentations, marketing collateral, or advertising. For any questions regarding the Conference and these terms, please contact
+info@icertis.com .
+Registrant hereby waives, releases from liability, assumes all risks, and covenants not to sue Icertis, its employees, agents, or volunteers for any expense, loss, damage, personal injury, including loss of life, disability, property damage, or property theft or actions of any kind that Registrant may hereafter suffer or sustain before, during, or after the Conference.
+4) Collection & Use of Personal Information.
+Icertis may collect personal information from Registrant on a voluntary basis, which may include name, email address, job title, company/organization, address, phone number and similar personally identifiable information in order to complete Conference registration, share information related to the Conference, respond to inquiries, and administer participation in the Conference. Icertis may also collect Registrants image, audio and likeness (as captured in photographs or on recordings at the Conference) for marketing and promotional activities.
+Icertis may share personal information provided by Registrant with the Conference co-sponsors, which may be used by such co-sponsors to contact Registrant regarding their services. Any such use of Registrants personal information by co-sponsors is subject to the privacy policies of the co-sponsors.  Though Icertis makes reasonable efforts to only have co-sponsors that are reputable partners, Icertis cannot control their privacy practices in every instance regarding personal information Registrant voluntarily provides to them. Except as described herein, Icertis will not disclose Registrants personal information to any other third party without consent except where required to do so by law.
+5) Security of Personal Information.
+Icertis is committed to data privacy and protecting Registrants personal information. Information on how Icertis collects, processes, and uses data is included in the
+Icertis Privacy Policy
+which is hereby incorporated into these Terms & Conditions.
+6) General.
+Icertis reserves the right to change, amend, add or remove any of the above Terms & Conditions in its sole discretion and without prior notice. If one or more of the conditions outlined in these Terms & Conditions should become invalid, the remaining conditions will continue to be valid and apply.
+ICM Cookie Policy
+This website uses cookies to improve the websites performance and to enhance your browsing experience. Please see below for more information on cookies and how they are used on this site.
+What are cookies?
+A cookie is technology that allows a website to store tokens of information (an identifier) in your browser for use while you are on the site. Cookies (and the information stored in them) are then sent back to the website on each subsequent visit. They can also be used by another webpage that also recognizes that cookie. Cookies are used in order to make the website work, or to work more efficiently, as well as to provide information to the owners of the website.
+Cookies might be used for the following purposes:
+To enable certain functions
+To provide analytics
+To store your preferences
+To enable ad delivery and behavioral advertising
+What are the cookies used for the ICM application?
+The Microsoft ICM site uses cookies that are known as Essential/strictly necessary cookies, which are essential to the functioning of the website. These cookies are for the sole purpose of carrying out the transmission of a communication over an electronic communications network and are strictly necessary to provide a service over the internet requested by the subscriber or user. Below are the types of cookies used for the ICM application:
+Cookie provider
+Name of cookie
+Purpose of cookie
+Type of cookie
+Duration of cookie
+Icertis
+FedAuth
+Session token or Session cookie maintained on ICM application after user login through IDP to identify the user across different browser sessions.
+First party
+30 mins
+Icertis
+_RequestVerificationToken
+A temporary token obtained on the website that enables the user to submit a contact form and prevents cross-site scripting, which is a security vulnerability.
+First party
+Current
+More Info
+A session cookie is used to identify a particular visit to our website. These cookies expire after a short time, or when you close your web browser after using our website. We use these cookies to identify you during a single browsing session, such as when you log into our website.
+ICM by default creates non-persistent sessions for users. The session cookies (FedAuth cookie) generated are non-persistent in nature. The cookie is deleted upon logout and/or browser closure. The cookies are secured with HttpOnly and Secure flags to prevent cookie hijacking. The FedAuth cookie or session token do not contain any personally identifiable information (PII) data or user information. It only transmits information that is required for session establishment.
+The other type of cookies ICM uses is an anti-forgery cookie for security purposes. This is a non-persistent cookie secured with HttpOnly. Both the FedAuth and anti-forgery cookies are generated within the platform.
+What are your cookies options?
+These are mandatory cookies used only for authentication and security purpose.
+Below are links to more information on how to manage cookies in the most popular web browsers.
+Web browsers allow some control of most cookies through the browser settings. To learn more about cookies, including how you can see what cookies have been stored in your web browser, visit  www.aboutcookies.org  or  www.allaboutcookies.org .
+Find out how to manage cookies on popular browsers:
+Google Chrome
+Microsoft Edge
+Mozilla Firefox
+Microsoft Internet Explorer
+Opera
+Apple Safari
+To find information relating to other browsers, visit the browser developers website. You can reach out to
+itsecure@icertis.com
+with questions.
+Updates to the Privacy Policy
+This Policy may be amended from time to time, consistent with the Privacy Shield Principles and applicable data protection and privacy laws and principles. We will notify you of changes to this Policy either by posting to our intranet, through email, or other means. We will notify customers if we make changes that materially affect the way we handle personal data that we previously collected, and we will allow them to choose whether their personal data may be used in any materially different manner.
+Contact Information
+If you believe that Icertis has not adhered to this Statement or have questions, please contact Icertis at  info@icertis.com . Or you can reach us by telephone or mail at the contact information listed at
+https://www.icertis.com/company/contact/ . You also have the option of filing a complaint with  JAMS , an independent dispute resolution body located in the United States. Icertis has designated JAMS as its independent dispute resolution body, and Icertis shall be solely responsible for all costs associated with any complaints filed with JAMS regarding the violation of this policy. Information about filing a complaint with JAMS can be found at its website:  https://www.jamsadr.com/eu-us-privacy-shield.
+EU Representative Icertis GmbH Email:
+Compliance@icertis.com Address: Skyper Taunusanlage 1 60329 Frankfurt a.M. Germany
+Data Protection Officer Name: Sandeep Kulkarni Email:
+Compliance@icertis.com Address: 5th Floor, Tower A, ICC Tech Park, SB Road Pune  Maharashtra  411016 India
+ICM Toolkit
+Everything you need for a thorough evaluation of a CLM Solution.
+ACCESS RESOURCES
+See Icertis in Action
+Attend a demo to experience the full functionality of the ICM platform.
+REGISTER NOW
+Get Started
+Talk to one of our contract management software specialists.
+Contact Us
+Home V2
+Column 1 Holder
+Contact
+Contact Icertis
+Group Demo
+Column 2 Holder
+About
+Board Members
+Executive Team
+Careers
+Partners
+Events
+Newsroom
+Column 3 Holder
+The Platform
+AI Applications
+Blockchain Framework
+Business Applications
+Experiences
+For Coupa Users
+For Microsoft Users
+For Salesforce Users
+For SAP Ariba Users
+For Workday Users
+Column 4 Holder
+Resources
+Blog
+COVID-19 Resources
+White Papers
+Analyst Reports
+Case Studies
+Toolkit
+Help Center
+Recent News
+How A Single Source of Truth Can Help Increase Revenue, Reduce Cost, Accelerate Cash Flow and Minimize Risk:
+For many years, Enterprise Contract Lifecycle Management solutions have helped companies in every industry.
+Read more
+© Copyright
+2020 Icertis. All rights reserved.
+Privacy Statement
+Disclaimer
+Deutsch
+Español
+Français

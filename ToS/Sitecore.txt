@@ -1,0 +1,228 @@
+Website Terms of Use   Sitecore
+Clear
+Search
+Products
+Sitecore Experience Platform - Features
+Sitecore Content Hub - Formerly Stylelabs
+Sitecore Experience Commerce
+Articles
+What is Personalization, Why it Matters, and How to Get Started
+The Ecommerce Platform Buyer's Guide
+What is a Content Hub?
+Skip to main content
+For Customers
+Products
+Experience Platform
+Experience Commerce
+Content Hub
+Experience Manager
+Expanding Sitecore
+Product Packaging
+Solutions
+Sitecore services
+Sitecore XC Quick Start
+Customer Stories
+Experience Awards
+Knowledge Center
+Digital marketing resources
+Getting started with Sitecore
+Connecting with a Partner
+Insights
+Company
+Sitecore Story
+Our values
+News and Events
+Leadership
+Careers
+Contact us
+For Partners
+English
+English
+Dansk
+Deutsch (Deutschland)
+Français (France)
+ ()
+()
+Personalization
+Personalization
+English
+English
+Dansk
+Deutsch (Deutschland)
+Français (France)
+ ()
+()
+For Customers
+For Partners
+Personalization View
+Personalization View
+Products
+Experience Platform
+Experience Commerce
+Content Hub
+Experience Manager
+Expanding Sitecore
+Product Packaging
+Solutions
+Sitecore services
+Sitecore XC Quick Start
+Customer Stories
+Experience Awards
+Knowledge Center
+Digital marketing resources
+Getting started with Sitecore
+Connecting with a Partner
+Insights
+Company
+Sitecore Story
+Our values
+News and Events
+Leadership
+Careers
+Contact us
+Search
+SITECORE TRUST CENTER
+Website Terms of Use
+Last updated: May 23, 2018
+Welcome to sitecore.com which is operated by Sitecore Holding II A/S, a Danish limited liability company (CVR. No. 37624071), and our affiliate entities worldwide (collectively  Sitecore ). Through the Sitecore Sites (defined below), you have access to resources, tools, software, materials, and information about the products, software, services, trainings, events, and other opportunities we provide (collectively,  Content ). By accessing, browsing, or using our Sites, you are agreeing to follow and be bound by these terms and conditions ( Terms of Use ) and our
+Privacy Policy , which is incorporated into these Terms of Use.
+PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE OR ACCESSING THE CONTENT. BY USING THIS SITE OR ACCESSING THE CONTENT, YOU AGREE TO BE BOUND BY THESE TERMS OF USE. IF YOU DO NOT AGREE TO THE TERMS OF USE, PLEASE DO NOT USE THE SITE OR ACCESS THE CONTENT.
+Scope of These Terms of Use
+These Terms of Use apply to the Sitecore website located at www.sitecore.com and all other Sitecore owned and/or operated sites, including secure areas of these sites (collectively,  Sites ). These Terms of Use also apply to any and all interactive venues provided on the Sites such as blogs, community forums, chat rooms, discussion sites, or knowledge centers, where you can upload, download, share, email, post, publish, transmit, or make available content (collectively,  Online Community ).
+Some areas of the Sites, or Content provided on or through the Sites, may have additional rules, guidelines, license agreements, user agreements, or other terms and conditions that apply to your access to or use of that area of the Sites or that specific Content (including terms and conditions applicable to a corporation or other organization and its users) (collectively  Additional Terms ). The Additional Terms are hereby incorporated by reference into these Terms of Use, and if there is a conflict or inconsistency between these Terms of Use and the Additional Terms for a specific area of the Sites or for specific Content, the Additional Terms will take precedence with respect to the subject matter of such Additional Terms.
+You represent and warrant that any information that you provide in connection with your use of the Sites is and will remain true, accurate, and complete, and that you will maintain and update such information regularly. You agree that if any information that you provide is or becomes false, inaccurate, obsolete, or incomplete, or infringes trademark or copyright laws, Sitecore may terminate your use of the Sites.
+Your Privacy
+At Sitecore, we understand the value of data and the importance of protecting it. Sitecores
+Privacy Policy
+sets out details about Sitecores privacy practices, both online and offline. Sitecore collects, uses, processes, possesses, and otherwise stores information about you and your use of the Sites, including website browsing data and Personal Data (as defined in our Privacy Policy) that you submit to Sitecore, and may share such information and data with third-party service providers for the purpose of providing or improving our products and services, in accordance with our Privacy Policy.
+Sitecore will enter into written agreements with all sub-processors containing data protection terms that require our sub-processors to protect Personal Data in a manner consistent with Sitecores data protection practices. A list of Sitecore's current authorized sub-processors is available upon request. For the purpose of data minimization, Personal Data will only be shared on a need-to-know basis to fulfill the data-processing purpose as outlined in our Privacy Policy. Personal Data may be stored globally in accordance with our Privacy Policy, however, Sitecore will not perform any cross-border transfer of any Personal Data unless there is an approved transfer mechanism in place.
+Sitecore maintains sufficient and appropriate technical and organizational measures to ensure the ongoing confidentiality, integrity, availability, and resilience of processing systems and services. Upon becoming aware of any incident or breach relating to the security of your Personal Data, Sitecore will notify you without undue delay and will provide information as it becomes known or as is reasonably requested by you. Sitecore will also take reasonable steps to mitigate and, where possible, to remedy the effects of, any security Incident or breach. Sitecore will provide reasonable assistance to you, at your expense, in the event you are required to notify a supervisory authority or any data subjects of a security incident or breach.
+Sitecore will provide reasonable cooperation to you (at your expense) needed to fulfill compliance obligations under any applicable laws (subject to certain information being redacted and confidentiality agreements being executed), to assist you with your own data protection compliance obligations, such as performing data protection impact assessments or participating in prior consultations with supervising authorities or other competent data privacy authorities. Sitecore will also provide reasonable assistance to you (at your expense) to comply with any obligation arising from any request to exercise the rights of a data subject that may be applicable, and will in a timely manner execute data handling requests related to written contractual agreements executed between you and Sitecore, such as file transfer and deletion requests.
+Any questions pertaining to our privacy and security controls may be directed to our Chief Legal Officer at
+legal@sitecore.com .
+Personal Data of Others
+If you submit any Personal Data (as defined in our
+Privacy Policy ) relating to other people or entities to us or to our service providers relating to the Sitecore Services, you represent and warrant that: 1) you have the authority to do so and to permit us to use the information in accordance with the Privacy Policy; 2) the information is accurate.
+Eligibility.
+If you are using these Sites on behalf of a corporation or other legal entity, you represent that you are authorized to accept these Terms of Use on behalf of such corporation or other legal entity. Furthermore, by using the Sites you acknowledge that you are 13 years of age or older. Individuals who are under the age of majority in their jurisdiction are not allowed to use the Sites or to submit personal information to Sitecore.
+Terms Applicable to Corporations.
+The following terms and conditions apply specifically to any corporation or other legal entity that is subject to these Terms of Use: You agree to require each of your employees to be bound by the terms and conditions of these Terms of Use, and you agree to remain responsible and liable for all acts and omissions of your employees in connection with the Sites, including any breaches of these Terms of Use. All references to your access and/or use of the Sites herein include access and/or use of the Sites by your employees. You agree that each of your employees is responsible for maintaining the confidentiality of any password that such employee may use to access the Sites, and you agree not to let any employee transfer a password or user name, or lend or otherwise transfer use of or access to password-protected areas of the Sites, to other employees or any third party. If an employee leaves your employ, or if you wish to disable an employees access to the Sites, you are responsible for any such changes. You are fully responsible for all interaction with the Sites that occurs in connection with passwords or user names associated with your employees (including any former employees).
+Account Registration
+The Sites may require you to create an account to access the full range of features of the Sites. If you are required to create an account, you must complete the registration process by providing Sitecore with current, complete, and accurate information as required by the applicable registration form. You may also be required to choose a password and a user name. Sitecore may refuse to grant you, and you may not use, a user name (or email address) that is already being used by someone else; that may be construed as impersonating another person; that belongs to another person; that personally identifies you; that violates the intellectual property or other rights of any person; that is offensive; or that Sitecore rejects for any other reason in Sitecores sole discretion. Access to and use of password protected or secure areas of the Sites are restricted to authorized users only. You agree not to share your password(s), account information, or access to the Sites with any other person. You are responsible for maintaining the confidentiality of password(s) and account information, and you are responsible for all activities that occur through the use of your password(s) or account(s) or as a result of your access to the Sites. You agree to inform Sitecore immediately of: (a) any use of your password(s) or account(s) that you did not authorize or that is not authorized by these Terms of Use; or (b) any breach of security related to your account or the Sites.
+Proprietary Rights
+The information and materials made available through the Sites, including the Content, are and shall remain the property of Sitecore, its subsidiaries, affiliates, licensors and/or suppliers, and are protected by copyright, trademark, patent, and/or other proprietary rights and laws. Subject to your compliance with these Terms of Use, solely for so long as you are permitted by Sitecore to access and use the Sites, and provided that you keep intact all copyright and other proprietary notices, you may (a) view any Content on the Sites to which we provide you access hereunder on any single computer solely for personal, informational, non-commercial purposes, and (b) download and print one (1) copy of materials that Sitecore specifically makes available for downloading (such as white papers) (the "Documents") from the Sites solely for personal, informational, non-commercial purposes, provided that the Documents may not be modified or altered in any way. You may not use, download, upload, copy, print, display, perform, reproduce, publish, license, post, transmit, rent, lease, modify, loan, sell, distribute, or create derivative works based (whether in whole or in part) on, the Sites or any Content or information from this Sites, in whole or in part, without the express prior written authorization of Sitecore. Some elements of the Sites are protected by copyright, trade dress, trademark, unfair competition, and/or other laws and may not be copied or imitated in whole or in part.
+The trademarks, service marks, logos, tag lines, slogans, and domain names referenced on the Sites are either common-law service marks or trademarks, or registered service marks or trademarks of Sitecore (collectively, the  Marks ) and are protected by trademark laws in Europe, the United States, and other countries and by international laws and treaties. Other names of actual companies and products mentioned on the Sites may be the trademarks of their respective owners and reference to them does not suggest sponsorship, endorsement, or association with Sitecore. No logo, graphic, sound, or image from the Sites may be copied or re-transmitted unless expressly permitted in writing by Sitecore. Nothing contained on the Sites should be construed as granting, by implication, estoppel or otherwise, any license or right to use any of Sitecores Marks or its affiliates or suppliers trade names, trademarks or service marks without Sitecores express prior written consent.
+Copyright Infringement Claims
+The Digital Millennium Copyright Act (the  DMCA ) provides recourse for copyright owners who believe that material appearing on the internet infringes their rights under U.S. copyright law. If you believe in good faith that materials found on the Sites infringe your copyright, you (or your agent) may send Sitecore a notice requesting that Sitecore remove the material. If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, the DMCA permits you to send Sitecore a counter-notice. Notices and counter-notices must meet the then-current statutory requirements imposed by the DMCA. See https://www.copyright.gov/ for details. Sitecore suggests that you consult legal counsel before filing a notice or counter-notice. Notices and counter-notices should be sent to:
+Chief Legal Officer
+Sitecore
+Attention: Copyright Notice
+101 California Street
+Suite 1600
+San Francisco, CA 94111
+Phone: +1 415 380 0600
+Fax: +1 415 380 0730
+Email:
+copyright@sitecore.com
+Online Community Conduct
+While using the Sites you will comply with all applicable laws, rules, and regulations. Sitecore expects users of the Sites to respect the rights and dignity of others, and your use of the Online Community is conditioned on your compliance with the expectations of conduct included in this section. You may upload, share, post, transmit, publish, or otherwise make available ( Share ) content, suggestions, enhancement requests, recommendations or other feedback created by you ( User Content ). You own User Content, and you hereby grant Sitecore a non-exclusive, royalty-free, worldwide, transferable, sublicensable, irrevocable, perpetual license to use, copy (in whole or in part), modify, display in any form, medium, or technology now known or later developed, distribute, and make derivative works of, including by incorporating or embedding into any product or service owned or offered by Sitecore, or by combining with advertising or making reference to, any User Content Shared by you relating to any product or service owned or offered by Sitecore, without compensation to you. You are solely responsible for User Content and the consequences of its Sharing. Sitecore may screen the User Content that is transmitted or published through the Sites by using automated scripts, and you hereby consent to such screening by Sitecore. Sitecore reserves the right to remove or block access to any User Content that violates these Terms of Use, is illegal, or is otherwise objectionable in Sitecore's sole discretion. Sitecore shall have the right, in its sole discretion, to refuse publication or remove from its systems, User Content Shared by you. You acknowledge and agree the Sites and your access or use of the Sites, including submission of any User Content, shall not be construed to create any employer-employee, agency, joint venture, or partner relationship with Sitecore.
+You agree that you will not:
+Share, post, transmit, or otherwise make available through or in connection with the Sites:
+Anything that is or may be (a) threatening, harassing, degrading, or hateful; (b) defamatory; (c) fraudulent or tortious; (d) obscene, indecent, or otherwise objectionable; or (e) protected by copyright, trademark, or other proprietary right without the express prior consent of the owner of such right.
+Any material that would give rise to criminal or civil liability or that encourages conduct that constitutes a criminal offense.
+Any malicious code, virus, worm, Trojan horse, or other computer code, file, or program that is harmful or invasive or may or is intended to damage or hijack the operation of any hardware, software or telecommunications device.
+Any unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letter, investment scheme, or any other form of solicitation.
+Use the Sites for any fraudulent or unlawful purpose.
+Harvest or collect Personal Data about other users of the Sites.
+Impersonate any person or entity, including any representative of Sitecore or its affiliates; falsely state or otherwise misrepresent your affiliation with any person or entity; or express or imply that Sitecore endorses any statement you make.
+Interfere with or disrupt the operation of the Sites or the servers or networks used to make the Sites available; or violate any requirements, procedures, policies or regulations of such networks.
+Restrict or inhibit any other person from using the Sites (including by hacking or defacing any portion of the Site).
+Use the Sites to advertise or offer to sell or buy any goods or services without Sitecores express prior written consent.
+Reproduce, duplicate, copy, sell, resell or otherwise exploit for any commercial purposes, any portion of, use of, or access to the Sites (including any Content).
+Modify, adapt, translate, reverse engineer, decompile, or disassemble any portion of the Sites (including any Content), except as and solely to the extent expressly authorized under applicable law overriding any of these restrictions.
+Remove any copyright, trademark, or other proprietary rights notice from the Sites or Content and other materials originating from the Sites.
+Frame or mirror any part of the Sites without Sitecores express prior written consent.
+Create a database by systematically downloading and storing all or any Content.
+Use any robot, spider, site search/retrieval application or other manual or automatic device to retrieve, index, scrape, data mine, or in any way reproduce or circumvent the navigational structure or presentation of the Sites, without Sitecores express prior, written consent.
+Even when Shared in full compliance with the above expectations of conduct, User Content is provided by you and other users of this site As-Is. Sitecore shall have no liability for reliance by any third party on, or use or misuse by any third party of, information voluntarily made public through the Online Community or any other part of the site, as User Content or otherwise. IF YOU CHOOSE TO MAKE ANY OF YOUR PERSONAL INFORMATION PUBLICLY AVAILABLE IN THE ONLINE COMMUNITY OR OTHERWISE ON THE SITE, YOU DO SO AT YOUR OWN RISK.
+Indemnity
+You agree to indemnify and hold harmless Sitecore, its officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, or expenses, including reasonable attorneys' fees and costs, due to or arising out of content that you Share, your violation of these Terms of Use, the Additional Terms, or any additional rules, guidelines or terms of use posted for a specific area of the Sites or Content provided on or through the Sites, or your violation or infringement of any third-party rights, including intellectual property rights. This indemnification obligation will survive the termination of your Sitecore account or these Terms of Use.
+Termination of Use
+Sitecore may, in its sole discretion, at any time discontinue providing or limit access to the Sites, any areas of the Sites, or Content provided on or through the Sites. You agree Sitecore may, in its sole discretion, at any time, terminate or limit your access to, or use of, the Sites or any Content. We may terminate or limit your access to or use of the Sites if Sitecore determines, in its sole discretion, that you have infringed the copyrights of a third party. You agree that Sitecore shall not be liable to you or any third party for any termination or limitation of your access to, or use of, the Sites or any Content, including content that you may have Shared.
+Third-party Websites, Content, Products and Services
+The Sites may provide links to websites and access to content, products, and services of third parties, including users, advertisers, partners, and sponsors of the Sites, and such third-party websites, content, products, or services are governed by the respective third partys website terms and conditions of use. Sitecore is not responsible for third-party content provided on or through the Sites, or for any changes or updates to such third-party content. Any interactions you have with these linked websites, content, products, and services are beyond the control of Sitecore, and you bear all risks associated with your access to, and use of, such third-party websites, content, products and services.
+Disclaimer
+EXCEPT WHERE EXPRESSLY PROVIDED OTHERWISE, THE SITES, AND ALL CONTENT PROVIDED ON OR THROUGH THE SITES, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. SITECORE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT WITH RESPECT TO THE SITES AND ALL CONTENT PROVIDED ON OR THROUGH THE SITES. SITECORE MAKES NO WARRANTY THAT: (A) THE SITES OR CONTENT WILL MEET YOUR REQUIREMENTS OR RUN PROPERLY ON ANY HARDWARE; (B) THE SITES WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS; (C) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITES OR ANY CONTENT PROVIDED ON OR THROUGH THE SITES WILL BE ACCURATE OR RELIABLE; OR (D) THE QUALITY OF ANY CONTENT PURCHASED OR OBTAINED BY YOU ON OR THROUGH THE SITES WILL MEET YOUR EXPECTATIONS. SITECORE MAKES NO EXPRESS OR IMPLIED WARRANTY OF ANY KIND REGARDING ANY SEPARATELY LICENSED SOFTWARE THAT MAY BE USED WITH THE SITES.
+ANY CONTENT ACCESSED, DOWNLOADED, OR OTHERWISE OBTAINED ON OR THROUGH THE USE OF THE SITES IS USED AT YOUR OWN DISCRETION AND RISK. SITECORE SHALL HAVE NO RESPONSIBILITY FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF CONTENT.
+PLEASE NOTE THAT THE LICENSE AGREEMENT APPLICABLE TO ANY SOFTWARE AVAILABLE THROUGH THE SITES MAY CONTAIN EXPRESS (BUT NOT IMPLIED) WARRANTIES APPLICABLE TO SOFTWARE, WHICH WILL GOVERN THAT PARTICULAR SOFTWARE. EXCEPT AS EXPRESSLY WARRANTED BY SITECORE IN SUCH LICENSE AGREEMENT, THE SOFTWARE IS GOVERNED BY THE DISCLAIMER OF WARRANTIES SET FORTH IN THE PREVIOUS TWO PARAGRAPHS.
+SITECORE RESERVES THE RIGHT TO MAKE CHANGES OR UPDATES TO, AND MONITOR THE USE OF, THE SITES AND CONTENT PROVIDED ON OR THROUGH THE SITES AT ANY TIME WITHOUT NOTICE.
+Limitation of Liability
+IN NO EVENT SHALL SITECORE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUTATIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, REVENUE, DATA OR DATA USE, INCURRED BY YOU OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, ARISING FROM YOUR ACCESS TO, OR USE OF, THE SITE OR ANY CONTENT PROVIDED ON OR THROUGH THE SITE.
+Exclusions and Limitations
+SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OR EXCLUSION OF CERTAIN WARRANTIES OR THE DISCLAIMER, EXCLUSION, OR LIMITATION OF CERTAIN LIABILITIES. TO THE EXTENT THAT THEY ARE HELD TO BE LEGALLY INVALID, DISCLAIMERS, EXCLUSIONS, AND LIMITATIONS SET FORTH IN THESE TERMS OF USE, INCLUDING THOSE SET FORTH IN THE DISCLAIMER AND THE LIMITATION OF LIABILITY SECTIONS ABOVE, DO NOT APPLY AND ALL OTHER TERMS SHALL REMAIN IN FULL FORCE AND EFFECT.
+Export Restrictions/Legal Compliance
+You may not access, download, use or export the Sites, or the Content provided on or through the Sites, in violation of U.S. export laws or regulations, or in violation of any other applicable laws or regulations. You agree to comply with all export laws, restrictions and regulations of any United States or applicable agency or authority, and to not directly or indirectly provide or otherwise make available any services and products of Sitecore in violation of any such restrictions, laws, or regulations. As applicable, you shall obtain and bear all expenses related to any necessary licenses, authorizations, and/or exemptions with respect to your own use of the Sites globally. Neither the services or products of Sitecore nor the underlying information or technology may be downloaded or otherwise provided or made available, either directly or indirectly, into any country subject to international trade sanctions, to individuals or entities controlled by such countries, or to nationals or residents of such countries other than nationals who are lawfully admitted permanent residents of countries not subject to such sanctions. By agreeing to these Terms of Use, you agree to the foregoing and represent and warrant that you are not located in, under the control of, or a national or resident of any such country or on any such list.
+Entire Agreement; Waiver and Severability
+These Terms of Use, which incorporate the Privacy Policy and the Additional Terms, contain the entire agreement between you and Sitecore governing your use and access of the Sites. The failure of Sitecore to exercise or enforce any rights or provisions in these Terms of Use shall not constitute a waiver of such right or provision. If any part or provision of these Terms of Use is found to be unenforceable, such part or provision may be modified to make the Terms of Use as modified legal and enforceable. The balance of the Terms of Use shall not be affected.
+Applicable Laws
+In choosing to access the Site, you do so on your own initiative and at your own risk, and are responsible for complying with all applicable laws, rules and regulations. If you reside in the U.S., the laws of the State of California, United States, shall apply to any disputes arising out of these Terms of Use or the Sites, and all claims arising out of or relating to these Terms of Use or the Sites will be litigated exclusively in the federal or state courts of San Francisco County, California, USA. If you reside outside of the U.S., any disputes arising out of these Terms of Use or the Sites, and all such claims arising out of or relating to these Terms of Use or the Sites will be referred to and finally determined by arbitration in accordance with the JAMS International Arbitration Rules. The tribunal will consist of a sole arbitrator seated in England, United Kingdom.
+Revision of Terms
+Sitecore may revise the Terms of Use and the Privacy Policy at any time without prior notice. The revised Terms of Use and Privacy Policy will be effective upon posting and we will update the Last Updated date at the top of the page. We encourage you to review the Terms of Use and our Privacy Policy at regular intervals to keep up to date. Your continued use of this Sites after the Last Updated date means that you accept the Terms of Use, the Privacy Policy, and any updates.
+Communications
+When you visit the Sites or send us emails, you are communicating with us electronically. For contractual purposes, you consent to receive communications electronically from us and you agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. This condition does not affect your statutory rights.
+Contact Us
+If you have any questions regarding these Terms of Use, please contact Sitecores Legal Department at
+legal@sitecore.com . If you have any other questions, please
+contact us .
+Find events near you
+Use my current location
+Change my location
+--Select Country/Region--
+Australia and NewZealand
+Europe
+North America
+--Select State/Province--
+Canada
+Denmark
+Sweden
+United States
+--Select City--
+Copenhagen
+Los Angeles
+New York
+Stockholm
+Toronto
+Vancouver
+Apply
+Products
+Sitecore Experience Platform
+Sitecore Experience Commerce
+Sitecore Content Hub
+Sitecore Experience Manager
+Personalization
+Marketing Automation
+Sitecore Omni
+Sitecore Cortex
+Integration
+Knowledge Center
+Training
+What is a CMS?
+Personalization: How do I get started?
+The commerce platform buyers guide
+What is a headless CMS?
+CS101: Mastering Personalization
+Insights blog
+Company
+News and events
+Careers
+Sitecore story
+Contact us
+Trust center
+Sitecore brand resources
+©
+Copyright 2020, Sitecore. All Rights Reserved
+Legal
+Privacy
+Own the Experience®
+webmaster@sitecore.net
++1-855-Sitecore

@@ -1,0 +1,99 @@
+Privacy Policy
+English (UK)
+CLOSE
+ENGLISH
+Português
+English (UK)
+Deutsch
+English (India)
+
+ENGLISH (AUSTRALIA)
+
+ENGLISH (SINGAPORE)
+
+Español
+
+Français
+
+Automation Anywhere Introduces RPA Cloud Packages for Business Continuity and Return-to-Work - Read More
+TRAINING SUPPORT Contact Us Login
+Products Products
+- Home Enterprise End-to-end RPA+AI platform for automating any business process Community Edition Instantly start your RPA journey and get full-featured access for FREE Discovery Bot
+Fast track automation with AI that uncovers processes and creates bots Bot Insight Real-time RPA analytics delivered at the bot, process and business levels IQ Bot Transform unstructured and hidden data with AI that can learn on its own Bot Store Get field-tested bots and Digital Workers ready to deploy right now Solutions Solutions
+- Home
+By Industry
+Discover how Robotic Process Automation (RPA) and intelligent automation works for your industry
+BPO Insurance Financial Services Life Sciences Healthcare Manufacturing Telecom Public Sector
+By Function
+Learn how Automation Anywhere works within different departments and use cases
+Finance & Accounting Human Resources
+By Technology
+Find out how Automation Anywhere works with diverse technologies
+Attended Automation 2.0 ERP Automation Productivity Pack RPA with Microsoft Azure Events Events
+- Home
+About Events
+Join us for a live or virtual event. Learn new skills, network with peers, and connect with industry experts
+Webinars Bot Games Imagine Experience Industry Events Resources Resources
+- Home What Is RPA? Learn about automation technologies and what you need to know to get started with RPA Automation Anywhere University Learn RPA and get certified on the worlds leading intelligent automation platform Library Access RPA resources, how-to videos, reports, case studies, ebooks, and more Customer Stories See how customers in every industry apply intelligent automation to solve complex business challenges Research & Reports Get free access to the latest industry research and analyst reports Blog Read the latest insights and news on RPA, intelligent automation, AI and more Partners Find Technology, Business, and Training partners or learn how to become a partner Developers Access the complete set of Automation Anywhere product and developer documentation Community Join A-People community, the fastest-growing RPA network in the world Company Company
+- Home About Us Get to know Automation Anywhere and meet the team enabling business transformation Leadership Team "Ive never met anyone who would go back to the way things were before they had bots at work."  Mihir Shukla, CEO Awards Industry and analyst recognition for Automation Anywhere and our products Press Room Press releases and media resources News Room Read what's trending in RPA and see Automation Anywhere in the news Social Responsibility We're applying RPA technology in ways that empower people and communities from all walks of life Careers Discover career opportunities to create the future of work with us START FREE TRIAL
+Privacy Policy for Bot Games
+March 26, 2018
+The following describes the Automation Anywhere, Inc. ("Automation Anywhere," AAI, or the "Company"), privacy policy and the manner in which Automation Anywhere and its service providers will handle personal information that we receive via the Imagine Registration Website (Website) and the Imagine Mobile Application (App) - which will be provided to all attendees at Imagine, New York & Bot Games. The App is designed to give attendees an opportunity to more fully participate in the Imagine New York & Bot Games experiences (Event) by sharing content with fellow attendees and creating an RPA learning community. By providing information through the Website and the App you are consenting to the collection, use and disclosure to all attendees of the Imagine conference as described in this privacy policy (Policy).
+Shared Content on the App
+Whatever information you post into the App is for the purpose of sharing with the Imagine New York and/or Bot Games community. You should not post anything on the App you do not wanted shared with all attendees, including us and our providers and partners.
+Personal Information Collected by Automation Anywhere Information Collected on the Website
+As part of attending Imagine New York and/or Bot Games you will be asked to register and provide limited personal information (specifically: Your Name, Job Title, Company Name, email address and Phone Number as well as any Dietary Restrictions. Your Name, Job Title and Company Name will all be printed on the Attendee Badge you will be provided. That information will be shared by you with all attendees as you wear the badge. Additionally, that information along with your email and phone number information will be used to AAI to contact you regarding future events and opportunities. By registering you are giving AAI and its third party providers and event partners permission to contact you using your information in order to provide you further information about RPA related offerings. If you do not wish AAI or our partners to contact you, inform us as outlined at the bottom of this page and ask that we remove your information from our contact list and we shall do so as soon as practical.
+Information Collected on the App
+In order to facilitate your experience, the Imagine App may collect certain information from your mobile device, which may include personally identifiable information. Automation Anywhere will use such information to facilitate the conference experience and to improve the quality of the Imagine App. We may also use such information to provide you further information about the Company and our products and services. Automation Anywhere may also share this information with third-party agents who may be acting on our behalf; e.g., providing notice of an upcoming webinar or tradeshow that may be of interest to the target audience, or during solicitation for business purposes.
+Required Disclosures
+Additionally, Automation Anywhere may release your personal information if it is required to do so by law or court order, to enforce or apply its Terms of Service or if it believes in good faith that such release is necessary or appropriate to protect the rights, property, or safety of the Company, its customers or the public at large. Automation Anywhere also may share or transfer information, including your personal information, in connection with the sale, transfer, acquisition, merger, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change or ownership or control by Automation Anywhere. Should one of these events occurs, Automation Anywhere will use reasonable efforts to notify users before information is transferred or becomes subject to different privacy practices.
+Disclaimer
+Because the intention of the App is to allow users to share information and comment on their experience at Imagine, New York and Bot Games, we have not designed the App or Service to secure any personal information you may provide. We are not implementing methods to secure all personal and sensitive information or restrict access to such information only to people who have a legitimate need to know in order to discharge their job responsibilities on behalf of Automation Anywhere. You should not share any personal information you would not want made available to other event attendees.
+Use of Personal Information by Third Parties
+Automation Anywhere will require that all third parties acting on behalf of Automation Anywhere, and to which personal or sensitive information is provided or processed, give Automation Anywhere adequate assurances that they will safeguard all such information in a manner consistent with this Policy. When you register on the Website for the Event, you will be redirected to Stripe, Inc.s (Stripes) website to enter PII, including but not limited to, your name, address, email, and other financial information. Please review and agree to the Stripe Privacy Policy, available at
+www.stripe.com/us/privacy/
+before completing the registration process and providing Stripe with your PII.
+Aggregated Data
+AAI may provide to third parties non-personal information about you that does not allow you to be identified or contacted and that is combined with the non- personal information of other users Aggregated Data). For the avoidance of doubt, any Aggregated Data shall remain the sole property of AAI.
+Ability to Access and Correct Information
+Upon an individuals request, Automation Anywhere will disclose any personal information it has about that person. Automation Anywhere will also take reasonable steps to allow such individuals to correct, change, modify or delete any such information that is shown to be incorrect, inaccurate or incomplete.
+Contact Information
+If you wish to have any further questions about this policy or wish to have your information removed from our systems please contact us at: Automation Anywhere, Inc. attention; Legal Department, POL Box 640007, San Jose, CA 95164 or
+[email protected] .
+Go Be Great TM .
+Automation Anywhere empowers people whose ideas, thought and focus make the companies they work for great. We deliver the worlds most sophisticated Digital Workforce Platform making work more human by automating business processes and liberating people.
+Products
+Our platform is powerful enough to automate tasks of any complexity, but user-friendly enough for anyone on your team to use.
+Learn more.
+Services
+The Automation Anywhere services team has worked with companies of all sizes to automate their business processes for them, help discover new automation ideas, and maximize ROI.
+Learn more.
+Contact us
+Tower 42 25 Old Broad Street London EC2N 1HQ United Kingdom
+Support
+1-888-484-3535
+ 
+Access Support
+Intl +1-408-834-7676
+Boston
+Dallas
+New York
+Baroda
+Bangalore
+Dubai
+Mumbai
+London
+Melbourne
+Japan
+Seoul
+National representatives in:
+Argentina, Brazil, Chile, Colombia, Mexico
+©
+Automation Anywhere, Inc.
+Privacy
+Do Not Sell My Personal Information
+Terms
+Trademark
+Products
+Customers
+Careers

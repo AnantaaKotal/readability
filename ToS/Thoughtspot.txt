@@ -1,0 +1,363 @@
+EULA   ThoughtSpot
+Product
+Overview
+Architecture
+SpotIQ
+Connect
+Mobile
+Embedded Analytics
+Pricing
+Deploy
+New Features
+New Features: See what's new in ThoughtSpot
+Product Principles
+Learn about our design principles
+New Features: See whats new in ThoughtSpot
+Product Principles: Learn about the principles that guide the design of ThoughtSpot
+Solutions
+Overview
+Retail & E-commerce
+Financial Services
+Manufacturing & Logistics
+Media & Communications
+Public Sector
+Healthcare & Life Sciences
+Procurement
+Customers
+Resources
+Analyst Reports
+White Papers
+Webinars
+Case Studies
+Solution Briefs
+Demo Videos
+Community
+Documentation
+Blog
+Training
+Blogs: Check out the latest posts from: Data Chief, Fact & Dimension, Codex, and our Company
+Training: Accelerate your knowledge & user adoption of ThoughtSpot
+Partners
+Atlas Marketplace
+Partner Directory
+Become a Partner
+Partner-Only Resources
+Atlas Marketplace: Find a range of solutions from the ThoughtSpot partner community.
+Partner Directory: Explore the ThoughtSpot partner ecosystem
+Become a Partner: Deliver value to your customers by becoming a ThoughtSpot partner.
+Access Partner-Only Resources: Your portal to enablement and assets
+About Us
+Our team
+Careers
+In the news
+Press releases
+Events
+Contact Us
+Need help? Visit our Support Center 
+Language Language / Sprache / 
+English
+Deutsch
+
+Français
+Request Demo Free Trial
+END USER LICENSE AGREEMENT
+BY INSTALLING OR USING ALL OR ANY PORTION OF THE SOFTWARE, YOU ARE ACCEPTING ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT AS PUBLISHED ON THOUGHTSPOTS WEBSITE AT
+WWW.THOUGHTSPOT.COM/LEGAL
+(OR SUCCESSOR URL). YOU AGREE THAT THIS AGREEMENT IS ENFORCEABLE LIKE ANY WRITTEN AGREEMENT SIGNED BY YOU AND IS LEGALLY BINDING BETWEEN YOU AND THOUGHTSPOT, INC. OR THE APPLICABLE THOUGHTSPOT AFFILIATE (THOUGHTSPOT). IF YOU DO NOT AGREE TO ALL OF THESE TERMS AND CONDITIONS, DO NOT INSTALL THE SOFTWARE. IF YOU WISH TO USE THE SOFTWARE AS AN EMPLOYEE, CONTRACTOR, OR AGENT OF A CORPORATION, PARTNERSHIP OR SIMILAR ENTITY, THEN YOU MUST BE AUTHORIZED TO SIGN FOR AND BIND THE ENTITY IN ORDER TO ACCEPT THE TERMS OF THIS AGREEMENT AND YOU REPRESENT AND WARRANT THAT YOU HAVE THE RIGHT AND AUTHORITY TO DO SO.
+This End User License Agreement ( Agreement ) is between ThoughtSpot and the individual or entity that has downloaded or otherwise procured the licensed Software or Appliance (as those terms are defined below) for use as an end user ( you  and  your ).
+Definitions.
+1.1  Affiliate  means, with respect to a party, any legal entity (such as a corporation, partnership, or other legal entity) that controls, is controlled by, or is under common control with such party. For purposes of this definition, control means the legal power to direct or cause direction of the general management of the corporation, partnership, or other legal entity. Affiliates are  Your Affiliates  and Affiliates of ThoughtSpot are  ThoughtSpot Affiliates .
+1.2  Authorized Partner  means a third-party reseller authorized by ThoughtSpot to sell Software licenses and related Professional Services.
+1.3.  Confidential Information
+means:
+(a)
+the Software (which is ThoughtSpots Confidential Information);
+(b)
+any information of a party that is disclosed in writing or orally and designated confidential at the time of disclosure (and, for oral disclosures, summarized in writing within 30 days of initial disclosure and delivered in written summary form to the receiving party), or that, due to the nature of the information or circumstances of disclosure, the receiving party should reasonably understand to be the disclosing partys confidential information; and
+(c)
+the terms of this Agreement, any Order Form, any SOW, and any amendment or attachment to any of these (which will be deemed Confidential Information of both parties).
+1.4.   Documentation
+means the then-current, published installation and operating instructions, user manuals, and help files made available by ThoughtSpot to you intended for use in connection with the Software.
+1.5.  Effective Date
+means the date of your first Order Form or the initial delivery date of the Software or Appliance (whichever is earlier).
+1.6.   Intellectual Property Rights
+or
+IPR
+means all intellectual property or other proprietary rights worldwide, including patent, trademark, service mark, copyright, trade secret, know-how, moral right, and any other intellectual and intangible property rights, including all continuations, continuations in part, applications, renewals, and extensions of any of the foregoing, whether registered or unregistered.
+1.7.  Law
+means all applicable laws, rules, statutes, decrees, decisions, orders, regulations, judgments, codes, and requirements of any government authority (federal, state, local, or international) having jurisdiction.
+
+1.8.  License Term
+means the period of authorized use of the Software as set forth in an Order Form.
+1.9  Order Form  means an ordering document signed by you and ThoughtSpot or an Authorized Partner that specifies:
+(a)
+Software licenses purchased, their prices, and their License Term; and
+(b)
+the scope and price of Professional Services purchased (if any).
+1.10.
+Professional Services
+means consulting, implementation, configuration, integration, or training services provided by ThoughtSpot or its authorized service providers.
+
+1.11.
+Software
+means any computer code provided by ThoughtSpot to you under this Agreement pursuant to an Order Form.
+1.12.
+SOW
+means a statement of work that describes the scope of Professional Services signed by you and ThoughtSpot or an Authorized Partner.
+1.13.   Support
+means technical support and maintenance for the Software, as set forth in the Support Guide.
+1.14.   Support Guide
+means the ThoughtSpot Support and Maintenance Program Guide at
+https://www.thoughtspot.com/legal/ .
+1.15.
+Your Data
+means all data of any kind or nature that is loaded on the Software by or on your behalf.
+Orders.
+2.1  ThoughtSpot Orders . If you have signed an Order Form directly with ThoughtSpot, then ThoughtSpot will provide the Software or Professional Services identified in an Order Form or SOW pursuant to the terms of this Agreement. If you have purchased from an Authorized Partner of ThoughtSpot, see Section 2.6 ( Reseller Orders ) below. Upon execution by you and ThoughtSpot, each Order Form is non-cancellable and, except as otherwise provided in this Agreement, non-refundable. Prices stated in each Order Form are final, and Professional Services are separately ordered from (and not required for use of) Software. Support is purchased as part of the licensed Software as set forth in an Order Form.
+2.2  Invoices and Payment . ThoughtSpot will issue the initial Software invoice to you corresponding with each Order Form upon the later of:
+(a)
+when ThoughtSpot notifies you that the Software is available for download; or
+(b)
+such Software is actually available for download. Each License Term is a non-divisible, continuous commitment, regardless of the invoice schedule, and pricing is based on a purchase of the entire License Term. Unless otherwise indicated in an Order Form, fees for Professional Services performed on a fixed fee basis are invoiced at the time of availability of the Software as provided in this Section, and fees for Professional Services performed on a time and materials basis are invoiced monthly in arrears. You will pay each invoice in full, within 30 days after the invoice date. Late payments will accrue interest at a rate of 1.5% per month or the legal maximum, whichever is lower. ThoughtSpot may suspend the delivery of Professional Services while any payment is delinquent. You will make payments free of any currency controls or other restrictions, by check or wire transfer, to the address or bank account designated by ThoughtSpot. You may not reduce any amount payable to ThoughtSpot under this Agreement due to any counterclaim, set-off, adjustment, or other claim you might have against ThoughtSpot, any other party, or otherwise.
+2.3  Taxes . All payments, fees, and other charges payable by you to ThoughtSpot under this Agreement are exclusive of all federal, state, local, and foreign taxes, levies, tariffs, duties, value-added taxes, export and import fees, withholding, and all other taxes or government assessments (collectively,  Taxes ). You will pay all Taxes arising out of the transactions contemplated by this Agreement (except Taxes based on ThoughtSpots net income, property, or employees) or will provide ThoughtSpot with a tax exemption certificate acceptable to the applicable taxing authorities.
+2.4  Reseller Orders . If you received Software or an Appliance under an Order Form and agreement with an Authorized Partner ( Reseller Purchase Agreement ) and not ThoughtSpot, then notwithstanding anything to contrary in this Agreement:
+(a)
+your use of the Software or Appliance is subject to any additional terms in the Reseller Purchase Agreement, including any limitations on use of the Software or Appliance in conjunction with third-party applications; and
+(b)
+Sections 2.2 and 2.3 will not apply to such Order Form, provided that you agree to pay the Authorized Partner the fees agreed in the Reseller Purchase Agreement associated with the Software licensed, Appliance, and any Professional Services purchased, and you have no direct payment obligations to ThoughtSpot for such purchase. Any licensing, support, warranty, and other terms provided for the Software, Appliance, and Professional Services shall be exclusively as stated in this Agreement, and any additional or conflicting terms offered by the Authorized Partner shall be of no effect between you and ThoughtSpot. Notwithstanding anything in this Agreement to the contrary: (i) the Reseller Purchase Agreement does not modify any of the terms of this Agreement; and (ii) the Reseller Purchase Agreement is between you and the Authorized Partner and is not binding on ThoughtSpot. ThoughtSpot may terminate this Agreement (including your right to use the Software or Appliance) in the event ThoughtSpot fails to receive payment for your use of the Software or Appliance from the Authorized Partner or if you breach any term of this Agreement.
+Support and Maintenance.
+3.1  Program . During the License Term, ThoughtSpot will provide Support for the Software pursuant to the Support Guide.
+3.2  No Data Processing . To enable ThoughtSpot to provide technical assistance in connection with Support, you may elect to provide ThoughtSpot with temporary remote access to view your Software environment pursuant to instructions you provided to ThoughtSpot and subject to the confidentiality provisions of Section 6 ( Confidentiality ) of this Agreement. The parties agree that ThoughtSpot does not want or need, and you will not transmit to ThoughtSpot or require that ThoughtSpot receive, Your Data.
+License; Permitted Use; Restrictions.
+4.1  Software . Subject to the terms and conditions of this Agreement and payment of all fees due, during the applicable License Term ThoughtSpot grants to you a limited, revocable, non-exclusive, non-sublicensable, non-transferable, worldwide license to install, use, and execute the Software on a hardware device or in a software environment authorized by ThoughtSpot in the Documentation (or in a separate writing provided by ThoughtSpot to you), to the extent expressly specified in the applicable Order Form (including with regard to number of copies of the Software and permitted memory cache or other licensing metric), and solely during the License Term and solely for your internal business operations. Notwithstanding the foregoing, to the extent that Software is identified in an Order Form as non-production, beta, test, pre-release, sandbox, or any other non-production designation, then such Software will be used solely in a non-production environment. To the extent that you grant access to the Software to any third party (including Your Affiliate), you will be wholly responsible for compliance with this Agreement as if such third party were you.
+4.2  Restrictions . You and your Affiliates will not (and have no license to):
+(a)
+use the Software or Documentation except as permitted in this Agreement;
+(b)
+disassemble, decompile, port, reverse compile, reverse engineer, translate, or otherwise attempt to separate any of the components of the Software or reconstruct any Software, or attempt to derive or obtain any source code, structure, algorithms, processes, techniques, technologies, know-how, or ideas embodied by, underlying, or contained in the Software;
+(c)
+sell, license, sublicense, rent, lease, encumber, lend, distribute, transfer, or provide a third party with access to the Software, on a hosted basis, as a managed service provider, or otherwise (except as expressly set forth in an Order Form);
+(d)
+alter, modify, or create derivative works of the Software (including the underlying source code) in any way, including through customization, translation, or localization;
+(e)
+remove or alter any trademark, logo, copyright, or other proprietary notices, legends, symbols, or labels in the Software or Documentation; or
+(f)
+publicly disseminate any performance or security vulnerability test (including penetration test) results or analysis related to or derived from the Software. You will not cause, encourage, or permit any other person or entity under its control from taking any actions that you are prohibited from taking under this Agreement.
+4.3  Open Source Software . Software may use or include one or more of the open source software components listed in the ThoughtSpot open source attribution file, which ThoughtSpot will make available to you on request. The open source attribution file contains open source license disclosures and pertinent terms.
+Intellectual Property.
+5.1  Ownership . As between the parties, ThoughtSpot, ThoughtSpot Affiliates, and its and their suppliers and licensors own all right, title, and interest in and to all IPR in (and in all copies of) the Software and Documentation, regardless of the form or media in or on which the original or other copies may subsequently exist. Except for the limited licenses expressly granted in this Agreement, ThoughtSpot reserves all, and does not grant any other, rights (express, implied, by estoppel, through exhaustion, or otherwise).The Software is licensed and not sold.
+5.2  Feedback . ThoughtSpot encourages you to provide suggestions, proposals, ideas, recommendations, or other input regarding the Software (collectively,  Feedback ). To the extent that you provide such voluntary Feedback to ThoughtSpot, ThoughtSpot may use it for any purpose without obligation of any kind.
+5.3  Marketing . Neither party will issue any press releases or announcements, or any marketing, advertising, or other promotional materials, related to this Agreement, or referencing the other party, nor use the other partys logo, trademarks and service marks, without the other partys prior written approval.
+Confidentiality.
+6.1  Use of Confidential Information . For the term of this Agreement, and surviving expiration or termination of this Agreement for up to three (3) years after disclosure of the Confidential Information, the party receiving Confidential Information (the  receiving party ) from the other party (the  disclosing party ) will use it solely to perform the rights and obligations provided under this Agreement, and not for any other purpose without the disclosing partys prior written consent. Subject to Section 6.2 ( Exceptions ), the receiving party will hold in confidence, and not disclose to any third party, any of the disclosing partys Confidential Information. The receiving party will use at least the same degree of care in handling the disclosing partys Confidential Information as it uses to protect its own Confidential Information, but no less than reasonable care. The receiving party will notify disclosing party immediately on becoming aware of any unauthorized use or release of the disclosing partys Confidential Information. The receiving party may disclose the disclosing partys Confidential Information to those of its Affiliates, directors, advisors, employees, or contractors (collectively,  Representatives ) who have a need to know such Confidential Information to perform under or in relation to this Agreement, but only if such Representatives are subject to a binding, written agreement no less protective of disclosing party than the confidentiality terms of this Agreement. The receiving party will, at the disclosing partys request or on termination of this Agreement, return all originals, copies, and summaries of Confidential Information and other tangible materials and devices provided to receiving party as Confidential Information, or at the disclosing partys option, certify destruction of same (although nothing in this sentence may be construed to require ThoughtSpot to purge archived backup media). Nothing under this Agreement or trade secret Law may be construed to restrict or limit ThoughtSpots right to perform (or assign any personnel to perform) Professional Services for any other party or to use any information incidentally retained in the unaided memories of its personnel providing Professional Services.
+6.2  Exceptions . The receiving partys obligations under this Section 6 (Confidentiality) will not apply, and the receiving party will have no further obligations, with respect to any of the disclosing partys Confidential Information that is:
+(a)
+generally known to the public at time of disclosure or becomes generally known through no wrongful act of receiving party;
+(b)
+rightfully in the receiving partys possession, or otherwise rightfully known by the receiving party, at time of disclosure by the disclosing party and not subject to a confidentiality obligation;
+(c)
+required to be disclosed by the receiving party to comply with a court order or Law, but only if the receiving party promptly notifies disclosing party to enable the disclosing party to seek a protective order or other appropriate remedy, and takes commercially reasonable and lawful actions to avoid or minimize the extent of, and to obtain confidential treatment for, any such disclosure; or
+(d)
+independently developed by the receiving party without use of, reference to, or reliance on the disclosing partys Confidential Information.
+Warranties.
+7.1  Software . ThoughtSpot warrants that the Software will, under normal use, substantially conform to the specifications in the Documentation for 90 consecutive days from the date of the initial download. To submit a warranty claim, you must request Support and reference this Section 7.1. ThoughtSpot will use commercially reasonable efforts to cause the Software to conform to the specifications in the Documentation at no charge to you, or if ThoughtSpot determines such remedy to be impracticable, either party may terminate this Agreement and the applicable Order Form and you will receive a refund of any unused prepaid Software fees covering the remaining License Term following the effective date of termination. This warranty will not apply to:
+(a)
+use of the Software other than as described in the Documentation;
+(b)
+modification or use of an unsupported version of the Software by anyone but ThoughtSpot; or
+(c)
+failure caused by a product not provided or expressly approved by ThoughtSpot or its agents.
+This Section 7.1 sets forth your exclusive rights and remedies (and ThoughtSpots entire liability) in relation to the warranty in this Section 7.1 .
+7.2  Professional Services . ThoughtSpot warrants that it will perform Professional Services in a professional manner using reasonable care and skill in accordance with industry standards. You will notify ThoughtSpot of any material breach within 30 days after performance of the non-conforming Professional Services. On receipt of such notice, ThoughtSpot will use commercially reasonable efforts to re-perform the Professional Services in substantial conformance with these warranty requirements, and if ThoughtSpot is unable to correct the reported non-conformity after two attempts, either party may terminate the applicable Order Form for Professional Services or SOW and you will receive a refund of any unused fees you have pre-paid for the Professional Services purchased thereunder.
+This Section 7.2 sets forth your exclusive rights and remedies (and ThoughtSpots entire liability) in relation to the warranty in this Section 7.2 .
+7.3  Disclaimers . EXCEPT FOR THE LIMITED WARRANTIES UNDER SECTIONS 7.1 (SOFTWARE) AND 7.2 (PROFESSIONAL SERVICES) AND TO THE MAXIMUM EXTENT PERMITTED UNDER LAW, THOUGHTSPOT (ON ITS OWN BEHALF AND ON BEHALF OF ITS SUPPLIERS AND LICENSORS) AND THOUGHTSPOT AFFILIATES:
+(A)
+DO NOT MAKE, AND EXPRESSLY DISCLAIM, ANY AND ALL REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE SOFTWARE, SUPPORT, AND PROFESSIONAL SERVICES (EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE), INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE (EVEN IF THOUGHTSPOT KNOWS OR SHOULD HAVE KNOWN SUCH PURPOSE), PERFORMANCE, AND NON-INFRINGEMENT;
+(B)
+PROVIDE THE SOFTWARE, SUPPORT, AND PROFESSIONAL SERVICES AS IS AND AS AVAILABLE; AND
+(C)
+WITHOUT LIMITING THE FOREGOING CLAUSES (A) AND (B), MAKE NO (AND EXPRESSLY DISCLAIM) ANY WARRANTY THAT THE SOFTWARE AND ANY USE THEREOF, WILL BE UNINTERRUPTED, ACCURATE, RELIABLE, COMPATIBLE WITH ANY PARTICULAR ENVIRONMENT, OR FREE FROM DEFECTS, VIRUS, OR ERRORS (OR THAT ANY ERRORS WILL BE CORRECTED).
+Limitations of Liability.
+8.1  Limitation of Liability . TO THE EXTENT PERMITTED BY LAW, EACH PARTYS TOTAL, CUMULATIVE LIABILITY ARISING IN ANY WAY OUT OF OR RELATED TO THIS AGREEMENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER LEGAL OR EQUITABLE THEORY, WILL BE LIMITED TO DIRECT DAMAGES INCURRED IN REASONABLE RELIANCE IN AN AMOUNT NOT EXCEEDING:
+(A)  FOR ANY GIVEN CLAIM, THE AMOUNTS PAID OR PAYABLE BY YOU UNDER THIS AGREEMENT FOR THE SOFTWARE AND PROFESSIONAL SERVICES GIVING RISE TO THE CLAIM DURING THE 12-MONTH PERIOD IMMEDIATELY PRIOR TO THE MOST RECENT EVENT GIVING RISE TO THE LIABILITY; AND
+(B)  FOR ALL SUCH CLAIMS IN THE AGGREGATE, US$ 500,000.
+8.2  Exclusions . TO THE EXTENT PERMITTED BY LAW, NEITHER THOUGHTSPOT NOR YOU WILL BE LIABLE TO THE OTHER OR ANY THIRD PARTY FOR ANY SPECIAL, PUNITIVE, MULTIPLE, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER INDIRECT DAMAGES, OR FOR DAMAGES RELATING TO:
+(A)  LOSS OR INACCURACY OF, OR DAMAGE TO, DATA;
+(B)  LOST REVENUE OR PROFITS;
+(C)  LOSS OF BUSINESS;
+(D)  DAMAGE TO GOODWILL;
+(E)  WORK STOPPAGE;
+(F)  IMPAIRMENT OF OTHER ASSETS; OR
+(G)  INDIRECT DAMAGES OF ANY TYPE HOWEVER CAUSED AND WITHOUT REGARD TO THE LEGAL THEORY UNDER WHICH THEY ARE SOUGHT, WHETHER BY BREACH OF WARRANTY, BREACH OF CONTRACT, IN TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL OR EQUITABLE CAUSE OF ACTION, FORESEEABLE OR NOT, AND WITHOUT REGARD TO WHETHER A PARTY HAS BEEN ADVISED SUCH DAMAGES ARE POSSIBLE.
+8.3  Applicability . The provisions of Sections 8.1 (Limitation of Liability) and 8.2 (Exclusions) do not apply to:
+(a)
+infringement, misappropriation, or other violation by a party of the other partys IPR;
+(b)
+breach by a party of its obligations under Section 6 (Confidentiality) (but excluding claims or liability related to Your Data); or
+(c)
+payments to a third party arising from obligations under Section 9 (Third-Party Claims). These limitations and exclusions do, however, apply to and protect Your Affiliates, ThoughtSpot Affiliates, and their respective suppliers and licensors.
+8.4  Gross Negligence; Willful Misconduct . As provided by Law, nothing in this Agreement is intended or may be construed to limit a partys liability in an action in tort (separate and distinct from a cause of action for a breach of this Agreement) for a partys gross negligence or willful misconduct.
+Third-Party Claims.
+9.1  Obligation . Subject to the limitations in this Section 9 ( Third-Party Claims ), if a Claim is brought against you, or your subsidiaries, Affiliates, agents, licensees, or successors, or any agents, directors, officers, or employees of any of them, ThoughtSpot will defend the Claim (including by paying litigation costs and reasonable attorneys fees) and pay any settlement or any adverse final judgment to the extent arising from the Claim.  Claim  means any suit, claim, action, or demand, in each case solely to the extent brought by an unaffiliated third party that, if true as alleged, reflects that:
+(a)  the Software provided under, and used in accordance with, this Agreement, infringes any IPR of such third party; or
+(b)  ThoughtSpots personnel, when onsite at your premises, caused death, bodily harm, or damage to tangible personal property due to their negligence or willful misconduct.
+9.2  Mitigation . If any Claim alleges any part of the Software infringes any third-party IPR, ThoughtSpot may:
+(a)  contest the Claim;
+(b)  obtain permission from the claimant for your continued Software use;
+(c)  avoid such Claim by replacing or modifying the Software with substantially similar software; or, if ThoughtSpot determines in its sole discretion (after the exercise of commercially reasonable efforts to perform in accordance with the foregoing options (a), (b), or (c)) that options (a), (b), and (c) are not commercially practicable, then
+(d)  terminate your license to the affected Software on 60 days prior notice and refund to you any prepaid license fees covering that part of the applicable License Term for such Software remaining after the effective date of termination.
+9.3  Limitations . ThoughtSpot will have no obligation or liability for any Claim to the extent arising in whole or in part from:
+(a)
+any Software that:
+(i)
+is or was used in accordance with your written specifications or instructions, each to the extent set forth or referenced in a SOW, and such specifications or instructions are the source of the alleged infringement;
+(ii)
+was modified by any party other than ThoughtSpot (including you), if the alleged infringement relates to such modification;
+(iii)
+is or was combined or integrated with other products (hardware or software), processes, or materials (including your Data or other products provided by you or any third party) where the alleged infringement relates to, and would not have arisen but for, such combination; or
+(iv)
+is an unsupported version;
+(b)
+your continued use of the Software after expiration or termination of this Agreement or the corresponding Order Form (or continued use of the original Software after ThoughtSpots provision of a replacement software under Section 9.2(c) (Mitigation); or
+(c)
+a claim based on IPR owned by you or Your Affiliates.
+9.4  Process . ThoughtSpots obligations under Section 9 ( Third-Party Claims ) are expressly conditioned on you:
+(a)  notifying ThoughtSpot promptly of any actual or threatened Claim;
+(b)  giving ThoughtSpot sole control of the defense of such Claim and any related settlement negotiations; and
+(c)  cooperating and, at ThoughtSpots reasonable request and expense, assisting in such defense. ThoughtSpot will not stipulate, acknowledge, or admit fault or liability on your behalf, or publicize any settlement, without your prior written consent (which will not be unreasonably withheld or delayed).
+This Section 9 ( Third-Party Claims ) states ThoughtSpots entire liability and your exclusive remedy for third-party claims and third-party actions .
+Term and Termination.
+10.1  Term and Termination . This Agreement begins on the Effective Date and continues until terminated under its terms. Either party may suspend performance or terminate this Agreement in its entirety: (a) on 30 days prior written notice, if there are no Order Forms then in effect; (b) immediately on written notice if the other becomes the subject of a petition in bankruptcy or any proceeding related to its insolvency, receivership, or liquidation, in any jurisdiction, that is not dismissed within 60 days of its commencement or an assignment for the benefit of creditors; or (c) immediately on written notice if the other materially breaches this Agreement and has not cured the breach within 30 days after notice of the breach. In addition, either party may terminate an Order Form or SOW immediately on written notice if the other party materially breaches this Agreement or the applicable Order Form or SOW and has not cured the breach within 30 days after written notice of the breach.
+10.2  Effect . On termination of this Agreement for any reason:
+(a)
+all licenses granted by ThoughtSpot immediately terminate;
+(b)
+you will immediately discontinue use of all Software;
+(c)
+you will destroy all copies of Software and Documentation in its possession, custody, or control; and
+(d)
+if requested, you will certify such return or destruction to ThoughtSpot in writing. Within 30 days after the effective date of proper termination for ThoughtSpots material breach, ThoughtSpot will refund any prepaid fees received by ThoughtSpot covering that part of the License Term for the affected Software, if any, remaining after such effective date. If termination is for your breach, all remaining amounts are accelerated and deemed due and payable as of the termination date.
+10.3  Survival . Except as otherwise provided in this Agreement, the following will survive termination of this Agreement: Sections 1
+(Definitions) , 2.2
+(Invoices and Payment) , 2.3
+(Taxes) , 4.2
+(Restrictions) , 5
+(Intellectual Property) , 6
+(Confidentiality) , 7.3
+(Disclaimers) , 8
+(Limitations of Liability) , 9
+(Third-Party Claims) , 10
+(Term and Termination) , 11
+(Proper Conduct) , and 12
+(General) .
+Proper Conduct.
+11.1  Compliance with Law . Each party will comply with all Law in its performance of this Agreement.
+11.2  Responsibility for Security and Integrity of Your Data . The Software will be executed by you in your own datacenter environment. You are solely responsible for adequately duplicating, documenting, and protecting its Your Data, and ThoughtSpot assumes no liability for your failure to do so. ThoughtSpots access to Your Data in the performance of Professional Services or Support is subject to the following terms:
+(a)
+you are solely responsible for both the duration and configuration of the scope of access to Your Data;
+(b)
+you are is solely responsible for access control management and must ensure that any access to Your Data that you grant to ThoughtSpot is limited to read-only access (unless otherwise required to perform Professional Services or Support);
+(c)
+you will not grant ThoughtSpot access to any non-ThoughtSpot environment;
+(d)
+ThoughtSpot may only access Your Data through your secure workstations or networks that are provided, monitored, managed, configured, supported and maintained by you;
+(e)
+you must provide unique user credentials to any ThoughtSpot resource that requires access to Your Data as described herein;
+(f)
+such credentials noted above will be solely managed by you and you will be responsible for any consumption generated from the supplied credentials; and
+(g)
+you will limit access to any of Your Data that is unencrypted or contains personal data and, if such access is granted, you shall use reasonable efforts to mask any personal or sensitive data.
+11.3  High Risk Activity . You shall use the Software within the intended business purposes described in the Documentation, and not for any purpose that requires fail-safe performance including, but not limited to, stock trading, financial transaction processing such as credit card processing, electronic funds transfer, and check clearing, management of hazardous facilities or applications for which failure could result in death, personal injury, or severe physical or environmental damage ( High Risk Activity ). ThoughtSpot, its licensors and suppliers expressly disclaim all warranties of fitness for any such use and you shall release and hold ThoughtSpot, its licensors and suppliers harmless from liability arising out of the use of the Software for High Risk Activity.
+11.4  Export Compliance . Each party will comply with local and foreign export control Law, including U.S. export control Law. The Software is subject to U.S. Export Administration Regulations ( EAR ) and you will comply with EAR. Without limiting the foregoing, you represent and warrant that:
+(a)
+you are not located in, and will not use any Software from, any country subject to U.S. export restrictions (currently including Cuba, Iran, North Korea, Sudan, Syria, and Crimea Region);
+(b)
+you will not use the Software in the design, development, or production of nuclear, chemical, or biological weapons, or rocket systems, space launch vehicles, sounding rockets, or unmanned air vehicle systems; and
+(c)
+you are not prohibited from participating in U.S. export transactions by any federal agency of the U.S. government. In addition, you are responsible for complying with any local Law that may impact your right to import, export, or use the Software or any of them.
+11.5  U.S. Government Use . The Software provided under this Agreement is commercial computer software developed exclusively at private expense. Unless otherwise set forth in this Agreement, use, duplication, and disclosure by civilian agencies of the U.S. Government will not exceed those minimum rights set forth in FAR 52.227-19(c) or successor regulations. Use, duplication, and disclosure by U.S. Department of Defense agencies is subject solely to the software license terms contained in this Agreement, as stated in DFARS 227.7202 or successor regulations. U.S. Government rights will apply only to the specific agency and program for which the Software is obtained.
+11.6  License Review . Upon reasonable notice to you, you agree to grant ThoughtSpot access to the Software to verify your use. You will reasonably cooperate with ThoughtSpot and will promptly pay directly to ThoughtSpot any underpayments revealed by such review.
+General.
+12.1  Waiver; Amendment . No delay or failure by either party to exercise any right under this Agreement will waive that or any other right. A waiver of any breach of this Agreement is not a waiver of any other breach. Any waiver must be in writing and signed by an authorized representative of the waiving party. Any amendment to this Agreement must be in writing and signed by authorized representatives of both parties.
+12.2  Assignment . Neither party will assign, delegate, or otherwise transfer this Agreement, or any of its rights or duties under it, to a third party without the others prior written consent, which will not be unreasonably withheld, conditioned, or delayed. Any purported transaction in breach of this Section 12.2 is material and is void. Each party is, however, deemed to have consented to any such assignment, delegation, or transfer to:
+(a)  an Affiliate; or
+(b)  any entity that acquires all or substantially all of its capital stock or assets related to this Agreement through purchase, merger, consolidation, or otherwise, but only if such entity is not a direct competitor of the non-assigning party. Subject to the foregoing, this Agreement will bind and benefit the parties, their successors, and permitted assigns.
+12.3  Notices . All notices and other communications under this Agreement will be:
+(a)  in writing;
+(b)  in English; and
+(c)  deemed given when delivered (or the first business day after delivery with confirmation of receipt, for notices permitted by email). Notices under this Agreement will be sufficient only if:
+(i)  personally delivered;
+(ii)  delivered by a major commercial rapid delivery courier service with tracking capabilities;
+(iii)  mailed by certified or registered mail, return receipt requested, to a party at the address stated in this Agreement (or at such address as the recipient has notified the other party of, before notice was sent); or
+(iv)  sent via email, if the recipients email address is provided in this Agreement (but email will not be sufficient for notices regarding a Claim or alleged breach). All notices except for ordinary business communications will be ccd to the address stated in this Agreement.
+12.4  Dispute Resolution . This Agreement and performance under it will be governed by the substantive laws of the State of California, disregarding its conflict of law rules. If federal jurisdiction exists over any suit, action, or proceeding arising out of or relating to this Agreement, the parties consent to exclusive jurisdiction and venue in San Francisco, California. If not, the parties consent to exclusive jurisdiction and venue in the California state courts sitting in Santa Clara County, California. In any such suit, action, or proceeding, the prevailing party may recover its reasonable attorneys fees, costs, and other expenses, including those on appeal or in a bankruptcy action.
+12.5  Force Majeure . Neither party will be responsible for any delay or failure in its performance of any obligation under this Agreement (other than payment) due to causes beyond its reasonable control, but only if the party invoking this Section 12.5 promptly notifies the other party and resumes performance promptly when conditions allow it to do so.
+12.6  Relationship . The parties are independent contractors. Nothing in this Agreement will be construed to create a partnership, joint venture, agency, or other relationship. Neither party has any right or authority to assume or create any obligation of any kind, express or implied, in the other partys name or on its behalf. There are no third-party beneficiaries to this Agreement. ThoughtSpots licensors will have no liability of any kind under this Agreement. ThoughtSpots liability with respect to any third-party software embedded in the Software will be subject to Section 8 ( Limitations of Liability ).
+12.7  Severability . If any part of this Agreement is held by a court or other tribunal of competent jurisdiction to be unenforceable, that part will be deemed reformed to effectuate the parties intentions, and the rest of this Agreement will remain in full force and effect.
+12.8  Execution and Construction . This Agreement is effective only when executed by facsimile, via electronic signature service, or in counterparts, which together will be deemed the entire agreement. Such execution requirement is, without limitation, a material term. Section headings are intended solely for convenience and will not affect the meaning of this Agreement. This Agreement will be interpreted according to its plain meaning without presuming it should favor either party. Unless stated or context requires otherwise:
+(a)  all internal references are to this Agreement and its parties;
+(b)  first-level section references ( e.g. , as provided in Section 1) includes all subordinate subsections ( e.g. , 1.1, 1.2, etc.) within that section;
+(c)  all monetary amounts are expressed and, if applicable, payable, in U.S. dollars;
+(d)  days means calendar days;
+(e)  may means that the applicable party has a right, but not a concomitant duty;
+(f)  partner, if used in this Agreement or related documents, is used in its common, marketing sense and does not imply a partnership;
+(g)  notify means to give notice under (and notice means a notice that complies with) Section 12.3 ( Notices );
+(h)  current or currently means as of the Effective Date but then-current means the present time when the applicable right is exercised or performance rendered or measured;
+(i)  URLs are understood to also refer to successors, localizations, and information or resources linked from within websites at such URLs;
+(j)  lists of examples following including,  e.g. , such as, excludes, for example, or similar words are deemed to include without limitation;
+(k)  the word or is deemed to be an inclusive or; and
+(l)  a partys choices under this Agreement are in its sole discretion. Any translation of the English-language version of this Agreement is for convenience only, and the English-language version will govern. If you are domiciled in Canada, the parties expressly wish to execute this Agreement and any associated documentation in English.
+12.9  Entire Agreement . This Agreement sets forth the complete and exclusive agreement between the parties relating to its subject matter and supersedes all prior oral and written agreements, understandings, and communications (including any requests for quote, requests for information, requests for proposal, or the like), click-through agreements and embedded end-user license agreements, regarding its subject matter. Purchase orders issued by you will be effective solely to specify the quantities of Software and Professional Services ordered, and, to the extent such purchase orders are based on ThoughtSpots Order Forms, the price. Invoices issued by ThoughtSpot will be effective solely to specify the charges for the Software and Professional Services. All other terms and conditions printed or included on, or referenced in, such purchase orders, invoices, and other ordering documents or correspondence, that purport to add to or modify the terms of this Agreement are expressly rejected by ThoughtSpot and will be of no force or effect.
+Home Page
+ThoughtSpot is the Search & AI-driven Analytics platform for the enterprise. Anyone can use search to analyze company data in seconds and get automated insights when you need them.
+Product
+Product
+SpotIQ
+Mobile
+Embedded Analytics
+Architecture
+Pricing
+Solutions
+Overview
+Retail
+Financial Services
+Manufacturing
+Communications
+Healthcare
+Embedded Analytics
+Procurement
+Government Analytics
+Resources
+Overview
+Demo Videos
+Analyst Reports
+Webinars
+Case Studies
+White Papers
+Datasheets
+Solution Briefs
+About Us
+Team
+Customers
+Atlas Marketplace
+Partner Directory
+Events
+News
+Careers
+Blog
+Legal
+Connect
+Request Demo
+Community
+Help Center
+Support
+Contact Us
+(800) 508-7008
+Stay in Touch
+Get the latest from ThoughtSpot
+(800) 508-7008
+©2020 ThoughtSpot Inc.
+All Rights Reserved
+Terms of Use
+Privacy Statement
+Cookie Policy

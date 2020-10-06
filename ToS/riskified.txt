@@ -1,0 +1,236 @@
+Software as Service Agreement   Riskified
+Solution
+Customers
+Pricing
+Resources
+Reports
+Guides
+Infographics
+FAQs
+Case Studies
+Webinars
+Risk Academy
+Blog
+Careers
+Documentation
+Log In
+Request Demo
+Solution Overview
+Benefits
+Products
+Chargeback Guarantee
+Account Protection
+Alternative Payment
+Pre-Auth Decisions
+Customers
+Pricing
+Resources
+Reports
+Guides
+Infographics
+FAQs
+Case Studies
+Webinars
+Blog
+Careers
+Resource Center
+Navigate our resource library to gain insights on CNP fraud
+Cost of Fraud Calculator
+Take 2 minutes to estimate your fraud losses
+Reports
+Guides
+Infographics
+Case Studies
+FAQs
+Webinars
+Solution overview
+Learn how our suite of products drive revenue and accelerate growth
+Benefits
+See how merchants future-proof eCommerce operations with Riskified
+OUR PRODUCTS
+Chargeback guarantee
+Account protection
+Alternative payment
+Pre-auth decisions
+Software as Service Agreement
+This Software as a Service Agreement ( Agreement ) is dated as of last date of signature below (the  Effective Date ) by and between the client named below, ( Client  or  you ) and either Riskified Inc. or Riskified Ltd., as set out in Section 13. The entity you are contracting with is referred to as  Riskified . Each of Riskified and Client are individually referred to as a Party and collectively as the Parties.
+RISKIFIED RESPONSIBILITIES
+Provision of Services . Riskified will make the Services available to Client as described in this Agreement and the order form(s) (each, an  Order Form ).  Services  means the products and services, ordered by Client pursuant to an Order Form.
+Support . Riskified, at its own expense, will provide Client with reasonable technical support in accordance with Riskifieds standard practices.
+Security Program . Riskified shall establish and maintain a data privacy and information security program that includes physical, technical, administrative, and organizational safeguards, that is designed to: (i) ensure the security and confidentiality of the Client Confidential Information; (ii) protect against any anticipated threats or hazards to the security or integrity of the Client Confidential Information; and (iii) protect against unauthorized disclosure, access to, or use of the Client Confidential Information, in each case, in accordance with the security schedule attached hereto.
+Fair Credit Reporting Act . The Parties agree that Riskified, is not a consumer-reporting agency as defined by the Fair Credit Reporting Act, 15 U.S.C. §1681 et seq. ( FCRA ), and that the Services provided to Client hereunder do not constitute Consumer Reports, as defined in the FCRA. Client will not use the Service to determine any consumers eligibility for any product or service to be used by a consumer for personal, family or household purposes. Client will not use the Service in whole or in part: (i) as a factor in establishing a consumers eligibility for credit; (ii) as a factor in establishing a consumers eligibility for insurance; (iii) for employment purposes; (iv) in connection with a determination of an individuals eligibility for a license or other benefit granted by a governmental authority; or (v) in connection with any permissible purpose as defined by the FCRA.
+Future Functionality . Client agrees that its entry into this Agreement and any Order Form hereunder, is not contingent on the delivery of any future functionality or features, or dependent on any oral or written comments or commitments made by Riskified regarding future functionality or features.
+CLIENT DATA
+License to Client Data . Client grants Riskified and its Affiliates the worldwide, non-exclusive, royalty-free, perpetual, fully-paid-up, and irrevocable, right to: (i) use data received from or made available by Client ( Client Data ) to provide Services to (a) Client and (b) Riskifieds and its Affiliates other clients; provided that Riskified and its Affiliates shall only use the Client Data to provide the services and shall not disclose Client Data to such other clients; (ii) incorporate the Client Data into Riskifieds services; (iii) and use the Client Data in accordance with Riskifieds
+Privacy Policy . For the avoidance of doubt, Riskified uses a combination of
+client data from all of its clients as well as third-party sources to provide its services; without such Client Data, Riskified is unable to provide the services. Riskified may provide Client Data to third parties in order for Riskified to provide the Services and Client consents to such transfer of Client Data.
+Client Authorization.
+Client shall obtain all consents and make all disclosures needed in order for Riskified to use the Client Data as permitted by this Agreement. Furthermore, Riskified may disclose Client Data pursuant to a data subject access request or consumer data request as required by law or in its sole discretion. Notwithstanding anything herein to the contrary, Riskified shall be permitted to retain and use Client Data associated with a chargeback after the expiration or termination of this Agreement or any Order Form. Solely for purposes of the California Consumer Privacy Act of 2018, Cal. Civil Code
+§ 1798.100
+et seq.
+(as may be amended from time to time) (the CCPA), (i) Riskified is acting as a Service Provider (as defined in the CCPA) for Client as a Business (as defined in the CCPA), (ii) except as set forth herein, Riskified is prohibited from selling the Client Data or r etaining, using, or disclosing the Client Data for any purpose other than for the specific purpose of performing the Services or outside of the direct business relationship between Client and Riskified, (iii) Client hereby instructs Riskified that the Business Purpose includes Riskified using and retaining the Client Data internally for the benefit of all of Riskifieds clients for detecting fraud, optimizing e-commerce solutions and similar performance enhancing purposes and (iv) Riskified understands and will comply with the restrictions herein.
+Client Responsibility .
+Client is solely responsible for all aspects of Client Data, including its sourcing, inputting, accuracy, quality, integrity and management. Client shall be responsible for (i) obtaining consent from Clients end customers, (ii) the provision of notices to Clients end customers, (iii) obtaining consent to use automated decision making, (iv) providing Clients end customers with the ability to exercise any access rights, and (v)
+any requirements or limitations regarding the processing of data of minors, in each case, to the extent required under applicable law.
+CLIENT OBLIGATIONS
+Use Restrictions . Except for the rights granted herein, no other rights in or to any Service, express or implied, are granted to Client. Without limiting the foregoing, Client may not: (i) transfer any of its rights to use the Service; (ii) sell, rent, lease or share the Service or the results thereof; (iii) permit any person who is not an Authorized User to use or access the Service; (iv) attempt to copy, modify, duplicate, create derivative works from, frame, mirror, republish, download, display, transmit, or distribute all or any portion of Riskifieds online software application provided as part of the Service; (v) attempt to reverse compile, disassemble, reverse engineer or otherwise reduce to human-perceivable form all or any part of the Services; (vi) access all or any part of the Service or information included therein (e.g., Riskifieds recommendation to approve or decline a transaction) in order to build, improve upon, develop a product or service which competes with the Service; (vii) use the Service other than for the purpose described herein; (viii) load or penetration test the Service in any way that is, or could reasonably be expected to be, detrimental to Riskifieds ability to provide services to any other Client; (ix) send Riskified any data regulated under PCI; (x) use the Service or provide data to Riskified in a manner that violates any applicable law, ordinance, regulation or administrative order; or (xi) permit any other Person to do any of the foregoing.
+Client IT Infrastructure . Client is solely responsible for obtaining and maintaining network connections and telecommunications links from its systems to Riskified
+and all problems, conditions, delays, delivery failures as well as all other loss or damage arising from or relating to Clients network connections or telecommunications links or caused by the internet. Notwithstanding anything herein to the contrary, Riskified is not responsible for technical issues due to Clients failure to comply with Riskifieds instructions; or modification or alteration of the Service by any anyone other than Riskified or Riskifieds duly authorized contractors or agents.
+Authorized Users; Credentialing . Only those users authorized by Client may use the Service (each, an  Authorized User ). Any violation of the terms and/or conditions of this Agreement by an Authorized User shall be deemed to be a violation by Client of such terms and conditions. Client is solely responsible for the security and proper creation, use and termination of all Authorized User user names, passwords and other security devices used in connection with the Service and shall take all reasonable steps to ensure that they are kept confidential and secure, are used properly and are not disclosed to unauthorized Persons. Client shall immediately notify Riskified in writing if there is any reason to believe that an Authorized User user name, password, or any other security device has or is likely to become known to anyone not authorized to use it, or is being or is likely to be used in an unauthorized way. Riskified reserves the right to require Client to change any or all its Authorized User user names, passwords or other security devices used by Client in connection with the Service, and Client shall promptly comply with any such requirement.
+Audit; Competition; Exclusivity . Riskified may audit Clients use of the Services upon reasonable advance notice, during business hours, not more than once per calendar year, provided that such limitations shall not apply if Riskified has reasonable cause to believe that Client is using or permitting the Service to be used in an unauthorized manner. Client will not permit any employee, consultant or Person who is direct or indirect competitor of Riskified to access or use the Services. For the Term of this Agreement (as defined below), Client agrees that it shall not receive services from another chargeback guarantee provider.
+FEES AND PAYMENT
+Fees . Client agrees to pay the fees described in this Agreement and/or the Order Forms (the  Fees ).
+Invoicing; Non-refundable . Client will be billed by invoice on a monthly basis and Client agrees to remit payment (i) if over $3,000, by wire transfer or ACH (ii) if $3,000 or under, by credit card, in each case, within the period specified on the Order Form.
+Except as otherwise specified herein or in an Order Form, Fees are non-canceleable and non-refundable.
+Late Payment; Disputes . Unpaid amounts are subject to a finance charge of 1.5% per month or the maximum percentage permitted by law, whichever is lower, in addition to all reasonable costs of collection, including reasonable attorneys fees. Any good faith objection to an invoice shall be provided in writing to Riskified within thirty (30) days of receipt of the invoice, otherwise Client waives any objections and such invoice will be deemed final, not subject to dispute, and accepted by Client.
+Taxes . All fees are exclusive of taxes or duties. If Riskified is required to collect or pay any federal, state, or local tax under this Agreement, or any other similar taxes or duties levied by any governmental authority, excluding taxes levied on Riskifieds net income, then such taxes and/or duties shall be billed to and paid by Client upon receipt of invoice.
+Payment Failure; Service Suspension . Riskified may suspend the Service in whole or part if Client fails to make any overdue payment within five (5) days of written demand by Riskified.
+TERM AND TERMINATION
+Term of Agreement . This Agreement begins on the Effective Date and continues until the earlier of (i) the expiration of all Order Form(s) or (ii) termination by either Party as set out herein.
+Term of Services . The term of each Service shall be set out in an Order Form. Except as otherwise specified in an Order Form, the term for each Service shall be for one (1) year (the  Initial Term ) and will automatically renew for consecutive one (1) year periods (each, a  Renewal Term , and together the  Term ) unless either Party notifies the other Party of its intent to terminate such Services at least sixty (60) days prior to the end of the applicable Term.
+Early Termination by Client . During the Term, Client may terminate this Agreement for convenience upon ninety (90) days written notice ( Early Termination ). In the event of Early Termination, Client shall pay Riskified an amount equal to the gross average monthly Fees invoiced by Riskified and multiplied by the number of months remaining in the Term. Client acknowledges and agrees that the foregoing payment constitutes liquidated damages and is not a penalty and that the amount of actual loss due to the foregoing is difficult to precisely estimate and the amount of liquidated damages bears a reasonable proportion to the probable loss that Riskified will suffer in relation to the foregoing.
+Early Termination by Riskified . Riskified may terminate this Agreement or any Order Form upon thirty (30) days notice.
+Termination for Breach . Either Party may terminate this Agreement if the other Party materially breaches this Agreement and fails to cure within thirty (30) days of receipt of written notice from the other Party outlining the nature of such breach.
+Data Portability . Following written request by Client, within thirty (30) days after expiration or termination of the Agreement, and provided Client has paid all Fees, including with respect to any invoices not yet due, Riskified shall make available to Client for download one or more electronic files of Client Data stored by Riskified. After such thirty (30) day period, Riskified shall have no obligation to maintain or provide any Client Data.
+REPRESENTATIONS AND WARRANTIES; COVENANTS
+Mutual Representations and Warranties; Covenants . Each Party represents, warrants and covenants to the other Party that it has the full power and authority to enter into this Agreement.
+DISCLAIMER . EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, RISKIFIED IS PROVIDING THE SERVICES AS IS AND RISKIFIED DOES NOT MAKE ANY WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE AND SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW
+INDEMNIFICATION
+Indemnification by Riskified . Riskified shall defend and indemnify Client against claims, actions, proceedings, losses, damages, expenses and costs (including reasonable attorneys fees) arising out of or in connection with third party claims alleging infringement by the Services of any patent or copyright or misappropriation of any trade secret. The foregoing defense and indemnification obligations do not apply if (i) the allegation does not state with specificity that the Services are the basis of the claim against Client; (ii) a claim against Client arises from the use or combination of the Services or any part thereof with software, hardware, data, or processes not provided by Riskified, if the Services or use thereof would not infringe without such combination; (iii) a claim against Client arises from Services under an Order Form for which there is no charge; or (iv) a claim against Client arises from Client Data, third party applications, services or software or Clients breach of this Agreement or applicable Order Forms.
+Indemnification by Client . Client shall defend and indemnify Riskified against claims, actions, proceedings, losses, damages, expenses and costs (including reasonable attorneys fees) arising out of or in in connection with third party claims alleging (i) Clients use of the Service violates applicable law, including, without limitation, clients failure to obtain any required consents for data processing and to use automated decision making, and (ii) Client Data infringes or misappropriates a copyright, patent, trademark, trade secret, privacy or proprietary right
+or violates any right, law, or regulation applicable to such Client Data.
+Indemnification Process . As a condition to the indemnification obligations set out herein, the indemnified Person shall: (i) promptly notify the indemnifying Party of any claim for which indemnity will be sought; provided that no delay in providing such notice shall relieve the indemnifying Party of any liability or obligations hereunder except to the extent the indemnifying Party has been prejudiced by such delay; (ii) permit the indemnifying Party to assume control of the defense and settlement of such claim with counsel of its choosing; and (iii) provide cooperation reasonably requested by the indemnifying Party in investigating and defending such claim, at the indemnifying Partys expense (provided that the indemnified Person shall not be entitled to compensation for time spent providing such cooperation). The indemnified Person shall have the right to participate in (but not control) the defense of any such claim, at its sole cost and expense, using counsel of its choosing.
+Exclusive Remedy . This Indemnification section states the indemnifying partys sole liability to, and the indemnified partys exclusive remedy against, the other party for any third party claim described in this section.
+EXCLUSIONS; LIMITATION OF LIABILITY
+Exclusion of Consequential and Related Damages . IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES HAVE ANY LIABILITY FOR ANY LOST PROFITS, REVENUES, GOODWILL OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, BUSINESS INTERRUPTION OR PUNITIVE DAMAGES, ANY LOSS OF DATA, WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF A PARTY OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR IF A PARTYS OR ITS AFFILIATES REMEDY OTHERWISE FAILS OF ITS ESSENTIAL PURPOSE. THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW.
+Limitation on Liability . IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EITHER PARTY, TOGETHER WITH ALL OF ITS AFFILIATES, ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL AMOUNT PAID BY CLIENT FOR THE SERVICES GIVING RISE TO THE LIABILITY IN THE SIX (6) MONTHS PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE. THE FOREGOING LIMITATION WILL APPLY WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY OF LIABILITY, BUT WILL NOT LIMIT CLIENTS PAYMENT OBLIGATIONS HEREUNDER.
+ANY CLAIM OR ACTION BY EITHER PARTY RELATED TO THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO, THE SERVICE, MUST BE COMMENCED WITHIN TWO (2) YEARS AFTER THE DATE ON WHICH THE ACT, EVENT, CONDITION, OR OMISSION GIVING RISE TO SUCH CLAIM OR ACTION OCCURRED OR COULD HAVE REASONABLY BEEN DISCOVERED. ANY ACTION NOT BROUGHT WITHIN THAT TWO (2) YEAR PERIOD SHALL BE BARRED, WITHOUT REGARD TO ANY LONGER LIMITATIONS PERIOD SET FORTH IN ANY APPLICABLE LAW OR STATUTE.
+CONFIDENTIALITY
+ Confidential Information  shall mean information that is proprietary or confidential and is either clearly labelled as such or identified as Confidential Information or that a reasonable person should understand to be confidential given the nature of the information, which is disclosed by the disclosing Party in connection with this Agreement whether before, on or after the Effective Date. Confidential Information includes the terms of this Agreement. Confidential Information does not include any of the following: (i) information that is or becomes part of the public domain or otherwise available on an unrestricted basis to one or more third Persons without violation of this Agreement by the receiving Party; (ii) information that was known to or in the possession of the receiving Party on a non-confidential basis prior to the disclosure thereof to the receiving Party by the disclosing Party, as evidenced by written records; (iii) information that was developed independently by or on behalf of the receiving Party, without use of or reference to the Confidential Information; or (iv) information that is disclosed to the receiving Party by a third Person without violation of this Agreement by the receiving Party.
+Protection of Confidential Information . Each Party shall hold the others Confidential Information in confidence and, unless required by law, not make the others Confidential Information available to any third party, or use the others Confidential Information for any purpose other than to provide the Services contemplated under this Agreement. Each Party shall take all reasonable steps to ensure that the others Confidential Information to which it has access is not disclosed or distributed in violation of the terms of this Agreement; and neither Party shall be responsible for any loss, destruction, alteration or disclosure of Confidential Information caused by any third party. Each Party may be given access to Confidential Information from the other Party in order to perform its obligations under this Agreement.
+Compelled Disclosure.
+The obligations of the Parties under this Section shall not apply to the extent of any disclosure required pursuant to a duly authorized subpoena, court order, or government authority, provided that the receiving Party has provided prompt notice and assistance to the disclosing Party prior to such disclosure, so that such Party may seek a protective order or other appropriate remedy to protect against disclosure.
+Injunctive Relief.
+Any breach of the confidentiality obligations set forth in this Section may constitute a material breach of this Agreement, which the breaching Party acknowledges may cause irreparable harm to the non-breaching Party, leaving it without an adequate remedy at law. As such, any such breach shall entitle the non-breaching Party to seek injunctive relief in addition to all other remedies, without necessity of posting of a bond or other security in connection therewith.
+PROPRIETARY RIGHTS AND LICENSES
+Ownership . Client acknowledges and agrees that Riskified and/or its Affiliates and/or licensors own all Intellectual Property Rights in the Services and associated documentation. Except as expressly stated herein, this Agreement does not grant Client any rights to, or in any Intellectual Property Rights or any other rights or licenses in respect of the Services or the associated documentation. Client acknowledges that the Services, associated documentation and the inventions, know-how and methodology embodied therein are proprietary to, and are the valuable trade secrets of, Riskified and its Affiliates and licensors, as applicable, and that the Services constitutes Confidential Information of Riskified and/or its Affiliates. For purposes of this Agreement,  Affiliate  means any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity.  Control , for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
+ Intellectual Property Rights  shall mean all rights throughout the world in any and all of the following: (i) patents, patent applications, patent disclosures and inventions (whether patentable or not); (ii) trademarks, service marks, trade dress, trade names, logos, corporate names, Internet domain names and registrations and applications for the registration thereof together with all of the goodwill associated therewith; (iii) copyrights and copyrightable works (including computer programs and mask works) and registrations and applications for registration thereof; (iv) trade secrets, know-how and other proprietary information of a like kind; (v) waivable or assignable rights of publicity, waivable or assignable moral rights; and (vi) all other forms of intellectual property, such as data and databases, in each case, to the extent protectable under applicable law.
+License to Use Feedback . Client grants to Riskified and its Affiliates a worldwide, perpetual, irrevocable, royalty-free license to use and incorporate into Riskified and its Affiliates services any suggestion, enhancement request, recommendation, correction or other feedback provided by Client or its Authorized Users relating to the operation of the Service.
+PUBLICITY
+Press Release.
+The Parties agree to issue a joint press release announcing the relationship between the companies within six (6) months from the Effective Date of this Agreement. Riskifieds marketing team will work together with the Clients communications or marketing department on the wording and distribution of any such content/release.
+Use of Logo.
+Riskified may use Clients name and logo on Riskifieds website and promotional and marketing materials and will use such name and/or logo in accordance with Clients trademark and/or brand guidelines, as provided to Riskified.
+INSURANCE
+Coverage. Riskified has obtained and will maintain the following insurance coverages during the Term: (i) Professional Liability (including Products Liability, Privacy, Intellectual Property Infringement, Cyber Liability) insurance in the amount of at least $10,000,000 ($5,000,000 per occurrence) on a claims made basis, (ii) Directors and Officers insurance in the amount of at least $5,000,000 on a claims made basis, as well as policies for Business Owners, Workers Compensation and Employers Liability insurance .
+Upon Clients written request, Riskified shall provide Client with certificates of insurance evidencing the above coverage. Additionally, upon Clients written request, Riskified will name Client as an additional insured.
+WHO YOU ARE CONTRACTING WITH; GOVERNING LAW & VENUE
+Contracting Party .
+If Client is domiciled in the North America, Central America, or South America, Client is entering into this Agreement with Riskified Inc.
+If Client is domiciled elsewhere, Client is entering into this Agreement with Riskified Ltd., a limited liability company organized under the laws of Israel.
+Governing Law and Venue . This Agreement shall be governed by and construed in accordance with the laws of the State of New York. The Parties hereby irrevocably consent and submit to the exclusive jurisdiction and venue of the state and federal courts in the State of New York. Notices to Riskified shall be addressed to 220 5 th
+Avenue, 2nd Floor, New York, NY 10001, Attn: Legal Department.
+Arbitration . Notwithstanding anything herein to the contrary, any controversy, dispute or claim arising out of or related to this Agreement that cannot be resolved by informal and good-faith negotiations between authorized representatives of the parties shall be settled by final and binding arbitration to be conducted by an arbitration tribunal in the State, City and County of New York, NY pursuant to the rules of the American Arbitration Association.
+GENERAL PROVISIONS
+No Joint Venture or Partnership . The parties are independent contractors. This Agreement does not create a partnership, joint venture, franchise, agency, fiduciary, or employment relationship between the parties.
+Waiver . No failure or delay by either Party in exercising any right under this Agreement will constitute a waiver of that right.
+Notice . Any notice given pursuant to this Agreement shall be in writing and shall be provided by personal delivery, mailing, facsimile or email. Any such notice shall be deemed to have been given on (i) the day such notice or communication is personally delivered, (ii) three (3) days after such notice or communication is mailed by prepaid certified or registered mail, (iii) one (1) business day after such notice or communication is sent by overnight courier. Notice send by personal delivery shall be Notice sent by either facsimile or email shall be deemed effective when the receipt is electronically confirmed.
+Force Majeure . If either Party is unable to perform any obligation (excluding any payment obligation) under this Agreement because of any matter beyond that Partys reasonable control, such as lightning, flood, exceptionally severe weather, fire, explosion, war, civil disorder, industrial disputes (whether or not involving employees of either Party), acts of local or central government or other competent authorities, problems with telecommunications providers, hostile network attacks or other events beyond a Partys reasonable control (each, a  Force Majeure Event ), that Party will have no liability (including any obligation to issue refunds or credits) to the other for such failure to perform; provided, however, that such Party shall resume performance promptly upon removal of the circumstances constituting the Force Majeure Event.
+Interpretation . In the event of any conflict between this Agreement and an Order Form, the terms of such Order Form will control.
+Assignment . Client may not assign or otherwise transfer this Agreement, or delegate any duty or assign or otherwise transfer any right hereunder, including by operation of law, without the prior written consent of Riskified. Any purported attempted assignment, transfer or delegation shall be null and void. Riskified may assign this Agreement (i) to an Affiliate or (ii) in the event of any change of Control.
+Counterparts . This Agreement may be executed in one or more counterparts, in original or electronic form, each of which shall be deemed an original, but all of which together shall constitute one and the same Agreement.
+Severability . If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
+Entire Agreement; Amendments . This Agreement, including any schedules, exhibits, annexes and/or Order Forms, is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that all waivers, amendments and modifications must be in a writing signed by both parties.
+IN WITNESS WHEREOF , the parties have caused their duly authorized representatives to enter into this Agreement, effective as of the Effective Date.
+RISKIFIED
+By:_____________________________________
+Name: __________________________________
+Date:____________________________________
+CLIENT
+By:_____________________________________
+Name: __________________________________
+Date:____________________________________
+Fraud Prevention Service.
+Service . Riskified will (i) review all card-not-present orders (each, an  Order ) submitted by Client (each, a  Submitted Order ), (ii) provide Client with an approve ( Approve Notice ) or decline recommendation, and (iii) where Riskified has provided an Approve Notice and Client has fulfilled the Order and such Order is subject to a chargeback pursuant to the reason codes set out below, Riskified shall provide the Chargeback Guarantee (as defined below).
+Additional Definitions .
+ Approved Orders  are those Submitted Orders for which Riskified issues an Approve Notice.
+ Cancelled Orders  are those Approved Orders that are subsequently either: (i) cancelled by Client (ii) returned by Clients end customer, (iii) declined by Clients bank or payment gateway or (iv) otherwise not fulfilled by Client for legitimate reasons, in each case, within two (2) weeks from the issuance date of the Approve Notice. Upon request from Riskified, Client shall provide documentary evidence that such Submitted Order was not fulfilled upon request from Riskified.
+Order Review.
+Client Discretion . Client, in its sole discretion, may approve or reject an order.
+Excluded Orders . Riskified may choose not to review a Submitted Order if (i) the Order was already fulfilled by the Client; (ii) more than one (1) week has passed since the Order was created; or (iii) the Client Data or a portion thereof does not meet the standards set by Riskified during the integration process.
+Chargeback Guarantee.
+Chargeback Guarantee  Generally . Clients sole and exclusive remedy for an Order covered by the Chargeback Guarantee shall be the payment of liquidated damages in an amount equal to the chargeback amount. The Chargeback Guarantee (A) shall be the lower of: (i) the original order value and (ii) the amount stated in the original chargeback notice submitted to Riskified (e.g., to reflect any changes in the order value after it was approved by Riskified), (B) shall exclude the fees charged for review of such order and (C) shall be reduced by any amounts recovered by Client for such order and (D) shall exclude any fees incurred by Client in relation to such chargeback (e.g., from the card schemes or Clients acquiring bank and/or payment gateway) (the  Chargeback Guarantee ).
+Such Chargeback Guarantee shall apply only if Client is current in its payment of fees to Riskified.
+Crediting Process . Riskified will provide reimbursement for amounts owed to Client pursuant to the Chargeback Guarantee on a monthly basis as a credit to Clients account (e.g., chargeback amounts for March would be set off from the payment owned by Client in the April invoice). Following termination or expiration of this Agreement, Riskified shall provide reimbursement via wire transfer in the event the reimbursement amount exceeds the fees owed to Riskified.
+Required Documentation . Client must submit the following documents in order for an order to be covered by the Chargeback Guarantee:
+A copy of the original chargeback notification, which must include the following:
+A chargeback reason or reason code.
+The original order date and order amount
+For orders in which the customer used a credit card to place the order, the notice must include the first six (6) and last four (4) digits of the credit card.
+If the order was placed using an alternative payment method (e.g. PayPal) the notice must include the customers name and customer email.
+For orders of tangible goods, the Client must also provide Riskified with a proof of delivery in one of two formats:
+A copy of the shipping form (as provided by the shipping company) containing the delivery address, reroute information, date of delivery and the parcel delivery status; or
+A valid tracking number from a shipping company.
+Any other documents that Riskified reasonable requires from Client.
+Excluded Orders . The following orders are not covered by the Chargeback Guarantee.
+Not Approved . The order did not result in Riskified providing an Approve Notice.
+Not Fraud Related . The chargeback reason is other than a reason code set out herein.
+Chargeback Notice / Order Mismatch . The information in the chargeback notice does not match the information in the original order.
+Delivery . Tangible goods delivered to an address other than the shipping address set out in the original order.
+Late Submission of Chargeback . The chargeback was submitted to Riskified for reimbursement more than five (5) days after the chargeback notice issuance date or if the date of the chargeback notice is before the order shipping date. Timely notice of a chargeback is essential for Riskified to prevent future fraud associated with the transaction resulting in the chargeback. As such, if Client fails to notify Riskified of more than a total accumulated $25,000 in chargebacks within the aforementioned period after receiving such chargebacks, and if Riskified can demonstrate that such failure to submit chargebacks resulted in future chargebacks (Downstream Chargebacks), Riskified will not provide the Chargeback Guarantee for any such Downstream Chargebacks.
+Eligibility Period . The Chargeback Guarantee shall be valid for period of six (6) months from the date of the Approval Notice.
+Disputing Party . Orders for which Client does not make Riskified the first and primary point of contact for disputing the chargeback through Clients payment gateway and/or bank.
+viii. Reclamation of Goods by Client . Order for which Client is successful in reclaiming the goods. In such case, the Chargeback Guarantee amount shall be limited to the to the order shipping costs.
+Failure to Provide Notice. Riskified reserves the right to decline to reimburse for chargebacks if the Client fails to timely comply with its notice obligations, pursuant to section 5(c), below.
+Chargeback Review . Riskified will review each chargeback within five (5) business days of submission of all required documents and information.
+Chargeback Representment.
+Process Owner . Unless otherwise agreed, Riskified will manage and have sole discretion over the representment process. Notwithstanding the foregoing, if the Parties agree that Client will manage the representment process, Client agrees to diligently and in-good faith perform such representment, including by submitting all documentation provided by Riskified.
+Reporting . In the event the Parties agree that Client will manage the representment process, and Client is not successful in the representment process for a given order, Client will provide Riskified with notification and evidence supporting such failure, within the later of (i) two (2) months from the date of the chargeback (ii) the date the representment process is completed. If Client is successful, in whole or part, in the representment process, Client will notify Riskified within five (5) business days.
+Upon Riskifieds request, Client agrees to assign all of its rights, title and interest in to any claim(s) Client may have against an end customer (e.g., for friendly fraud).
+Client Obligations.
+Provision of Client Data . Client will provide Riskified with all Client Data and API configurations, as requested by Riskified, in order for Riskified to analyze a Submitted Order, including but not limited to the web-beacon data. Client represents and warrants that any Client Data submitted by or made available by Client prior to the Effective Date is accurate and complete.
+Order Information Modification . Client agrees and acknowledges that each update of order details, which includes but is not limited to updating the shipping and billing customer name or address, customer email, order amount or payment details, submitted after the issuance of an Approved Notice, will result in the order being submitted for additional review and Client may be charged the order review fee for any such updated details.
+Client Data Breach.
+Client will notify Riskified in writing no later than seventy-two hours of discovering that end-customer data has been accessed or is believed to have been accessed by an unauthorized party; or, (ii) that any end-customer login or account credentials have been or are believed to have been compromised.
+Reason Codes.
+Visa
+10.1: EMV Liability Shift Counterfeit Fraud (Online Only)
+10.4: Other Fraud  Card Absent Environment
+MasterCard
+4837/37: Fraud Transaction No Cardholder Authorization
+4840/40: Fraudulent Processing of Transactions
+4863/63: Cardholder Does Not Recognize Potential Fraud
+American Express
+FR2: Fraudulent Transaction
+F29: Fraudulent Transaction  Card Not Present
+Discover
+UA02: Fraud Card Not Present Transaction
+AA: Transaction Does Not Recognize
+Riskified covers any and all chargebacks that are of card not present unauthorized credit card use. The above reason codes shall be deemed to be automatically updated, without amendment hereto, to reflect changes made by the credit card networks and will automatically apply to the Service as of the date of such change.
+Riskified Solution
+Benefits
+Customers
+Pricing
+Integrations Documentation
+Support
+Riskified API
+See our infographics
+Trends in Consumer Electronics
+Cross-Border eCommerce
+Request Demo
+Company Careers
+Blog
+About
+Partners
+Resources Content
+Terms
+Privacy
+Security
+Subscribe to the newsletter
+Subscribe
+Request demo
+Subscribe to the newsletter
+Subscribe
+We use cookies to improve browsing on our site. Read our
+Cookie Policy
+to find out more.

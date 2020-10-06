@@ -1,0 +1,378 @@
+Rubrik   Privacy Policy
+Enter your name:
+Close Search
+Search
+Support
+Trust
+Training
+Resources
+Build
+Blog
+Why Rubrik
+Products
+Solutions
+Partners
+Company
+Customers
+Search
+Contact Sales
+Why Rubrik
+Multi-Cloud Data Control
+Multi-Cloud Data Control
+Our approach to data protection helps enterprises achieve Multi-Cloud Data Control. Securely recover, mobilize, and govern data everywhere.
+Analyst Report/Review
+Rubrik Named a Leader in the 2020 Gartner Magic Quadrant for Data Center Backup and Recovery Solutions
+Get Gartner report
+Multi-Cloud Data Control
+Why Rubrik
+Products
+Data Protection
+Data Protection
+Drive consistent management experience across all environments with unique one policy-based solution for on-prem, at the edge, or in the cloud and predictive search.
+Analyst Report/Review
+Rubrik Named a Leader in the 2020 Gartner Magic Quadrant for Data Center Backup and Recovery Solutions
+Get Gartner report
+Cloud Data Management
+Rubrik Industry Platforms
+Replication & DR
+API Integrations
+Rubrik Go
+Cloud-Native Data Protection
+Cloud-Native Data Protection
+Protect your cloud-native apps by running Rubrik as a software instance in the cloud. Benefit from Rubriks fast performance, scalability across hundreds of nodes and multiple clouds, and consumer-grade simplicity.
+White paper
+Discover Rubrik Cloud Data Management Platform on AWS
+Download white paper
+Cloud-Native Protection
+AWS Native Protection
+Azure Native Protection
+O365 Backup
+NEW
+NoSQL Database Management
+NoSQL Database Management
+Rubrik Mosaic simplifies protection and data management of MongoDB, DataStax Enterprise and Cassandra while assuring application availability. Become more adept with Mosaic any-to-any restore and multi-cloud archive.
+White paper
+Learn about Solving Data Management Challenges for NoSQL Databases
+Download white paper
+Rubrik Mosaic
+SaaS Metadata Manager
+Polaris SaaS
+Everything you need to know about your data, in one place. Get visibility into semantic relationships. Reduce risk by uncovering context. Remediate cyberthreats with enhanced analytics.
+data sheet
+Learn How Rubrik Polaris Works
+Download data sheet
+Polaris Overview
+Polaris GPS
+Polaris Radar
+Polaris Sonar
+NEW
+Ransomware Recovery
+Ransomware Recovery
+Minimize business downtime from ransomware with ML-driven detection and instant recoveries. Leverage native ransomware immunity and API-first platform to drive automation.
+Analyst Report/Review
+ESG Technical Review: Rubrik Immutable Architecture for Ransomware
+Get the report
+Polaris Radar
+Data Governance & Compliance
+Data Governance & Compliance
+Discover sensitive content within your backup data. Get started with no additional infrastructure and no production impact. Automate sensitive data classification and discovery, drive consistency in policies/processes.
+White paper
+Explore how backup data can be used to support data governance and regulatory compliance.
+Download white paper
+Polaris Sonar
+NEW
+All Products
+Solutions
+Backup & Recovery
+Backup & Recovery
+Rubrik simplifies backup and recovery across hybrid cloud environments. Eliminate legacy complexity by consolidating your disparate hardware and software components into a single software solution with broad support across traditional and next-gen applications.
+Analyst Report/Review
+Rubrik Named a Leader in the 2020 Gartner Magic Quadrant for Data Center Backup and Recovery Solutions
+Get Gartner report
+Backup & Recovery
+Cloud-Native Protection
+Database Backup
+NAS Direct Archive
+Microsoft SQL Server
+Windows & Unix Protection
+Ransomware Recovery
+O365 Backup
+NEW
+Remote & Branch Office
+VM Backup
+VMware Data Management
+NEW
+Continuous Data Protection
+NEW
+Disaster Recovery
+Disaster Recovery
+Rubrik provides a breadth of solutions to meet your disaster recover needs across on-premises and across clouds.
+Webinar
+Data Governance, DR Orchestration & Continuous Data Protection
+Watch webinar
+Replication & DR
+Compliance & Privacy
+Compliance & Privacy
+Polaris Sonar is a SaaS application that helps you discover, classify, and protect sensitive data, such as credit card numbers, social security numbers, or ITIN, across data sources and locations.
+Compliance
+View Rubrik achieved certifications and attestations of compliance against global standards.
+Learn more
+Polaris Sonar
+NEW
+Ransomware Recovery
+GDPR
+Cloud
+Cloud
+Rubrik cloud solutions provide long term retention, instantiation, in-cloud backup and mobility. Rubrik simplifies and automates the protection of cloud-native workloads at scale, enabling greater operational efficiency and business resiliency throughout your entire cloud journey.
+Webinar
+Accelerate the Cloud Journey with Rubrik and Microsoft Azure
+Watch webinar
+Cloud Solutions
+Data Archival
+Cloud-Native Protection
+AWS Native Protection
+Azure Native Protection
+Replication & DR
+GCP
+O365 Backup
+NEW
+API-Based Automation
+API-Based Automation
+Rubrik API-first architecture means you integrate your existing tools to monitor, provision and manage. Leverage pre-built SDKs in a development language of choice including Python, Go and PowerShell, or build your own services on top of Rubrik.
+white paper
+View Reference Architecture: Rubrik and VMware vCloud Director
+Read white paper
+ServiceNow
+VMware vRealize Automation (VRA)
+VMware vCloud Director
+Configuration Management
+Build
+Databases
+Databases
+Rubrik simplifies the the protection of leading databases while improving operational efficiency, cloud mobility, and security needed to confidently protect your organization's most vital resource.
+White paper
+Learn about Solving Data Management Challenges for NoSQL Databases
+Download white paper
+Database Backup
+Cassandra
+MongoDB
+Microsoft SQL Server
+Oracle
+SAP HANA
+NoSQL Data Management
+Elastic App Service (EAS)
+Industries
+Industries
+Rubrik is used across a variety of industries to securely manage data from creation to expiration across private and public clouds. With Rubrik, you customize policies for your specific needs to deliver compliant data backup, replication, and archive in a single solution.
+Webinar
+Watch industry experts share how theyre adapting people, processes and technology for success.
+Watch webinar
+Healthcare
+Public Sector
+Legal
+Service Delivery Partners
+Financial Services
+All Solutions
+Partners
+Technology Partners
+Technology Partners
+Partner for Success and develop innovative, best in class joint solutions for your customers.
+Data Sheet
+Rubrik Technology Alliance Program guide
+Download data sheet
+Technology Partners
+AWS
+GCP
+Microsoft
+NetApp
+Nutanix
+Pure Storage
+VMware
+Reseller Partners
+Reseller Partners
+Accelerate Your Business with Rubrik. Take advantage of the $48 billion backup and recovery market through Rubriks 100% channel-driven approach.
+Partner Program
+Transform Your Business. Become A Rubrik Partner.
+Become a partner
+Resellers
+Service Delivery Partners
+Service Delivery Partners
+Our Service Delivery Partners deliver secure and reliable Backup-as-a-Service, DR-as-a-Service, and data archival around the world.
+data sheet
+Transform Your Business with Rubrik Service Delivery Platform
+Download data sheet
+Service Delivery Partners
+Become a Partner
+Become a Partner
+The Rubrik Velocity Partner Program empowers you to deliver strategic value to your customers. One simple program to give you flexibility to work with us across all your routes to market.
+Partner Program Application Form
+Become a Partner
+All Partner Programs
+Company
+Newsroom
+Newsroom
+We are trusted by world's leading companies and industry-leading partner. Get Rubrik's latest news, download the media press kit, and reach out to the press team.
+Analyst Report/Review
+Rubrik Named a Leader in the 2020 Gartner Magic Quadrant for Data Center Backup and Recovery Solutions
+Get Gartner report
+Newsroom
+Press Releases
+Events
+Events
+Come meet the Rubrik team at major industry events and learn about Cloud Data Management. Rubrik is hitting the road across the world to provide a hands-on lab experience with Rubrik products. See the power of Rubrik's technology firsthand at Camp Rubrik events.
+Watch on-demand
+FORWARD Digital Summit: Check out the sessions on-demand
+Watch now
+Events
+Virtual Camp Rubrik
+Rubrik Forward Digital Summit
+Webinars
+Careers
+Careers
+We have bold ideas on how to transform data into a business asset. Work with the best minds in the business. Youll nd innovators in every role, and at every level. Come join us!
+Transforming Company Culture: Rubrik Named to 2019 LinkedIn Top Companies List
+Careers
+Company Overview
+Customers
+Policies
+Privacy Policy
+This Privacy Policy was last modified on and is effective as of January 1, 2020.
+Your privacy is important to Rubrik, Inc., 1001 Page Mill Road, Building 2, Palo Alto CA, 94304 ( Rubrik ,  we  or  us ).
+In this Privacy Policy, we provide information about how we collect, use and transfer personal information about any user or visitor ( you ) of our websites, mobile applications, events, and services ( Services ). This Privacy Policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+If you are located in California, please also see the California Privacy Rights Statement below.
+If you are located in the European Economic Area, please also see the Supplemental European Privacy Statement below.
+What Personal Information Do We Collect?
+We collect various types of personal information to provide you with the Services, as follows:
+Contact and Request Information:  We collect personal information that allows us to be in contact with you (such as name, email address, phone number and address) and other personal information that you voluntarily provide to us.
+Account Information : If you create an account on one of our Services, we collect your first name, last name, company, address, telephone number, email address, user identifier and password. We also collect information about your usage of our Services in association with your account, namely, your account preferences, which features of the Services you use and for how long, and any requests or orders made via your account.
+Website Information : When you access our websites, we automatically collect your computers internet protocol (IP) address and other technical information about your computer and website usage, namely, your browser type and version, internet service provider, time zone setting, referring/exit pages, operating system, date/time stamps and/or clickstream data. We also use cookies and similar tracking technologies on our websites; for more information, please see the Cookies and Similar Technologies Information section below.
+Mobile Information : When you use our mobile applications, we collect your devices unique identifier and other technical information about your device and mobile application usage, namely, your device type, browser type, and your interactions on our mobile application.
+Public Information about You : If you have identified yourself to us as a user of our Services and expressed interest in our products or services, we may collect personal information about you from publicly available sources, namely, your company, contact information, preferences and demographic information. These publicly available sources include public profiles on company websites and professional networking.
+We may also provide public bulletin boards or forums on our Services. Please note that any personal information you post via these bulletin boards or forums may be accessible to the public.
+How Do We Use Your Personal Information?
+We use your personal information to provide and optimize our products and services. In particular, we use:
+Contact and Request Information  to respond to your comments, questions and requests, and provide you with any product documentation or whitepapers you request.  As permitted by applicable law, including with your consent where required, we may use your contact information to provide you with marketing communications, promotional offers and updates on new services and benefits.
+Account Information  to manage your account, communicate with you in relation to your account, personalize our Services for you, provide you with customer service, product updates and warranty information, and monitor the performance of our Services.
+Website Information and Mobile Information  to monitor the performance of our websites and mobile applications, analyze trends, usage and activities in connection with our websites and mobile applications, and ensure their technological compatibility with users.  We also use website information for re-targeting and advertising purposes where permitted by applicable law.
+Public Information about you  in connection with other personal information we may have about you to personalize our Services for you and identify products and services that we believe may be of interest to you or your business.
+We also use your personal information as necessary to comply with our legal and contractual obligations and to protect our legal interests, such as in the event of a complaint or dispute.
+What Personal Information Do We Disclose?
+Rubrik will not disclose your personal data to third parties, except in the following circumstances and in accordance with applicable laws:
+With your consent.
+To Rubriks service providers, who act on Rubriks behalf and instructions to fulfill product orders, deliver services, provide IT support and security services, and fulfill the other purposes set forth above.
+To other Rubrik-owned business entities for the purposes of coordinating our global enterprises provision and development of products and services.
+As required by applicable law, including, without limitation, in response to any government or regulatory agency request, to cooperate with law enforcement investigations, or upon receipt of any court order.
+To a prospective or actual purchaser or seller in the context of a merger, acquisition or other reorganization or sale of Rubriks business or assets.  Rubriks practice is to seek appropriate protection for information in these types of transactions.  Rubrik will attempt to notify you by email and/or a prominent notice on the Rubrik website of any change in ownership and the choices you may have regarding your personal information.
+To courts and public authorities to protect you, Rubrik or third parties from harm, including fraud or instances where somebodys physical safety is at risk.
+Service providers acting on Rubriks behalf shall be obliged to adhere to confidentiality requirements no less protective than those set forth herein and will only receive access to your personal data as necessary to perform their functions.
+We also perform statistical analyses of the users of our Services to improve the content, design and navigation of the Services and our other products and services. In these cases, we use aggregate or statistical data that cannot reasonably be used to identify you.
+Third-Party Websites
+Our Services may include links to third-party applications, products, services, or websites for your convenience and information. If you access those links, you will leave our Services. Rubrik does not control these third-party sites or their privacy practices, which may differ from Rubriks practices. The Rubrik Privacy Policy does not cover the personal data you choose to provide to or that is collected by these third parties. You are encouraged to review the privacy documentation of any third-party site you interact with before you allow them to collect and use your personal information.
+Rubrik may also provide social media features, such as the Facebook or Twitter buttons that enable you to share information with your social networks to interact with Rubrik on various social media websites. Your use of these features may result in the collection or sharing of information about you depending on each specific social media website. This may include your IP address, which page you are visiting on our site, and a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Persons under the Age of 18
+We do not knowingly collect personal information from minors under the age of 18. If we learn that we have collected the personal information of a minor under 18 years old, we will take steps to delete the information as soon as possible.
+Cookies and Similar Technologies
+Rubrik and our partners (e.g., marketing partners, analytics, advertising, or service providers) use various tracking technologies such as cookies, beacons, tags and scripts to analyze trends on our Services, administer our Services, and to gather demographic information about our user base as a whole. We receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. For more information, please see our Cookies Policy  here . Our website currently does not respond to Do Not Track signals from browsers
+Behavioral targeting/Re-targeting
+We rely on a third party services provider to either display advertising on our websites or to manage our advertising on other sites. This services provider may use technologies such as cookies to gather information about your activities on our websites and other sites in order to provide you with advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking  here  (or if located in the European Union click  here ).
+Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+Protection of Personal Information
+Rubrik takes reasonable and appropriate precautions  including administrative, technical, and physical measures  to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
+Integrity and Retention of Personal Information
+Rubrik provides procedures for you to keep your personal information accurate, complete, and up-to-date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Access to Personal Information
+You can help ensure that your contact information and preferences are accurate, complete, and up-to-date by contacting us using the information below. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Rubrik is not required to retain it by law or for legitimate business purposes. We will respond to your request within 30 days or sooner where required by law. As permitted by applicable law, we may decline to process requests where the data is required to be retained by law, required for legitimate business purposes, or jeopardizes the privacy of others.
+Our Companywide Commitment to Your Privacy
+To make sure your personal information is secure, we communicate our privacy and security guidelines to Rubrik employees and strictly enforce privacy safeguards within the company.
+Privacy Policy Updates
+Rubrik may update its Privacy Policy from time to time to reflect changes to our information practices. When we change the policy in a material way, we will provide you with notice as required by applicable law, including notifying you based on the contact details we have on file and posting an updated version of the Privacy Policy on our Services prior to the changes coming into effect. We encourage you to periodically review this page for the latest information on our privacy practices.
+Contacting Us
+We value your opinions. If you have any general questions or comments for Rubrik, please contact us at:
+Rubrik, Inc.
+1001 Page Mill Road, Building 2
+Palo Alto, California 94304
+USA
+Or via e-mail at  privacy@rubrik.com
+Via
+webform
+CALIFORNIA PRIVACY RIGHTS STATEMENT
+Consumers residing in California are afforded certain additional rights with respect to their personal information under the California Consumer Privacy Act or CCPA (California Civil Code Section 1798.100 et seq.). If you are a California resident, this section applies to you.
+Additional Disclosures Related to Collection, Use, and Disclosure of Personal Information
+Collection and Use of Personal Information : In the preceding 12 months, we have collected the following categories of personal information: identifiers, demographic information, commercial information, internet or other electronic network activity information, audio, electronic, or visual information, professional information, and inferences. For examples of precise data points we collect and the sources of such collection, please see What Personal Information Do We Collect? above. We collect personal information for the business and commercial purposes described in How Do We Use Your Personal Information above.
+Disclosure of Personal Information : We may share your personal information with third parties as described in What Personal Information Do We Disclose? above. In the preceding 12 months, we have disclosed the following categories of personal information for business or commercial purposes: identifiers, demographic information, commercial information, internet or other electronic network activity information, audio, electronic, or visual information, professional information, and inferences.
+Sale of Personal Information : California law requires that we provide transparency about personal information we sell, which for the purposes of the CCPA broadly means scenarios in which Rubrik has exchanged personal information with third parties in exchange for valuable consideration. In the preceding 12 months, we have sold the following categories of personal information through our use of and participation in targeted online and mobile advertising: identifiers, internet or other electronic network activity information. We share identifiers such as cookies and advertising identifier associated with your mobile device with our advertising partners, and those partners use and share those identifiers to show ads that are targeted to your interests. Rubrik does not, and will not, sell your identifying information such as your name, email address, phone number, or postal address. California consumers above the age of 16 have the right to opt out of these sales at any time. Please visit our  Do Not Sell My Personal Information   webpage to learn more about your rights and to make an opt out request. We do not knowingly sell personal information about consumers under the age of 16.
+Your CCPA Rights
+If you are a California resident, you have the right to request (1) more information about the categories and specific pieces of information we have collected, sold and disclosed for a business purpose in the last 12 months, (2) deletion of your personal information, and (3) to opt out of sales of your personal information. You may make requests under (1) and (2) by visiting this  page  or contacting us at  privacy@rubrik.com .
+Once we receive your request, we may verify it by requesting information sufficient to confirm your identity. Please note that you may designate an authorized agent to exercise these rights on your behalf by providing a notarized power of attorney evidencing that you have empowered the authorized agent to exercise your CCPA rights on your behalf. We will not discriminate against you if you exercise your rights under the CCPA.
+Supplemental European Privacy Statement
+As of May 25, 2018, European Union Regulation 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (EU GDPR), requires us as the data controller of the Online Services to provide additional and different information about our data processing practices to data subjects in the European Economic Area (EEA). If you are accessing our Online Services from a member state of the EEA, this Supplemental European Privacy Statement applies to you in addition to the Privacy Policy above.
+Cookies.  With respect to web cookies and similar technologies that are not strictly necessary for our provision of the Online Services, Rubrik seeks consent from users of the Service in the EEA based on a separate  Cookies Policy .
+Legal Basis of Processing.  The legal basis for Rubriks processing of your personal data in connection with our Online Services is Article 6(1)(b) of the EU GDPR, which allows processing of personal data as necessary for the performance of a contract. When you access, use or register for our Online Services, you form a contract with Rubrik based on the applicable terms of service, and we need to process your personal data to respond to your requests, provide our Online Services and satisfy our obligations with respect to the other purposes listed in the Privacy Policy above.
+Rubrik also relies on your consent with respect to cookies that are not strictly necessary and direct marketing emails per Article 6(1)(a) of the EU GDPR; and pursues legitimate interests under Article 6(1)(f) of the EU GDPR with respect to situations where Rubrik needs to process your personal data to comply with applicable laws (as a U.S.-based company, Rubrik, Inc. is subject to U.S. laws and must comply with them), provide good customer service, or improve our products and services. In these cases, we will ensure that your privacy and other fundamental interests do not override our legitimate interests.
+Personal Data Transfers outside of the EEA.  Rubrik transmits some of your personal data to the following countries where the data protection laws may not provide a level of protection equivalent to the laws in your jurisdiction. For all transfers of your information from the EEA or Switzerland to the US, Rubrik is certified under Privacy Shield and follows its principles. To view a list of Privacy Shield participants please visit the  Privacy Shield website .
+Furthermore, Rubrik complies with the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland to the United States. Rubrik has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit the   Privacy Shield website .
+Where Rubrik shares information we receive under Privacy Shield with third parties, we're responsible for ensuring those third parties also comply with Privacy Shield, unless we can prove we're not responsible for the damaging event.
+In compliance with the Privacy Shield Principles, Rubrik commits to resolve complaints about our collection or use of your personal information. EEA or Switzerland individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at  privacy@rubrik.com . Rubrik has further committed to refer unresolved Privacy Shield complaints to TRUSTe Dispute Resolution, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit our U.S. based third party dispute resolution provider TRUSTe  here  for more information or to file a complaint. The services of TRUSTe are provided at no cost to you. In certain circumstances, and if the dispute resolution process still doesnt resolve the problem, EEA individuals may pursue binding arbitration through a process described  here . Rubrik is also subject to the investigatory and enforcement powers of the Federal Trade Commission.
+Any onward transfer is subject to appropriate onward transfer requirements as required by applicable law.
+Data Retention . Rubrik keeps personal data as long as required to provide our Online Services to you and comply with applicable laws. For example, if you register for an account on the Online Services, we retain your personal data for as long as you have an account with us and then for only as long as required for us to comply with applicable laws, discharge our contractual obligations to you, or defend our legal interests in connection with any claim or defense we could face before any formal dispute resolution body. We take reasonable measures to ensure that personal data is deleted, erased or anonymized as soon as possible once the purposes for which personal data was collected have been fulfilled.
+Data Subject Rights.  You have a right to request from Rubrik access to and rectification or erasure of your personal data. You also have the right to request the restriction of processing concerning you, in which case such personal data would be marked and processed by us only for certain purposes. In addition, you have the right to data portability, which allows you to receive from us personal data about you which you have provided to us in a structured, commonly used and machine-readable format and the right to transmit such personal data to another entity without hindrance from us.
+You also have the right to object to various data processing activities, including processing activities that are based exclusively on your consent or processing for the purposes of direct marketing. You can exercise such rights by accessing the information in your account and/or by emailing  privacy@rubrik.com . Please note that these rights may be subject to limitations and conditions under the EU GDPR or applicable national data protection laws.
+If you have provided consent for cookies that are not strictly necessary or other data processing, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal. You have the right to lodge a complaint with a supervisory authority.
+Your Choices.  You are not required to provide any personal data to Rubrik, but if you do not provide any personal data to Rubrik, you may not be able to use our Online Services or conduct business with us effectively. You can use our Online Services without consenting to cookies that are not strictly necessary; the only consequence is that our Online Services will be less tailored to you. You can exercise your choices by accessing the information in your account and/or by emailing  privacy@rubrik.com .
+Profiling.  Rubrik does not use in connection with our Online Services automated decision-making in a way that produces legal effects concerning you or which significantly affects you.
+European Contacts
+Rubrik The Netherlands
+B.V. Hoogoorddreef 54
+1101 BE Amsterdam
+The Netherlands
+Rubrik UK Limited
+100 New Bridge Street
+London EC4V 6JA
+UK
+Rubrik Cloud Data Management Limited
+70 Sir John Rogersons Quay
+Dublin 2, D02 R296
+Ireland
+Rubrik France SaS
+43-47 avenue de la Grande Armee, 75116, Paris
+France
+Company
+Newsroom
+Careers
+Events
+Contact Us
+Support
+Contact Sales
+Report Vulnerability
+Compliance Program
+Customers
+ASL Airlines
+Meredith Corporation
+The CSI Companies
+Sesame Workshop
+Mall of America
+Products
+Cloud Data Management
+Polaris Overview
+Rubrik Mosaic
+Rubrik Go
+Training
+Resources
+Webinars
+Resources
+Blog
+Build
+Product Demo
+Become a Partner
+Solutions
+Backup & Recovery
+VM Backup
+O365 Backup
+Ransomware Recovery
+Database Backup
+Cloud Solutions
+Polaris Sonar
+Visitors also viewed: Immutability to Defend Against Ransomware Rubrik Addresses Today's Data Control Challenges Modern Data Protection for the Cloud
+© 2020 Rubrik  Multi-Cloud Data Control Company
+CA Residents only:  Do not sell my personal information
+Privacy Policy

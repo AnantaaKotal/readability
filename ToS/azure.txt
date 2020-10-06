@@ -1,0 +1,495 @@
+Website Terms Of Use   Microsoft Azure
+Skip Navigation
+Contact Sales
+Search
+Search
+My account
+Portal
+Sign in
+Close
+Sales:
+:
+Find a local number
+My account
+Portal
+Sign in
+Free account
+Overview
+Solutions
+Products
+Featured
+Featured
+Explore some of the most popular Azure products
+Virtual Machines Provision Windows and Linux virtual machines in seconds
+Windows Virtual Desktop The best virtual desktop experience, delivered on Azure
+Azure SQL Database Managed, intelligent SQL in the cloud
+App Service Quickly create powerful cloud apps for web and mobile
+Azure Cosmos DB Globally distributed, multi-model database for any scale
+PlayFab The complete LiveOps back-end platform for building and operating live games
+Azure Kubernetes Service (AKS) Simplify the deployment, management, and operations of Kubernetes
+Azure Functions Process events with serverless code
+Cognitive Services Add smart API capabilities to enable contextual interactions
+Azure Quantum Experience quantum impact today on Azure
+See more
+AI + Machine Learning
+AI + Machine Learning
+Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario
+Cognitive Services Add smart API capabilities to enable contextual interactions
+Azure Bot Service Intelligent, serverless bot service that scales on demand
+Machine Learning Build, train, and deploy models from the cloud to the edge
+Azure Databricks Fast, easy, and collaborative Apache Spark-based analytics platform
+Azure Cognitive Search AI-powered cloud search service for mobile and web app development
+See more
+Analytics
+Analytics
+Gather, store, process, analyze, and visualize data of any variety, volume, or velocity
+Azure Synapse Analytics Limitless analytics service with unmatched time to insight (formerly SQL Data Warehouse)
+Azure Databricks Fast, easy, and collaborative Apache Spark-based analytics platform
+HDInsight Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
+Data Factory Hybrid data integration at enterprise scale, made easy
+Machine Learning Build, train, and deploy models from the cloud to the edge
+Azure Stream Analytics Real-time analytics on fast moving streams of data from applications and devices
+Azure Data Lake Storage Massively scalable, secure data lake functionality built on Azure Blob Storage
+Azure Analysis Services Enterprise-grade analytics engine as a service
+Event Hubs Receive telemetry from millions of devices
+See more
+See more
+Blockchain
+Blockchain
+Build and manage blockchain based applications with a suite of integrated tools
+Azure Blockchain Service Build, govern, and expand consortium blockchain networks
+Azure Blockchain Workbench Easily prototype blockchain apps in the cloud
+Logic Apps Automate the access and use of data across clouds without writing code
+Azure Cosmos DB Globally distributed, multi-model database for any scale
+See more
+Compute
+Compute
+Access cloud compute capacity and scale on demandand only pay for the resources you use
+Virtual Machines Provision Windows and Linux virtual machines in seconds
+Virtual Machine Scale Sets Manage and scale up to thousands of Linux and Windows virtual machines
+Azure Kubernetes Service (AKS) Simplify the deployment, management, and operations of Kubernetes
+Azure Spring Cloud A fully managed Spring Cloud service, built and operated with Pivotal
+App Service Quickly create powerful cloud apps for web and mobile
+Azure Functions Process events with serverless code
+Azure Dedicated Host A dedicated physical server to host your Azure VMs for Windows and Linux
+Batch Cloud-scale job scheduling and compute management
+SQL Server on Virtual Machines Host enterprise SQL Server apps in the cloud
+See more
+See more
+Containers
+Containers
+Develop and manage your containerized applications faster with integrated tools
+Azure Kubernetes Service (AKS) Simplify the deployment, management, and operations of Kubernetes
+Container Instances Easily run containers on Azure without managing servers
+Service Fabric Develop microservices and orchestrate containers on Windows or Linux
+Container Registry Store and manage container images across all types of Azure deployments
+Web App for Containers Easily deploy and run containerized web apps that scale with your business
+Azure Functions Process events with serverless code
+Azure Red Hat OpenShift Fully managed OpenShift service, jointly operated with Red Hat
+See more
+Databases
+Databases
+Support rapid growth and innovate faster with secure, enterprise-grade, and fully managed database services
+Azure Cosmos DB Globally distributed, multi-model database for any scale
+Azure SQL Database Managed, intelligent SQL in the cloud
+Azure Database for MySQL Managed MySQL database service for app developers
+Azure Database for PostgreSQL Managed PostgreSQL database service for app developers
+Azure Database for MariaDB Managed MariaDB database service for app developers
+SQL Server on Virtual Machines Host enterprise SQL Server apps in the cloud
+Azure Database Migration Service Simplify on-premises database migration to the cloud
+Azure Cache for Redis Power applications with high-throughput, low-latency data access
+Table Storage NoSQL key-value store using semi-structured datasets
+See more
+DevOps
+DevOps
+Deliver innovation faster with simple, reliable tools for continuous delivery
+Azure DevOps Services for teams to share code, track work, and ship software
+Azure Pipelines Continuously build, test, and deploy to any platform and cloud
+Azure Boards Plan, track, and discuss work across your teams
+Azure Repos Get unlimited, cloud-hosted private Git repos for your project
+Azure Artifacts Create, host, and share packages with your team
+Azure Test Plans Test and ship with confidence with a manual and exploratory testing toolkit
+Azure DevTest Labs Quickly create environments using reusable templates and artifacts
+DevOps tool integrations Use your favorite DevOps tools with Azure
+Azure Monitor Full observability into your applications, infrastructure, and network
+See more
+Developer Tools
+Developer Tools
+Build, manage, and continuously deliver cloud applicationsusing any platform or language
+Visual Studio The powerful and flexible environment for developing applications in the cloud
+Visual Studio Code A powerful, lightweight code editor for cloud development
+Visual Studio Codespaces Cloud-powered development environments accessible from anywhere
+Github and Azure Worlds leading developer platform, seamlessly integrated with Azure
+Visual Studio Subscriptions Access Visual Studio, Azure credits, Azure DevOps, and many other resources for creating, deploying, and managing applications.
+Power Apps A powerful, low-code platform for building apps quickly
+SDKs Get the SDKs and command-line tools you need
+Developer tool integrations Use the development tools you knowincluding Eclipse, IntelliJ, and Mavenwith Azure
+Visual Studio App Center Continuously build, test, release, and monitor your mobile and desktop apps
+Azure Monitor Full observability into your applications, infrastructure, and network
+See more
+Hybrid
+Hybrid
+Get Azure innovation everywherebring the agility and innovation of cloud computing to your on-premises workloads.
+Azure Arc Bring Azure services and management to any infrastructure
+Azure Sentinel Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise
+Azure Stack Build and run innovative hybrid applications across cloud boundaries
+Security Center Unify security management and enable advanced threat protection across hybrid cloud workloads
+Azure ExpressRoute Dedicated private network fiber connections to Azure
+Azure Active Directory Synchronize on-premises directories and enable single sign-on
+Azure SQL Database Managed, intelligent SQL in the cloud
+Azure DevOps Services for teams to share code, track work, and ship software
+Azure Database for PostgreSQL Managed PostgreSQL database service for app developers
+Azure IoT Edge Extend cloud intelligence and analytics to edge devices
+See more
+Identity
+Identity
+Manage user identities and access to protect against advanced threats across devices, data, apps, and infrastructure
+Azure Active Directory Synchronize on-premises directories and enable single sign-on
+Azure Active Directory B2C Consumer identity and access management in the cloud
+Azure Active Directory Domain Services Join Azure virtual machines to a domain without domain controllers
+Azure Information Protection Better protect your sensitive informationanytime, anywhere
+See more
+Integration
+Integration
+Seamlessly integrate on-premises and cloud-based applications, data, and processes across your enterprise
+Logic Apps Automate the access and use of data across clouds without writing code
+Service Bus Connect across private and public cloud environments
+API Management Publish APIs to developers, partners, and employees securely and at scale
+Event Grid Get reliable event delivery at massive scale
+See more
+Internet of Things
+Internet of Things
+Bring IoT to any device and any platform, without changing your infrastructure
+Azure IoT Hub Connect, monitor and manage billions of IoT assets
+Azure IoT Edge Extend cloud intelligence and analytics to edge devices
+Azure IoT Central Accelerate the creation of IoT solutions
+Azure IoT solution accelerators Create fully customizable solutions with templates for common IoT scenarios
+Azure Sphere Securely connect MCU-powered devices from the silicon to the cloud
+Azure Digital Twins Build next-generation IoT spatial intelligence solutions
+Azure Time Series Insights Explore and analyze time-series data from IoT devices
+Azure Maps Simple and secure location APIs provide geospatial context to data
+Azure RTOS Making embedded IoT development and connectivity easy
+See more
+See more
+Management and Governance
+Management and Governance
+Simplify, automate, and optimize the management and compliance of your cloud resources
+Microsoft Azure portal Build, manage, and monitor all Azure products in a single, unified console
+Cloud Shell Streamline Azure administration with a browser-based shell
+Azure mobile app Stay connected to your Azure resourcesanytime, anywhere
+Azure Backup Simplify data protection and protect against ransomware
+Azure Advisor Your personalized Azure best practices recommendation engine
+Azure Policy Implement corporate governance and standards at scale for Azure resources
+Cost Management + Billing Optimize what you spend on the cloud, while maximizing cloud potential
+Azure Site Recovery Keep your business running with built-in disaster recovery service
+Azure Monitor Full observability into your applications, infrastructure, and network
+See more
+See more
+Media
+Media
+Deliver high-quality video content anywhere, any time, and on any device
+Media Services Encode, store, and stream video and audio at scale
+Encoding Studio grade encoding at cloud scale
+Azure Media Player A single player for all your playback needs
+Live and On-Demand Streaming Deliver content to virtually all devices with scale to meet business needs
+Content Protection Securely deliver content using AES, PlayReady, Widevine, and Fairplay
+Video Indexer Unlock video insights
+Content Delivery Network Ensure secure, reliable content delivery with broad global reach
+See more
+Migration
+Migration
+Simplify and accelerate your migration to the cloud with guidance, tools, and resources
+Azure Migrate Easily discover, assess, right-size, and migrate your on-premises VMs to Azure
+Azure Site Recovery Keep your business running with built-in disaster recovery service
+Azure Database Migration Service Simplify on-premises database migration to the cloud
+Data Box Appliances and solutions for data transfer to Azure and edge compute
+Cost Management + Billing Optimize what you spend on the cloud, while maximizing cloud potential
+See more
+Mixed Reality
+Mixed Reality
+Blend your physical and digital worlds to create immersive, collaborative experiences
+Spatial Anchors Create multi-user, spatially aware mixed reality experiences
+Remote Rendering Consume Services privately on Azure Platform
+Azure Digital Twins Build next-generation IoT spatial intelligence solutions
+Kinect DK Build computer vision and speech models using a developer kit with advanced AI sensors
+See more
+Mobile
+Mobile
+Build and deploy cross-platform and native apps for any mobile device
+Mobile Apps Build and host the backend for any mobile app
+Notification Hubs Send push notifications to any platform from any back end
+Visual Studio App Center Continuously build, test, release, and monitor your mobile and desktop apps
+Xamarin Create cloud-powered mobile apps faster
+Azure Maps Simple and secure location APIs provide geospatial context to data
+API Apps Easily build and consume Cloud APIs
+API Management Publish APIs to developers, partners, and employees securely and at scale
+See more
+Networking
+Networking
+Connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience
+Virtual Network Provision private networks, optionally connect to on-premises datacenters
+Load Balancer Deliver high availability and network performance to your applications
+Application Gateway Build secure, scalable, and highly available web front ends in Azure
+VPN Gateway Establish secure, cross-premises connectivity
+Azure DNS Host your DNS domain in Azure
+Content Delivery Network Ensure secure, reliable content delivery with broad global reach
+Azure DDoS Protection Protect your applications from Distributed Denial of Service (DDoS) attacks
+Traffic Manager Route incoming traffic for high performance and availability
+Azure ExpressRoute Dedicated private network fiber connections to Azure
+See more
+See more
+Security
+Security
+Protect your enterprise from advanced threats across hybrid cloud workloads
+Azure Sentinel Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise
+Security Center Unify security management and enable advanced threat protection across hybrid cloud workloads
+Key Vault Safeguard and maintain control of keys and other secrets
+Application Gateway Build secure, scalable, and highly available web front ends in Azure
+Azure Information Protection Better protect your sensitive informationanytime, anywhere
+VPN Gateway Establish secure, cross-premises connectivity
+Azure Active Directory Synchronize on-premises directories and enable single sign-on
+Azure DDoS Protection Protect your applications from Distributed Denial of Service (DDoS) attacks
+Azure Dedicated HSM Manage hardware security modules that you use in the cloud
+Azure Active Directory Domain Services Join Azure virtual machines to a domain without domain controllers
+See more
+Storage
+Storage
+Get secure, massively scalable cloud storage for your data, apps, and workloads
+Disk Storage Persistent, secured disk options supporting virtual machines
+Azure Data Lake Storage Massively scalable, secure data lake functionality built on Azure Blob Storage
+Azure Files File shares that use the standard SMB 3.0 protocol
+Azure Data Explorer Fast and highly scalable data exploration service
+Azure NetApp Files Enterprise-grade Azure file shares, powered by NetApp
+Azure Backup Simplify data protection and protect against ransomware
+Blob storage REST-based object storage for unstructured data
+Data Box Appliances and solutions for data transfer to Azure and edge compute
+Archive Storage Industry leading price point for storing rarely accessed data
+See more
+See more
+Web
+Web
+Build, deploy, and scale powerful web applications quickly and efficiently
+Web Apps Quickly create and deploy mission critical web apps at scale
+API Management Publish APIs to developers, partners, and employees securely and at scale
+Content Delivery Network Ensure secure, reliable content delivery with broad global reach
+Azure Cognitive Search AI-powered cloud search service for mobile and web app development
+Azure SignalR Service Add real-time web functionalities easily
+Azure Maps Simple and secure location APIs provide geospatial context to data
+Static Web Apps A modern web app service that offers streamlined full-stack development from source code to global high availability
+See more
+Windows Virtual Desktop
+Windows Virtual Desktop
+The best virtual desktop experience, delivered on Azure
+Windows Virtual Desktop The best virtual desktop experience, delivered on Azure
+See more
+See all (200+)
+Search Results:
+" "
+See all products
+Documentation
+Pricing
+Training
+Explore free online learning resources from videos to hands-on-labs
+Marketplace
+Partners
+Find a partner Get up and running in the cloud with help from an experienced partner
+Become a partner Build more success with the industry's most extensive partner network
+For ISVs Scale your apps on a trusted cloud platform
+Explore the Azure partner zone Find the latest content, news, and guidance to lead customers to the cloud
+Connect with the Microsoft Partner Community Accelerate partner connections and amplify success through the Microsoft partner ecosystem
+Support
+Azure support Find the support options you need
+Compare support plans Explore and purchase technical support
+Get support Create a support ticket
+Community support Get answers to your questions from Microsoft and community experts
+Knowledge Center Get answers to common support questions
+Azure status dashboard View the current Azure health status and view past incidents
+Blog
+Read the latest posts from the Azure team
+Resources Find downloads, white papers, templates, and events
+Trusted Learn about Azure security, compliance, and privacy
+Legal View legal terms and conditions
+More
+Free account
+Portal
+Microsoft Azure Website Terms of Use
+Last updated: March 2016
+Acceptance of terms
+The Website Services (as defined in the next section) that Microsoft provides to you on this Azure website (Website) are subject to the following Terms of Use ("TOU"). Microsoft reserves the right to update the TOU at any time without notice to you. The most current version of the TOU can be reviewed by clicking on the "Terms of Use" hypertext link located on the Azure Website pages.
+Description of website services
+Throughout this Website, Microsoft provides you with access to a variety of resources, which may include upload and download areas, communication forums and information, and limited Azure services as described below (collectively "Website Services"). The Website Services, including any updates, enhancements, new features, and/or the addition of any new web properties, are subject to these TOU. These TOU do not apply to use of the Azure cloud services platform or features (including the Microsoft Azure classic portal), which is governed by the agreement under which you purchase such services. As a limited exception to the foregoing, if you do not have an Azure subscription, these TOU will apply to the limited Azure services you can use without a subscription.
+Privacy and protection of personal information
+See the
+Microsoft.com Privacy Statement
+disclosures relating to the collection and use of your information.
+Software available on this website
+Any software that is made available to download from the Website Services ("Software") is the copyrighted work of Microsoft and/or its suppliers. Use of the Software is governed by the license terms, if any, which accompany or are included with the Software ("License Agreement"). An end user will not be authorized to install any Software that is accompanied by or includes a License Agreement, unless he or she first agrees to the License Agreement terms. The Software is made available for download solely for use by end users according to the License Agreement. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited.
+Materials posted on this website
+All materials, including software, help topics, white papers, datasheets, videos, and FAQs (collectively Materials) that are made available as part of the Website Services are the copyrighted work of Microsoft or its suppliers. Your use of these Materials is governed by one of two sets of license terms; if you are presented with a license for the Materials, the terms of that license apply; if no license is presented to you, these terms apply. Microsoft reserves all other rights to the Materials not expressly granted under these license terms. In your use of the Materials you may not:
+Remove, modify or tamper with any copyright notices;
+Distribute the Materials to third parties, including by posting the Materials on any networked computer for access by any other computer on the network, or broadcast the Materials in any media; or
+Make any modifications to the Materials.
+Materials specified above do not include the design or layout of the Website or any other Microsoft-owned, operated, licensed, or controlled site. Elements of Microsoft Websites are protected by trade dress, trademark, unfair competition, and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound, or image from any Microsoft Website may be copied or retransmitted unless expressly permitted by Microsoft.
+Microsoft may have patents, patent applications, trademarks, copyrights, or other intellectual property rights covering subject matter in the Materials. By providing the Materials to you, Microsoft does not give you any license to these patents, trademarks, copyrights, or other intellectual property, unless Microsoft does so expressly in writing.
+Some Materials available as part of the Website Services are licensed to you by third parties. Microsoft does not grant you any additional rights (express or implied) for such third-party Materials.
+Microsoft does not claim ownership of any materials you provide to Microsoft (including feedback and suggestions) or post, upload, input, or submit to any Website Services for review by the general public, or by the members of any public or private community (collectively "Submissions"). However, by posting, uploading, inputting, providing, or submitting your Submission, you are granting Microsoft, its affiliated companies, and necessary sublicensees permission to use your Submission in connection with the operation of their Internet businesses (including, without limitation, all Microsoft services), including, without limitation, the license rights to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate, and reformat your Submission; to publish your name in connection with your Submission; and to sublicense such rights to any supplier of the Website Services.
+Liability disclaimer
+MICROSOFT AND ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION CONTAINED IN THE MATERIALS AND RELATED GRAPHICS PUBLISHED AS PART OF THE WEBSITE SERVICES FOR ANY PURPOSE. ALL SUCH MATERIALS AND RELATED GRAPHICS, AND THE WEBSITE SERVICES, ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. MICROSOFT AND ITS SUPPLIERS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE FOREGOING, INCLUDING ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, WHETHER EXPRESS, IMPLIED, OR STATUTORY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. THE MATERIALS AND RELATED GRAPHICS PUBLISHED ON THE WEBSITE COULD INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. MICROSOFT AND ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES TO THE WEBSITE SERVICES AND/OR THE MATERIALS DESCRIBED HEREIN AT ANY TIME.
+IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE THE WEBSITE SERVICES, ANY PROVISION OF OR FAILURE TO PROVIDE THE WEBSITE SERVICES, OR ANY INFORMATION AVAILABLE FROM THE WEBSITE SERVICES. THE AGGREGATE LIABILITY OF MICROSOFT ARISING UNDER THIS AGREEMENT WILL NOT EXCEED $5.00 USD.
+Unsolicited idea submission policy
+Neither Microsoft nor any of its employees accept or consider unsolicited ideas, including ideas for new advertising campaigns, promotions, products or technologies, processes, materials, marketing plans or product names. Please do not send any artwork, samples, demos, or other unsolicited ideas to Microsoft or anyone at Microsoft. The sole purpose of this policy is to avoid potential misunderstandings or disputes when Microsoft's products or marketing strategies might seem similar to ideas submitted to Microsoft. If, despite our request that you not send us your ideas or materials, you still send them, please understand that Microsoft makes no assurances that your ideas or materials will be treated as confidential or proprietary.
+Member account password and security
+If any of the Website Services require you to open an account, you must complete the registration process by providing us with current, complete, and accurate information as prompted by the applicable registration form. You also will choose a password and a user name. You are entirely responsible for maintaining the confidentiality of your password and any other non-public account information. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to notify Microsoft immediately of any unauthorized use of your account or any other breach of security. Microsoft will not be liable for any loss that you may incur as a result of someone else using your user name, password, or account, either with or without your knowledge. However, you could be held liable for losses incurred by Microsoft or another party due to someone else using your user name, password, or account. You may not use anyone else's account at any time without the permission of the account holder.
+No unlawful or prohibited use
+As a condition of your use of the Website Services, you will not use the Website Services for any purpose that is unlawful or prohibited by these TOU. You may not use the Website Services in any manner that could damage, disable, overburden, or impair any Microsoft server, or any networks connected to any Microsoft server, or that could interfere with any other party's use and enjoyment of any Website Services. You may not attempt to gain unauthorized access to any Website Services, other accounts, computer systems, or networks connected to any Microsoft server or to any of the Website Services through hacking, password mining, or any other means. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available through the Website Services.
+Use of communication services
+The Website Services may contain message or communication facilities designed to enable you to communicate or share materials or solutions with others (each a "Communication Service" and collectively the "Communication Services"). You agree to use the Communication Services only to post, send, and receive messages and materials that are proper and, when applicable, related to the particular Communication Service. If you choose to share materials or solutions with others using a Communication Service, you agree that you are giving a license to all users of the Communication Service, including the rights to use, modify, and repost such materials or solutions, and you are allowing Microsoft to make them available to such users in a manner and location of its choosing. In using the Communication Services, you may not:
+Use the Communication Services in connection with surveys or contests (except and to the extent offered by Microsoft, our partners, or our customers through this Website), pyramid schemes, junk email, spamming, or any duplicative or unsolicited messages (commercial or otherwise);
+Defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+Publish, post, upload, distribute, or disseminate any inappropriate, profane, defamatory, obscene, indecent, or unlawful topic, name, material or information;
+Upload, or otherwise make available, files that contain images, photographs, software, or other material protected by intellectual property laws, including, by way of example and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same;
+Use any material or information, including images or photographs, which are made available through the Website Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
+Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property;
+Advertise or offer to sell or buy any goods or services for any business purpose, unless a Communications Service specifically allows such messages;
+Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, or distributed in such manner;
+Falsify or delete any copyright management information, such as author attributions, legal or other proper notices, or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded;
+Restrict or inhibit any other user from using and enjoying the Communication Services;
+Violate any code of conduct or other guidelines that may be applicable for any particular Communication Service;
+Harvest or otherwise collect information about others, including e-mail addresses;
+Violate any applicable laws or regulations;
+Create a false identity for the purpose of misleading others; or
+Use, download, or otherwise copy or provide (whether or not for a fee) to a person or entity any directory of users of the Website Services or other user or usage information or any portion thereof.
+Microsoft has no obligation to monitor the Communication Services. However, Microsoft reserves the right to review materials posted to the Communication Services and to remove any materials in its sole discretion. Microsoft reserves the right to terminate your access to any Communication Service at any time, without notice, for any reason whatsoever.
+Microsoft reserves the right at all times to disclose any information to satisfy any applicable law, regulation, legal process, or governmental request, or to edit, refuse to post, or remove any information or materials, in whole or in part, in Microsoft's sole discretion.
+Always use caution when giving out any personally identifiable information about yourself or your children in any Communication Services. Microsoft does not control or endorse the content, messages, or information found in any Communication Services and, therefore, Microsoft specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Services. Managers and hosts are not authorized Microsoft spokespersons, and their views do not necessarily reflect those of Microsoft.
+Materials uploaded to the Communication Services may be subject to posted limitations on usage, reproduction, or dissemination. You are responsible for adhering to such limitations if you download such materials.
+Feedback
+If you provide feedback to Microsoft, you give Microsoft an irrevocable, perpetual, sublicensable right to use, share, and commercialize your feedback in any way and for any purpose at no charge. You also give third parties any patent rights in your feedback needed for their products, technologies, and services to use or interface with any specific parts of a Microsoft software or service at no charge. You will not give feedback that is subject to a license or other obligation that requires Microsoft to grant or pass through any rights or make any disclosures or payments to third parties. These rights survive these terms.
+No compensation will be paid with respect to the use of your Submission, as provided herein. Microsoft is under no obligation to post or use any Submission you may provide, and Microsoft may remove any Submission at any time in its sole discretion.
+By posting a Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in these TOU including, without limitation, all the rights necessary for you to provide, post, upload, input, or submit the Submission.
+In addition to the warranty and representation set forth above, by posting a Submission that contain images, photographs, pictures, or content that is otherwise graphical in whole or in part ("Images"), you warrant and represent that (a) you are the copyright owner of such Images, or that the copyright owner of such Images has granted you permission to use the Images or any content contained in the Images consistent with the manner and purpose of your use and as otherwise permitted by these TOU and the Website Services, (b) you have the rights necessary to grant the licenses and sublicenses described in these TOU, and (c) each person depicted in such Images, if any, has provided consent to the use of the Images as set forth in these TOU, including, by way of example and not as a limitation, the distribution, public display, and reproduction of such Images. By Posting Images, you are granting (a) to all members of your private community (for each such Image available to members of such private community), and/or (b) to the general public (for each such Image available anywhere on the Website Services, other than a private community), permission to use such Image in connection with the use, as permitted by these TOU, of any of the Website Services; a non-exclusive, world-wide, royalty-free license to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate, and reformat such Image without attribution, and the right to sublicense such rights to any supplier of the Website Services. The licenses granted in the preceding sentences for an Image will terminate at the time you completely remove such Image from the Website Services, provided that such termination shall not affect any licenses granted in connection with the Image prior to your complete removal of the same. No compensation will be paid with respect to the use of any such Images.
+Links to third-party sites
+The Website Services may contain links to third party websites that are external to the Website. These websites are not under Microsofts control. Microsoft makes no effort to review the content of these websites, including the validity, legality, copyright compliance, or decency of such content, and is not responsible for the content of these websites. If Microsoft has included these links in the Website to third-party websites, such links are provided for convenience only. Microsoft does not endorse or make any representation, guarantee, or assurance regarding any third-party website, service, or product. Any third-party product or service that you acquire, and any exchange of data between you and such third-party provider, is solely between you and the third party. Third party websites may be subject to the third-partys terms, conditions, and privacy statements. Microsoft may disable links to any third-party website that you or others post on the Website.
+Intellectual property rights
+Microsoft or its suppliers retain all right, title, and interest in and to the Website and the Website Services, including all copyrights, patents, trade secrets, trademarks, and other intellectual property rights. Microsoft reserves all rights not expressly granted. These TOU do not grant or imply any rights to any Microsoft or supplier trademarks, trade names, or logos. Trademark information is available at https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx
+Any rights not expressly granted herein are reserved.
+Send your questions to the appropriate contact as listed below:
+Piracy questions can be routed to piracy@microsoft.com or by calling
+1-800-R-U-LEGIT .
+Notices and procedure for making claims of copyright infringement
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright should be sent to the Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL RECEIVE NO RESPONSE.
+See
+Notice and Procedure for Making Claims of Copyright Infringement .
+Copyright notice
+© 2016 Microsoft Corporation. All rights reserved.
+Go Social
+Facebook
+Twitter
+YouTube
+LinkedIn
+Rss
+Microsoft Azure
+Microsoft Azure
+Solutions
+Products
+Regions
+Case Studies
+Pricing
+Member Offers
+Calculator
+Documentation
+Downloads
+Samples
+Marketplace
+Datacenters
+Community
+Community
+Blog
+Azure Updates
+Tech Community
+Events
+Careers
+Education
+Students
+Startups
+Support
+Support
+Forums
+Azure Status Dashboard
+Support
+Account
+Account
+Microsoft Azure portal
+Preview Features
+Privacy data management
+Trusted
+Trusted
+Security
+Privacy
+Compliance
+Hello from Seattle.
+English (US)
+Čeština
+Dansk
+Deutsch
+English (Australia)
+English (Canada)
+English (India)
+English (UK)
+Español
+Español (MX)
+Français
+Français (Canada)
+Íslensku
+Italiano
+Magyar
+Norsk
+Nederlands
+Polski
+Português (Brasil)
+Português
+Svenska
+Türkçe
+P
+
+
+()
+()
+US Dollar ($)
+Euro ()
+British Pound (£)
+Australian Dollar ($)
+Indian Rupee ()
+Canadian Dollar ($)
+Argentine Peso ($)
+Australian Dollar ($)
+Brazilian Real (R$)
+British Pound (£)
+Canadian Dollar ($)
+Danish Krone (kr)
+Euro ()
+Hong Kong Dollar (HK$)
+Indian Rupee ()
+Indonesian Rupiah (Rp)
+Japanese Yen (¥)
+Korean Won ()
+Malaysian Ringgit (RM$)
+Mexican Peso (MXN$)
+New Zealand Dollar ($)
+Norwegian Krone (kr)
+Russian Ruble ()
+Saudi Riyal (SR)
+South African Rand (R)
+Swedish Krona (kr)
+Swiss Franc (chf)
+Taiwanese Dollar (NT$)
+Turkish Lira (TL)
+US Dollar ($)
+Nutzungsbedingungen
+Impressum
+Contact Us
+Feedback
+Trademarks
+Privacy & Cookies
+Terms of use
+© 2020 Microsoft

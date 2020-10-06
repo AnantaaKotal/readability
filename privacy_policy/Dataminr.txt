@@ -1,0 +1,155 @@
+Privacy Policy   Dataminr
+<img
+height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=72759&amp;fmt=gif">
+Products
+For Businesses
+For Public Sector
+For Newsrooms
+Technology
+Resources
+Resource Center
+Blog
+About
+About Us
+Leadership
+Careers
+Press
+Clients
+Awards
+Contact Us
+Login   Support
+Products
+For Businesses
+For Public Sector
+For Newsrooms
+Technology
+Resources
+Resource Center
+Blog
+About
+About Us
+Leadership
+Careers
+Press
+Clients
+Awards
+Contact Us
+Privacy Policy
+Introduction
+This Privacy Policy (the Policy) describes how we at Dataminr, Inc., and our affiliates, use and disclose personal data that we collect from and about you when you use our products, services, and website ( www.dataminr.com ), and when we process your data for use in our products and services (collectively, Services). This Policy explains the types of personal data we collect and process, how we may use and share the data, and the choices that are available to you with respect to our handling of your data.
+This Policy applies to all users of our Services across the world. If you are a resident of the European Economic Area, you have some additional rights which are explained in this Policy.
+If you have any questions about our data collection practices, please contact us at
+privacy@dataminr.com .
+Information We Collect
+We collect information about users of our Servicesincluding customers, potential customers, and website visitorsin the normal course of our business. We also obtain publicly-available information from social media users for use in our news alerting services.
+Information You Provide to Us.
+We collect information about users of our Services in the normal course of our business to help us to contact you and do business with you. The types of information we collect include contact information such as name, username, email address, mailing address, and telephone numbers. We also may collect information about your companys size, industry and location, email requests you send to us, and transactional information regarding how you interact with our Services.
+Log Data.
+We receive Log Data when you visit our website, sign into our Services, or when you choose the way your Services are delivered to you, including but not limited to, interacting with our email notifications or using your account to authenticate or integrate into a third-party application. This Log Data may include internet protocol (IP) addresses, browser data, operating system statistics, date/time stamp, pages visited, device information (including device and application IDs), search terms, and/or cookie information. We may combine this automatically collected Log Data with other information we collect about you. We also receive Log Data when you click on, view, or interact with links in our Services, including links to third-party applications you may choose to use (such as Slack) through Dataminr.
+Cookies, Web Beacons and Similar Technologies.
+Dataminr and its partners use technologies such as cookies, beacons and tags to provide, monitor, analyze, promote, and improve our Services. We use cookies (small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser) to identify our users and recognize you when you return. Cookies also enable us to customize user experiences through our Services. We use a Local Storage API to store content information and preferences.
+Location.
+If you have chosen to access Services through your mobile device (iOS or Android), and opt-in to do so, we will receive location data, which we use to provide better features and Services to you.
+Information From Social Media and Other Sites.
+Dataminr curates and distributes real-time breaking news alerts and summaries for our customers. To do this, we process publicly-available information we gather from social media and other sites. This information includes:
+Profile information, such as users usernames, followers and following count, URL, location, language, tags, profile image, verified status, and hashtags;
+Profile content, such as description, occupation type, preferred channels, and likes; and
+Content of posts and other social media activity, such as tweets and status updates, timestamp, hashtags and language used, geolocation prediction of posts, and reposts.
+Information From Other Sources.
+We may obtain information from other sources and combine that with information we collect through our Services. For example, we may obtain information about you from third parties, including but not limited to mailing list providers and publicly available sources.
+How We Use the Information We Collect
+Information From Social Media and Other Sites.
+We use the information we collect from customers to:
+operate and develop our Services;
+create customer accounts;
+contact customers for administrative purposes (e.g., sending details on account creation);
+provide customer service;
+identify, diagnose, and repair problems with customer accounts and/or use of our Services;
+evaluate use of our Services;
+personalize our Services to customers;
+market the Services;
+investigate and help prevent potentially unlawful activity or activity that threatens the network; and
+enforce our policies and procedures and protect our rights and intellectual property, as well as the rights of others using our Services.
+Social Media Information.
+We use the information we obtain from social media and other sites to provide breaking news alerts to our customers. We also use this information to enhance our Services and produce insights and aggregate reports for our customers.
+How We Share Information
+Customer Information.
+Generally, we disclose the information we collect from and about our customers to provide our Services, to communicate with customers, to advertise our Services, to facilitate changes to or transfers of our business, as required by law, or with customers consent. For instance, we may share the information we collect as follows:
+With service providers who perform services for us (including cloud services, email communications, data storage, sales, marketing, investigations, payment processing, customer support, and bill collection);
+With third party websites and applications that link with our Services (in some cases, linking Dataminr accounts with a third-party site or app will require that the customer grant Dataminr access to their account and data on that third-party service);
+If we believe disclosure is necessary and appropriate to prevent physical, financial, or other harm, including to protect against fraud or credit risk;
+To legal, governmental, or judicial authorities, as required by those authorities and applicable laws, or in relation to a legal activity, such as in response to a subpoena or investigation of suspected illicit or illegal activities, or where we believe in good faith that users may be engaged in illicit or illegal activities;
+In connection with, or during negotiations for, an acquisition, merger, asset sale, or other similar business transfer that involves all or substantially all of our assets where personal data is shared as part of the business assets (provided that the recipient agrees not to use or disclose such personal data in a manner that is inconsistent with this Policy without customer consent); and
+With customers consent or at their direction, such as when a customer chooses to share information with Dataminr or publicly post content and reviews.
+These third parties agree to receive and use such information solely to provide services to us or on our behalf. We do not share, sell, rent, or trade any information we collect from our customers with third parties for their promotional purposes.
+Information From Social Media and Other Sites.
+To provide our Services, we regularly disclose publicly-available information gathered on social media and other sites to our customers.
+Advertising and Analytics Services Provided by Others
+We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications (this does not apply to use of our news alerting services). These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by Dataminr and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit
+www.aboutads.info/choices
+Notice to Residents of Countries Outside the U.S.
+Dataminr is headquartered in the United States, with offices and computers in several places around the world. We also use service providers whose computers may also be in various countries. We may transfer the personal information we collect about you to the United States and countries outside of the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you originally provided the information. By providing us with your Personal Information, you consent to this kind of transfer. Regardless of where your data is located, we comply with applicable law and this policy. We will always strive to protect the privacy and security of your information regardless of where it is processed and stored.
+We may also work with other websites or platforms to serve ads to you as part of a customized campaign, such as by sharing a hashed version of your email address with those platforms. You may control those ads using the settings available on those platforms.
+Third Party Sites
+Our Services may link to or connect with other third-party websites (Third Party Sites) to help us enhance, understand and improve your use of our Services. To enhance your use of our Services, you can choose various ways to have our Services delivered to you. For some of these options, you may need to grant us third party permission to access your account and we may receive certain information including your use of that site or application. Our Privacy Policy does not apply to Third Party Sites, and we do not control their use of the information. The collection and use of information by the Third Party Sites is governed separately by the privacy policies of such sites.
+Your Choices
+Dataminr Customers and Website Visitors.
+You can make choices regarding what personal data we collect from you, how we use that information, and how we communicate with you. You can:
+Review and control certain types of information connected to your Dataminr account.
+View and edit your Dataminr account preferences, including the way you receive our Services.
+Opt out of the collection and use of certain information.
+You may set your browser to block all cookies, including cookies associated with our Services, or to indicate when a cookie is being set. It is important to remember, however, that our Services may not function properly if your cookies are disabled.
+You may unsubscribe from receiving marketing or other commercial emails from Dataminr by following the instructions included in the email or changing your email preferences in your account settings. Even if you opt out of receiving such communications, we may send you non-marketing communications (such as Services-related communications or notices required by law).
+Social Media Users Connecting to Dataminr Through Social Media Sites.
+Dataminr may obtain social media users publicly-available information to the extent such users choose to connect with Dataminr through social media. We only obtain private social media information if the social media user has granted Dataminr access to their profile (e.g., by adding Dataminr on a social media site). Social media users who do not want their data processed by Dataminr can make their account or posts private or remove Dataminr from their followers. Dataminr will not share with its customers any social media post that has been removed or marked private.
+How We Protect the Information We Collect
+Dataminr maintains administrative, technical and physical safeguards designed to protect the personal data you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+Privacy Act Systems of Records
+When Dataminr operates a system of records subject to the Privacy Act of 1974 or comparable U.S. government agency regulations, including any use of information contained in such a system of records, our use and disclosure of that information (Privacy Act Information) is subject to the applicable Systems of Records Notice and applicable agency regulations, which control to whatever extent they may conflict with this Policy. Dataminr employees who create, receive or otherwise handle Privacy Act Information are required to undergo initial and annual Privacy Act training as a condition of their access to the information. Dataminr prohibits any unauthorized use of a system of records or unauthorized disclosure, access, handling, or use of Privacy Act Information. Any person can report a suspected or confirmed breach of Privacy Act Information, or the unauthorized disclosure, access, handling, or use of Privacy Act Information, to Dataminr using the contact information below.
+International Data Transfers
+Dataminr is headquartered in the United States, and we have operations, entities, and service providers in the United States and throughout the world. As such, we and our service providers may transfer your personal data to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. If you are in the European Economic Area (the EEA), we provide adequate protection for the transfer of personal data to countries outside of the EEA through a series of intercompany agreements based on the Standard Contractual Clauses authorized under EU law. You are entitled to obtain a copy of these agreements by contacting us using the contact information below.
+Residents of the European Economic Area
+If you are a resident of the EEA, you have certain rights and protections under the law regarding the collection, processing, and use of information about you.
+Basis for Processing.
+If you are a resident of the EEA, when we process your personal data we will only do so in the following situations:
+We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the Services you have requested).
+We have a legitimate interest in processing your personal data. For example, we process public social media posts to provide breaking news alerts to our customers, and we process personal data collected from our customers to send them marketing communications, to communicate with them about changes to our Services, and to provide, secure, and improve our Services.
+Requests to Access, Correct, or Delete Personal Data.
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, updated, restricted, or erased. If you would like to exercise any of these rights, you can log into your Dataminr account. Alternatively, you may contact us as indicated below.
+Questions or Complaints.
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. Please see here for contact details of your local Data Protection Authority:
+http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm .
+Data Retention
+We will retain your information for as long as necessary to provide our Services to you and others, to comply with our legal obligations, to resolve disputes, and to enforce our agreements. We may also retain information from accounts disabled for violation of our terms for at least a year to prevent repeat abuse or other violations of our terms.
+Links to Other Websites
+Our Services may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with Dataminr. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit those websites. We are not responsible for the content, privacy practices, or use of any websites that are not affiliated with Dataminr.
+Policy Changes
+We may change this Privacy Policy from time to time. If we do this, we will post the changes on this page and will indicate at the top of this page the date this Privacy Policy was last revised. If we make any material changes, we will provide you with additional notice. You should periodically visit this page to review the current Privacy Policy and stay informed of our personal data practices.
+Contact Information
+If you have any questions about this Policy or our data protection practices, please email us at
+privacy@dataminr.com
+or contact us at the following address:
+Dataminr, Inc.
+6 East 32nd Street, Second Floor
+New York, NY 10016
+Last updated: October 17, 2019
+Products
+Dataminr for Businesses
+First Alert for Public Sector
+Dataminr for Newsrooms
+Resources
+All Resources
+Blog
+Case Studies
+eBooks
+Infographics
+Webinars
+About
+About Us
+Leadership
+Careers
+Press
+Clients
+Awards
+Contact Us
+©2020 Dataminr / Terms of Use / Privacy Policy

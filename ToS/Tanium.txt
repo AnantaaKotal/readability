@@ -1,0 +1,331 @@
+Terms of Use  
+Tanium
+See Tanium Live
+Blog
+Community
+Training
+User Research
+Support
+Documentation
+Knowledge Base
+Discussion Forum
+Partners
+Systems Integrators and Consultants
+Solution Providers
+Technology Alliances
+Managed Service Providers
+About
+Press
+Leadership
+Careers
+Events
+Contact Us
+Solutions
+Overview
+Tanium provides two solution packages: Unified Endpoint Management and Unified Endpoint Security. This approach reduces complexity, improves efficiency and closes the gaps between operations and security.
+REQUEST A FREE IT GAP ASSESSMENT
+Tanium Solutions
+Unified Endpoint Management (UEM)
+Asset Discovery and Inventory
+Patch Management
+Software Management
+Configuration Management
+Performance Monitoring
+Unified Endpoint Security (UES)
+Asset Discovery and Inventory
+Data Risk and Privacy
+Endpoint Detection and Response
+Vulnerability and Configuration Management
+Endpoint Protection
+Industries
+Federal Government
+Financial Services
+Healthcare
+Higher Education
+Retail
+State and Local Government
+Products
+Tanium Core
+The Tanium Platform
+Unified endpoint management and security for unparalleled speed, visibility and control as proven in top organizations.
+See a Tanium Demo
+IT Operations
+Tanium Asset
+Hardware and software inventory and usage tracking.
+Tanium Deploy
+Operating system and application installation, update and removal.
+Tanium Discover
+Unmanaged hardware and software discovery.
+Tanium Map
+Application component, dependency and relationship mapping.
+Tanium Patch
+Operating system and application patch management.
+Tanium Performance
+End user experience management.
+Risk and Security
+Tanium Comply
+Vulnerability management and configuration compliance.
+Tanium Integrity Monitor
+Operating system, application and log file monitoring for compliance.
+Tanium Protect
+Native operating system security controls management.
+Tanium Reveal
+Sensitive data discovery and management.
+Tanium Threat Response
+Threat detection, investigation and response.
+Initiatives
+Initiatives
+Tanium plays an integral role in a virtuous ecosystem to address key initiatives for IT operations and security teams. Below are a few areas where Tanium can help you in your digital transformation.
+See a Tanium demo
+Key Initiatives
+Tanium for Your Distributed Workforce
+Tanium for Mergers & Acquisitions
+Tanium for IT Hygiene
+Tanium for Cost Optimization
+Tanium for Cloud
+Tanium for Compliance & Data Privacy
+Customer Success
+Our Commitment
+Tanium provides an unparalleled unified endpoint management and security platform for the ultimate control and visibility at scale. But our true differentiator is our relentless commitment to customer success. Dedicated Technical Account Managers and Success Teams will partner with you to drive critical business results.
+Contact us to learn more
+Case Studies
+AutoNation
+Barclays
+GoDaddy
+K&L Gates
+Retail Customer
+Sutter Health
+The United States Navy
+Whirlpool
+Resources
+Resource Library
+Data Sheets
+Analyst Research
+Solution Briefs
+Webinars
+White Papers
+See Tanium Live
+Blog
+Community
+Support
+Partners
+About
+Contact Us
+Terms of Use
+Last Updated: May 14, 2019
+Welcome, and thank you for your interest in Tanium Inc. and its affiliates ( Tanium ,  we , or  us ) and our website at
+www.tanium.com
+(together with any other websites owned and/or operated by us, our  Site ). These Terms of Use, including the binding arbitration provisions in Section 22, are a legally binding contract between you and Tanium regarding your access and use of the Site.
+Please read the following terms carefully. By accessing or using the information, content, documentation, sample code, tools, or other materials made available by Tanium in, on, or through the Site (the  Materials ), or submitting content to the Site, you acknowledge that you have read, understood, and agree to be bound by the following terms and conditions (together, the  Terms ). If you are not eligible (as set forth in Section 2 below), or do not agree to the Terms, then you do not have our permission to use the Site.
+1.    Tanium Site Overview.
+The Site provides Materials primarily related to Tanium and its security and systems management software and support (the  Tanium Software ).
+2.
+Eligibility.
+By agreeing to these Terms, you represent and warrant to us that: (a) you are at least 18 years of age; (b) you have not previously been suspended or removed from the Site; and (c) your registration (where applicable) and your use of the Site is in compliance with all applicable laws and regulations. If you are using the Site on behalf of an entity, organization, or company (Represented Entity), you represent and warrant that you have the authority to bind that organization to these Terms, you agree to be bound by these Terms on behalf of that organization, and all references to you shall include such entity. By accessing or using the Site you agree to comply with the
+Tanium Rules of Conduct , which are part of these Terms and are hereby incorporated herein.
+3.    Accounts and Registration.
+To access certain features of the Site, including the Tanium Community currently located at
+https://community.tanium.com
+(the  Tanium Community ), you must register for an account. When you register for an account, you may be required to provide us with some information about yourself, such as your email address or other contact information. You agree that the information you provide to us is accurate and that you will keep it accurate and up-to-date at all times. When you register, you will be asked to create a password. You are solely responsible for maintaining the confidentiality of your account and password, and you accept responsibility for all activities that occur under your account. Tanium reserves the right to refuse access to certain areas of the Site, including the Tanium Community to anyone, at any time, without notice and for any reason. If you have reason to believe that your account is no longer secure, then you must immediately notify us at
+[email protected] .
+4.    Use of Software.
+Any use by you of Tanium Software is subject to other agreements such as an End User License Agreement or a Master License and Services Agreement that accompanies or is included with the Tanium Software or is signed by you ( Tanium License Terms ).
+5.    Privacy Policy.
+Please read the Tanium Privacy Policy carefully for information relating to our collection, use, storage and disclosure of any information which you may enter into the Site as well as other information collected about you when you use the Site. By providing personal information to Tanium, you consent to the terms of the
+Tanium Privacy Policy , which is incorporated by this reference into, and made a part of, these Terms.
+6.   You may not use the Site or Materials in any manner that negatively impacts Tanium or its authorized users, including to compete with Tanium. You may download, store, display on your computer, view, listen to, play and print Materials published or broadcast on the Site or made available for download through the Site subject to the following: (a) except as otherwise set forth in these Terms, the Materials may be used solely for informational, noncommercial purposes for your benefit; and may not be modified or altered in any way; and (b) the Materials may not be redistributed.
+7.    Third Party Links.
+The Site may contain links to third party sites such linked sites are not under our control and we are not responsible for the content of any linked site or any link contained in a linked site. We reserve the right to remove any links at any time. Inclusion of a link does not imply endorsement by Tanium of third party companies or products. If you decide to access any of the third party sites linked you do so entirely at your own risk.
+8.    User Content
+8.1
+User Content Generally.
+Certain features of the Site, including the Tanium Community, may permit users to upload content to the Site, including (i) images, video, data, text, source code, and other types of works, and (ii) questions and answers about the Tanium Software, (iii) use cases, integration information and sample queries for use with the Tanium Software ( User Content ).
+8.2    User Content Submitted by You.
+By submitting User Content to the Site, you acknowledge and agree that: (i) you have authorized the public distribution of the User Content; (ii) Tanium is not under any obligation of confidentiality, express or implied, with respect to such User Content; (iii) Tanium shall be entitled to use or disclose (or choose not to use or disclose) such User Content for any purpose, in any way, in any media worldwide, including to create features and/or functionality of the Tanium Software; (iv) Tanium may have something similar to such User Content already under consideration or in development and does not waive any rights to use similar or related ideas, including to the extent previously known or developed by Tanium or obtained from sources other than you; (v) you are not entitled to any compensation or reimbursement of any kind from Tanium for such User Content under any circumstances.
+8.3    License Grant to User Content.
+By posting User Content you grant Tanium and any users of the Site a worldwide, perpetual, non-exclusive, sublicenseable, irrevocable, royalty-free, fully paid up right and license under all of your intellectual property rights, to host, store, transfer, display, use, make, sell, perform, reproduce, modify, distribute and otherwise fully exploit your User Content, in whole or in part, for any and all purposes.
+8.4    User Content Representations and Warranties.
+You are solely responsible for your User Content and the consequences of posting, using or publishing User Content. By posting or publishing User Content, you represent and warrant that: you are the creator and owner of the User Content, or have the necessary licenses, rights, consents, and permissions to authorize Tanium and users of the Site to use and distribute your User Content as necessary to exercise the licenses granted by you above, in the manner contemplated by Tanium, the Site, and these Terms, including the authorization of a Represented Entity if required; and your User Content, and the use of your User Content as contemplated by these Terms, does not and will not: (i) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) violate any of the
+Tanium Rules of Conduct ; or (iii) cause Tanium or any third parties to violate any law or regulation.
+8.5    User Content Disclaimer.
+We are under no obligation to monitor, edit or control User Content that you or other users post or publish, and will not in any way be responsible or liable for User Content, including any actions you may take based on User Content. Tanium may, however, at any time and without prior notice, screen, remove, edit, or block any User Content, including any such User Content that in our sole judgment violates these Terms or is otherwise objectionable. You understand that when using the Site you will be exposed to User Content from a variety of sources and acknowledge that User Content may be inaccurate, offensive, indecent, or objectionable or have unintended consequences. You agree to waive, and do waive, any legal or equitable right or remedy you have or may have against Tanium with respect to User Content. We expressly disclaim any and all liability in connection with User Content.
+8.6   No materials or content made available through the Site, including the Tanium Community, constitutes a promise or undertaking by Tanium, including a promise or undertaking to develop, incorporate, implement, or take any other action regarding an idea, or to refrain from doing so. Any unreleased product or service (including any related feature) discussed on the Tanium Community or elsewhere may not be made available on time or at all, notwithstanding any comments Tanium or its representatives may make. You hereby acknowledge and agree that any decision to purchase or use any Tanium product or service will be based on the then-existing version and features of such product or service, and not on any unreleased or expected version or features.
+9.    Additional Provisions Regarding Tanium Community.
+The Tanium Community is provided as a convenience to users and Tanium is not obligated to provide any technical support for, or participate in, the Tanium Community. Any information you provide as part of your participation in the Tanium Community may be transferred to third parties such as Slack that provide additional functionality for the Tanium Community. By accessing or using such third-party functionality, you agree that these terms including the
+Tanium Rules of Conduct
+apply to your access and use in addition to any additional terms governing the functionality provided by the third party. While the Tanium Community may include information regarding Tanium Software, including information from Tanium employees, the Tanium Community is not an official customer support channel for Tanium. You may use the Tanium Community subject to the following: (a) User Content and/or Materials may be used solely in connection with your authorized use of the Tanium Software; (b) User Content and/or Materials provided on or through the Tanium Community may not be redistributed or used to compete with Tanium; and (c) personal data about other users may not be stored or collected except where and to the extent expressly authorized by Tanium. Your use of Tanium Community content is without support or testing services of any kind and is not recommended for use in production environments. Tanium does not guarantee that Tanium Community content will work for your purposes or that they are free from security exposures, bugs, defects or other issues. Tanium Community content is provided as is. You alone bear the risk of using this service. Tanium will bear no liability whatsoever with respect to the content. Tanium provides no indemnification, express warranties or guarantees with regard to Tanium Community content. To the extent permitted under applicable law, Tanium excludes implied warranties and conditions of merchantability, fitness for a particular purpose, workmanlike effort, title and non-infringement. Your use of Tanium Community content is not subject to any commitments provided by Tanium under any other agreements Tanium may have with you. Tanium reserves to remove or replace content from Tanium Community at any time. Tanium further reserves the right to incorporate any content into Tanium commercial products, subject to separate terms and conditions for those commercial products.
+10.    Sample Code and API Documentation.
+Certain portions of the Site contain computer program examples, along with associated documentation and other example files or directories provided by Tanium ( Sample Code ) that assist third parties in building integrations to Taniums application programming interfaces that enable external applications to access Tanium Software (e.g., via SOAP- or REST-based interfaces) ( Tanium APIs ). This Section 10 applies to your use of the Sample Code.
+10.1    License.
+Tanium hereby grants to you a worldwide, non-exclusive, non-transferable, non-sublicensable license during the term of these Terms and subject to your compliance with these Terms to internally use, modify, create derivative works of and make a reasonable number of copies of the Sample Code, for the sole purpose of developing and testing an integration ( Integration Software ) to Tanium Software.
+10.2    Restrictions on Sample Code.
+The license to the Sample Code set out above does not grant you any rights to any Tanium intellectual property other than the Sample Code. In addition, you will not yourself, nor through any affiliate, agent or third party, use, modify, reproduce, create derivative works of or distribute the Sample Code except as necessary to develop Integration Software.
+10.3    No Commercialization.
+Integration Software shall be for your internal business use only. You may not use the Tanium APIs for any commercial purpose or to compete with Tanium. You may not publicly claim or advertise an integration with Tanium based on your use of the Sample Code. If you want to develop Integration Software for commercial use please contact Tanium.
+10.4    Liability.
+You shall be solely responsible for the Integration Software and shall indemnify, defend and hold the Tanium Entities (as defined below) harmless from and against every claim, liability, damage, loss, and expense, including reasonable attorneys fees and costs, arising out of or in any way connected with the Integration Software.
+10.5    Additional Terms .
+Tanium is not obligated to provide any testing or technical support for any Sample Code or Integration Software. Tanium does not guarantee that the Sample Code will work for your purposes or that it is free from security exposures, bugs, defects or other issues. Sample Code is provided as is. You alone bear the risk of using Sample Code. Tanium will bear no liability whatsoever with respect to Sample Code and provides no indemnification, express warranties or guarantees with regard to Sample Code. To the extent permitted under applicable law, Tanium excludes implied warranties and conditions of merchantability, fitness for a particular purpose, workmanlike effort, title and non-infringement with respect to Sample Code. Your use of the Sample Code is not subject to any commitments provided by Tanium under any other agreements Tanium may have with you. Tanium reserves to remove or replace Sample Code at any time.
+11.    Digital Millenium Copyright Act
+11.1
+DMCA Notification.
+We comply with the provisions of the Digital Millennium Copyright Act applicable to Internet service providers (17 U.S.C. §512, as amended). If you have an intellectual property rights-related complaint about any material posted on the Site, including User Content, you may contact our designated copyright agent at the following address:
+Tanium Inc . ATTN: Legal Department (Copyright Notification) 2100 Powell Street, Suite 300 Emeryville, CA 94608
+Email:
+[email protected]
+Any notice alleging that materials hosted by or distributed through the Site infringe intellectual property rights must include the following information:
+ an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other right being infringed;
+ a description of the copyright-protected work or other intellectual property right that you claim has been infringed; a description of the material that you claim is infringing and where it is located on the Site;
+ your address, telephone number, and email address;
+ a statement by you that you have a good faith belief that the use of those materials on the Site is not authorized by the copyright owner, its agent, or the law; and
+ a statement by you that the above information in your notice is accurate and that, under penalty of perjury, you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owners behalf.
+11.2    Repeat Infringers.
+Tanium will promptly terminate the accounts of users that are determined by Tanium to have repeatedly posted or shared User Content that may infringe the rights of others.
+12.    Export Compliance.
+The Materials, User Content and derivatives thereof may be subject to export and import laws and regulations of the United States and other jurisdictions. You represent that you are not named on any U.S. government denied-party list. You will not permit any access to or use any Materials or User Content in or from a U.S.-embargoed country (currently Cuba, Iran, North Korea, Sudan, and Syria) or in violation of any export or import law or regulation of any jurisdiction.
+13.    Termination of Use; Discontinuation and Modification of the Site.
+You may terminate your account at any time by contacting customer service at
+[email protected]
+If you violate any provision of these Terms, your permission from us to use the Site will terminate automatically. In addition, Tanium may in its sole discretion terminate your user account on the Site or suspend or terminate your access to the Site at any time for any reason or no reason, with or without notice. We also reserve the right to modify or discontinue the Site at any time (including by limiting or discontinuing certain features of the Site), temporarily or permanently, without notice to you. We will have no liability whatsoever on account of any change to the Site or any suspension or termination of your access to or use of the Site.
+14.    Modification of these Terms.
+We reserve the right, at our discretion, to change these Terms on a going-forward basis at any time. Please check these Terms periodically for changes as indicated by the Last Updated Date at the top. By continuing to access or use the Site after these Terms have changed, you indicate your agreement to the revised Terms. If you do not agree to the changes, you should stop accessing or using the Site. Disputes arising under these Terms will be resolved in accordance with the version of these Terms that was in effect at the time the dispute arose.
+15.    Ownership; Propriety Rights.
+The Site is owned and operated by Tanium. The visual interfaces, graphics, design, compilation, information, documents, data, software, computer code (including source code or object code), Sample Code, services, and all other elements of the Site provided by Tanium (Materials) are protected by intellectual property and other laws. All Materials contained in the Site are the property of Tanium or our third-party licensors. Except as expressly authorized by Tanium, you may not make use of the Materials. Tanium reserves all rights to the Materials not granted expressly in these Terms.
+16.    Feedback.
+If you choose to provide input and suggestions regarding problems with or proposed modifications or improvements to the Site or the Tanium Software (collectively, Feedback), then you hereby grant Tanium an unrestricted, perpetual, irrevocable, non-exclusive, fully-paid, royalty-free right to exploit the Feedback in any manner and for any purpose, including to improve the Site or the Tanium Software.
+17.    Indemnity.
+You are responsible for your use of the Site, and you will defend and indemnify Tanium and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the Tanium Entities) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys fees and costs, arising out of or in any way connected with:
+(a) your access to, use of, or alleged use of, the Site;
+(b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation;
+(c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy right; or
+(d) any dispute or issue between you and any third party.
+We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
+18.    Disclaimers; No Warranties
+THE SITE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SITE ARE PROVIDED AS IS AND ON AN AS AVAILABLE BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED. THE TANIUM ENTITIES DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SITE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SITE, INCLUDING: (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE TANIUM ENTITIES DO NOT WARRANT THAT THE SITE OR ANY PORTION OF THE SITE, OR ANY MATERIALS OR CONTENT OFFERED THROUGH THE SITE, WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE SITE OR ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SITE WILL CREATE ANY WARRANTY REGARDING ANY OF THE TANIUM ENTITIES, THE TANIUM SOFTWARE OR THE SITE THAT IS NOT EXPRESSLY STATED IN THESE TERMS. YOU ASSUME ALL RISK FOR ANY DAMAGE THAT MAY RESULT FROM YOUR USE OF OR ACCESS TO THE SITE, YOUR DEALING WITH ANY OTHER SITE USER, AND ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SITE. YOU UNDERSTAND AND AGREE THAT YOU USE THE SITE, AND USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAIN MATERIALS OR USER CONTENT THROUGH THE SITE AT YOUR OWN DISCRETION AND RISK, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR NETWORK, ENDPOINTS, COMPUTER SYSTEM OR MOBILE DEVICES USED IN CONNECTION WITH THE SITE), OR THE LOSS OF DATA THAT RESULTS FROM THE USE OF THE SITE OR THE DOWNLOAD OR USE OF THAT MATERIAL OR USER CONTENT.
+SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF WARRANTIES AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION
+19.    Limitation of Liability
+IN NO EVENT WILL THE TANIUM ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, DATA, GOODWILL, OR ANY OTHER INTANGIBLE LOSS, ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SITE OR ANY MATERIALS OR USER CONTENT ON THE SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT ANY TANIUM ENTITY HAS BEEN INFORMED OF THE POSSIBILITY OF DAMAGE.
+THE AGGREGATE LIABILITY OF THE TANIUM ENTITIES TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE USE OF OR ANY INABILITY TO USE ANY PORTION OF THE SITE, ANY MATERIALS OR USER CONTENT ON THE SITE, OR OTHERWISE UNDER THESE TERMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO $100.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES. ACCORDINGLY, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+EACH PROVISION OF THESE TERMS THAT PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER OF WARRANTIES, OR EXCLUSION OF DAMAGES IS INTENDED TO AND DOES ALLOCATE THE RISKS BETWEEN THE PARTIES UNDER THESE TERMS. THIS ALLOCATION IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN THE PARTIES. EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THESE TERMS. THE LIMITATIONS IN THIS SECTION 19 WILL APPLY EVEN IF ANY LIMITED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+20.    Governing Law.
+These Terms are governed by the laws of the State of California without regard to conflict of law principles. If a lawsuit or court proceeding is permitted under these Terms, then you and Tanium agree to submit to the personal and exclusive jurisdiction of the state courts and federal courts located within San Francisco, California for the purpose of litigating any dispute.
+21.    General.
+These Terms, together with the
+Privacy Policy
+and any other agreements expressly incorporated by reference into these Terms, are the entire and exclusive understanding and agreement between you and Tanium regarding your use of the Site. Except as expressly permitted above in Section 14, these Terms may be amended only by a written agreement signed by authorized representatives of all parties to these Terms. You may not assign or transfer these Terms or your rights under these Terms, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign these Terms at any time without notice or consent. The failure to require performance of any provision will not affect our right to require performance at any other time after that, nor will a waiver by us of any breach or default of these Terms, or any provision of these Terms, be a waiver of any subsequent breach or default or a waiver of the provision itself. Use of section headers in these Terms is for convenience only and will not have any impact on the interpretation of any provision. If any part of these Terms is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible, and the remaining parts will remain in full force and effect. Upon termination of these Terms, Sections 2, 4  6, 8 -12, and 15 through 23, along with the
+Privacy Policy
+and any other accompanying agreements, will survive.
+22.    Dispute Resolution and Arbitration
+22.1    Generally.
+In the interest of resolving disputes between you and Tanium in the most expedient and cost effective manner, you and Tanium agree that, unless prohibited by law, every dispute arising in connection with these Terms will be resolved by binding arbitration. This agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of these Terms, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND TANIUM ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+22.2    Exceptions.
+Notwithstanding the foregoing, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.
+22.3    Arbitration Rules.
+If you are based in the United States, any arbitration between you and Tanium will be governed by the Commercial Arbitration Rules and Mediation Procedures (collectively, AAA Rules) of the American Arbitration Association (AAA) and will be held in San Francisco, California. Otherwise, any arbitration between you and Tanium will be governed by the Rules of Arbitration of the International Chamber of Commerce and will be held in the English language in London, United Kingdom.
+22.4    No Class Actions.
+YOU AND TANIUM AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and Tanium agree otherwise, the arbitrator may not consolidate more than one persons claims, and may not otherwise preside over any form of a representative or class proceeding.
+22.5    Enforceability.
+If this Section 22 is found to be unenforceable, the parties agree that the exclusive jurisdiction and venue described in Section 20 will govern any action arising out of or related to these Terms.
+23.    Consent to Electronic Communications.
+By using the Site, you consent to receiving certain electronic communications from us as further described in our
+Privacy Policy . Please read our
+Privacy Policy
+to learn more about our electronic communications practices. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that those communications be in writing.
+24.    Contact Information.
+The Site is offered by Tanium Inc., located at 2100 Powell Street, Suite 300, Emeryville, CA 94608. You may contact us by sending correspondence to that address or by emailing us at
+[email protected] .
+English
+Français
+Deutsch
+
+About
+About
+Press
+Leadership
+Careers
+Events
+Blog
+Security
+Resources
+Data Sheets
+Analyst Research
+Solution Briefs
+Webinars
+White Papers
+Support
+Community
+Documentation
+Knowledge Base
+Discussion Forum
+Customer Success
+AutoNation
+Barclays
+GoDaddy
+K&L Gates
+Retail Customer
+Sutter Health
+The United States Navy
+Whirlpool
+Partners
+Systems Integrators & Consultants
+Solution Providers
+Technology Alliances
+Managed Service Providers
+Policies
+Acceptable Use Policy
+Anti-Corruption Policy
+Cookie Preferences
+Cookie Statement
+End User License Agreement
+Privacy Policy
+Terms of Use
+Trademarks
+Site Map
+Tanium Solutions
+Unified Endpoint Management (UEM)
+Asset Discovery and Inventory
+Configuration Management
+Patch Management
+Performance Monitoring
+Software Management
+Unified Endpoint Security (UES)
+Asset Discovery and Inventory
+Data Risk and Privacy
+Endpoint Detection and Response
+Vulnerability and Configuration Management
+Endpoint Protection
+Industry Solutions
+Federal Government
+Financial Services
+Healthcare
+Higher Education
+Retail
+State and Local Government
+Tanium Core
+For IT Operations
+Tanium Asset
+Tanium Deploy
+Tanium Discover
+Tanium Map
+Tanium Patch
+Tanium Performance
+For IT Risk and Security
+Tanium Comply
+Tanium Integrity Monitor
+Tanium Protect
+Tanium Reveal
+Tanium Threat Response
+© 2020 Tanium Inc. All rights reserved. Tanium is a registered trademark of Tanium Inc. All other trademarks herein are the property of their respective owners.
+We use cookies on our website to support site functionality, session authentication, and to perform analytics. By continuing to use this site you are giving us your consent to do this.
+Learn More
+ 
+Adjust Cookie Preferences
+ 
+Accept
+Our website uses cookies, including for functionality, analytics and customization purposes.
+Learn More
+Agree
+Do Not Agree
+Cookie Preferences

@@ -1,0 +1,172 @@
+Website Terms & Conditions   Automation Anywhere
+ENGLISH
+CLOSE
+ENGLISH
+Português
+English (UK)
+Deutsch
+English (India)
+
+ENGLISH (AUSTRALIA)
+
+ENGLISH (SINGAPORE)
+
+Español
+
+Français
+
+Automation Anywhere Introduces RPA Cloud Packages for Business Continuity and Return-to-Work - Read More
+TRAINING SUPPORT Contact Us Login
+Products Products
+- Home Enterprise End-to-end RPA+AI platform for automating any business process Discovery Bot Fast track automation with AI that uncovers processes and creates bots Bot Insight Real-time RPA analytics delivered at the bot, process and business levels IQ Bot Transform unstructured and hidden data with AI that can learn on its own Bot Store Get field-tested bots and Digital Workers ready to deploy right now Community Edition Instantly start your RPA journey and get full-featured access for FREE Solutions Solutions
+- Home
+By Industry
+Discover how Robotic Process Automation (RPA) and intelligent automation works for your industry
+BPO Insurance Financial Services Life Sciences healthcare Manufacturing Telecom Public Sector
+By Function
+Learn how Automation Anywhere works within different departments and use cases
+Finance & Accounting Human Resources
+By Technology
+Find out how Automation Anywhere works with diverse technologies
+Attended Automation 2.0 ERP Automation Productivity Pack Microsoft Azure Events Events
+- Home
+About Events
+Join us for a live or virtual event. Learn new skills, network with peers, and connect with industry experts
+Webinars Bot Games Imagine Experience Industry Events Resources Resources
+- Home What Is RPA? Learn about automation technologies and what you need to know to get started with RPA Automation Anywhere University Learn RPA and get certified on the worlds leading intelligent automation platform Library Access RPA resources, how-to videos, reports, case studies, ebooks, and more Customer Stories See how customers in every industry apply intelligent automation to solve complex business challenges Research & Reports Get free access to the latest industry research and analyst reports Blog Read the latest insights and news on RPA, intelligent automation, AI and more Partners Find Technology, Business, and Training partners or learn how to become a partner Developers Access the complete set of Automation Anywhere product and developer documentation Community Join A-People community, the fastest-growing RPA network in the world Company Company
+- Home About Us Get to know Automation Anywhere and meet the team enabling business transformation Leadership Team "Ive never met anyone who would go back to the way things were before they had bots at work."  Mihir Shukla, CEO Awards Industry and analyst recognition for Automation Anywhere and our products Press Room Press releases and media resources News Room Read what's trending in RPA and see Automation Anywhere in the news Social Responsibility We're applying RPA technology in ways that empower people and communities from all walks of life Careers Discover career opportunities to create the future of work with us START FREE TRIAL
+Website Terms
+Last Modified: November 5, 2018
+The following terms and conditions (the Terms) constitute a binding agreement between you and Automation Anywhere, Inc. (Automation Anywhere, we , us, or our) with respect to your use of the website
+www.automationanywhere.com , or any sub-domain or other Automation Anywhere website (the Sites), including any Content (as defined in Section 1 below) and User Generated Content (as defined in Section 3 below).
+BY ACCESSING OR USING THE SITES IN ANY MANNER (WHETHER AUTOMATED OR OTHERWISE), YOU (A) ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO THESE TERMS, AND (B) AFFIRM THAT YOU ARE AT LEAST 18 YEARS OF AGE (OR HAVE REACHED THE AGE OF MAJORITY IN THE JURISDICTION WHERE YOU RESIDE). IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SITES.
+We may, at any time, revise or modify these Terms or impose new conditions for use of the Sites. Such changes, revisions or modifications (Changes) shall be effective immediately upon notice to you, which may be given by any means including, without limitation, posting on the Sites or by email. Any use of the Sites by you after such notice shall serve as your acceptance of such Changes.
+Scope of and Restrictions on Use.
+Unless otherwise specified, the Sites and the Content are for your personal and non-commercial use only. Subject to these Terms, Automation Anywhere grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Sites for your personal, non-commercial use (unless otherwise specified), including any computer code, software, applications, files, executable files, comments, messages, posts, graphics, text, instructions, images, audio files, and/or other sounds, videos, and other materials or documents you may view on or access, through the Sites (collectively, the Content). Except as otherwise provided in these Terms, the Content may not be copied, downloaded, or stored in a retrieval system for any other purpose, nor may it be redistributed, reused, or modified for any purpose without the express written permission of Automation Anywhere. Additionally, you agree not to:
+collect information from the Sites using any automated software tool or manually on a mass basis;
+use automated means to access the Sites, or gain unauthorized access to the Sites, or to any account or computer system connected to the Sites;
+obtain, or attempt to obtain, access to restricted or password protected areas of the Sites, except as authorized through your account;
+flood the Sites with requests or otherwise overburden, disrupt, or harm the Sites or our systems;
+take any action to restrict or inhibit other users from accessing or using the Sites;
+modify or delete any copyright, trademark, or other proprietary rights notices that appear on the Sites or in the Content; or
+access or use the Sites for any unlawful purpose or otherwise beyond the scope of the rights granted herein.
+Permission to use Content.
+You may use the Content for your informational, non-commercial use only, unless we agree otherwise in writing. You may not copy or post any Content on any network computer or broadcast it in any media without our prior written agreement. Use of the Content other than as set forth herein is expressly prohibited by law and may result in civil and criminal penalties. You acknowledge and agree that any software, documentation, or other materials or Content downloaded by you for commercial use may be subject to the terms of a separate Automation Anywhere license agreement, and in the event of a conflict between these Terms and any such license agreement, the terms of the license agreement shall prevail.
+User-Generated Content.
+Certain areas of the Sites may enable users to share, create, link, upload, or exchange their own Content (User-Generated Content). You are solely responsible for the content of, and any harm resulting from, any User-Generated Content that you make available through the Sites, regardless of its form. Automation Anywhere is not responsible for any misuse of your User-Generated Content by third parties.
+When you provide User-Generated Content, you grant Automation Anywhere, and any third parties Automation Anywhere provides access to such User-Generated Content, a transferable, royalty-free, sub-licensable, non-exclusive, worldwide license to copy, distribute, modify, reverse engineer, display, broadcast, record, share, create derivative works of, and otherwise use the User-Generated Content. Automation Anywhere reserves the right to remove or modify User-Generated Content for any reason, including if Automation Anywhere believes that the content violates Applicable Law or these Terms (or other specific terms governing use of the Sites).
+By submitting User-Generated Content, you represent and warrant that:
+You own or otherwise have the necessary rights to the submitted User-Generated Content, including, where applicable, the right to grant the rights to us under these Terms, and such User-Generated Content does not infringe any third-party rights (including rights to privacy or publicity) or misappropriate any third-party intellectual property or confidential information;
+To the extent you submit User-Generated Content that includes your personal information, you acknowledge and agree that such User-Generated Content may be disclosed to third parties and Automation Anywhere is not responsible for any unauthorized access to, or misuse of, any personal information in User-Generated Content;
+User-Generated Content you submit will not contain any content that is obscene, defamatory, or libelous;
+You will not submit User-Generated Content with the intent to threaten, harass, abuse, offend, or otherwise harm any recipients of such User-Generated Content; that violate, could cause us or a third party to violate, or encourage us or a third party to violate any applicable law, statute, ordinance, or regulation; or that would violate our, or any third party, proprietary, or intellectual property rights, including unauthorized copyright text, images, programs, trade secrets, or other confidential proprietary information, or use trademarks or service marks in an infringing fashion; and
+You are not, you are not acting on behalf of any person or entity that is, and are not located in or a national or resident of any country that is, subject to U.S. trade sanctions or on any restrictions on exports, re-exports or transfers of items.
+Automation Anywhere reserves the right, but is not required to, monitor and remove User-Generated Content in violation of these Terms. Automation Anywhere does not guarantee that User-Generated Content available through the Sites will be in compliance with these Terms, and specifically does not guarantee that such User-Generated Content will be free of material you may find objectionable or otherwise inappropriate or of malware or other contaminants that may harm your computer, mobile device, systems, programs, or any files therein. Automation Anywhere disclaims all responsibility or liability related to your use of such User-Generated Content or Third Party Materials (as defined in Section 9) available on the Sites. Your submitted suggestions, ideas, comments, and other feedback regarding the Sites or User-Generated Content may be used without any restriction or compensation to you.
+Ownership.
+The Sites and the Content are owned by Automation Anywhere and its licensors and are protected under copyright, trademark, and other applicable United States and international laws and treaties. Without limiting the foregoing, the trademarks, service marks, and logos displayed on the Sites are registered and unregistered marks of Automation Anywhere and its licensors. You acknowledge and agree that, as between you and Automation Anywhere, we are and shall remain the sole owner of the Sites and the Content, including, without limitation, all patents, copyrights, trademarks, trade secrets, and other intellectual property and proprietary rights therein and thereto.
+Account Registration and Security.
+Access to and use of certain areas of the Sites (including
+www.automationanywhereuniversity.com ,
+https://botstore.automationanywhere.com/ , our Customer Community located at
+https://apeople.automationanywhere.com/
+and our partner portal located at
+https://www.automationanywhere.com/partners
+may require you to register for an account and set up a username and password, and may require you to agree to separate terms. You agree to provide true, accurate, current, and complete information about yourself as prompted by the applicable registration or log-in form, and you are responsible for keeping such information up to date. Your username and password are for your exclusive use only and sharing your credentials with another user or using someone elses credentials is not permitted and may result in immediate blocking of your access to the applicable Site. You are responsible and liable for all activities conducted through your account, regardless of who conducts those activities. You are responsible for maintaining the confidentiality of your account information, including your username and password. You agree to immediately notify Automation Anywhere of any unauthorized use of your account, or any other breach of security. You agree that we are not liable for any loss or damage arising from your failure to protect your username or password.
+Privacy Policy.
+You acknowledge and agree that all personal information collected by Automation Anywhere via the Sites is subject to our
+Privacy Policy .
+Other Terms and Conditions.
+Additional terms and conditions (including licenses, non-disclosure agreements, and other agreements) may apply to your access to, use of, or participation in certain Content or portions of the Sites, purchases of goods and services, promotions, or other features. We will notify you if that is the case and, to the extent applicable to your use of the Sites, those terms and conditions are incorporated into these Terms by this reference. In the event of a conflict between these Terms and any such other agreement, the other such agreement will control your access to, use of, or participation in that particular Content, good, service, promotion, or feature. The terms and conditions in the following policies also govern your access to and use of the Content and Sites and are incorporated into these Terms by reference:
+Trademarks
+Bot Store License Agreements
+Any non-disclosure agreements entered into with respect to your use of Content on www.automationanywhereuniversity.com.
+Linking to the Sites.
+You may link to the Sites homepage, provided you do so in a way that is fair and legal and does not damage or take advantage of our reputation, but you must not establish a link in such a way as to suggest any form of association, approval, or endorsement on our part where none exists. You must not establish a link from any website that is not owned by you. The Sites must not be framed on any other website, nor may you create a link to any part of the Sites other than the homepage. You agree to cooperate with us in causing any unauthorized framing or linking immediately to cease. We reserve the right to withdraw linking permission without notice.
+Third Party Materials.
+The Sites may display, include, or make available third-party content (including User-Generated Content, data, information, applications, and other products, services, and/or materials) or provide links to third-party websites or services (collectively, Third Party Materials). You acknowledge and agree that Automation Anywhere is not responsible for Third Party Materials including their accuracy, completeness, timeliness, validity, legality, decency, quality, or any other aspect thereof. Automation Anywhere does not assume and will not have any liability to you or any other person or entity for any Third Party Materials. Third Party Materials and links thereto are provided solely as a convenience to you, and you access and use them entirely at your own risk and subject to such third parties terms and conditions.
+Third Party Platforms.
+Automation Anywhere may provide the Sites to you through third party websites, operating systems, platforms, and portals (collectively, Third Party Platforms). Additional terms and conditions will apply to you with respect to your use of Third Party Platforms which are not under our control. We do not assume any responsibility or liability for your use of such Third Party Platforms.
+10.1 Changes to the Site.
+Automation Anywhere reserves the right to make changes to, suspend, or discontinue (temporarily or permanently) the Sites or any portion thereof (including any Content) at any time. You agree that Automation Anywhere will not be liable to you or to any third party for any such change, suspension, or discontinuance.
+10.2 Suspension/Termination of Access.
+Automation Anywhere has the right to deny access to, and to suspend or terminate your access to, the Sites or to any features or portions thereof, at any time and for any reason, including if you violate these Terms. In the event that we suspend or terminate your access to the Sites, you will continue to be bound by the Terms that were in effect as of the date of your suspension or termination.
+Change and Suspension.
+11.1 Disclaimer of Warranties
+EXCEPT AS OTHERWISE SET FORTH IN WRITING BY AUTOMATION ANYWHERE, THE SITES AND THE CONTENT ARE PROVIDED TO YOU ON AN "AS IS" "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, AND AUTOMATION ANYWHERE HEREBY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. NEITHER AUTOMATION ANYWHERE NOR ANY PERSON ASSOCIATED WITH AUTOMATION ANYWHERE MAKES ANY REPRESENTATION OR WARRANTY WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SITES OR THE CONTENT. WITHOUT LIMITING THE FOREGOING, EXCEPT AS OTHERWISE SET FORTH IN WRITING BY AUTOMATION ANYWHERE. NEITHER AUTOMATION ANYWHERE NOR ANYONE ASSOCIATED WITH AUTOMATION ANYWHERE REPRESENTS OR WARRANTS THAT THE SITES OR THE CONTENT WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE SITES OR THE SERVERS THAT MAKE THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT THE SITES OR THE CONTENT WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
+11.2 Limitation of Liability.
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL AUTOMATION ANYWHERE OR ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, OR SERVICE PROVIDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE SITES OR THE CONTENT, INCLUDING BUT NOT LIMITED TO LOSS OF REVENUE, PROFITS, OR BUSINESS, LOSS OF USE, OR LOSS OF DATA, WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE. IF, NOTWITHSTANDING THE PROVISIONS OF THIS SECTION 12.2, AUTOMATION ANYWHERE IS FOUND LIABLE FOR ANY LOSS, DAMAGE, OR INJURY UNDER ANY LEGAL THEORY RELATING IN ANY WAY TO THE SUBJECT MATTER OF THESE TERMS, IN NO EVENT WILL AUTOMATION ANYWHERES AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY EXCEED THE TOTAL AMOUNT OF FEES, IF ANY, PAID BY YOU TO AUTOMATION ANYWHERE IN THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO THE CLAIM OR U.S. $100.00, WHICHEVER IS LESS. THE FOREGOING LIMITATIONS SHALL APPLY EVEN IF YOUR REMEDIES UNDER THESE TERMS FAIL OF THEIR ESSENTIAL PURPOSE. USE OF THE SITES AND THE CONTENT IS AT YOUR SOLE RISK.
+11.3 Exclusions
+Some jurisdictions do not allow the exclusion or limitation of certain warranties or consequential damages so some of the exclusions and/or limitations in this Section 12 may not apply to you.
+Indemnification.
+You agree to indemnify, defend, and hold Automation Anywhere and its officers, directors, employees, agents, licensors, and service providers harmless from and against any claims, liabilities, losses, damages, judgments, awards, costs, and expenses (including reasonable attorneys fees) arising out of or resulting from your use of the Sites and/or any Content, or any violation of these Terms or applicable law. Your indemnification, defense, and hold harmless obligations will survive the termination of your use of the Sites, and/or these Terms.
+Procedure for Claims of Intellectual Property Infringement. We respect all relevant copyright laws and ask that you do the same. We may, in appropriate circumstances and at our discretion, limit, disable, and/or terminate your access to or use of the Sites or Content if we determine you may be infringing the intellectual property rights of a third party. If you believe that your work has been copied in a way that constitutes copyright infringement or your intellectual property rights have been otherwise violated, please provide the following information to us in writing:
+A description of the copyrighted work claimed to have been infringed; or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+A description of the infringing material and information reasonably sufficient to permit us to locate the material;
+Your contact information, including your address, telephone number, and email;
+A statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+A statement that the information in the notification is accurate and, under the pains and penalties of perjury, that you are authorized to act on behalf of the copyright owner.
+Claims can be sent to
+[email protected] utomationanywhere.com
+or Automation Anywhere, 633 River Oaks Parkway, San Jose, California, USA 95134. You acknowledge that if you fail to comply with all of the above requirements, your notice may not be valid.
+Miscellaneous.
+14.1 Electronic Communications.
+The communications between you and Automation Anywhere via the Sites use electronic means. For contractual purposes, you consent to receive communications from us in electronic form, and you agree that all terms and conditions, agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+14.2 Geographic Restrictions.
+The Sites are provided from, and Automation Anywhere is based in, the state of California in the United States. Automation Anywhere makes no representation that the Sites or the Content are accessible or appropriate or available for use in other locations. Those who choose to access the Sites from other locations do so on their own initiative and are responsible for compliance with applicable local laws.
+14.3 Governing Law and Jurisdiction.
+These Terms and any dispute or claim arising out of or related to these Terms, their subject matter, or their formation (in each case, including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of the State of California without giving effect to any choice or conflict of law provision or rule. Any legal suit, action or proceeding arising out of or related to these Terms or the Sites (including the Content) shall be instituted exclusively in the federal or state courts located in Santa Clara County, California. You agree to waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+14.4 Limitation on Time to File Claims.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OR THE SITES (INCLUDING THE CONTENT) MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION OR CLAIM ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
+14.5 Waiver and Severability.
+Our failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. If any provision of these Terms is held by a court of competent jurisdiction to be invalid, illegal, waived, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent possible and the remaining provisions of these Terms will continue in full force and effect.
+14.6 Entire Agreement.
+These Terms constitute the sole and entire agreement between you and Automation Anywhere with respect to the subject matter hereof, and supersede and replace all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.
+Complaints, Concerns and Questions. If you have any questions about the Sites, please email us at
+[email protected]
+If you have any complaints or concerns about these Terms, please email us at
+[email protected]
+or write to us at the address below to engage in good faith resolution before further escalation.
+Automation Anywhere, Inc.
+Attn: Legal Department
+P.O. Box 640007
+San Jose, CA 95164
+Go Be Great TM .
+Automation Anywhere empowers people whose ideas, thought and focus make the companies they work for great. We deliver the worlds most sophisticated Digital Workforce Platform making work more human by automating business processes and liberating people.
+Products
+Our platform is powerful enough to automate tasks of any complexity, but user-friendly enough for anyone on your team to use.
+Learn more.
+Services
+The Automation Anywhere services team has worked with companies of all sizes to automate their business processes for them, help discover new automation ideas, and maximize ROI.
+Learn more.
+Contact us
+USA Headquarters San Jose
+1-888-484-3535
+ 
+email
+Intl +1-408-834-7676
+Support
+1-888-484-3535
+x3
+Access Support
+Boston
+Dallas
+New York
+Baroda
+Bangalore
+Dubai
+Mumbai
+London
+Melbourne
+Japan
+Seoul
+National representatives in:
+Argentina, Brazil, Chile, Colombia, Mexico
+©
+Automation Anywhere, Inc.
+Privacy
+Do Not Sell My Personal Information
+Terms
+Trademark
+Products
+Customers
+Careers

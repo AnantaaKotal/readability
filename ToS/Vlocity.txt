@@ -1,0 +1,178 @@
+Site Terms   Vlocity - Industry Cloud Apps
+REGION
+North America EMEA LATAM APAC Japan India
+LANGUAGE
+English
+Español
+Français
+Deutsch
+Italiano
+Português
+
+Support Center
+Contact Us
+Customers
+Case Studies
+Digital Transformation
+Voice of the Customer
+Customer Success
+Success Community
+Partners
+Find a Consulting Partner
+Find a Technology Partner
+Salesforce
+Industries
+Communications
+Intelligent Service Experiences
+Delight Retail Customers
+Orchestrate the Perfect Order
+Go Digital with Vlocity & MATRIXX Software
+Media & Entertainment
+GoMedia Subscriber
+GoMedia Ad Sales
+GoMedia Commerce
+GoMedia OTT Streaming
+Energy & Utilities
+One Solution for Your Entire Customer Base
+Open for Business On All Channels
+Deliver Next Generation Customer Service
+Innovate With Your Customers And Partners
+Insurance
+Life & Annuities
+Property & Casualty Insurance
+Group Insurance
+Claims
+Customer Service Contact Centers
+Vella: Virtual Insurance Agent
+Health
+Provider Network and Operations
+Enterprise Benefits Catalog and Rating Engine
+Multiline Marketplace and Sales Automation
+Group Enrollment and Installation
+Member Policy Administration
+Omnichannel Contact Center
+Producer Lifecycle and Channel Management
+Formulary, Pharmacy, and Medication Management
+Government
+Health & Human Services Case Management
+Housing Program Administration
+Foster Care
+Child Welfare
+Platform
+Vlocity Omniscript
+Vlocity Industry Console
+Vlocity Dataraptor
+Vlocity Process Engines
+Vlocity Mobile & Vlocity Wear
+Vlocity Clickstream Analytics
+AppExchange
+About
+Our History
+Newsroom
+Blog
+Media Coverage
+Press Releases
+Awards
+Videos
+Analyst Reports
+Authors
+Why Vlocity
+Values
+Careers
+Leadership Team
+Board of Directors
+Contact Us
+Community
+Events
+Vlocity University
+Giving Back
+Success Community
+The Vlociters
+Resources
+Industry Cloud Resources
+Videos
+Media Resources
+Branding Guidelines
+Industry Cloud Dictionary
+Vlocity, Inc.
+Website Terms of Use
+You are accessing a website of Vlocity, Inc. and its affiliated entities (the Site). Vlocity, Inc. and its affiliated entities are referred to herein as Vlocity, we, or us.  By visiting the Site and accessing the information, content, documentation, source code, content, sample code, tools, API, online learning or other materials made available by Vlocity in, on, or through the Site (the Materials), you agree to comply with and be bound by these Website Terms of Use and any documents referenced herein (the Terms).   For the avoidance of doubt, these Terms supplement and do not modify or replace any other agreements entered into between you and Vlocity, including, but not limited to, a Master Subscription Agreement or other agreement with customers for access and use of Vlocitys industry cloud applications, Developer Services Agreement, Alliance Agreement, Demo Agreement, the Vlocity Online Subscription Agreement located at
+www.vlocity.com/terms
+or other similar agreements (the Main Agreement).
+YOU MAY NOT ACCESS, OR ATTEMPT TO ACCESS, THE PORTIONS OF THE SITE THAT REQUIRE A PASSWORD FOR ACCESS OTHER THAN AS AN AUTHORIZED USER PURSUANT TO THE MAIN AGREEMENT.  IF YOU ARE AN AUTHORIZED USER, YOU MAY NOT ACCESS THE SITE AND EXCEED THE SCOPE OF YOUR PERMITTED USE UNDER THE MAIN AGREEMENT.
+Please review these Terms carefully. If you do not agree to these Terms, you have no right to obtain information from Vlocity, access or use the Materials, or otherwise use the Site.
+Failure to use the Site or Materials in accordance with these Terms may subject you to civil and criminal actions and penalties under applicable law.   Except with respect to the Main Agreement, these Terms constitute the entire and only agreement between Vlocity and you, and supersede all prior or contemporaneous agreements, representations, warranties, and understandings with respect to the Materials and Site.  These Terms may be amended by Vlocity at any time without notice to you. Your continued use of the Site indicates your acknowledgement of, and consent to, updated Terms.
+Requirements and Restrictions:
+When accessing the Site and Materials, you represent that you are of sufficient age to form legally binding contracts.  The Site and Materials are not designed to solicit or collect information of any kind from persons under the age of 13, and we do not knowingly collect any information from persons under the age of 13.
+Vlocity reserves the right to discontinue or modify the Site or Materials, temporarily or permanently, at any time without notice.
+You agree to provide accurate information when interacting with the Site or Materials.  Failure to provide accurate contact information may result in you not receiving access to the Site or Materials.  In addition to other remedies available to Vlocity, if you provide fraudulent, misrepresented, or otherwise untruthful information, we may terminate your access and prevent you from using the Site or Materials in the future.
+You agree to comply with all applicable federal, state, or local laws, ordinances, regulations, rules, decisions, orders, or requirements in connection with your use of the Site and Materials.
+You may not use the Site or Materials in any manner that negatively impacts Vlocity or its authorized users.
+Privacy.
+By accessing the Site or reviewing the Materials, you represent that you have read and agree to the terms of the Vlocity Website Privacy Policy for which a link is provided at the bottom of this page and available at
+https://vlocity.com/privacy
+(Privacy Policy). By agreeing to these Terms you consent to Vlocitys collection, use, storage, and disclosure of information associated with your use of the Site and Materials in accordance with the Privacy Policy.
+If you access and use training and testing benefits (Learning Materials) through the Site, you agree and understand that Vlocity, the testing service provider and other related third party services, may collect, process and use your data in order to process Learning Materials, results and certifications, manage the learning program, including provide special services, programs, partnering or other benefits, confirm compliance with the applicable Main Agreement, learning program policies and applicable laws, and market and improve Vlocitys and its subsidiaries products and services including support, training and professional services.  You authorize Vlocity and such third party providers to process your information accordingly.  You agree and understand that upon request Vlocity may disclose your name, and Learning Materials completion, exam and certification status for the purposes of allowing your employer or others to verify your completion, exam and certification status.  If you do not want your information available in this manner, please contact privacy@vlocity.com. As part of the Vlocitys certification program, Vlocity may, from time to time, pass information about you to its vendors related to the certification program, customers or partners who may wish to contact you about their products or services or for your advice or assistance.
+Ownership.
+Subject to the limited rights expressly granted herein, Vlocity reserves all rights, title, and interest in and to the Site and Materials, including all related intellectual property rights.
+Limited Rights; Restrictions.
+Your right to use the Materials is set forth in your Main Agreement, as may be supplemented and modified by these Terms.  The Site and Materials may not be used for any benchmarking or other competitive purposes.  Copying, redistribution, use, display, or publication by you of any part of the Site or Materials is strictly prohibited.  You may not use any robot, spider, scraper, deep link or other similar automated data gathering or extraction tools, program, algorithm, or methodology to access, acquire, copy, or monitor the Site or Materials. Except in connection with permitted activity pursuant to a Vlocity partner program, you may not link to the Site without Vlocitys prior written consent. You may not: (i) access or use the Site in any manner that could damage, disable, overburden, or impair any Vlocity accounts, computer systems, or networks; (ii) attempt to gain unauthorized access to any parts of the Site or any accounts, computer systems, or networks; or (iii) interfere or attempt to interfere with the proper working of the Site, Materials, or any accounts, computer systems, or networks.
+This Site is not a part of the Vlocity Services or Services (as defined in your Main Agreement) and does not grant to you the right to access or use an account of the Vlocity Services or Services. If you require a development, testing or demonstration account of the Vlocity Services or Services, please contact Vlocity.  Use of Upon any termination of your Main Agreement, you must cease access of the Site and destroy all full and partial copies of the Materials immediately and, if requested by Vlocity, certify in writing that the Materials were destroyed.
+Vlocity may make available the Services within a complimentary Salesforce.com account through the Site, a related Vlocity Support or training websites or as part of a learning or training program (such Materials together with the Salesforce and Vlocity Services, Training Services).  All Training Services are made available subject to the Vlocity Online Subscription Agreement located at
+www.vlocity.com/terms
+for a free trial period, and notwithstanding anything to the contrary, the Training Services are provided as is with no warranty.  Vlocity may, from time to time and in its sole discretion, modify, discontinue or terminate access to the Training Services.
+If use of any aspect of the Site requires you to register for an account, you must complete the registration process by providing us with current, complete, and accurate information as required by the applicable registration form. You may also be required to choose a password and a user name. Access to and use of password protected or secure areas of the Site are restricted to authorized users only. You agree not to share your passwords, account information, or access to the Site with any other person. You are responsible for maintaining the confidentiality of passwords and account information, and you are responsible for all activities that occur through the use of your passwords or accounts, or as a result of your access to the Site. You agree to notify Vlocity immediately of any use of your passwords or accounts that you did not authorize or that is not authorized by these Terms or the Main Agreement.
+If you suspect that the Site or Materials include a security vulnerability, you agree to report such suspected vulnerability to
+support@Vlocity.com .
+U.S. Government Rights .  The Materials are commercial items as such term is defined at FAR 2.101.  If you are a U.S. Federal Government (Government) Executive Agency (as defined in FAR 2.101), Vlocity provides the Materials, including any related software, technology, technical data in accordance with the following: (a) if acquired by or on behalf of any Executive Agency (other than an agency within the Department of Defense (DoD), the Government acquires in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Computer Software), only those rights in technical data and software customarily provided to users set forth in these Terms; or (b) if acquired by or on behalf of any Executive Agency within the DoD, the Government acquires, in accordance with DFARS 227.7202-3 (Rights in commercial computer software or commercial computer software documentation), only those rights in technical data and software customarily provided in these Terms.  In addition, DFARS 252.227-7015 (Technical Data-Commercial Items) applies to technical data acquired by DoD agencies. Any Federal Legislative Agency or Federal Judicial Agency will obtain only those rights in technical data and software customarily provided to the public as set forth in these Terms. If any Federal Executive Agency, Federal Legislative Agency, or Federal Judicial Agency has a need for rights not conveyed under the terms described in this Section, it must negotiate with Vlocity to determine if there are acceptable terms for transferring such rights, and a mutually acceptable written addendum specifically conveying such rights must be included in any applicable contract or agreement to be effective.  This U.S. Government Rights Section is in lieu of, and supersedes, any other FAR, DFARS, or other clause, provision, or supplemental regulation that addresses Government rights in computer software or technical data under these Terms.
+Trademark Information.
+You are expressly prohibited from using Vlocitys trademarks, service marks, name, and logos without Vlocitys prior written consent in each instance. Without limiting the foregoing, you acknowledge and agree that you may not use the name Vlocity, Inc. or Vlocity or any other Vlocity intellectual property to endorse or promote products derived from the Materials without express and specific prior written permission of Vlocity.
+Copyright Infringement.
+If you believe that your work has been copied in a way that constitutes copyright infringement on the Site or through the Materials, please provide Vlocitys copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Vlocity that your copyrighted material has been infringed.
+An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+A description of the copyrighted work that you claim has been infringed upon;
+A description of where the material that you claim is infringing is located on the Site;
+Your address, telephone number, and e-mail address;
+A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+Vlocitys Copyright Agent for notice of claims of copyright infringement on the Site can be contacted as follows:
+Vlocity, Inc.
+Attn: General Counsel
+50 Fremont Street, Suite 2250
+San Francisco, California 94105 USA
+e-mail:
+legalnotices@Vlocity.com
+Editing, Deleting and Modification.
+Vlocity reserves the right to change, edit, or delete any documents, information, or Materials appearing on the Site.
+Indemnification.
+You agree to indemnify, defend and hold Vlocity and its respective directors, officers, shareholders, employees, agents, attorneys, and affiliates (collectively, "Affiliated Parties") harmless from any liability, loss, claim or expense, including reasonable attorneys' fees, related to your use of the Site or Materials, or any violation of these Terms.
+Assignment.
+Vlocity may assign these Terms to an entity in connection with a merger, acquisition, asset transfer, or corporate reorganization.
+WARRANTY DISCLAIMER.
+THE SITE AND THE MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE." TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, VLOCITY AND ITS AFFILIATED PARTIES DISCLAIM ALL WARRANTIES EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, OR MERCHANTABILITY.  VLOCITY DOES NOT WARRANT THAT THE SITE OR MATERIALS WILL BE UNINTERRUPTED, ERROR-FREE, CORRECT, ACCURATE, OR RELIABLE, THAT DEFECTS WILL BE CORRECTED, THAT THERE ARE NO VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT SECURITY METHODS EMPLOYED WILL BE SUFFICIENT.
+LIMITATION OF LIABILITY.   IN NO EVENT WILL VLOCITY OR AFFILIATED PARTIES BE LIABLE FOR ANY LOSS OF USE, LOSS OF PROFITS, INTERRUPTION OF BUSINESS, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR SPECIAL DAMAGES ARISING HEREFROM OR RELATED HERETO IN ANY CAUSES OF ACTION OF ANY KIND, EVEN IF VLOCITY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF SUCH DAMAGES. VLOCITYS AGGREGATE LIABILITY TO YOU FOR EVERY REASON UNDER THESE TERMS WILL BE LIMITED TO US$50.00.  NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, YOU OBTAIN FROM US FROM OR THROUGH THE SITE OR MATERIALS WILL CREATE ANY WARRANTY, REPRESENTATION, OR GUARANTEE NOT EXPRESSLY STATED IN THESE TERMS.
+Links to Other Websites; Third Party Materials.
+The Site and Materials may now, or hereafter, contain links to third-party websites or content provided third parties, including User Submissions, as defined below (collectively, Third Party Materials). Vlocity does not control, investigate, monitor, or check such Third Party Materials.  Vlocity is not responsible for the Third Party Materials or opinions expressed therein.  The inclusion of Third Party Materials on the Site does not imply approval or endorsement of such Third Party Materials by Vlocity. If you decide to leave the Site and access any Third Party Materials, you do so at your own risk.  The Third Party Materials may be subject to the terms of third party license agreements that may be made available to you when you view or download the applicable Third Party Materials.
+User Submissions.   Certain areas of the Site (such as Ideas, forums, customer ratings, or review areas) may permit you to submit feedback, feature requests, comments, information, ideas, data, text, software, music, sound, photographs, graphics, video, messages, or other materials (User Submissions).  All User Submissions that you submit will be considered non-confidential by Vlocity.  By submitting such User Submissions to us: (i) you represent and warrant that Vlocitys use of your User Submissions does not and will not breach any agreement, violate any law, or infringe any third party's rights, including  individual personal rights,  and that such User Submissions are accurate and true; (ii) you represent and warrant that you have all necessary rights and authorizations, including any required authorization from your employer or company with which you are affiliated, to enter into these Terms and provide User Submissions; (iii) you understand and agree that Vlocity is free to use in any manner all or part of the User Submissions on an unrestricted basis without the obligation to notify, identify, or compensate you or anyone else; and (iv) you grant Vlocity, and to the extent applicable other Vlocity customers, all necessary rights, including a waiver of all privacy and moral rights, to use and display all User Submissions, in whole or in part, or as a derivative work, without any duty by Vlocity to anyone whatsoever.  You acknowledge that you are responsible for and bear all risk as to the use or distribution of User Submissions.
+In addition, in the event that you provide User Submissions to Vlocity for publication as a Vlocity Customer Success story, Vlocity may, in its sole discretion, accept, reject, and edit such content.  Any such editing will be in good faith, and Vlocity will endeavor not to misrepresent your testimonials.
+If you provide User Submissions to Vlocity for publication as a product or service review on the Site, Vlocity may (i) edit such User Submissions for style or length and (ii) to the extent the review is negative, as determined by Vlocity in its reasonable opinion, provide such User Submission to the developer or distributor of such product or service for consideration or response and enable such developer or distributor to contact you directly to discuss your User Submissions, and you expressly authorize Vlocity to share your contact information with such developer or distributor for such purpose.  Vlocity is not obligated to provide you with any feedback or response related to a User Submission or to post or publish User Submissions.  If Vlocity provides you with feedback of any kind, Vlocity retains all right, title, and interest in and to such information, and you may use such information for your non-commercial internal business purposes only. If you are viewing User Submissions in the form of a product or service review any review area on the Site, be advised that Vlocity may not post or publish all User Submissions related to such product or service, and that Vlocity may modify the original User Submissions as permitted in these Terms.
+To the extent that your User Submissions are feature requests on Ideas and notwithstanding anything to the contrary set forth in these Terms, you agree that Vlocity will own all right, title, and interest in and to such User Submissions and you are not a contributing inventor to any inventions that may arise from Vlocitys development of any products, services or applications implementing such User Submission.  In the event that you are determined to be a contributing inventor by any court or government agency competent to make such a determination, at Vlocitys request you will (i) cooperate with Vlocity in procuring patents to protect the invention (ii) execute all necessary paperwork required to procure patents to the invention on Vlocitys behalf and (iii) request execute any ownership assignments of any patents or patent applications.  To the extent Vlocity does not own a User Submission, you hereby grant to Vlocity a nonexclusive, worldwide, irrevocable, perpetual, transferable, fully paid-up, royalty free, sublicensable license to all such rights.
+Any unreleased services or features discussed on Ideas or on other Vlocity websites are not currently available and may not be delivered on time or at all.  If you post a feature request on Ideas, Vlocity may comment on the feature request by appending a status to the request in order to communicate with the Ideas community regarding implementation of feature requests.  Posting a status to a feature request does not impose any obligation on Vlocity, such as, for example, to develop, implement, release, use, or not use such feature request, and Vlocity can change the status at any time in its sole discretion.
+You are expressly prohibited from collecting information about other users of the Site, Ideas, Materials, or Service for the purpose of sending, or to facilitate the sending of, unsolicited bulk communication, advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other solicitation to other users of the Site.   Vlocity retains the right to remove or correct any posting that violates these Terms or Vlocitys policies, at its sole discretion.  Certain User Submissions may be subject to additional terms and requirements.
+Export Compliance .  The Materials and derivatives thereof may be subject to export and import laws and regulations of the United States and other jurisdictions. You represent that you are not named on any U.S. government denied-party list. You will not permit any access or use any Materials in or from a U.S.-embargoed country (currently Cuba, Iran, North Korea, Sudan, and Syria) or in violation of any export or import law or regulation of any jurisdiction.
+Miscellaneous.   Any cause of action by you with respect to the Site or Materials must be instituted within one (1) year after the cause of action arose or be forever waived and barred. All actions will be subject to the limitations set forth under "Warranty Disclaimer" and Limitation of Liability above. The language in these Terms will be interpreted as to its fair meaning and not strictly for or against you or us. Should any part of these Terms be held invalid or unenforceable, that portion will be construed consistent with applicable law and the remaining portions will remain in full force and effect. To the extent that anything in or associated with the Site or Materials is in conflict or inconsistent with these Terms, these Terms will take precedence. Our failure to enforce any provision of these Terms will not be deemed a waiver of such provision.
+Dispute Resolution .  These Terms will be governed by the laws of the State of California, excluding conflicts of laws principles. The United Nations Convention on Contracts for the International Sale of Goods does not apply to these Terms.  In the event of a dispute, Vlocity encourages you first to contact Vlocity to resolve your problem directly with us. You may contact Vlocity regarding any complaints or disputes at legal@Vlocity.com.
+Except in the event that Vlocity or an Affiliated Party seeks a provisional remedy related to claims of misappropriation or ownership of intellectual property, trade secrets, or confidential information, any and all disputes, claims or controversies arising out of or relating to these Terms must be submitted to JAMS for mediation before arbitration or any other form of legal relief may be instituted.  Mediation may be commenced by a party providing JAMS a written request for mediation setting forth the subject of the dispute and the relief requested. The parties will cooperate with JAMS in selecting a single mediator and scheduling a mediation, which should take place within 45 days following a request for mediation. The mediator will be a retired judge who has had experience with technology disputes. The parties agree that they will participate in the mediation in good faith and share equally in its costs. The mediation will take place in either San Francisco or Santa Clara County, California.
+If for any reason a claim proceeds in court rather than in arbitration, you and Vlocity each waive any right to a jury trial and agree to proceed only on an individual basis and not in a class, consolidated, or representative action. The parties hereby appoint the arbitrator the exclusive power to rule on any challenges to the requirement for the use of alternative dispute resolution in these Terms.
+Except as explicitly provided in these Terms, all claims you bring against Vlocity must be resolved in accordance with this Dispute Resolution section. Any claim filed or brought contrary to this Dispute Resolution section will be considered improperly filed. Should you file a claim contrary to this section, Vlocity may recover from you attorneys' fees and costs up to $1500 per claim, provided that Vlocity first has notified you in writing of the improperly filed claim and you have failed to promptly withdraw the claim.
+Version: September 13, 2018
+Vlocity is a leading provider of industry-specific cloud and mobile software, driving digital transformation for the worlds largest companies. A three-time Forbes Cloud 100 winner, Vlocity is an industry cloud pioneer built in partnership with Salesforce, the worlds #1 CRM provider. Vlocity increases sales, service and marketing agility, operational efficiency and faster time to value for cloud and digital adoption across the enterprise. Committed to innovation, customer success and a values-led culture, Vlocity serves the worlds leading companies in Communications, Media & Entertainment, Energy & Utilities, Insurance, Health, and Government. Vlocity is headquartered in San Francisco, with offices throughout North America, Europe, Asia, and Latin America. On February 25, 2020, Salesforce signed a definitive agreement to acquire Vlocity.
+Salesforce and others are among the trademarks of salesforce.com, inc.
+©
+Vlocity Inc.
+Privacy Site Terms
+Vlocity Named to 2019 Forbes Cloud 100
+ 
+Third Consecutive Year
+ 
+Learn More

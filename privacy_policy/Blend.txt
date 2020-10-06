@@ -1,0 +1,198 @@
+Privacy Policy - Blend
+Skip to content
+Products
+Home Lending
+Mortgage
+Home Equity
+Consumer Banking
+Deposit Accounts
+Auto Loans
+Home Equity
+Platform
+Solutions
+Banks
+Credit Unions
+Mortgage Banks
+Customers
+Resources
+Blog Insights, perspectives, and news on the future of lending
+Resource library Guides, webinars, and explainers
+Partners
+Build with Blend
+Developer Portal
+Company
+About
+Vision
+Press
+Careers
+Request Demo
+Menu
+Privacy Policy
+Effective date: December 30, 2019
+This Privacy Policy (Policy) describes how Blend Labs, Inc. (Blend, we, us, or our) collects, uses, and discloses the information that we collect from and about users of the Blend website (https://blend.com/) (Website). We also describe the rights and choices you have regarding our use of your information. For purposes of these Terms, you and your mean the user of our Website. Your use of our Website is subject to this Policy and our Terms of Use.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE. By using any part of the Website, you consent to the collection, use, and disclosure of the information you provide as further outlined in this Policy.
+What Information Does Blend Collect?
+We collect information in multiple ways, including when you provide information directly to us, and when we passively collect information from you, such as from your browser or device that you use to access our Website.
+As described further below and depending on how you use the Website and interact with us, we may collect the following categories of information about you or your use of the Website:
+Identifiers (such as name and email address);
+Commercial information (such as transaction data);
+Internet or other network or device activity (such as browsing history and log data);
+Professional or employment-related information (such as employment history when you apply for a job with us);
+Education information (such as when you apply for a job with us);
+Location information (such as general location information inferred from an IP address); and
+Other information that identifies or can be reasonably associated with you.
+Information You Provide to Us
+We may collect information from you during your use of or access to the Website, such as when you:
+Request a demo of or inquire for information about a Blend product or service;
+Enter information on the Website (e.g., providing your email address to subscribe to our blog);
+Communicate with us (including through our customer support services or on third-party social media sites); or
+Apply for employment at Blend.
+We will collect any information that you choose to provide to us. The information we collect generally includes your name, email address, phone number, and information about your interactions with us. If you apply for an employment position with us, we will collect your name, email address, telephone number, cover letter, resume/CV, and LinkedIn profile information.
+Information Collected Automatically
+Device/Usage Information
+We may automatically collect certain information about the computer or devices (including mobile devices or tablets) you use to access the Website. As described further below, we may collect and analyze information such as (a) IP addresses (including city and state information), unique device identifiers, browser types, browser language, operating system, and mobile device carrier information; and (b) information related to the ways in which you interact with the Website, such as: referring and exit web pages and URLs, platform type, the number of clicks, domain names, pages and content viewed and the order of those pages, statistical information about the use of the Website, error logs, and other similar information. As described further below, we may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.
+Cookies and Other Electronic Technologies
+We may also collect data about your use of the Website through the use of internet server logs, cookies, and/or tracking pixels. A web server log is a file where website activity is stored. A cookie is a small text file that is placed on your computer when you visit a website that enables us to: (i) recognize your computer; (ii) store your preferences and settings; (iii) understand the web pages of the Website you have visited; (iv) enhance your user experience by delivering content specific to your interests; (v) perform analytics; and (vi) assist with security administrative functions. Some cookies are placed in your browser cache. Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny electronic tags with a unique identifier that are embedded in websites, online ads, and/or email and are designed to provide usage information like page clicks, measure popularity of the Website and associated content, and access user cookies. We may update this Policy from time to time as we adopt new technologies to gather additional information through other methods.
+Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the Help section of your browser for more information (e.g., Internet Explorer; Google Chrome; Mozilla Firefox; or Apple Safari). Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Website.
+Information from Third Parties
+Our Website may include social media features, such as the Facebook or Twitter button or interactive mini-programs that run on our Website. These features may collect your IP address and which page you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy statement of the company providing it.
+We may also collect additional information about you, such as demographic and statistical information, from third parties, such as business partners, marketers, researchers, analysts, and other parties, that we may combine with information collected directly from you or attribute to you based on your assignment to certain statistical groups.
+How Will Blend Use My Information?
+We and our service providers may use the information we collect from and about you for the following business purposes (as defined by applicable law) and commercial purposes:
+To process and respond to your inquiries or to request your feedback, including through our customer support services;
+For marketing and advertising purposes, including to contact you with information or surveys that we believe may be of interest to you regarding our Website, our products and service offerings and the product and service offerings of third parties;
+To conduct internal research, analytics, and reporting, including without limitation to synthesize and derive insights from your use of the Website;
+To improve the content and features of the Website and our other products or services;
+To develop or deliver new products or services;
+To personalize the content that you see on the Website;
+To administer and troubleshoot the Website;
+To review and process your employment applications;
+To comply with laws, regulations, and other legal process and procedure;
+To establish, exercise, or defend our legal rights; and
+To take steps that we reasonably believe to be necessary to protect the safety, security, and rights of Blend, its employees, service providers, and others.
+We may also aggregate, de-identify, and/or anonymize any information collected through the Website in such a way that we cannot reasonably link the information to you or your device. We may use such aggregated, de-identified, or anonymized information for any purpose, including without limitation for research and marketing purposes.
+How Does Blend Personalize Content to My Interests?
+Online and Email Analytics
+We may use third-party web analytics services on the Website, such as Google Analytics. These service providers use the sort of technology previously described in the Cookies and Other Electronic Technologies section to collect information (including your IP address) to help us analyze how users use the Website, including by noting the third-party website from which you arrive, provide certain features to you, improve and develop the Website, monitor and analyze use of the Website, aid our technical administration, assist in our troubleshooting and customer support efforts, and verify that users have the authorization needed for us to process their requests.
+To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking here. If you get a new computer, install a new browser, erase or otherwise alter your browsers cookie file (including upgrading certain browsers), you may clear the opt-out cookies, and you will need to re-visit the relevant opt-out page.
+If you receive email from us, we may use certain tools, such as clear GIFs, to collect data such as when you open our message or click on any links or banners our email contains. This information helps us make our communications with you more interesting and improve our Website.
+Advertising
+We partner with third parties either to display advertising on our website or to manage our advertising on other sites. Our third-party partner may use cookies or similar technologies to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, click here. Please note you will continue to receive generic ads.
+Notice Concerning Do Not Track Signals
+Do Not Track (DNT) is a privacy preference that users can set in certain web browsers. We are committed to providing you with meaningful choices about the information collected through the Website for third-party purposes, and that is why we provide choices provided by Google Analytics. However, we do not currently recognize or respond to browser-initiated DNT signals. Learn more about Do Not Track.
+How Will Blend Share My Information?
+We and our service providers may share the categories of information identified above with the following categories of third parties as described in this section.
+Affiliates and Subsidiaries.
+We may share information we collect from you to current and future affiliates and subsidiaries within the Blend family of companies.
+Service Providers and Other Third-Parties.
+We may provide access to or share your information with select third parties who perform services on our behalf, including without limitation marketing, market research, customer support, data storage, analysis and processing, and legal services.
+Protection of Blend and Others.
+By using the Website, you acknowledge, consent, and agree that we may access, preserve, and disclose your information if required to do so by law or in a good faith belief that such access, preservation, or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Use, this Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; and/or (e) protect the rights, property, or personal safety of Blend, its agents and affiliates, and/or its users and/or the public. This includes exchanging information with other companies and organizations for fraud protection, spam/malware prevention, and similar purposes.
+Business Transfers.
+As we continue to develop our business, we may buy or merge with other companies. In such transactions (including in contemplation of such transactions, e.g., due diligence), your information may be among the transferred assets. If a portion or all of Blends assets are sold or transferred to a third party pursuant to a corporate purchase, sale, or merger, your information may be one of the transferred business assets.
+Consent.
+With your consent, we may also share your information with other third parties.
+Blend may also share aggregated, de-identified and/or anonymized information for any purpose to third parties, including without limitation advertisers and promotional partners.
+How Does Blend Secure My Data?
+We take technical, administrative, and physical measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. By using our Website, you acknowledge and accept that we cannot guarantee the security of your information transmitted to, through, or on our Website and that any such transmission is at your own risk. If you have any questions about the security of your information, you can contact us at  support@blendlabs.com .
+What Choices Do I Have?
+Accessing, Updating, and Deleting Your Information.
+You may be able to access, update, or delete certain information we hold about you in accordance with applicable legal requirements. If you wish to request access or deletion of your information, please contact us at  privacy@blend.com . We will respond to your request within a reasonable timeframe.
+Marketing Communications and Sharing.
+You may instruct us not to use your contact information to contact you with marketing communications regarding products, services, promotions and special events that might appeal to your interests by contacting us at
+privacy@blend.com . In commercial email messages, you can also opt-out by following the instructions located at the bottom of such emails. Please note that, regardless of your request, we may still use and share certain information as permitted by this Policy or as required by applicable law. For example, you may not opt-out of certain operational emails, such as those reflecting our relationship or transactions with you.
+Nevada Residents.
+Under Nevada law, certain Nevada consumers may opt out of the sale of personally identifiable information for monetary consideration to a person for that person to license or sell such information to additional persons. Personally identifiable information includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity; however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing
+privacy@blend.com . Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
+California Residents.
+Under the California Shine the Light law, Civil Code Sections 1798.83-1798.84, California residents are entitled to ask for a notice (a) identifying the categories of personal information (as defined by California law) that are shared with third parties for their own marketing purposes and (b) providing contact information for such third parties. Blend does not share such information for these purposes.
+California law may permit California residents to request that we provide you (1) the categories of personal information we have collected or disclosed about you in the last twelve months; (2) the categories of sources of such information; (3) the business or commercial purpose for collecting or selling your personal information; and (4) the categories of third parties with whom we shared personal information.
+California law may permit California residents to request that we provide you access to and/or a copy of certain information we hold about you.
+California law may permit California residents to request that we delete certain information we have about you.
+You may have the right to receive information about the financial incentives that we offer to you, if any. You also have the right to not be discriminated against (as provided for in applicable law) for exercising certain of your rights. Certain information (such as information subject to the Gramm-Leach-Bliley Act, or information we collect about our employees or job applicants) may be exempt from such requests under applicable law. We need certain types of information so that we can provide certain aspects of the services offered through the Website to you (such as when you inquire about our products and services through our Website). If you ask us to delete it, you may no longer be able to access or use those features.
+If would like to exercise any of these rights, please submit a request at
+privacy@blend.com
+or visit
+http://www.blend.com/personal-data-requests . You will be required to verify your identify before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
+California residents may opt out of the sale of their personal information. Blend does not sell your personal information as we understand that term to be defined by the California Consumer Privacy Act and its implementing regulations.
+What Is Blends Responsibility for Third-Party Links on the Website?
+The Website may contain links to or from third-party websites, applications, and other services available to support Website operations and functionality. Please be aware that we are not responsible for the privacy practices of such other sites and services. If you submit information to any of those websites, your information is governed by their privacy statements. We encourage our users to be aware when they access third-party websites and/or leave the Website and to read the privacy statements of each and every site they visit that collects their information.
+What Is Blends Policy on Children?
+We do not knowingly collect or solicit personal information (as defined by the Childrens Online Privacy Protection Act) from anyone under the age of 13. If we learn that we have collected personal information from a child under age 13, we will take reasonable steps to delete it as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact
+privacy@blend.com .
+Retention of Your Information
+We keep your information for no longer than necessary for the purposes for which it is processed and/or as required to comply with applicable laws. The length of time for which we retain information depends on the purposes for which we collected and use it.
+Employment Applications
+The Website may contain careers sections that allow you to apply for employment at Blend. These employment services are not hosted by Blend, and instead are administered by third parties, including but not limited to Lever, Inc. These third parties collect a variety of information, including your contact information and your job qualifications. They may also use cookies and other means of collecting information, but such information is used only for analytics purposes and to enable you to complete your application. Any information that Blend collects from these third parties in connection with your application for employment at Blend is handled consistent with this Policy. Blend will use and share your information only for employment purposes, such as evaluating you for a job opportunity or communicating with you about your interests, and where sharing is required by law. If you have any questions about the handling of your employment application data, please visit our careers page or contact us at
+privacy@blend.com .
+You also have the option to connect to LinkedIn to apply for employment at Blend. Any information that Blend collects from LinkedIn in connection with your application for employment at Blend is handled consistent with this Policy. Blend will use and share your information only for employment purposes, such as evaluating you for a job opportunity or communicating with you about your interests, and where sharing is required by law.
+Will Blend Change This Policy?
+We reserve the right to change this Policy at any time to reflect changes in the law, our data collection and use practices, the features of the Website, or advances in technology. Please check this page periodically for changes. Your continued use of the Website following the posting of changes to this Policy will mean you accept those changes. If we make any material changes, we will notify you in accordance with applicable legal requirements.
+What If I Have Questions About This Privacy Policy?
+If you have any questions or concerns regarding our Policy, please send us a detailed message to
+privacy@blend.com , and we will try to resolve your concerns.
+Blend Labs, Inc.
+415 Kearny Street
+San Francisco, CA 94108
+Blend_Logo_Vertical
+© Blend 2020
+in
+Insights
+How the right eClose solution empowers consumers
+Dig in
+Products
+Mortgage
+Home Equity
+Deposit Accounts
+Auto Loans
+Platform
+Solutions
+Banks
+Credit Unions
+Mortgage Banks
+Resources
+Blog
+Library
+Build with Blend
+Partners
+Developer Portal
+Company
+About
+Vision
+Careers
+Diversity, Inclusion, and Belonging
+Press
+Terms of Use
+Privacy Policy
+Security
+Contact
+Facebook
+Instagram
+Twitter
+LinkedIn
+Products
+Home Lending
+Mortgage
+Home Equity
+Consumer Banking
+Deposit Accounts
+Auto Loans
+Home Equity
+Platform
+Solutions
+Banks
+Credit Unions
+Mortgage Banks
+Customers
+Resources
+Blog Insights, perspectives, and news on the future of lending
+Resource library Guides, webinars, and explainers
+Partners
+Build with Blend
+Developer Portal
+Company
+About
+Vision
+Press
+Careers
+Request Demo

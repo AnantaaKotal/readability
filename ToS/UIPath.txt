@@ -1,0 +1,719 @@
+Terms of Use
+Product
+The UiPath Platform An overview of our products
+Discover
+Process Mining Reveal processes by analyzing system logs
+Task Capture
+Document a workflow with ease
+Automation Hub
+Crowdsource and manage your automation pipeline
+Task Mining
+AI-powered task analysis (Coming soon)
+Build
+Studio Your automation design canvas
+StudioX
+Where citizen developers can build automations
+Document Understanding Extract info from documents, images, etc
+Manage
+Orchestrator Manage, monitor, and optimize your digital workforce
+Automation Cloud
+Enterprise-grade automation in the UiPath cloud
+AI Fabric Deploy, manage, and improve ML models
+Test Suite
+Test your robots and applications
+Run
+Robots
+Your digital workersattended, unattended, and hybrid
+Engage
+Action Center Where robots check in with you for direction
+Measure
+Insights Analytics to measure automation performance
+The UiPath Platform: An overview of our products
+Solutions
+By Industry
+By Process
+By Technology
+Artificial Intelligence (AI)
+Contact Center
+About RPA
+What is
+RPA
+'Automation First'
+Hyperautomation
+RPA Journey
+A Robot for Every Person
+Resources
+Blog
+Customer
+Stories
+Analyst Reports
+Webinars
+Whitepapers
+Company
+About Us
+Careers
+UiPath Foundation
+Events
+Newsroom
+Media & Brand Kit
+Support & Services
+UiPath Connect
+Learning
+Marketplace
+Discover reusable RPA components
+Academy
+Learn RPA skills with free online training
+Forum
+Ask questions, get support, and share knowledge
+Certification
+Demonstrate your RPA expertise
+Community
+Join the global network for RPA professionals
+Academic Alliance Learn how to teach RPA
+Documentation Browse developer docs with install instructions, release notes, and more
+Video Tutorials Watch video content for developers
+For Partners
+Find a Partner
+Browse business, technology and learning partners
+Become a
+Partner
+Interested in integrating or helping implement
+UiPath?
+Business Partner Login
+Technical Partner Login
+Search
+menu
+close
+Contact Us
+English
+Deutsch
+Français
+Portuguese
+Spanish
+
+
+
+Try UiPath Free
+Contact Sales
+Hit enter to search or ESC to close
+General Terms of Use
+Last updated December 17, 2019
+Terms of Use
+General Terms of Use
+1. BINDING AGREEMENT
+The Terms of Use are a binding agreement between you and UiPath (referred to as parties) and govern your use of our Services.
+From the moment you access the Services we assume you have accepted the ToU so make sure to read them beforehand. Weve attributed specific definitions to some of the words we use, as referenced below or in the body of the ToU.
+ Customer  or  you  means any individual or a company or organization that has, accesses or directs the use of, an account with us, or is testing or using the Services;  your users  means your affiliates and employees or equivalent contractors.
+ Confidential Information  or  CI  means written information disclosed to one party or its affiliates by the other party or its affiliates, for the purpose of the ToU, and which is marked confidential or would normally under the circumstances be considered as such; CI does not include information that is independently developed by the recipient, rightfully given to the recipient by a third party without any confidentiality obligations or becomes public through no fault of the recipient.
+ Content  means text, images, videos, audio, algorithms, software, or other information of a party.
+ IP Rights  means patents, rights to inventions, copyright and related rights, trademarks, trade names, domain names, rights in computer software and databases, know-how, look and feel, and any other intellectual property rights or rights of a similar nature, in each case registered or unregistered, and including all applications and rights to apply for and be granted protection, renewals or extensions of such rights, as well as the right to claim priority therefrom, and similar or equivalent rights or forms of protection which subsist now or in the future in any part of the world, including as otherwise defined or regulated under the applicable law.
+ PII  which means any information related to an identified or identifiable natural person, including any sensitive data, as defined by Regulation (EU) 2016/679 (GDPR) and other applicable privacy laws and  PHI  which means information about health status, provision or payment of healthcare, which can be linked to an individual (as per the Health Insurance Portability and Accountability Act of 1996 (HIPAA)). More details on our privacy and security practices are available on our trust portal.
+ Services  or  Products  means UiPaths or its affiliates (i) websites, forums, services, products, software applications, courses, trainings, (ii) any improvements, updates, patches and enhancements, (iii) any associated documentation (excluding any publicity or marketing materials) and (iv) other Content, and (v) any output and result (e.g., pre-trained models, model enhancements, templates, or features) of sample documents ran or used with a product for the purpose of enhancing or training the product.
+ Terms of Use  or  ToU  means the (i) General Terms of Use, (ii) specific terms applicable to each Service ( Specific Terms ), (iii) UiPaths policies ( Policies ), and (iv) other references therein, all as amended by UiPath on our website (or successor) or within the Service. For more details check out our website, the applicable FAQs or send us a note with your questions.
+UiPath/we/us/our
+means the entity described below in the ToU, dependent on your location; when we refer to rights of UiPath in the ToU, we include all its affiliates ( affiliate
+is an entity that directly or indirectly controls, is controlled by, or is under common control with another entity;
+control
+means control of more than 50% of the voting rights or equity interests of an entity).
+2. Important
+2.1. To use the Services, you must be at least 16-years old and have full capacity to contract according to your country of residence; other restrictions may be applicable to specific Services. You might use the Services for yourself or your employer/similar contractor (which we call here the Customer) and if you sign on for UiPaths Services on behalf of Customer (for instance, by using your business e-mail at registration), UiPath assumes you have the relevant power and capacity to do so and references to you will include both you as individual and the Customer.
+2.2. UiPath offers a great variety of Products and each may come with its Specific Terms, as prescribed on our website. Also, enterprise Products are subject to their own terms and conditions agreed with UiPath.
+2.3. We reserve the right to make changes to the Services or the ToU without notice. We will do our best to notify you of material changes by display on our website or within the Services and the updated ToU will be effective within 30 (thirty) days from the notification date or as specified in the notification. If you continue to use the Services after any change, Uipath assumes that you have agreed with said change. Your only remedy for dissatisfaction hereunder is to stop using the Services.
+2.4. You can contact us using the following details (or as directed in the relevant Service). We will contact you at your registration e-mail or other e-mail we find in public sources. A notice will be considered received the next business day after being sent.
+Privacy:
+privacy@uipath.com
+Compliance and anti-corruption:
+legal.compliance@uipath.com
+Security:
+security.breach@uipath.com
+Others:
+contractnotice@uipath.com
+or as per the Specific Terms or Policies
+3. License and IP Rights
+3.1.
+License to Use . UiPath hereby agrees to provide you the right to use the Services, under a limited, non-exclusive, non-transferable, non-sublicensable and revocable license, in accordance with the applicable ToU.
+3.2.
+IP Rights . Sure, each party retains the IP Rights over its own Content and Confidential Information. Save to any rights reserved to third parties, UiPath retains all rights, title and interest, including any IP Rights in the Services. You hereby assign UiPath, without any compensation to you, all IP Rights over any feedback that you, in your discretion, may share with UiPath. UiPath may independently acquire, license, or develop, any IP Rights and technology performing similar functions as the software/workflows developed by, or for, you.
+3.3.
+Assistance and Sample Documents . At UiPaths discretion, UiPath may offer limited assistance or demonstrations in relation with the Products, which will not be deemed work-for-hire. This may also entail you sharing sample documents, at your discretion. You hereby grant UiPath, without any compensation, a worldwide, unrestricted, perpetual, non-exclusive, transferable, irrevocable, sub-licensable, royalty-free, fully paid-up license to use, copy, modify, create derivative works of, distribute, publicly perform or display, make, have made, import, export, sell, rent, or license copies of the sample documents, at UiPaths discretion and for any legal purpose. To the maximum extent permitted by law, you waive any rights on, or in relation to, any results, derivative works or outputs of any nature (e.g., pre-trained models, model enhancements, templates, or features) resulting from UiPath processing or modifying the sample documents.
+4. Content
+4.1. The Services might contain certain Content uploaded by UiPath or any user of the Services, including you. Depending on the Service, you and other users may have access to each others Content, as indicated by UiPath. You hereby grant UiPath, without any compensation, a worldwide, unrestricted, perpetual, non-exclusive, transferable, irrevocable, sub-licensable, royalty-free, fully paid-up license to use, copy, modify, create derivative works of, distribute, publicly perform or display, make, have made, import, export, copies your Content for the purpose of providing the Services.
+4.2. Due to high activity in the Services, UiPath cannot scrutinize all Content and cannot guarantee it will be free of (i). malware or contaminants that may harm your machine, or any files therein or (ii). materials you may find objectionable or inappropriate. UiPath disclaims any responsibility or liability related to third-party Content (including yours, for which you are solely liable) and reserves the right to remove or modify it for any reason, including if it believes it may violate the ToU.
+5. Privacy and Security
+5.1. You might share some PII with us strictly for the purpose of performance under the ToU, which we will handle in accordance with our Privacy Policy. Same rules will apply when we collect your usage data and telemetry for the purpose of operating and improving our products and services. Nonetheless, you bear the responsibility of informing your users or other data subjects for the processing of their PII with UiPaths Products or Services in accordance with the applicable laws.
+5.2. Please mind that use of the Services does not require PII or PHI and UiPath accepts no liability thereof. You must not use any type of PII or PHI with Products running on servers managed by or on behalf of UiPath. Except for users located in Greater China, some Specific Terms will allow use of PII and if as a result thereof, UiPath will act as data processor on Customers behalf according to GDPR, the data processing agreement (DPA) available on UiPaths website will apply.
+5.3. Please mind that you are responsible for assessing compliance with your applicable privacy laws when using UiPaths Products or Services. When you process (access, receive, disclose, store or otherwise use) PII you are responsible for processing the PII lawfully, informing and where relevant, obtaining the consent of the data subject, in accordance with the GDPR and other applicable privacy laws.
+6. Fees and Refunds
+6.1. Certain Services may be subject to a fee, as provided in the applicable Specific Terms. Unless otherwise expressly agreed by UiPath, all payments are due 30 (thirty) days from the date of the invoice. Should you fail to pay, UiPath may collect the fees using alternative collection mechanisms. UiPath reserves the right to change its fees at any time at its sole discretion. Any change will be effective immediately upon publication through the relevant Services or in their Specific Terms.
+6.2. Except as expressly permitted by UiPath in writing or as explicitly stated as part of the sign-up process for a Service or in a specific arrangement, UiPath will not provide refunds or vouchers for any Services. In case we terminate a paid Service for our convenience, we will refund the associated prepaid and unused fees.
+7. Warranties
+7.1.
+NO WARRANTIES . THE SERVICES ARE PROVIDED ON AN "AS-IS" AND AS AVAILABLE BASIS. NEITHER UIPATH, NOR ITS AFFILIATES, LICENSORS, SUPPLIERS, THEIR OFFICERS, EMPLOYEES OR AGENTS (UIPATH PARTIES), MAKE ANY WARRANTY OF ANY KIND (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) IN RELATION TO SERVICES AND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, UIPATH SPECIFICALLY DISCLAIMS ALL WARRANTIES, INCLUDING AVAILABILITY, SERVICE UPTIME, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OR ABILITY OF THE SERVICES TO INTEGRATE OR INTEROPERATE WITH OTHER TECHNOLOGIES. UNPLANNED SYSTEM OUTAGES MAY OCCUR AND UIPATH DOES NOT WARRANT THE PRODUCTS WILL RUN UNINTERRUPTED OR ERROR FREE. UIPATH DISCLAIMS ALL LIABILITY FOR HARM OR DAMAGES CAUSED BY ANY THIRD-PARTY HOSTING PROVIDER OR ANY THIRD-PARTY CONTENT. CUSTOMER BEARS THE ENTIRE RISK AS TO THE USE OF THE SERVICES.
+7.3.
+Your Warranties . You represent and warrant at all times that: (i) you have all necessary right and title to enter into the ToU and to perform your obligations hereunder; (ii) you and your users will use the Products in strict accordance with the ToU and with all applicable legislation; (iii) you have obtained all rights, permissions and/or consents necessary for the lawful use of your Content and the operation of the Products; (iv) you have all the required rights in relation to any third-party software or products as to allow performance of any changes, alterations or integrations that you make or have made (v) no part of your Content infringes or otherwise conflicts with any third-party rights. You expressly agree that the use of the Services and Content is at your sole risk.
+8. Liability
+8.1.
+EXCLUSIONS . To the maximum extent permitted by applicable law, in no event will UiPath Parties be liable for any SPECIAL, INDIRECT, MORAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE OR EXEMPLARY DAMAGES, THE USE OR INABILITY TO USE THE PRODUCTS, COMPUTER MALFUNCTION OR FAILURE, SERVER DOWN TIME, FAILURE OF THE PRODUCTS TO OPERATE WITH ANY OTHER PROGRAMS, LOSS OF PROFITS, REPUTATION, USE OR REVENUE, LOSS OR CORRUPTION OF DATA, OR INTERRUPTION OF BUSINESS, regardless if the UiPath Party was aware of the likelihood of such damages occurring, and whether such liability is based on contract, tort, negligence, strict liability, products liability or otherwise. For the avoidance of any doubt, under no circumstances may any UiPath Party be liable for any claims of any kind and nature that may be asserted, granted or imposed against, directly or indirectly, arising from, or in connection with, your Content, your failure to comply with the ToU or use of your account.
+8.2.
+Limitation of Damages . Your exclusive remedy against any UiPath Party, for each and all claims, actions, proceedings and damages (individually and together), including direct damages, arising out of, or in connection with, the ToU, and including where the warranty exclusions above are not valid or permitted under the applicable law, is limited up the higher of (i) one hundred (100) USD or (ii) the value of the consideration you paid for the month during in which the loss or breach occurred. These limitations and exclusions apply even if this remedy doesn't fully compensate you for any losses and even if UiPath knew or should have known about the possibility of the damages or the likelihood of their occurrence.
+8.3.
+Indemnification . You will indemnify any UiPath Party, defend and hold them harmless against any losses, damages, fines and expenses (including attorneys' fees and costs) arising out of, or relating to any claims based on, (i). your, and your users use or attempted use of the Services in violation of the ToU; (ii). your violation of the applicable law or rights of any third party; or (iii). your Content, including without limitation any claim of infringement or misappropriation of intellectual property or other proprietary rights.
+9. Compliance
+9.1.
+Acceptable Use . You will abide by the ToU including the acceptable use policy available on our website. The Services may contain or may be enjoined by third party components including open source code, which are subject to their own terms and conditions, as detailed on UiPaths website. If you use the Services in conjunction with third-party data, products, services, platforms, etc., then you must comply with the terms and conditions required by such third-party providers, and you will be carrying the entire risk to such use.
+9.2.
+Third Party Access . You may only allow your users or (should UiPath allow it) your clients, to use the Services and solely for your direct beneficial business purpose, causing them to comply with the ToU and being liable for their actions. Upon request, you will provide UiPath with details and use reports of all your users.
+9.3.
+Export Control . You acknowledge the Services may be subject to export control regulations and sanctions including U.S. economic sanctions, European Commission regulations, United Nations Security Council resolutions, and other similar national or international regulations (Export Controls and Sanctions). You represent and undertake that you, your affiliates or users (i). are not named on any Export Controls and Sanctions list of restricted parties, (ii). will not knowingly export or reexport the Technology (or any result therefrom) directly or indirectly, to any country or a foreign national of a country in violation of any such Export Controls and Sanctions and (iii). will not engage in activities that would cause us or our affiliates to be in violation of Export Controls and Sanctions.
+9.4.
+Audit . If you are a business, company, or organization, UiPath may, at its expense, verify that your use, access, installation, or deployment of the Services comply with the ToU. Upon request, you will provide UiPath with details and use reports of all your users. Additionally, no more than once every 12 (twelve) months, UiPath may perform the verifications onsite, either directly or by appointing a sub-contractor, and you agree to provide all the required assistance and support. If the verification discloses a non-conformity you will immediately address it. If there are any underpaid fees for payable Services which exceed 5% of the regular value thereof, then you will also pay for the audit costs.
+9.5.
+Confidentiality Obligations . Parties or their affiliates may exchange CI. For example, the Services are considered UiPaths CI. The receiving party will treat the CI with no less than reasonable care and will only use the CI for the purpose and for the duration of the relationship under the ToU. The receiving party may only disclose CI: (i) under a written and signed permission document from the disclosing party, or as necessary to comply with applicable law or valid order of a court of law or other governmental body, only if the receiving party promptly notifies the disclosing party of the required disclosure and provides assistance to prevent or limit the disclosure or (ii) to its affiliates, employees, agents, investors or professional advisors, who need to know the CI for the purposes of these ToU and who are bound by confidentiality obligations at least as restrictive as in this section. UiPath may disclose your CI without notice if it reasonably believes necessary to protect the rights or safety of UiPath, its customers, partners, or the public.
+9.6.
+Report Abuse . . If you suspect a breach of the ToU, you can let us know at
+contractnotice@uipath.com , with the subject: Report Abuse Terms of Use UiPath Website and by including at least the following:
+(i). physical or electronic signature of the owner of an exclusive right allegedly infringed or his authorized representative;
+(ii). brief description of the breach (plus link to the account of the breaching user and the relevant materials);
+(iii). name, address, telephone number, and email address of the complaining party;
+(iv). statement that the complaining party has a good faith belief that use of the material in the manner complained of is not lawful or authorized by the copyright owner or its agent; and
+(v). statement declaring that the information in the notification is accurate and, under penalty of perjury, that the complaining party is either the owner of, or, authorized representative of the owner of, an exclusive right that is allegedly infringed,
+and if UiPath finds the allegations to be correct, it may remove the offending content, warn the user who posted the Content, and/or temporarily or permanently suspend or disable that users account.
+10. Entity and Dispute Resolution
+10.1.
+Governing Law.
+This Agreement is governed by the laws indicated below, depending on your domicile/headquarters, without regard to conflicts of law provisions. The United Nations Convention on Contracts for the International Sale of Goods (CISG) and the Uniform Computer Information Transactions Act (UCITA) do not apply to this Agreement.
+10.2.
+Amicable settlement . Parties agree, as a prior condition for any claim, to settle amicably any dispute arising out of or relating to this Agreement within 90 days from the applicable notice. To the maximum extent permitted by applicable law, the party not complying with this section, will cover, as applicable, the litigation of arbitration costs of the other party, irrespective of the outcome.
+10.3.
+Arbitration Agreement
+for Customers in NAMER . Subject to amicable settlement, if you are established in NAMER, disputes shall be exclusively and finally settled by arbitration in English, in accordance with the Commercial Arbitration Rules of the American Arbitration Association. The award will be in accordance with the Governing Law and state the reasons upon which it is based. However, either party may seek injunctive relief to prevent irreparable harm or to enjoin any intellectual property rights misuse in front of the competent courts.
+10.4.
+Venue . Parties hereby accept the exclusive jurisdiction of the competent courts of the Venue indicated below and irrevocably waive any objection and defence (including, any defence of an inconvenient forum) which either may have to the bringing or maintenance of any such claim.
+THE PARTIES KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVE ANY RIGHT THEY MAY HAVE TO TRIAL BY JURY IN ANY CLAIM UNDER OR IN CONNECTION WITH THIS AGREEMENT.
+Customer
+UiPath Entity
+Governing Law
+Venue
+United States of America, Canada or Mexico (NAMER)
+UiPath Inc., at 90 Park Avenue, 20th floor, 10016 New York, New York, United States
+New York law
+New York, State of New York, United States of America
+Rest of the world
+UiPath SRL, at 4 Vasile Alecsandri Str. and 11 Daniel Constantin Str., Building A, floors 5 and 6, District 1, 010639 Bucharest, Romania
+Romanian law
+Bucharest, Romania
+10.5.
+Statute of Limitation . To the extent permitted by applicable law, any cause of action arising out of or related to the use of the Services or the ToU must be filed within one (1) year after such cause of action arose. Any cause of action which is not filed within such period will be precluded by this provision is permanently barred.
+11. Termination
+11.1.
+Term . The ToU are effective, in respect of each set of Specific Terms, from the date the Customer accesses or installs the associated Services for the entire duration of the license term indicated by UiPath and until terminated in accordance herein. Upon termination you must delete all copies of the Products or any output of the Services, at your expense.
+11.2.
+Termination for convenience . You may stop using the Services and terminate your account at any time, however this will not relieve you of any obligation to pay any outstanding fees (if applicable). We may also terminate your use of the free Services at any time, including if we choose to discontinue the Services. In respect of paid Services, we will provide you with reasonable notice in advance.
+11.3.
+Material termination.
+We may immediately and without notice terminate, suspend your right to use and access the Services, or delete your account, if: (i). we have a reasonable suspicion that you have breached or attempted breach these ToU or the applicable law; (ii). provision of the Services is deemed unlawful or infringes any third-party right; (iii). if applicable, you fail to pay the Services fees in due time; (iv). there has been an extended period of inactivity in your free account, or as otherwise regulated under the Specific Terms.
+12. General
+12.1.
+Entire Agreement and Interpretation . In case of inconsistencies between the General Terms of Use and any Specific Terms, the latter will prevail. UiPath, its licensors and their affiliates reserve all rights not expressly granted in the ToU. UiPath affiliates, its licensors and their affiliates are third-party beneficiaries of the ToU and are entitled to enforce them.
+12.2.
+Change of Control.
+You must notify us with 30 days prior to you or your affiliates (i). being acquired by, selling substantially all of the assets to, merging with, or changing the control in favour of, a direct competitor of ours, or (ii). changing your main object of activity into a business competing with us.
+12.3.
+Non-Assignment . You may not assign or otherwise transfer these ToU or your rights and obligations under the ToU, in whole or in part, without UiPaths written consent and any such attempt will be void. UiPath may transfer its rights under these ToU to a third party, in which case these ToU will be updated and made available on the UiPath website.
+12.4.
+Publicity . If youre a legal entity, you hereby grant UiPath a transferable, sub-licensable, royalty-free, non-exclusive, worldwide, valid for the entire duration of the rights, license to copy, host, store, distribute, publicly perform, display, incorporate into other works and otherwise use your trademarks, service marks and logos in our marketing materials, for the purpose of promoting our Services and events. Subject to these ToU and solely subject to compliance with UiPaths Trademark & Copyright Use Policy and UiPaths requirements, you may use the appropriate UiPath names, logos and trademarks. You must promptly cease any use of UiPath trademarks identified by UiPath as problematic. You also agree not to contest the validity of ownership of any UiPath trademarks. All goodwill arising from use of UiPaths trademarks inures to UiPath.
+12.5.
+UNUSUAL CLAUSES . YOU HEREBY EXPRESSLY ACKNOWLEDGE AND ACCEPT THE PROVISIONS OF THE FOLLOWING SECTIONS AND THE CLAUSES CONTAINED THEREIN:
+BINDING AGREEMENT, IMPORTANT, LICENSE AND IP RIGHTS, CONTENT, PRIVACY AND SECURITY, FEES AND REFUNDS, WARRANTY AND LIABILITY, TERMINATION, COMPLIANCE, REPORT ABUSE, CHOICE OF LAW AND DISPUTE RESOLUTION.
+12.6.
+Survival . Any and all provisions that, by their content, are intended to apply beyond, the performance, non-renewal or termination of the Agreement will survive any termination hereunder (whether or not so expressly stated).
+We reserve the right to update the ToU on
+www.uipath.com
+at any time without prior written notice. Last update made on: 04.03.2020.
+Specific Terms for Community
+These Specific Terms for Community are read together with the General Terms of Use and Policies (available on our website) and together (ToU) form a legally binding contract between you (also referred as the Customer) and UiPath. All capitalized terms have the meaning ascribed to them in the ToU, unless otherwise defined herein.
+1. 1. Purpose.
+ Products  is used to refer to products made available by UiPath under the Community Edition and includes any output and result of any sample documents ran or used with a product for the purpose of enhancing or training the product. Customer here refers to (i) any individual, (ii) any organization that, together with its affiliates, collectively have (a) less than 250 physical or virtual machines or users and (b) less than the equivalent of USD 5 (five) million in annual revenues (Small Team), and (iii) any organization that, together with its Affiliates, collectively exceed the limitations set herein for a Small Team (Large Team).
+2. License and IP Rights
+2.1.
+License . Subject to Customers continuous compliance hereunder and during the licensing term indicated by UiPath, UiPath grants the Customer a limited, non-exclusive, non-sublicensable, non-transferable, revocable right to access and use the Products, under and in the limits of the licensing plans listed below.
+2.2.
+Community Edition Plan . Products are available under the following licensing plans:
+(i) individuals and Small Teams may use the Products for their internal business purposes.
+(ii) Large Teams may use the Products only to test and evaluate their suitability and for non-profit purposes (e.g. education, hackathons, individual or institutional research, internal trainings).
+2.3.
+Assistance and Sample Documents . At UiPaths discretion, UiPath may offer limited assistance or demonstrations in relation with the Products, which will not be deemed work-for-hire. This may also entail Customer sharing sample documents, at its discretion. Customer hereby grants UiPath, without any compensation, a worldwide, unrestricted, perpetual, non-exclusive, transferable, irrevocable, sub-licensable, royalty-free, fully paid-up license to use, copy, modify, create derivative works of, distribute, publicly perform or display, make, have made, import, export, sell, rent, or license copies of the sample documents, at UiPaths discretion and for any legal purpose. To the maximum extent permitted by law, Customer waives any rights on, or in relation to, any results, derivative works or outputs of any nature (e.g., pre-trained models, model enhancements, templates, or features) resulting from UiPath processing or modifying the sample documents.
+3. LIMITED WARRANTIES
+3.1.
+Disclaimer . Customer acknowledges that Products may (i) substantially differ from commercially released versions and may be changed/discontinued at any time; (ii) have lower standards of availability, reliability and could have functionality defects or blocker(s); (iii) receive automatic updates, which may not be prevented; (iv) be subject to specific limitations, as indicated by UiPath; and that (vi) UiPath is under no obligation to provide any support and Customer may ask for support on the forum we maintain for our community.
+4. Data
+4.1.
+Customer Data . In respect of Customers information imported within, or used with, the Products, Customer acknowledges that: (i) Customer carries the entire liability and is responsible for having in place all needed safeguards to protect the integrity of the information; (ii) under no circumstances may UiPath be liable for any claims of any kind and nature that may be asserted, granted or imposed against, directly or indirectly, arising from or in connection to any such information provided by Customer.
+4.2.
+DPA . If during the performance of these ToU, UiPath is acting as data processor on Customers behalf according to GDPR, the data processing agreement (DPA) available on UiPaths website will apply.
+5. Survival.
+The following sections shall survive termination hereunder: Assistance and Sample Documents, Limited Warranties, Survival.
+We reserve the right to update the ToU on
+www.uipath.com
+at any time without prior written notice. Last update made on: 04.03.2020.
+Specific Terms for Connect
+These Specific Terms are read with the General Terms of Use and the Policies and together ( ToU ) govern the use of UiPath Connect. Any capitalized items not defined herein have the meaning given to them in the General Terms of Use.  you  refers to any user of UiPath Connect. By accessing the Service, you accept the ToU and represent that you have full capacity and authority to do so.
+UiPath Connect
+UiPath Connect is a network of passionate people and companies accelerating an automated world. UiPath Connect enables users to create and publish text, applications, software code, video, audio and other type of material, together with the applicable documentation ( Content , as defined in the ToU). All references to
+Service
+in the General Terms of Use and here will include
+UiPath Connect .
+License
+UiPaths license to you.
+UiPath grants you a right to use the Service under a limited, non-exclusive, non-transferable, non-sublicensable and revocable license, for the purpose of creating and publishing Content, but only as permitted through the
+UiPath Connect Publishing Guidelines . In case of any discrepancy between the ToU and the Publishing Guidelines, the ToU will prevail.
+License grant to end users.
+You license your Content to end users and you must provide your own terms of use (indicating at least the (i) licensing conditions and term; (ii) applicable warranties; (iii) details on support; (iv) applicable fees, and (v) a freely accessible privacy policy) with any Content you upload to UiPath Connect ( Content Terms ). Content Terms must comply and be consistent with the ToU. You agree that UiPath does not and will not have any responsibility related to compliance or non-compliance by you or any end user under your Content Terms. UiPath disclaims all liability with respect to any choice of license or any Content published by you.
+License grant to UiPath.
+You hereby grant UiPath, during the Term, a non-exclusive, worldwide right and license to: (a) make available (including via download) your Content through UiPath Connect Marketplace to end users, by all means of electronic distribution available now or in the future; (b) to use, reproduce, distribute, reformat, create excerpts from, promote, advertise, transmit, and publicly display and perform the Content (or relevant excerpts) in any and all digital and other formats for promotional purposes in connection with UiPath Connect and listings of your Content; (c) to use, store, copy and distribute your Content for (i) testing and evaluation (for interoperability and security purposes) conducted by UiPath, (ii) for purposes of exercising UiPaths rights and fulfilling UiPaths obligations hereunder, (iii) for purposes of enforcing the ToU and Publishing Guidelines, and (iv) for UiPaths own business purposes internally, within the scope for which the Contents use is reasonably intended. The license granted in the preceding paragraph include the rights to distribute, promote and make available new versions of your Content to end users, including the right (as described in the Term and Termination section below) to continue to retain and make available your Content to existing end users after the Term, and are granted under all applicable intellectual property rights (including patent rights).
+Ownership
+UiPath and its third-party licensors retain all ownership and other rights in the UiPath Content, including all intellectual property rights. If not otherwise expressly mentioned by UiPath, Content published by UiPath will be subject to the
+OPLA .
+Feedback
+Providing feedback, comments or suggestions about the UiPath Content is voluntary. By providing feedback, you grant UiPath a worldwide, royalty-free, non-exclusive, perpetual and irrevocable license to use, copy, modify, sublicense (through multiple tiers) and otherwise exploit your feedback (including any ideas, concepts, methods, know-how or techniques embodied in it) for any purpose, without any restriction or obligation to you based on intellectual property rights or otherwise.
+Publishing Guidelines
+When publishing or managing your Content you must comply with our guidelines available
+here
+(or successor website). If you host your Content on third-party websites, repositories, services or applications third party terms and conditions may apply to you. Such terms and conditions will not be enforceable against UiPath. Your Content will be available to UiPath and end users subject to review and approval by UiPath.
+UiPath reserves the right to reject the publishing of your Content at its own discretion and for any reason. UiPath may make changes to, remove, omit or discontinue any Content, at any time, and without notice, including for negative reviews, complaints or outdated content. The placement and positioning of any Content is solely at the discretion of UiPath and may be changed at any time without notice.
+UiPath has implemented an automated method of detecting spam messages. This will allow UiPath to automatically detect and flag any user that is misusing the messaging feature of UiPath Connect. Based on this mechanism, UiPath reserves the right to take further action and to decide, at its sole discretion, to delete or suspend your account.
+You acknowledge that, if during the provision of the Services UiPath will be acting as data processor on your behalf according to GDPR, the following Data Processing Agreement will apply:
+https://www.uipath.com/hubfs/legalspot/UiPath.DPA_Connect.pdf
+Your Warranties and Indemnification
+By publishing Content, you represent and warrant that:
+(i). you have all the necessary rights and permissions to grant UiPath the rights granted under the ToU, and to publish the Content and allow contribution in accordance herein;
+(ii). you comply with and ensure your Content complies with, the ToU and the Content Terms;
+(iii). you will perform security and functional testing on your Content and, upon request, you will provide proof of compliance with the ToU.
+You are solely responsible for your Content and will indemnify UiPath, its affiliates, licensors and employees for any damage arising out of, or in connection with, the Content. If you have a dispute with any end users, you agree to release and indemnify UiPath, its affiliates, licensors and employees from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such dispute.
+Specific Warranty Disclaimer
+In respect of any user generated Content, your relationship is directly with the respective Content creator. You agree that UiPath, its affiliates and its licensors are not responsible for Content made available by end users of UiPath Connect.
+UiPath may but does not have an obligation to review any user generated Content and does not provide any warranty for such Content. User generated Content Terms are not binding on UiPath. Nonetheless, as a third-party beneficiary of the agreement between you and other users, UiPath will have the right (and will be deemed to have accepted the right) to enforce that agreement against you as a third-party beneficiary.
+Your Content Terms do not modify or affect the ToU. It is not UiPaths responsibility to enforce your Content Terms.
+Term and Termination
+The term of these Specific Terms (the  Term ) will begin on the date you agree to it in the manner set forth in the first paragraph hereinabove and will continue until you or UiPath terminates it in accordance with the ToU.
+Following any termination of these Specific Terms or withdrawal of your Content from UiPath Connect, (i) in UiPaths discretion, UiPath will use reasonable efforts to take down the listing for your Content within forty-five (45) days after the effective date of termination (or, if specified by UiPath, within the same period after notice of termination). UiPath may also retain copies of your Content after termination of these Specific Terms, or withdrawal of your Content, for its own record-keeping purposes.
+Unless otherwise specified by UiPath, all end user licenses and subscriptions to your Content (including any related support or maintenance periods) will survive termination or expiration of these Specific Terms, in accordance with the Content Terms. If listed Content is removed from UiPath Connect following termination of the agreement with you, other users must obtain licenses directly from you.
+Trademarks
+Subject to the ToU, you may use the appropriate UiPath names, logos and trademarks as designated in the
+UiPath Trademark & Copyright Use Policy
+to promote your Content as compatible with the relevant UiPath Products.
+UiPath may use your name, logos and other trademarks to identify you as an UiPath Connect content creator and to promote your Content and UiPath Products and Services, in accordance with the ToU.
+UNUSUAL CLAUSES
+You hereby expressly acknowledge and accept the provisions of the following sections of these Specific Terms:
+LICENSE, OWNERSHIP, FEEDBACK, PUBLISHING GUIDELINES, YOUR WARRANTIES AND INDEMNIFICATION, SPECIFIC WARRANTY DISCLAIMER, TERM AND TERMINATION.
+We reserve the right to update the ToU on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 18.02.2020.
+Specific Terms for Learning
+These Specific Terms for Learning are read with the General Terms of Use and the Policies and together ( ToU ) govern the use of our Services and Products in UiPaths learning environments ( UiPath Learning ).
+you refers to, as applicable, UiPath customers, partners (including training partners) and employees, industry audience, educational institutions, governmental authorities and any other beneficiary of this Service, including the Entity on behalf of which you register and any of its end users ( End Users ). Any capitalized items not defined herein have the meaning given to them in the General Terms of Use.
+Entities enrolled in UiPaths Academic Alliance Program are subject to the specific requirements detailed below. Please read these Specific Terms carefully and contact us at legal@uipath.com if you have any questions.
+License
+Using any element of UiPath Learning for training purposes will be subject to the UiPath trial terms available on UiPaths website.
+Subject to your compliance with these Specific Terms, UiPath provides you a right to access, register for, view and use the Content of UiPath Learning under a limited, non-exclusive, non-transferable and revocable license, only in accordance with your role and with any conditions or restrictions associated with a particular feature of UiPath Learning. All other uses are expressly prohibited. Except if expressly stated otherwise in the ToU, you may not reproduce, redistribute, transmit, assign, sell, broadcast, rent, share, lend, modify, adapt, edit, create derivative works of, sublicense, or otherwise transfer or use any part of UiPath Learning unless you have been granted explicit permission to do so in a written agreement signed by an authorized UiPath representative. This also applies to Content you can access via any of our APIs.
+In addition to the license grant above, Entities in the Academic Alliance Program are granted the additional rights to: (i) reproduce a reasonable number of copies of the Content and deliver it to students, subject to the restrictions in the UiPath trial terms, and (ii) display and internally distribute the Content to students taking the courses, provided that such Content retains all proprietary markings of UiPath. Subject to this license, Entities in the Academic Alliance Program may create any outputs, including but not limited to any software programs, artifacts, charts or workflow diagrams (collectively "Development Outputs"), test and execute them in non-production environments. Entities in the Academic Alliance Program retain all intellectual property rights in the Development Outputs resulting from their use of the UiPath Learning Content, in accordance with these Specific Terms.
+Entities in the Academic Alliance Program exclusively assign to UiPath all rights, including all intellectual property rights, in the processes, know - how, experience, source code, technology, products or materials resulting from their students use of the UiPath Learning Content ( Academic Materials ). UiPath grants Entities in the Academic Alliance Program a license, transferable only to their students, to use the Academic Materials exclusively for academic purposes, during their enrollment with the Entity.
+Conditions and Restrictions
+To access the Services, you must follow the guidelines and fulfill the requirements available on the Service landing page (including the
+Training Page
+and
+Certifications Page ), as well as UiPaths Acceptable Use Policy.
+If you receive any Content of UiPath Learning for internal training purposes in SCORM format undertake to deliver to UiPath, at
+scormreports@uipath.com , upon UiPaths request or within fifteen (15) calendar days after the last day of each calendar month during your use of UiPath Learning, a report, in electronic format, containing the following information: (a) full legal name of the Entity; (b) User ID (or similar identifier determining the number of users per course and their progress); (c) Country where End Users are located; (d) Course name; (e) Completion status (Enrolled/InProgress/Completed); (f) Course progression (in %); (g) Course start date; (h) Course completion date; (i) Final quiz score (for SCORM packages set to trace completion based on a quiz score).
+Using any UiPath Content in SCORM format without fulfilling the obligation above may trigger the suspension of your access to UiPath Learning. Entities in the Academic Alliance Program can be exempted from this reporting obligation upon request.
+Warranties
+You warrant that you will not engage in any activity that would require UiPath to obtain licenses from or pay royalties to any third party.
+Entities that wish to join UiPaths Academic Alliance Program Entities warrant they are able to:
+ensure the Content is delivered to students by qualified educators having completed the readiness curriculum made available by UiPath (which may include self-learning courses, study material, page-turn sessions, in-person or live workshops) and who remain up to date with the Content provided by UiPath upon the release of new Services or Products
+assign and identify at least one qualified educator on staff who will learn, develop expertise and deliver courses
+run at least one course in a calendar year, to the quality standards and in accordance with all other requirements stated in these Specific Terms
+ensure they only use the latest version of the Products and maintain the licenses updated
+obtain all relevant consents required under the applicable laws to be able to monitor the progress of students using UiPath Learning and for students to be able to create UiPath accounts, including parental consents
+You shall be solely responsible for fulfilling the terms of any agreement between you, your employees and your End Users, and UiPath shall not be obligated to perform, or be deemed liable for the nonperformance of any of your obligations thereunder.
+Publicity
+You authorize UiPath to publicly identify them, you, as applicable, as beneficiary of UiPath Learning, and to include your name and logo on UiPath's website, online platforms and on any promotional materials. Entities are authorized to use UiPaths trademarks and logos in UiPath Learning for delivering the Content to End Users, in accordance with UiPaths Trademark and Copyright Use Policy, and, where applicable, to promote UiPaths Academic Alliance Program.
+You must request prior consent from UiPath before making any statement related to UiPath, UiPath Learning or the Academic Alliance Program in the media, in press releases, briefings or conferences, other than to mention your status as beneficiary of UiPath Learning.
+Guidelines for End Users
+Any Entity accepting these Specific Terms undertakes to provide End Users with all relevant information contained herein, in the General Terms of Use and the Policies applicable to UiPath Learning referenced therein.
+Some elements of UiPath Learning may be downloaded to your computer, phone or other device. By using UiPath Learning you confirm the acceptance of these Specific Terms, including those referenced herein.
+Pricing and Payments
+The Content on UiPath Learning is currently free. You will be notified in advance about any change in pricing and payments.
+UiPaths training partners may offer courses for a charge. Any questions or disputes related to payment will be settled directly between you and the relevant training partner.
+Export control
+You acknowledge the Content of UiPath Learning may be subject to export control regulations and sanctions including U.S. economic sanctions, European Commission regulations, United Nations Security Council resolutions, and other similar national or international regulations (Export Controls and Sanctions). You represent that you or your End Users (i). are not named on any Export Controls and Sanctions list of restricted parties, (ii). will not knowingly export, reexport or transfer the UiPath Learning Content (or any result therefrom) directly or indirectly, to any country or a foreign national of a country in violation of any such Export Controls and Sanctions and (iii). will not engage in activities that would cause UiPath to be in violation of Export Controls and Sanctions.
+UNUSUAL CLAUSES
+You hereby expressly acknowledge and accept the provisions of the following sections of these Specific Terms:
+LICENSE, CONDITIONS AND RESTRICTIONS, WARRANTIES, PUBLICITY, GUIDELINES FOR END USERS, EXPORT CONTROL.
+We reserve the right to update the ToU on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 17.12.2019.
+Specific Terms for Mobile Orchestrator
+These Specific Terms are read with the General Terms of Use and the Policies and together ( ToU ) govern the use of the UiPath Orchestrator mobile application (the Application). Any capitalized items not defined herein have the meaning given to them in the General Terms of Use. From the moment you download the application we assume you have accepted the ToU, and you represent that you have full capacity and authority to use the Application.
+Application
+The Application enables you to remotely access and operate the UiPath Orchestrator (a component of the UiPath Platform), licensed separately to you by UiPath. You may only use the Application if you or your company have a valid UiPath license agreement for the use of the UiPath Orchestrator. You will find information about obtaining a license for the UiPath Orchestrator on UiPaths official website (https://www.uipath.com/).
+License
+UiPath grants you a right to install and use the Application under a limited, non-exclusive, non-transferable, non-sublicensable and revocable license.
+Privacy and Data Use Consent
+UiPath will not collect any personal identifiable information (PII) about you by way of the Application. UiPath will collect only aggregated technical information, such as device type, usage data, active sessions or crash reports. You agree that UiPath and its subsidiaries may collect and use the aggregated technical information gathered as part of the Application support services provided, if any, related to the Application and the UiPath Orchestrator. UiPath may use this information in its discretion to improve the Application or to provide customized services or technologies to you and will not disclose this information in a form that personally identifies you.
+The Application displays existing information via an Application Programming Interface (API) that does not collect information regarding your mobile device usage. To use the Application securely, you can enable biometric authentication on your mobile device, such as Touch ID or Face ID on iOS and Fingerprint or SmartLock on Android. Biometric data, your username or log- in credentials may be stored on your device and may be processed by third parties such as device manufacturers, operating system providers or Marketplace Providers. The processing of your data by these categories of data controllers is subject to their applicable privacy policies which we encourage you read. If you have further questions on how and if your PII is processed please contact your company, or UiPath at
+privacy@uipath.com .
+The Application may allow you to send information related to Orchestrator processes (such as e.g., Process Name, Environment Name, Robot Name, Source etc.) to your contacts through third-party websites, apps or other products and services. Please note such information may be confidential so make sure you only share data with persons authorized by your company to have access to these types of information. You are solely responsible for the shared information and its use. Any information shared publicly may no longer be considered confidential and you will be solely liable for any breach of confidentiality or non-disclosure agreements you or your company are part of.
+We reserve the right to update the ToU on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 17.12.2019.
+Specific Terms for Preview
+These Specific Terms for Preview are read together with the General Terms of Use and Policies (available on our website) and together ( ToU ) form a legally binding contract between you (also referred as the  Customer ) and UiPath. All capitalized terms have the meaning ascribed to them in the General Terms of Use, unless otherwise defined herein.
+1. Purpose and Context
+1.1
+Purpose . Products is used to refer to products made available by UiPath under the Insider Preview Program (under Private Preview or Public Preview) or other early access or beta products and includes any output and result of any sample documents ran or used with a product for the purpose of enhancing or training the product.
+1.2 Stages of Release. When releasing new products and providing updates and new features to its current products, UiPath makes them available within several phases, including as part of preview programs, to give our customers the opportunity to evaluate and understand the novelties before they become generally available. The release stages are:
+(i)
+Private Preview
+ during this phase, we invite a few customers to take part in early access to new concepts and features; this phase includes product teams working with you closely to resolve issues but does not include formal support.
+(ii)
+Public Preview
+ during this phase, we allow any customer to evaluate the new features; the product teams will work with you to resolve issues, but formal support and service level agreements do not apply.
+(iii)
+Generally Available (GA)
+ after the public preview is completed, we might open the feature for enterprise licensing, with official support via all UiPath support channels. Additional terms and conditions apply.
+2. License and IP Rights
+2.1
+License . Subject to Customers continuous compliance hereunder and during the limited license term indicated by UiPath, UiPath grants the Customer, a limited, non-exclusive, non-sublicensable, non-transferable, revocable right to access and use the Products, solely for non-production and non-commercial purposes and limited to internal evaluation and testing.
+2.2
+Assistance and Sample Documents . At UiPaths discretion, UiPath may offer limited assistance or demonstrations in relation with the Products, which will not be deemed work-for-hire. This may also entail Customer sharing sample documents, at its discretion. Customer hereby grants UiPath, without any compensation, a worldwide, unrestricted, perpetual, non-exclusive, transferable, irrevocable, sub-licensable, royalty-free, fully paid-up license to use, copy, modify, create derivative works of, distribute, publicly perform or display, make, have made, import, export, sell, rent, or license copies of the sample documents, at UiPaths discretion and for any legal purpose. To the maximum extent permitted by law, Customer waives any rights on, or in relation to, any results, derivative works or outputs of any nature (e.g., pre-trained models, model enhancements, templates, or features) resulting from UiPath processing or modifying the sample documents.
+3. WARRANTY DISCLAIMER. We want to be transparent with you and let you know that, while we work our best to develop state of the art products and provide quality services, when it comes to early access, alpha, beta or preview Products, there are a few things you need to be aware of:
+(a) UiPath is not bound to provide the Products and we may change or discontinue them at any time without notice;
+(b) these Products may be substantially different from any commercially released versions and may have different standards of security, privacy, availability, accessibility or reliability;
+(c) there could be functionality defects and potential blocker(s) requiring workarounds which we might not be able to provide;
+(d) we may issue automatic updates of the Products, which you may not be able to prevent or disable;
+(e) Products may be subject to specific limitations, as indicated by UiPath;
+(f) we advise you, as a best practice, to frequently back-up your data before installing or accessing the Products on your device(s) and to take precautions as to avoid any loss of data when the Products will no longer be available;
+(g) we cannot undertake to provide any support for the Products, or any associated services and Customer may ask for support on the forum we maintain for our community.
+4. DATA
+4.1
+No PII . Due to the early stage of the Products, UiPath prohibits any use of PII with the Products hereunder and UiPath will accept no liability thereof. If the Customer shares any information (such as data or sample documents) with UiPath, Customer will obfuscate it in order to filter and remove all PII. Customer acknowledges that, under no circumstances may UiPath be liable for any claims of any kind and nature that may be asserted, granted or imposed against, directly or indirectly, arising from or in connection to any such information provided by Customer.
+4.2
+DPA . If during the performance of the ToU UiPath will be acting as data processor on your behalf according to GDPR, the data processing agreement (DPA) available on our website will apply.
+SURVIVAL
+The following sections shall survive termination hereunder: Assistance and Sample Documents, Warranty Disclaimer, Survival.
+We reserve the right to update the ToU on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 04.03.2020.
+Specific Terms for Trial
+These Specific Terms for Trial are read together with the General Terms of Use and Policies (available on our website) and together ( ToU ) form a legally binding contract between you (also referred as the  Customer ) and UiPath. All capitalized terms have the meaning ascribed to them in the ToU, unless otherwise defined herein.
+1. Purpose.
+ Products  is used to refer to products made available by UiPath for trial purposes and includes any output and result of any sample documents ran or used with a product for the purpose of enhancing or training the product.
+2. License
+2.1.
+License . Subject to Customers continuous compliance with the terms hereunder and during the licensing term indicated by UiPath, UiPath grants the Customer a limited, non-exclusive, non-sublicensable, non-transferable, revocable right to access and use the Products, for the purpose of testing the suitability for Customers internal business.
+2.2.
+Assistance and Sample Documents . At UiPaths discretion, UiPath may offer limited assistance or demonstrations in relation with the Products, which will not be deemed work-for-hire. This may also entail Customer sharing sample documents, at its discretion. Customer hereby grants UiPath, without any compensation, a worldwide, unrestricted, perpetual, non-exclusive, transferable, irrevocable, sub-licensable, royalty-free, fully paid-up license to use, copy, modify, create derivative works of, distribute, publicly perform or display, make, have made, import, export, sell, rent, or license copies of the sample documents, at UiPaths discretion and for any legal purpose. To the maximum extent permitted by law, Customer waives any rights on, or in relation to, any results, derivative works or outputs of any nature (e.g., pre-trained models, model enhancements, templates, or features) resulting from UiPath processing or modifying the sample documents.
+3. LIMITED WARRANTIES
+3.1.
+Disclaimer . Customer acknowledges that Products may (i) substantially differ from commercially released versions and may be changed/discontinued at any time; (ii) have lower standards of availability, reliability and could have functionality defects or blocker(s); (iii) receive automatic updates, which may not be prevented; (iv) be subject to specific limitations, as indicated by UiPath; and that (vi) UiPath is under no obligation to provide any support and Customer may ask for support on the forum we maintain for our community.
+3.2.
+Customer Warranties . In addition to the warranties in the General Terms of Use, Customer warrants that (i) it has all the required rights in relation to any third-party software or products as to allow performance of any changes, alterations or integrations that the Customers makes or has made and (ii) if it makes the Products available to its clients, Customer will limit the availability to the scope hereunder and will add in its clients provisions, obligations on its clients consistent with the obligations imposed on the Customer under these ToU.
+4. Data
+4.1.
+Customer Data . In respect of Customers information (including any Confidential Information or PII) imported within, or used with, the Products, Customer acknowledges that: (i) Customer carries the entire liability and is responsible for having in place all needed safeguards to protect the integrity of the information; (ii) Customers information may be lost and may not be recovered after the end of the trial license term hereunder, unless the Customer purchases an enterprise license for the relevant Products by the end of the trial license term and instructs UiPath on the maintenance of its information. Customer acknowledges that, under no circumstances may UiPath be liable for any claims of any kind and nature that may be asserted, granted or imposed against, directly or indirectly, arising from or in connection to information or sample documents provided by Customer.
+4.2.
+DPA . If during the performance of these ToU, UiPath is acting as data processor on Customers behalf according to GDPR, the data processing agreement (DPA) available on UiPaths website will apply.
+5. Survival.
+The following sections shall survive termination hereunder: Assistance and Sample Documents, Limited Warranties, Survival.
+We reserve the right to update the ToU on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 04.03.2020.
+Policies
+Acceptable Use Policy
+This Policy is read together with the agreement ( ToU ) between UiPath and the end user/customer/partner ( you ).
+Unless otherwise defined herein, capitalized terms have the meaning attributed to them in the ToU.  Products  means any software and hosted services made available by us and all improvements thereof and  Services  means any and all services and related deliverables we provide, either directly or indirectly. Some other specific terms used herein shall have the following meaning:
+development or design means creation of an automation workflow;
+test environment is segregated from your working environment and is purposed solely for testing your automation workflows;
+production or commercial use refers to running a software in your working environment (as opposed to a test environment).
+Section I. Mandatory rules for your use of the Products and access to the Services:
+(a) you must use them in accordance with the ToU and as provided in the licensing models;
+(b) you must comply with all terms and conditions required by third-party providers of any data, products, services, platforms, etc. you might use with the Products and Services and carry the entire risk of such use;
+(c) you must not use them to operate in a service bureau, managed service or commercial hosting services environment, unless expressly approved by UiPath in writing;
+(d) unless expressly allowed by us, you will not mix production purpose products with non-production purpose products;
+(e) you must not exceed the number of allocated licenses, or circumvent any technological protection measures set by UiPath to control access to the Products;
+(f) unless otherwise instructed by UiPath, you may copy the Product and any associated licenses solely as needed for disaster recovery purposes, in case of force majeure; UiPath may request proof of the force majeure;
+(g) you must not use and will not encourage others to use the Products or Services (i). for benchmarking or comparison purposes, (ii) to acquire any technical specifications and gain a competitive technological or business advantage, (iii). to infringe any rights, (iv). to violate any laws or contracts, (v). to access, tamper with or use non-public areas of any systems of UiPath or its users;
+(h) you must not use the Products or Services for any purposes prohibited by US, EU or other applicable law, including any anti-spam laws, export control laws or in connection with the design, construction and/or operation of any system where the use or a failure of such system could result in a situation that threatens the safety of human life or severe physical harm or environmental or property damage (including, for example, use in connection with any nuclear, avionics, life support or other life critical application). Products are not fault tolerant and are not designed for such use and UiPath expressly disclaims any liability or warranty for such high-risk use;
+(i) you must not alter, adapt, merge, modify, translate, decompile, develop versions or derivative works, reverse engineer, upgrade, improve or extend, features or functionalities of the Products or Services or otherwise derive source code therefrom, except to the extent expressly permitted under applicable law and if it is essential to do so for the purpose of achieving interoperability of the Products or Services with another software program, and provided that, you have first requested UiPath to provide the information necessary to achieve such interoperability with at least 90 (ninety) days advance written notice and UiPath has not made such information available;
+(j) you must not remove, alter, modify or appropriate or use as yours, any proprietary markings included therein;
+(k) you must not resell, sublicense, assign, transfer, rent, lease, lend or otherwise distribute your rights acquired under the ToU;
+(l) you must flow down all your obligations herein to, and will be liable for, all third parties you give access to Products/Services.
+Section II. If UiPath provides you any Services, you will:
+(a) back-up and validate data from all systems that may be accessed during and in connection with the provision of Services and UiPath assumes no liability for data loss or corruption thereof;
+(b) not rely on UiPath providing any installations, deployment assistance or incident resolution in relation to any hardware or software other than the paid Products and Services;
+(c) make sure you have all necessary rights to any third-party products you request UiPath to add within the Services provided to you.
+Section III. As for your ethical obligations and conduct to which we keep all our customers and partners:
+(a) you will not defame, stalk, harass or threaten UiPath or others, or organize acts of violence;
+(b) you will not use the Products or access the Services for immoral purposes;
+(c) you share the responsibility of using any artificial intelligence software in ways that are not harmful to society or detrimental to human rights.
+Section IV. UiPath may provide certain offerings or licenses subject to associated specific terms and conditions, as follows:
+(a)
+Upgrade Support Licenses:
+you may need upgrade support licenses which UiPath will provide at its sole discretion; you will only use them as needed for the purpose of upgrading from one Product version to another and the number of upgrade support licenses will not exceed the number your production licenses at any time.
+(b)
+Non-Production Products or Services : we may provide you Products or Services for free and limited to non-production use (e.g. for trial, testing, training, evaluation, etc.); you will not use them for commercial purposes or in a production environment and you will only use dummy data therein with no personal data or protected health information (as defined under applicable privacy laws);
+(c)
+Specific packages and Preview Offerings : there are specific conditions which you have to fulfill in order to access either of them and additional terms and conditions may apply. You will find more details on UiPaths websites.
+Section V. In relation to accounts and systems managed by us, the following obligations apply:
+(a) you will not attempt to, or gain unauthorised access to any service, account, computer systems or network or circumvent any authentication or security measures or test the vulnerability of the systems or networks;
+(b) you will not attempt to, or interfere with any user, host, or network, (e.g by sending a virus, overloading, spamming, or mail-bombing or use the Products or Services to distribute malware, impersonate or misrepresent affiliation with any person or entity);
+(c) you will back-up and validate data from all systems that may be accessed during and in connection with the provision of Services and UiPath assumes no liability for data loss or corruption thereof;
+(d) you will keep passwords/other login information secured and monitor and control all activity conducted through your account;
+(e) you will notify UiPath at
+security.breach@uipath.com
+if you suspect any illegal or unauthorized activity or a security breach involving your account with UiPath, including any loss, theft, or unauthorized disclosure or use of a username or password;
+(f) if a user creates an account with an e-mail address pertaining to, or associated with, a company or organization, UiPath deems that such user is an authorised user;
+(g) you are not allowed to sell, buy, or solicit other forms of payment in exchange for account names;
+(h) we rely on your good faith to not use names of individuals or organizations that you are not affiliated with, in a misleading manner; unauthorized use may constitute trademark infringement and we may take action against it;
+(i) if you believe someone is using your organizations trademark-protected materials or implies any affiliation with your organization, send us an e-mail at
+legal@uipath.com
+titled Account Name Review and we will assess the matter.
+Section VI. In relation to your data
+(a) you will comply with applicable laws and regulations and for obtaining any required import authorizations;
+(b) you will allow UiPath to access, use and process the data you upload to or use with the Products and Services as reasonably necessary (a) to provide, maintain and update the Services; (b) to prevent or address service, security, support or technical issues; (c) as required by law or as permitted by UiPaths Privacy Policy.
+We reserve the right to update this Policy on https://www.uipath.com at any time without prior written notice.
+Last update made on: 17.12.2019.
+Account Policy
+UiPath is committed to nurturing a safe environment for software use and we expect our customers, users and partners to comply with the same standards. This Policy is read together with the agreement between us and the end user/customer/partner (you) and the other applicable policies on our website
+(ToU) .
+Account Basics
+(a) account names are provided on a first-registered basis and are intended for immediate and active use;
+(b) attempts to sell, buy, or solicit other forms of payment in exchange for account names are prohibited;
+(c) to keep your account active, you must log-in on a regular basis;
+(d) if you create an account with an e-mail address pertaining to, or associated with, a company or organization, we will assume in good faith that you have the power to represent, and bind, that entity;
+(e) all information access you access through your account is confidential and proprietary of UiPath and you will not disclose it unless as permitted under the ToU;
+(f) we may store, use and process your account information to enable the use and operation of our Products or Services;
+Name Squatting
+(g) we rely on your good faith to not use names of individuals or organizations that you are not affiliated with, in a misleading manner; unauthorized use may constitute trademark infringement and we may take action against it;
+(h) if you believe someone is using your organizations trademark-protected materials or implies any affiliation with your organization, send us an e-mail at
+legal@uipath.com
+titled
+Account Name Review
+and we will assess the matter;
+Account Removal
+(i) we may remove or suspend your account in certain situations:
+Inactivity:
+if we reasonably determine that your free account is inactive for at least 90 (ninety) days, no users have signed in and no automation jobs have been run therein;
+Breach:
+if we reasonably suspect that you have breached your obligations toward us, including as set out in the ToU and the Acceptable Use Policy;
+Fees:
+if applicable, you fail to pay the associated fees when due;
+Infringement:
+if we reasonably suspect that keeping the account may be unlawful or infringe any third-party rights;
+Upon Request:
+as requested by you, if we do not have a legal obligation or legitimate interest to further keep your account information.
+(j) as a consequence of removing your account you will no longer be able to sign in and any and all data in your account, including the account name, will be permanently deleted and cannot be recovered;
+(k) we may take reasonable steps to notify you prior to removing or suspending the account but will be under no obligation to do so;
+(l) we are not liable for any loss of data as a result of applying this Policy;
+(m) upon termination, we may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We reserve the right to update this Policy on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 17.12.2019.
+Trademark & Copyright Use Policy
+UiPath is committed to respecting the intellectual property rights of others and we expect our customers, users and partners to comply with the same standards. This Policy is read together with the agreement between us and the end user/customer/partner (you) and the other applicable terms and conditions available on our trust portal
+(ToU) .
+If you want to use our trademarks, logos and/or UiPath proprietary copyrighted works, you must first get our consent by filling out the Trademark & Copyright Use Permission Form and sending it to us via your UiPath contact.
+Once you get our consent and are free to use our trademarks and/or copyrighted works, you must follow the guidelines set out here and with any other instructions provided to you by UiPath.
+UiPaths trademarks and copyrighted works include brand names, logos, documentation, content displayed on UiPaths websites and social media platforms, videos, images, sound clips, designs and any other materials protected under trademark and copyright laws.
+Permitted uses of UiPaths Trademarks
+You must always use UiPaths trademarks in accordance with
+UiPath's Brand Guidelines . You agree to:
+use the trademarks only in the manner, for the purpose, and in the media described in the Trademark & Copyright Use Permission Form signed by UiPath;
+refer to UiPaths trademarks in word form only to describe compatibility/interoperability between your products or services and those of UiPath, in a manner that does not suggest Your product or service is provided under the trademark of, or by, UiPath;
+include the symbols ® or  on your first or most prominent reference to the trademark, as appropriate next to the trademark.
+Any material including a trademark of UiPath must include the following trademark notice statement: [insert UiPath trademark using the proper trademark symbol] is a trademark of UiPath, Inc. and UiPath SRL, and is used here with permission.
+Prohibited uses of UiPaths Trademarks
+You agree not to:
+use UiPath trademarks more prominently than Your company/products name;
+change or alter UiPaths trademarks in any way, or combine it with any other symbol, word, image, design, trademark or other element, or otherwise alter it or incorporate it into a slogan;
+use the trade name in any way that implies affiliation with, sponsorship, endorsement or approval by UiPath of Your products and services;
+use UiPaths trademarks as nouns or verbs;
+register UiPaths trademarks as Google Ads or similar online advertising tools;
+use the trademark with objectionable material (e.g., illegal, defamatory or pornographic material), or to create derivative works based on the trademark;
+use UiPaths trademarks in any way that is contrary to the above, good faith and fair competition principles;
+use or imitate UiPaths trade dress, including the look and feel of UiPaths websites, marketing materials, fonts, color schemes and imagery.
+You may not display, use or incorporate any trademark of UiPath on your website, social media platform, promotional marketing, commercial or informational materials or otherwise in connection with your products or services without a license or a Trademark & Copyright Use Permission Form executed by UiPath.
+Permitted uses of UiPaths Copyrighted Works
+You agree to:
+use UiPaths copyrighted works only if expressly permitted by UiPath in writing under a Trademark & Copyright Use Permission Form or the ToU;
+include the following notice in any copy of UiPaths copyrighted works: © 20XX UiPath, Inc., UiPath SRL. Used with permission.;
+Prohibited uses of UiPaths Copyrighted Works
+You agree not to use, reproduce, distribute or create derivative works based on any (portion of) UiPath copyrighted work, without first receiving UiPaths express written permission under a Trademark & Copyright Use Permission Form or ToU. UiPath retains the right to modify or to revoke the permission granted to You in its sole discretion, unless provided otherwise in the ToU.
+Some uses of UiPaths trademarks or proprietary copyrighted works may fall under a fair use exception. If you intend to use UiPaths trademarks or copyrighted works for commercial purposes and you are unsure whether a particular use falls under the fair use exception then you should seek permission from UiPath by filling-in, signing and submitting a Trademark & Copyright Use Permission Form to your UiPath contact.
+We reserve the right to update this Policy on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 17.12.2019.
+Trademark & Copyright Use Permission Form
+Download the
+Trademark & Copyright Use Permission Form
+DMCA Policy
+UiPath is committed to respecting the intellectual property rights of others and we expect our customers, users and partners to comply with the same standards. This Policy is read together with the agreement between us and the end user/customer/partner
+(you)
+and the other applicable terms and conditions available on our website
+(ToU) .
+DMCA Recourse
+The Digital Millennium Copyright Act
+(DMCA)
+provides recourse for copyright owners who believe that material appearing on the internet infringes their rights under U.S. copyright law. If youd like to check it out, the DMCA is available on the U.S. Copyright Office website at
+http://www.copyright.gov/legislation/dmca.pdf .
+We have put in place a process of responding to clear notices of copyright infringement consistent with the DMCA. If you believe in good faith that materials available within UiPath products or services infringe your or a third partys copyright, you may ask us to remove or block access to such materials, by sending an e-mail to us at
+legal@uipath.com
+with the following details and meeting the DMCA applicable requirements:
+Report Abuse Copyright Infringement in the subject filed of the e-mail;
+a description of the copyrighted work(s) claimed to have been infringed;
+a description of the material you claim to be infringing or the subject of the infringing activity, and information that could allow us to locate the material in our products or services;
+the following statements
+I hereby declare that use of the material in the manner presented above is not authorized by the copyright owner, its agent, or the law
+and
+I hereby represent that this notification is accurate and, under penalty of perjury, that I am, or I am authorized to act on behalf of, the owner of an exclusive right that is allegedly infringed in the material ;
+your name, address, telephone number and email address; and
+a physical or electronic signature of the copyright owner or a person authorized to act on the owner's behalf.
+Please consult your legal advisor before filing a notice, noting there can be penalties for false claims under the DMCA.
+If we find the allegations to be correct, we may remove the offending material and warn the user who posted it. We reserve the right to suspend or disable the accounts of users who repeatedly mislead others or violate any third-party intellectual property rights.
+Intellectual Property Compliance
+During the term of the ToU, we expect you to comply with all intellectual property applicable law and not misuse any thirdparty intellectual property right, including pertaining to UiPath.
+We reserve the right to update this Policy on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 17.12.2019.
+Privacy Policy
+Click
+here
+to read the Privacy Policy
+DPA
+Download
+here
+the DATA PROCESSING AGREEMENT (DPA)
+Exclusion of Anti-social Forces
+This Policy applies to entities located in Japan and is read together with the agreement
+(ToU)
+between UiPath and such entities
+(you) .
+Organized Crime Group Members.
+Each of the Parties (a) represents, and covenants with respect to the future, to the other Party that the representing and covenanting Party is not currently, and will not be in the future, an organized crime group, an organized crime group member, a person for whom a period of five years has not elapsed since that person was an organized crime group member, a quasi-member of an organized crime group, a corporation affiliated with an organized crime group, a shareholder meeting extortionist (sokaiya) or the like, a corporate extortionist acting under the guise of a social movement or political activity (shakai undo-to hyobo goro), a group or individual that exploits its specialist knowledge in cooperation with an organized crime group (tokushu chino boryoku shudan to), or any other person similar to any of these entities (collectively, Organized Crime Group Members) and (b) represents, and covenants with respect to the future, to the other Party that the representing and covenanting Party does not currently, and will not in the future, fall under any of the following:
+the representing and covenanting Party has a relationship through which its management is considered to be controlled by an Organized Crime Group Member;
+the representing and covenanting Party has a relationship through which an Organized Crime Group Member is considered to be substantially involved in the representing and covenanting Partys management;
+the representing and covenanting Party has a relationship through which an Organized Crime Group Member is considered to be unjustly used for the purpose of pursuing illicit gains for the representing and covenanting Party or a third party, causing damage to a third party, or for any other similar purpose;
+the representing and covenanting Party has a relationship through which it is considered to provide funds or benefits to an Organized Crime Group Member or otherwise be involved in an Organized Crime Group Member; or
+an officer of the representing and covenanting Party or any person substantially involved in that Partys management has a socially reprehensible relationship with an Organized Crime Group Member.
+Unlawful acts.
+Each of the Parties covenants to the other Party that the covenanting Party will not, by itself or using a third party, commit any of the following acts with respect to the other Party:
+a violent demand;
+an unjust demand that exceeds the legal liability of that demands recipient;
+use of threatening behavior or violence in connection with a transaction;
+spreading of rumors or use of fraudulent means or force to damage the reputation of the other Party or to obstruct the other Partys operations; or
+any other act similar to those provided for in (i) through (iv) above.
+Specific termination.
+Either Party may terminate this Agreement without providing the other Party with any demand for remedy if it is discovered that the other Party is an Organized Crime Group Member or falls under Section Organized Crime Group Members above, if the other Party commits any act provided for under Section Unlawful acts above, or if it is discovered that the other Party has made any false declaration in relation to its representations and covenants under Section Organized Crime Group Members above, and the Party considers it inappropriate to continue transactions with the other Party.
+No liability.
+Even if the terminated Party incurs any damage as a result of the provisions in Section Specific Termination above being applied, the Party may not make any claim against the other Party in relation to the damage. If the terminating Party incurs any damage, the terminated Party shall be the only one liable, therefore.
+We reserve the right to update this Policy on
+https://www.uipath.com
+at any time without prior written notice.
+Last update made on: 17.12.2019.
+UiPath ( we ,  our  or  us ) refers to UiPath SRL headquartered at 4 Vasile Alecsandri Str. and 11 Daniel Constantin Str., Building A, floors 5 and 6, District 1, Bucharest 010639, Romania and UiPath Inc. with its principal place of business: 90 Park Ave 20th floor, New York, NY 10016, USA and all of their affiliates.
+Terms of Use
+General Terms of Use
+Specific Terms for Community
+Specific Terms for Connect
+Specific Terms for Learning
+Specific Terms for Mobile Orchestrator
+Specific Terms for Preview
+Specific Terms for Trial
+Policies
+Acceptable Use Policy Account Policy
+Trademark & Copyright Use Policy
+IP Permission Form
+DMCA Policy
+Privacy Policy
+DPA
+Exclusion of Anti-social Forces
+Products
+Platform
+Process Mining
+Task Capture
+Task Mining
+Automation Hub
+Studio
+StudioX
+Document Understanding
+Orchestrator
+Automation Cloud
+AI Fabric
+Test Suite
+Robots
+Action Center
+Insights
+Licensing
+Solutions
+By Industry
+By Process
+By Technology
+Artificial Intelligence (AI)
+Contact Center
+About RPA
+What is RPA
+Automation First
+Hyperautomation
+RPA Journey
+A Robot for Every Person
+Resources
+Blog
+Customer Stories
+Analyst Reports
+Webinars
+Whitepapers
+Company
+Events
+About Us
+Careers
+UiPath Foundation
+Newsroom
+Media & Brand Kit
+Contact Us
+Support & Services
+Marketplace
+Forum
+Community
+Academy
+Certifications
+Academic Alliance
+Documentation
+Video Tutorials
+Find a Partner
+Become a Partner
+Business Partner Login
+Technical Partner Login
+English
+
+Deutsch
+Français
+Portuguese
+Spanish
+
+
+English
+Terms of Use
+Privacy Policy
+Cookies Policy
+Personal Data Request
+Business Partner Code
+Modern Slavery Act Transparency Statement
+© 2005-2020 UiPath. All rights reserved.

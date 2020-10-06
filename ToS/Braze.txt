@@ -1,0 +1,680 @@
+Terms of Use   Braze
+Product
+Cross-Channel Personalization
+Channels & Platforms
+Email
+Mobile
+Web
+Lifecycle Engagement Orchestration
+Canvas
+Optimization & AI
+Data Agility & Management
+Currents
+Regulations & Compliance
+Technology Partners
+Partner List
+Packages
+Industries
+Delivery & Transportation
+Financial Services & Insurance
+Media & Entertainment
+Retail
+Travel & Hospitality
+Agencies
+Customers
+Perspectives
+Braze Magazine
+Featured Stories
+Events
+Braze Magazine Sign Up
+Resources
+Library
+Documentation
+User Guide
+Developer Guide
+Glossary
+About
+Company
+Careers
+Current Openings
+Engineering
+Newsroom
+Legal
+Contact
+Login
+Connect with Sales
+Terms of Use
+THIS MASTER SUBSCRIPTION AGREEMENT GOVERNS CUSTOMER'S USE OF THE BRAZE SERVICES. BY USING THE BRAZE SERVICES, CUSTOMER AGREES TO COMPLY WITH THESE TERMS OF USE.
+Last Updated:
+June 3, 2019
+1. DEFINITIONS
+Affiliate shall mean, with respect to a party, any entity, whether incorporated or not, that directly or indirectly controls, is controlled by, or is under common control with such party or its corporate parent, where control (or variants of it) shall mean the direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
+Braze AUP
+shall mean Brazes Acceptable Use Policy available at: www.braze.com/aup.
+Braze Services
+or
+Services
+shall mean the specific proprietary and generally available software-as-a-service product of Braze, specified in Customers Order Form, including any related code developed and provided by Braze to Customer for use in connection with such proprietary product, which may include SDK(s) or other similar code developed and provided by Braze. Braze Services exclude any Beta Services.
+Beta Services
+shall mean the services (i) provided by Braze that are not generally available to customers, and (ii) that are clearly designated as beta, pilot, limited release, developer preview, non-production, evaluation or by a description of similar import.
+Business Unit
+or
+BU
+shall mean, with respect to a single Customer, each of its Affiliates, businesses, divisions or brands that uses the Services hereunder where such use requires a separate instance, implementation, onboarding, and, if applicable, Currents connector and Premium Deliverability Services.
+Contacts
+shall mean the number of End Users who have been or will be Messaged by Customer in any 12-month period commencing on the Start Date set forth on the applicable Order Form.
+Customer Application
+shall mean Customers mobile applications or websites, as made available to its End Users.
+Customer Data
+shall mean all electronic data or information submitted by or on behalf of Customer to, or collected from the Customer Application by, the Braze Services.
+Data Points
+shall refer to a billable unit of use of the Braze Services, measured by a session start, session end, custom event or purchase recorded, as well as any attribute set on an End User profile. Data and events automatically collected by the Braze Services including, for example, push tokens, device information, and all campaign engagement tracking events, such as email opens and push notification clicks, are not counted as Data Points. For clarity, the setting of an End Users profile information at one point in time shall count as a single Data Point.
+Documentation
+shall mean the online documentation for the Braze Services, accessible via http://www.braze.com/docs, including the Braze Innovation Statement, as updated from time to time.
+End User
+shall mean any end user of a Customer Application.
+Malicious Code
+shall mean viruses, worms, time bombs, Trojan horses and other harmful or malicious code, files, scripts, agents or programs.
+Message
+shall mean any communication with End Users made by or on behalf of Customer directly or indirectly through the Braze Services.
+Monthly Active Users
+or
+MAUs
+shall mean the number of End Users who have recorded a session in a Customer Application (excluding the number of End Users who have recorded unique website sessions in the event Customer has purchased MUVs on the applicable Order Form) in the previous thirty (30) days, calculated nightly with a rolling 30-day window as set forth on an Order Form.
+Monthly Unique Visitors
+or
+MUVs
+shall mean the number of End Users who have recorded a unique website session in the previous thirty (30) days, calculated nightly with a rolling 30-day window, as set forth on an Order Form.
+Order Form
+shall mean the ordering document for Customers purchases of Services, directly or indirectly from Braze that are executed hereunder from time to time, including any schedules or addenda thereto. An Order Form will set forth Customers product and service entitlements, such as Business Units, Contacts, Data Points, Monthly Active Users, or Monthly Unique Visitors, as applicable.
+Restricted Information
+shall mean: (i) social security numbers, passport numbers, military numbers, voter numbers, drivers license numbers, taxpayer numbers, or other government identification numbers; (ii) Protected Health Information (as defined in the U.S. Health Insurance Portability and Accountability Act of 1996 and regulations thereunder, as amended
+HIPAA ), or similar information under other comparable laws or regulations; or (iii) credit or debit card numbers, or any related security codes or passwords, bank account numbers, or similar information.
+Start Date
+shall mean the date on which Braze shall make the Braze Services available to Customer as set forth in an applicable Order Form.
+Subscription Term
+shall mean the subscription period set forth on an applicable Order Form.
+Third-Party Providers
+shall mean a third-party provider chosen by Customer whose service or functionality interoperates with the Braze Services, at Customers sole discretion, in connection with Customers use of the Braze Services.
+User
+shall mean an individual who is authorized by Customer to use the Braze Services. Users may include, for example, employees of Customer or its Affiliates, consultants, contractors and agents of Customer, and third parties with whom Customer transacts business.
+2. BRAZE SERVICES
+2.1
+Provision of Braze Services.
+Braze shall make the Braze Services available to Customer pursuant to this Agreement and all Order Forms during a Subscription Term. Customers purchase of the Braze Services is not contingent upon the delivery of any future functionality or features, or dependent on any oral or written public comments made by Braze regarding future functionality or features.
+2.2
+Customer Affiliates.
+Customer Affiliates may purchase and use subscriptions to the Braze Services subject to the terms of this Agreement by executing Order Forms hereunder. This Agreement shall apply to such Customer Affiliates, and such Affiliates shall be deemed the Customer as contemplated herein. Customer Affiliates may also use the Services purchased by Customer without signing an Order Form if Customer makes certain employees of such Affiliate Users hereunder.
+2.3
+Braze Responsibilities.
+Braze shall: (a) ensure that the Braze Services perform in material compliance with the Documentation; (b) use commercially reasonable efforts to make the Braze Services available 24 hours a day, seven days a week, except for: (i) planned downtime (for which Braze shall make commercially reasonable efforts to give at least twenty-four (24) hours notice and which Braze shall schedule to the extent reasonably practicable from 10:00 PM until 7:00 AM, (EST) for Customers on Braze US clusters, and from 10:00 PM to 7:00 AM (GMT) for Customer on Braze EU cluster); or (ii) any unavailability caused by circumstances beyond Brazes reasonable control, including without limitation, acts of God, acts of government, flood, fire, earthquakes, civil unrest, acts of terror, strikes or other labor problems (other than those involving Braze employees), internet service provider, Third-Party Providers, or hosting facility failures or delays involving hardware, software or power systems not within Brazes possession or reasonable control, and denial of service attacks; and (c) provide the Braze Services in accordance with applicable laws and governmental regulations when used according to this Agreement.
+2.4
+Customer Responsibilities.
+Customer is responsible for all actions taken by Customer or its Users in Customers account(s) and for Users compliance with this Agreement. Customer shall: (a) have sole responsibility for the accuracy and legality of all Customer Data; (b) ensure that any user IDs, passwords, and other access credentials for the Braze Services are kept strictly confidential and not shared with any unauthorized person; (c) promptly notify Braze of any breach of security or unauthorized use of its account; (d) use commercially reasonable attempts to comply with requests made by Braze to update various features or functionalities within the Braze Services to optimize performance of the Braze Services to customers generally; (e) use the Braze Services in compliance with this Agreement, applicable Order Form(s), the Braze AUP and all applicable local, state, federal and foreign laws; and (f) provide notice and obtain any legally required consent for the use of tracking technologies used by the Services in creating End User profiles. Braze may, in its reasonable discretion, refuse to distribute Messages where the content of the Message, or the delivery of such Message to the recipient is, in Brazes reasonable opinion, unlawful. Notwithstanding the foregoing, Braze has no obligation to review message content, or recipient addresses.
+2.5
+Use Guidelines.
+Customer shall use the Braze Services solely for its and its Affiliates business purposes as contemplated by this Agreement and shall not: (a) license, sell, resell, lease, transfer, distribute, or otherwise commercially exploit or make the Braze Services available to any third party; (b) send via or store within the Braze Services unlawful, offensive or tortious material; (c) use the Services to imitate or impersonate another person; (d) create false accounts for the purposes of sending unsolicited messages (spam); (e) send messages to individuals who have asked not to receive future messages from Customer (opted out); (f) send via, upload to, or store within the Braze Services any Malicious Code; (g) interfere with or disrupt the integrity or performance of the Braze Services or the data contained therein; (h) attempt to gain unauthorized access to the Braze Services or its related systems or networks; (i) use the Services to establish an individuals eligibility for credit, employment or insurance; and (j) submit to the Braze Services or use the Braze Services to collect, store or process Restricted Information.
+2.6
+Protection of Customer Data.
+Braze will maintain administrative, physical and technical safeguards designed to protect the confidentiality and integrity of Customer Data. Braze will only access, use, process, modify, delete or disclose Customer Data (a) to provide the Services in accordance with this Agreement, (b) to provide support services and prevent or address service or technical problems, (c) as compelled by law in accordance with the Confidentiality section below or as required under applicable law, (d) to send to Users communications (i) about the Services, such as notice of scheduled maintenance, and (ii) of educational or informational nature to optimize their use of the Services, or (e) as expressly permitted in writing by Customer. To the extent that Braze processes any Personal Data (as defined in the DPA) contained in Customer Data, on Customers behalf, in the provision of the Services, the terms of the data processing addendum at https://www.braze.com/dpa/ (DPA), which are hereby incorporated by reference, shall apply and the parties agree to comply with such terms.
+2.7
+Protection of the Services.
+Any use of the Braze Services by Customer that, in Brazes reasonable judgment, imminently threatens the security, stability, integrity or availability of the Braze Services, or otherwise harms Braze, other customers or third parties, may result in immediate suspension of the Braze Services, however Braze will use commercially reasonable efforts under the circumstances to notify Customer in advance of such suspension and provide Customer with an opportunity to correct its usage prior to any such suspension. Braze will have no liability for any such suspension made in good faith. Unless this Agreement has been terminated, Braze will restore Customers access to the Braze Services once it verifies that Customer has resolved the condition requiring suspension.
+3. FEES & PAYMENT
+3.1
+Fees.
+Customer shall pay all fees specified in all Order Forms hereunder. Except as otherwise specified herein or in an Order Form, (i) fees are based on the Braze Services subscription(s) purchased and not actual usage; (ii) payment obligations are non-cancelable; (iii) fees paid are non-refundable, except pursuant to Section 9.3 (Termination for Cause); and (iv) the subscription entitlement(s) purchased cannot be decreased during the relevant Subscription Term.
+3.2
+Invoicing and Payment.
+Except as otherwise provided, all fees are quoted and payable in United States dollars. Fees for Services will be invoiced electronically (i) in advance, and (ii) monthly in arrears for excess usage, if applicable, and in both cases, in accordance with the applicable Order Form. Customer is responsible for maintaining complete and accurate billing and contact information within the Braze Services.
+3.3
+Overdue Payments.
+Braze may impose late fees as contemplated in each Order Form. If Customers account is 30 days or more overdue, Braze may, in addition to any of its other rights or remedies, upon written notice, suspend Customers access to the Braze Services until such amounts are paid in full. If such failure to pay has not been cured within 60 days of the due date, then upon written notice, Braze may terminate this Agreement and any or all outstanding Order Forms in accordance with the Termination for Cause section below.
+3.4
+Payment Disputes.
+Braze shall not exercise its rights under the Overdue Payments section above if Customer is disputing the applicable charges reasonably and in good faith and is cooperating diligently to resolve the dispute.
+3.5
+Taxes.
+Unless otherwise stated, Brazes fees do not include any direct or indirect local, state, federal or foreign taxes, levies, duties or similar governmental assessments of any nature, including value-added, use, sales or withholding taxes collected by any jurisdiction whatsoever (collectively, Taxes). Customer is responsible for paying all Taxes associated with its purchases hereunder, excluding taxes based on Brazes net income or property. If Braze has the legal obligation to pay or collect Taxes for which Customer is responsible under this Section, the appropriate amount shall be invoiced to and paid by Customer, unless Customer provides Braze with a valid tax exemption certificate authorized by the appropriate taxing authority.
+4. PROPRIETARY RIGHTS
+4.1
+Reservation of Rights.
+As between Braze and Customer, Customer exclusively owns all rights, title and interest in and to all Customer Data. Subject to the limited rights expressly granted hereunder, Braze reserves all rights, title and interest in and to the Braze Services and Customer retains all rights to the Customer Application(s), including all related intellectual property rights therein and to any improvements, enhancements or updates thereto. Braze may use Customers name verbally and Customers name and logo in writing to identify Customer as a customer of Braze. No rights are granted to either party hereunder other than as expressly set forth herein.
+4.2
+Intellectual Property Restrictions.
+Customer shall not (a) modify, copy or create derivative works based on the Braze Services; (b) reverse engineer the Braze Services; (c) alter, remove or suppress in any manner any copyright, trademark or other notices displayed by the Services; or (d) access the Braze Services in order to (i) build a competitive product or service, or (ii) copy any features, functions or graphics of the Braze Services.
+4.3
+Feedback.
+If Customer elects to provide any suggestions, comments, improvements, ideas or other feedback relating to the Braze Services to Braze (collectively,
+Feedback ), Customer acknowledges and agrees that Braze may incorporate into the Braze Services any such Feedback without any obligation, payment, or restriction based on intellectual property rights or otherwise, excluding any Customer Confidential Information contained in the Feedback.
+5. CONFIDENTIALITY
+5.1
+Definition of Confidential Information.
+As used herein,
+Confidential Information
+means all confidential and proprietary information of a party, or any of its Affiliates ( Disclosing Party ), disclosed to the other party, or any of its Affiliates, ( Receiving Party ) that is marked or designated as Confidential and/or Proprietary, or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure, including, without limitation, all information and data relating to the provision of the Services, a partys business and marketing plans, technology and technical information, product designs, and business processes. The terms and conditions of this Agreement are the Confidential Information of both parties, the pricing and other terms reflected in all Order Forms hereunder are the Confidential Information of Braze, and the Customer Data is the Confidential Information of Customer. Notwithstanding the foregoing, each party may disclose the existence and terms of this Agreement, in confidence, to a potential purchaser of or successor to any portion of such partys business resulting from the reorganization, spin-off, or sale of all or a portion of all of the assets of any business, division, or group of such party. Confidential Information (except for Customer Data) shall not include any information that: (i) is or becomes generally known to the public without breach of any obligation owed to the Disclosing Party or any third party; (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party; (iii) was independently developed by the Receiving Party; or (iv) is received from a third party without breach of any obligation owed to the Disclosing Party.
+5.2
+Confidentiality.
+The Receiving Party shall use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but in no event less than reasonable care) (i) to not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement, and (ii) except as otherwise authorized by the Disclosing Party in writing, to limit access to Confidential Information of the Disclosing Party to those of its and its Affiliates employees, contractors and agents ( Representatives ) who need such access for purposes consistent with this Agreement and who are subject to written confidentiality obligations with the Receiving Party containing protections no less stringent than those contained herein. Receiving Party shall be liable for any breach of this Section 5 by its Representatives. Other than as otherwise provided herein, neither party shall disclose the terms of this Agreement or any Order Form to any third party other than its Representatives without the other partys prior written consent.
+5.3
+Compelled Disclosure.
+If the Receiving Party is compelled by law to disclose Confidential Information of the Disclosing Party, it shall provide the Disclosing Party with prior notice of such compelled disclosure (to the extent legally permitted) and reasonable assistance, at Disclosing Partys cost, if the Disclosing Party wishes to contest the disclosure.
+5.4
+Remedies.
+If the Receiving Party discloses or uses (or threatens to disclose or use) or fails to limit access to any Confidential Information of the Disclosing Party in breach of the confidentiality obligations set forth herein, the Disclosing Party shall have the right, in addition to any other remedies available to it, to seek injunctive relief to enjoin such acts, it being specifically acknowledged by the parties that any other available remedies are inadequate.
+5.5
+Survival.
+The obligation of Confidentiality set forth in this Section 5 shall survive termination or expiration of this Agreement.
+6. WARRANTIES & DISCLAIMERS
+6.1
+Braze Warranties.
+Braze represents and warrants that the functionality and overall security of the Braze Services will not be materially decreased during a Subscription Term. In the event of a breach of this Section 6.1, Customers exclusive remedy shall be as provided in the Termination for Cause section below.
+6.2
+Disclaimer.
+EXCEPT AS OTHERWISE SPECIFICALLY PROVIDED HEREIN, TO THE MAXIMUM EXTENT PERMITTED BY LAW, BRAZE EXPRESSLY DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, WITH RESPECT TO THE SERVICES, WHETHER EXPRESS OR IMPLIED, ARISING BY LAW, CUSTOM, PRIOR ORAL OR WRITTEN STATEMENTS, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. NO REPRESENTATION OR STATEMENT, INCLUDING, WITHOUT LIMITATION, STATEMENTS REGARDING CAPACITY, SUITABILITY FOR USE OR PERFORMANCE OF THE SERVICES NOT CONTAINED IN THIS AGREEMENT SHALL BE DEEMED TO BE A WARRANTY BY BRAZE. BRAZE MAKES NO WARRANTY OF ANY KIND WITH RESPECT TO ANY THIRD-PARTY SOFTWARE USED BY CUSTOMER IN CONNECTION WITH THE BRAZE SERVICES. BRAZE WILL NOT BE LIABLE IN ANY MANNER FOR ANY RESTRICTED INFORMATION RECEIVED FROM OR ON BEHALF OF CUSTOMER IN BREACH OF THIS AGREEMENT.
+7. MUTUAL INDEMNIFICATION
+7.1
+Indemnification by Braze.
+Subject to Section 8 below, Braze shall defend, indemnify and hold Customer harmless from any finally awarded damages, attorneys fees and judgments or settlements (Damages) arising from any claims, demands, suits or proceedings made or brought by a third party ( Claims ) against Customer alleging (a) that Customers use of the Braze Services within the scope of this Agreement infringes the intellectual property rights of such third party; (b) a breach by Braze of its confidentiality obligations under Section 5 hereof; or (c) gross negligence or willful misconduct by Braze. If Braze receives information about an infringement Claim related to the Braze Services, Braze shall in its discretion and at no cost to Customer (i) modify the Braze Services so that they no longer infringe, without breaching Brazes warranties under Braze Warranties above, (ii) obtain a license for Customers continued use of the Braze Services in accordance with this Agreement, or if (i) and (ii) are not reasonably practicable, then (iii) terminate Customers subscriptions for the Braze Services upon 30 days written notice and refund Customer any prepaid fees covering the remainder of the term of the terminated subscriptions. Braze shall have no obligation to indemnify or defend Customer to the extent any Claim arises from Customers use of any Third-Party Providers services, or Customers use of the Braze Services in breach of this Agreement.
+7.2
+Indemnification by Customer.
+Subject to Section 8 below, Customer shall defend, indemnify and hold Braze harmless from any Damages arising from any Claims against Braze alleging (a) violation of applicable law arising from Customers use of the Braze Services in breach of this Agreement; (b) that Customer Data infringes the intellectual property rights of a third party; (c) a breach by Customer of its confidentiality obligations under Section 5 hereof; or (d) gross negligence or willful misconduct by Customer, and will indemnify Braze from any damage or judgments finally awarded against Braze incurred in connection with a Claim.
+7.3
+Procedure. The party seeking indemnification must: (a) promptly notify the indemnifying party in writing of the applicable Claim for which indemnification is sought; provided, that failure to notify shall not relieve a party of its indemnification obligations unless the indemnifying party has been materially prejudiced thereby; (b) give the indemnifying party sole control of the defense and settlement of the Claim (except that the indemnifying party may not settle a Claim unless it unconditionally releases the indemnified party of all liability); and (c) provide the indemnifying party with all non-monetary assistance, information and authority reasonably required for the defense and settlement of such Claim.
+7.4
+Exclusive Remedy.
+This Mutual Indemnification section states the indemnifying partys sole liability to, and the indemnified partys exclusive remedy against, the other party for any type of Claim described in this Section.
+8. LIMITATION OF LIABILITY
+8.1
+Limitation of Liability.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, NEITHER PARTYS LIABILITY WITH RESPECT TO ANY SINGLE INCIDENT ARISING OUT OF OR RELATED TO THIS AGREEMENT WILL EXCEED THE AMOUNT PAID BY CUSTOMER HEREUNDER IN THE TWELVE MONTHS PRECEDING THE INCIDENT GIVING RISE TO LIABILITY, PROVIDED THAT IN NO EVENT SHALL EITHER PARTYS AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, EXCEED THE TOTAL AMOUNT PAID BY CUSTOMER HEREUNDER. THE ABOVE LIMITATIONS WILL NOT LIMIT CUSTOMERS PAYMENT OBLIGATIONS HEREUNDER.
+8.2
+Exclusion of Indirect Damages.
+IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, CONSEQUENTIAL OR COVER DAMAGES OF ANY KIND OR NATURE HOWEVER CAUSED AND, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW.
+9. TERM & TERMINATION
+9.1
+Term of Agreement.
+This Agreement commences on the Effective Date and continues until all Order Forms entered into hereunder have terminated or expired pursuant to the terms hereof and subject to Section 9.3 below.
+9.2
+Term of Subscriptions.
+Subscriptions to the Braze Services commence on the Start Date and continue for the Subscription Term specified in the applicable Order Form. Unless otherwise set forth in an Order Form, subscriptions shall automatically renew for additional periods equal to the expiring Subscription Term, unless either party gives the other notice of non-renewal at least 30 days prior to the end of the relevant Subscription Term. Braze reserves the right to increase the fees on renewal by giving Customer at least sixty (60) days notice of such price increase; provided, however, that any such price increase shall not exceed 7% above the price that was in effect for the same products and services in the immediately preceding term. Notwithstanding anything to the contrary, any renewal in which subscription volume for any Services has decreased from the prior term will result in re-pricing at renewal without regard to the prior terms per-unit pricing.
+9.3
+Continued Use.
+In the absence of automatic renewal or a signed renewal Order Form, upon expiration of the applicable Order Form, Braze will cease providing the applicable Services to Customer. In the event that the parties are negotiating renewal in good faith, Braze may, for a limited period of time, allow Customer to continue to use the Services hereunder beyond the expiration of such Order Form, and Customer agrees: (i) to pay for such use of the Services in an amount equal to the fees in effect immediately prior to such expiration (entitlements and fees prorated for such period) plus a 10% fee, and (ii) that Braze will cease providing the Services at the end of such period if Customer has not signed a new Order Form.
+9.4
+Termination for Cause.
+A party may terminate this Agreement for cause: (a) upon 30 days written notice of a material breach to the other party if such breach remains uncured at the expiration of such period; or (b) immediately if the other party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors. Upon any termination for cause by Customer, Braze shall refund Customer any prepaid fees covering the remainder of the Subscription Term after the date of termination. Termination for cause by Customer shall not relieve Customer of the obligation to pay any fees accrued or payable to Braze prior to the effective date of termination. Upon any termination for cause by Braze, Customer shall remain obligated to pay all fees owed for the remainder of the Subscription Term.
+9.5
+Customer Data Deletion.
+Braze shall enable Customer to export its Customer Data at any time during the term of this Agreement. In order to provide Customer with accurate analytical data and optimal performance of the Braze Services, Customer instructs Braze to remove the End User profiles from its production instance of End Users who are Inactive or Dormant as set forth and defined in the Documentation. Following the termination or expiration of this Agreement, Braze shall terminate provision of the Braze Services to Customer and shall delete or securely overwrite Customer Data, in accordance with this Agreement, applicable laws and the Documentation.
+9.6
+Surviving Provisions.
+Section 1 and Sections 3 through 10 shall survive any termination or expiration of this Agreement.
+10. GENERAL PROVISIONS
+10.1
+Relationship of the Parties.
+The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary, or employment relationship between the parties.
+10.2
+No Third-Party Beneficiaries.
+There are no third-party beneficiaries to this Agreement.
+10.3
+Beta Services.
+From time to time, Braze may invite Customer to try Beta Services. Customer may accept or decline any such trial in its sole discretion. Beta Services are for evaluation purposes and not for production use, are not considered Braze Services under this Agreement, are not supported, and may be subject to additional terms. Unless otherwise stated, any Beta Services trial period will expire upon the earlier of one year from the trial start date or the date that a version of the Beta Services becomes generally available. Braze may discontinue Beta Services at any time in its sole discretion and may never make them generally available. Braze shall have no liability for any harm or damage arising out of or in connection with a Beta Service.
+10.4
+Export Control and Sanctions Compliance.
+The Braze Services and derivatives thereof may be subject to export control and sanctions laws of the United States and other applicable government authorities. Customer will comply with and ensure that its Users are in compliance with such laws, including without limitation, the U.S. Export Administration Regulations and U.S. sanctions (the Export Control and Sanctions Laws). Customer will not, directly or indirectly, export, re-export, transship, transfer, divert or otherwise dispose of any Braze products or related technology, or use or allow use of the Services: (i) to or by any individual, entity, or country prohibited by the Export Control and Sanctions Laws, including, without limitation, the prohibition against exports (A) into, or to a national or resident of, any country subject to U.S. sanctions or similar export restrictions (currently, Cuba, Iran, Syria, North Korea and the region of Crimea), or (B) to or by anyone on the U.S. Treasury Departments list of Specially Designated Nationals, the U.S. Department of Commerces Denied Persons List or Entity List, or other export control lists; or (ii) for any purpose prohibited by the Export Control and Sanctions Laws, including, without limitation, nuclear, chemical or biological weapons proliferation or development of missile technology. It is Customers sole responsibility to ensure that it and its Users comply with the Export Control and Sanctions Laws with regard to the use of Braze Services. Any use of the Services by Customer or Users that, in Brazes reasonable judgment, is unlawful may result in immediate suspension of the Services. Braze will have no liability for any such suspension made in good faith.
+10.5
+Anti-Corruption.
+Neither party has received or been offered any illegal or improper bribe, kickback, payment, gift or thing of value from an employee or agent of the other party in connection with this Agreement. Reasonable gifts and entertainment provided in the ordinary course of business do not violate the above restriction. If Customer learns of any violation of the above restrictions, it will use reasonable efforts to promptly notify Brazes Legal Department at generalcounsel@braze.com.
+10.6
+Notices.
+All notices under this Agreement shall be sent in writing via mail or email. Notices of termination or of an indemnifiable claim ( Legal Notices ) shall be identified as Legal Notices. Notices to Braze shall be addressed to the attention of its General Counsel at generalcounsel@braze.com. Legal Notices to Customer shall be addressed to the attention of its legal department. Billing-related notices to Customer shall be addressed to the relevant billing contact designated by Customer. All other notices to Customer will be addressed to the relevant Services system administrator designated by Customer.
+10.7
+Waiver and Cumulative Remedies.
+No failure or delay by either party in exercising any right under this Agreement shall constitute a waiver of that right. Other than as expressly stated herein, the remedies provided herein are in addition to, and not exclusive of, any other remedies of a party at law or in equity.
+10.8
+Severability.
+Any provision of this Agreement which is prohibited and unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof or affecting the validity or enforceability of such provisions in any other jurisdiction.
+10.9
+Assignment.
+Neither party may assign any of its rights or obligations hereunder, whether by operation of law or otherwise, without the prior written consent of the other party (not to be unreasonably withheld, conditioned or delayed). Notwithstanding the foregoing, either party may assign this Agreement in its entirety (including all Order Forms), without consent of the other party, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets not involving a direct competitor of the other party. Any attempt by a party to assign its rights or obligations under this Agreement in breach of this Section shall be void and of no effect. Subject to the foregoing, this Agreement shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+10.10
+Governing Law.
+This Agreement shall be governed exclusively by the internal laws of the State of New York, without regard to its conflicts of laws rules. The state and federal courts located in the State of New York, District of Manhattan, New York City, shall have exclusive jurisdiction to adjudicate any dispute arising out of or relating to this Agreement. Each party consents to the exclusive jurisdiction of such courts. Each party also waives any right to jury trial in connection with any action or litigation in any way arising out of or related to this Agreement.
+10.11
+Entire Agreement.
+This Agreement is the entire agreement between the parties regarding Customers use of the Services, and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by the parties. The parties agree that any term or condition stated in a Customer purchase order or in any other Customer order documentation (excluding Order Forms) is void. In the event of any conflict or inconsistency among the following documents, the order of precedence shall be: (1) the applicable Order Form, (2) any exhibit, schedule or addendum to this Agreement, and (3) the body of this Agreement. The language used in this Agreement shall be deemed to be language chosen by both parties hereto to express their mutual intent, and no rule of strict construction against either party shall apply to rights granted herein or to any term or condition of this Agreement.
+10.12
+Counterparts.
+This Agreement may be executed in counterparts, which taken together shall form one legal instrument.
+New York
+London
+San Francisco
+Singapore
+Chicago
+Instagram
+Twitter
+LinkedIn
+© BRAZE ALL RIGHTS RESERVED PRIVACY
+POLICY
+Product
+Cross-Channel Personalization
+Lifecycle Engagement Orchestration
+Optimization & AI
+Data Agility & Management
+Regulations and Compliance
+Technology Partners
+Packages
+Industries
+Delivery & Transportation
+Financial Services &
+Insurance
+Media & Entertainment
+Retail & eCommerce
+Travel & Hospitality
+Agencies
+Resources
+Library
+Documentation
+User Guide
+Developer Guide
+Glossary
+Customers
+Perspectives
+Braze Magazine
+Featured Stories
+Events
+About
+Company
+Careers
+Engineering Careers
+Newsroom
+Legal
+Contact
+Connect with Sales
+Login
+System Status
+Connect with Sales
+Connect with Sales
+Close
+1
+Your Details
+2
+Your Needs
+3
+Finish
+Job Level
+C-Level/President/Owner
+VP
+Director
+Manager
+Practitioner
+Job Function
+Marketing
+CRM
+Data Scientist
+Growth
+Mobile Solutions
+Customer Experience
+Product/Engineer
+IT
+Vendor Sourcing/Procurement
+Industry
+Consumables
+Financial Services
+Gaming
+Health and Lifestyle
+Media & Telecommunications
+On-Demand
+Productivity & Utilities
+QSR
+Retail & eCommerce
+Social & Messaging
+Transportation & Logistics
+Travel & Hospitality
+Other
+Number Of Employees
+1 - 100
+101 - 999
+1,000 - 4,999
+5,000+
+Country
+United States
+Afghanistan
+Aland Islands
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo, the Democratic Republic of the
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Republic of
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia, the former Yugoslav Republic of
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Moldova, Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint BarthĆ©lemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, Bolivarian Republic of
+Viet Nam
+Virgin Islands, British
+Wales
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+State
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland and Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+Opt in to receive email marketing tips, insights, invitations, product updates, and more via email from Team Braze.
+Please note that your consent is voluntary and you are under no obligation to opt in. Even if you choose to consent now, you are welcome to come back and opt out at any time.
+Next
+If you have a mobile app, how many MAU does it have?
+Pre-Launch
+Under 10k
+10-50k
+50-100k
+100k-1mm
+1mm+
+What is your monthly unique web traffic?
+Under 1MM
+1MM - 10MM
+More than 10MM
+How many emails do you send annually?
+Under 1MM
+1MM-10MM
+10MM-100MM
+100MM+
+Dont send emails
+How did you hear about Braze?
+Are you evaluating other vendors alongside Braze? If so, who? (write in answer)
+If you are having trouble submitting form, please ensure you have pop up blockers disabled
+Back
+Finish
+Thanks! We'll be in touch shortly.
+In the meantime,
+learn from the brands that get It .
+Close

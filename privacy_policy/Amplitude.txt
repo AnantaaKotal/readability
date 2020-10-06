@@ -1,0 +1,218 @@
+Privacy Policy   Amplitude
+Product Why Amplitude? Learn why more digital teams trust us. What's Product Intelligence? Dive into an overview of the product. What's new? The latest product innovations and releases. Benefits Understand your users Democratize insights, uncover friction points, and track product usage. Improve product experience Ship product faster, measure releases, and map user journeys. Increase lifetime value and retention Optimize conversions, grow loyalty, and personalize experiences. Integrations AWS Braze Segment Snowflake All integrations Industries SaaS E-Commerce Media & Gaming FinTech Customers Pricing More Company About Us Careers Press Resources Engineering Amplitude for Startups Partners Overview Become a Partner Find a Partner Integrations Data Trust Resources Blog Content Library Events Webinars Support Help Center Developer Center Support Portal Contact Us Login Explore Product Product Customers Pricing More Log in Sign up Table of Contents 01. INTRODUCTION 02. WHAT THIS PRIVACY NOTICE COVERS 03. PERSONAL DATA WE COLLECT AND HOW WE COLLECT IT 04. WHEN AMPLITUDE DISCLOSES PERSONAL DATA 05. CUSTOMER END USER DATA 06. INTERNATIONAL TRANSFER
+07. OUR COMMITMENT TO DATA SECURITY 08. CHOICES ABOUT HOW WE USE AND DISCLOSE INFORMATION WE COLLECT FROM YOU 09. OTHER INFORMATION ABOUT OUR PRIVACY PRACTICES
+10. UPDATES AND CHANGES TO THE PRIVACY NOTICE 11. DISPUTES 12. CONTACT US 13. COOKIES 14. Previous Privacy Version Last Updated: January 1, 2020
+1. INTRODUCTION Amplitude, Inc. ( Amplitude ,  we , or  us ) is a cloud-based product-analytics platform that helps customers build better products.
+Amplitude respects the privacy of individuals and is committed to protecting the information of visitors to the website ( Visitors ) and individuals or entities that register to use the Amplitude products and services through the Website ( Customers ). This Privacy Notice describes Amplitudes practices for collecting, using, maintaining, protecting, and disclosing information in relation to Visitors of the website, amplitude.com ( Website ), Amplitudes marketing activities, and Customers accessing and using the products and services available on the Website (collectively,  Product ).
+Please read the following carefully to understand our policies and practices regarding your information collected through the Website, through your use of the Product, through our marketing activities and how we will treat it. If you do not agree with the below policies and practices, your choice is not to use our Website or register to use the Product through our Website.
+2. WHAT THIS PRIVACY NOTICE COVERS This Privacy Notice covers how we treat Personal Data that we gather when you access our
+Website
+or use our Product. Specifically, Amplitude is the controller of your Personal Data as described in this Privacy Notice, when it collects personal information from: (i) Visitors to Amplitudes publicly available Website; (ii) Customers when our Customers register to use the Product through the Website or access their account through Amplitudes account portal at:
+https://analytics.amplitude.com/login ; and (iii) when we receive personal information from you related to our marketing activities.
+For clarity, this Privacy Notice does not apply when Amplitude processes Personal Data in the role of a processor on behalf of its Customers, including with respect to the processing of our Customer End User Data (as defined below). In addition, this Privacy Notice does not apply to the mobile applications, websites or services offered by our Customers or other third-parties.
+Throughout this Privacy Notice, Personal Data means any information that identifies or relates to a particular individual and also includes information referred to as personally identifiable information or personal information under applicable data privacy laws, rules or regulations.
+3. PERSONAL DATA WE COLLECT AND HOW WE COLLECT IT 3.1 PERSONAL INFORMATION WE COLLECT AND HOW WE COLLECT IT
+Personal Data You Provide to Us:
+You provide to us your Personal Data when you voluntarily fill in forms on our Website such as when you request a demo or to contact sales. This Personal Data may include: first and last name, company name, job title, work email address, phone number and the content of your request.
+You may also share Personal Data with us through our Website when you sign up to register for an event, to receive our newsletter, subscribe to our blog, register for an event, to receive our newsletter, subscribe to our blog, register for an online webinar, download a white paper or playbook, or complete a survey. This Personal Data may include: first and last name, company name, job title, work email address, phone number and the content of your request.
+In order to access and use the Product, you are required to register for an account with us. When you register for an account, you may provide Personal Data to us, including first and last name, email address, company name, telephone number, physical address, username and password.
+In order to participate in Amplitudes start-up scholarship program, you may provide your credit card or other payment details information directly to our third party payment processor. As explained below, Amplitude does not store this information.
+You may also provide Amplitude with your Personal Data at a marketing event. This Personal Data may include: first and last name, company name, job title, work email address, phone number and the content of your request.
+The Personal Data We Collect From Third Party Sources:
+Amplitude may obtain Personal Data about you from third parties, including, but not limited to, marketing event organizers, partners and resellers. This information may include your first and last name, company name, job title, work email address, phone number and address. Amplitude requires that any third party providing it with information has obtained the information lawfully and the third party has obtained the appropriate consent to share the information with Amplitude.
+Service providers. For example, we may use third party providers of business contact information. The Personal Data provided by these service providers to us about you may include your business mailing addresses, job titles, business email addresses and business phone numbers, and LinkedIn URLs for purposes of delivering relevant email content, advertisements and events.
+Advertising partners. We receive information about you from some of our service providers who assist us with marketing or promotional services, related to how you interact with our Website, event promotions, advertisements or communications.
+Information We Collect Automatically:
+As you navigate through and interact with our Website or Product, we may use cookies, which are small files placed on the hard drive of your computer or mobile device, and web beacons, which are small electronic files located on pages of the Website, to collect certain information about your equipment, browsing actions, and patterns. You can learn more about cookies and how we use them
+here .
+We also use cookies to access information when you sign in, store your preferences, to keep you logged in, and to store a limited amount of behavioral data.
+The data automatically collected from cookies and web beacons may include information from your Web browser (such as browser type and browser language) and details of your visits to our Website, including traffic data, location data and logs, page views, length of visit and website navigation paths as well as information about your computer and internet connection, including your IP address and how you interact with our Product. We collect this data in order to help us improve our Website, the Product and the user experience with our Website and Product. You can learn more about cookies and how we use them
+here .
+Amplitude currently does not support Do Not Track signals set by your browser because there is not an industry or legal standard for these signals. Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+The information we collect automatically may also include statistical and performance information arising from our Customers use of our Product and Visitors to our Website. This type of data will only be used by us in an aggregated and anonymized manner.
+You can decide whether or not to accept cookies through your internet browsers settings. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending upon the sophistication of your browser software) allow you to decide on acceptance of each new cookie in a variety of ways. You can also delete all cookies that are already on your computer. If you do this, however, you may have to manually adjust some preferences every time you visit a site and the Product, Website and functionalities may not work.
+To explore what cookie settings are available to you, look in the preferences or options section of your browsers menu. To find out more information about cookies, including information about how to manage and delete cookies, please visit
+https://ico.org.uk/for-the-public/online/cookies/
+or
+http://www.allaboutcookies.org/ .
+3.2 THE WAY AMPLITUDE USES YOUR PERSONAL DATA
+We use information that we collect about you or that you provide to us, including Personal Data, in order to respond to a request from you, to carry out our legal obligations, to fulfill a contract with you, to protect your vital interests, to provide you with notices and for other purposes with your consent as described below.
+We use the Personal Data you provide to us when you fill in forms on our Website to respond to your request and to contact you about that request. Our legal basis for processing this personal information is our legitimate interest in communicating with you and fulfilling your requests.
+We may use your Personal Data to provide the Product to you as well for non-marketing or administrative purposes (such as notifying you of major changes to the Website, the Product or for customer service purposes). Our legal basis for processing this Personal Data is in the performance of our contract to provide the Product or other services to you.
+We also use the Personal Data you provide to us for the purpose of operating our Website, ensuring the security and integrity of our Website and Product and maintaining back-ups of our databases. Our legal basis for processing this personal information is our legitimate interests, namely the proper administration of and security of our Website and Product.
+For Personal Data and information that we collect through tracking technologies about your interaction with our Website and Product, we use this information for analyzing the use of the Website and Product in order to improve the quality and design of our Website and the user experience with our Website and Product. Our legal basis for processing this type of data is our legitimate interests, namely, to provide you with a better user experience.
+We may use the Personal Data you provide to us at marketing events, when you register for an online webinar or download a whitepaper for the purpose of offering, marketing and selling products and services to you. Our legal basis for processing this Personal Data is consent, which you can withdraw at any time.
+We may also use any of your Personal Data identified in this Privacy Notice for the purposes of: (i) enforcing our agreements and policies, including Terms of Service or Master Service Agreement, (ii) protecting or defending Amplitudes legal rights; (iii) protecting your vital interests or the vital interests of another natural person; or (iv) complying with a legal obligation.
+We may use your Personal Data for any other business purpose stated when collecting your Personal Data or as otherwise set forth in applicable data privacy laws, such as the California Consumer Privacy Act (the CCPA).
+We will not collect additional categories of Personal Data or use the Personal Data we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+As noted in the list above, we may communicate with you if youve provided us the means to do so. For example, if youve given us your email address, we may send you promotional email offers or email you about your use of the Product or Website. Also, we may receive a confirmation when you open an email from us, which helps us improve our Website and Product. If you do not want to receive communications from us, please indicate your preference by emailing us at
+privacy@amplitude.com
+or
+ccpa@amplitude.com .
+4. WHEN AMPLITUDE DISCLOSES PERSONAL DATA We may disclose Personal Data that we collect, or you provide to us as described below.
+Amplitude does not share or sell your Personal Data with any third parties for direct marketing purposes.
+We may disclose Personal Data that we collect, or you provide to us to our subsidiaries and affiliates. This Personal Data may include first and last name, email address, phone number, geolocation data, commercial information, and professional or employment-related information.
+We may share your Personal Data collected from you as described in this Privacy Notice with third-party service providers who need to access the Personal Data in order to perform services on behalf of Amplitude, such as processing or storing such information or providing analytics services on our behalf. The third-party service providers are limited to using the Personal Data solely to provide the services to us and are bound by contractual obligations to keep Personal Data confidential and to use it only for the purposes for which we disclose it to them. This Personal Data may include first and last name, email address, phone number, geolocation data, commercial information and professional or employment-related information.
+If you are part of the Amplitude Start-up Scholarship Program and you choose to pay the subscription fee with a credit card or debit card, your credit card or debit card information is provided directly to our third-party payment processor, Stripe, to process the payments. The payment information is transmitted directly via an encrypted connection to Stripe. Stripe uses, processes and stores your Personal Data and payment information in accordance with Stripes privacy policy available at stripe.com/us/privacy. Amplitude does not collect or store your payment information. Stripe maintains that it is PCI compliant and you can learn more about Stripes security measures available at
+stripe.com/help/security .
+We may share your Personal Data and information if we believe disclosure is necessary to comply with applicable laws, regulations, respond to a court order, subpoena or a government request (such as a search warrant). If a government requests or other legal process requires Amplitude to disclose your personal data, then Amplitude will use reasonable efforts to provide you with prior notification of the disclosure unless Amplitude is prohibited by law from doing so.
+Amplitude also reserves the right to disclose your Personal Data that Amplitude believes, in good faith, is appropriate or necessary to: (i) enforce our agreements and policies, including for billing and collection purposes, (ii) protect the security or integrity of the Website or Amplitudes products and services; or (iii) protect or defend Amplitudes legal rights.
+In the event that Amplitude is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign your Personal Data we have collected from you as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+Amplitude may disclose non-personally identifiable information about Visitors to the Website or our Customers use of the Product that does not identify any individual in the aggregate in published studies without restriction. Amplitude will not compromise the confidentiality of your Personal Data in publishing these studies or publish any identifying information.
+Amplitude may disclose Personal Data to third-party business partners at your direction, if you access the third-party business partners through the Product or Website.
+Amplitude may disclose Personal Data that we collect, or you provide to us for any purpose disclosed by us when you provide the information or with your consent.
+Sales of Personal Data
+Amplitude has not sold your Personal Data over the last twelve (12) months and Amplitude does not sell Personal Data. For purposes of this section, we use the term sell as it is defined in the CCPA.
+5. CUSTOMER END USER DATA This Privacy Notice does not apply to Customer End User Data or Customer Applications.
+With respect to Amplitudes Customers, Amplitude is a processor, and Amplitude processes the Personal Data collected by our Customers and sent to the Amplitude platform only in accordance with the instructions of our Customers. Our Customers send data to our Product in order to understand how their own users ( Customer End Users ) engage with the Customer Applications ( Customer End User Data ).  Customer Applications  means our Customers mobile applications, websites or other services.
+Our Customers, not Amplitude, choose the type of Customer End User Data collected by Customer Applications, and processed, transferred and stored through our Customers use of the Products. We process the Customer End User Data only according to the instructions of Customers and, our legal obligations with respect to the Customer End User Data is set forth in the agreement between us and our Customers. The collection of Customer End User Data through Customer Applications is governed by our Customers privacy policies, and if you are a Customer End User then you should review the Customers privacy policy to learn more about the Customers data handling practices.
+While Amplitude recognizes that an individual has the right to access, delete and amend the data collected about that individual, Amplitude does not have a relationship with the Customer End Users but rather only with our Customers. If you are a Customer End User and you would like to access, amend or delete your data, then you need to contact the Customer directly and Amplitude will respond within a reasonable period of time to any such request by our Customer.
+Amplitude only retains the Customer End User Data we process on behalf of our Customers for as long as necessary to provide the Product to our Customers or as required to comply with legal obligations, resolve disputes and enforce any agreement.
+6. INTERNATIONAL TRANSFER
+The data servers Amplitude uses to provide the Website and Product are located in the United States. By interacting with the Website or using the Product, you understand that your personal data will be transferred to the United States and you consent to such transfer.
+To the extent Amplitude collects or processes personal data transferred from the European Union or Switzerland to the United States, Amplitude complies with the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data transferred from the European Union, and the United Kingdom and Switzerland to the United States, respectively, in reliance on Privacy Shield. Amplitude has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view the certification for Amplitude, please visit:
+https://www.privacyshield.gov/ .
+For the actions of third party agents Amplitude engages to process data on our behalf, Amplitude remains responsible and liable under the Privacy Shield Principles if a third party agent processes the personal data in a manner inconsistent with the Privacy Shield Principles, unless Amplitude proves that it is not responsible for the event giving rise to the damage.
+7. OUR COMMITMENT TO DATA SECURITY Amplitude uses commercially reasonable physical, managerial, and technical safeguards designed to secure your Personal Data from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is also encrypted and stored on our secured servers behind firewalls.
+However, you are also responsible for maintaining the confidentiality of your password and other information used by you to access the Website or use the Product. While Amplitude does its best to protect your Personal Data, Amplitude cannot guarantee the security of your Personal Data transmitted to our Website because the transmission of information via the internet is not completely secure. Any transmission of your Personal Data is done at your own risk and Amplitude cannot guarantee that such Personal Data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards, and except as expressly required by law, we are not responsible for the theft, destruction, loss or inadvertent disclosure of your Personal Data or information. If Amplitude learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Amplitude may post a notice on the Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at
+privacy@amplitude.com .
+8. CHOICES ABOUT HOW WE USE AND DISCLOSE INFORMATION WE COLLECT FROM YOU We strive to provide you with choices regarding the Personal Data you provide to us and we understand that you have the right to access, correct, delete, object to and restrict our use of your Personal Data. We also understand that you have the right to obtain a copy of your Personal Data from us and to withdraw your consent of the processing of your Personal Data by us. Please note that the rights set forth in this Section 8 apply globally to all Visitors and Customers, whether or not you are a California resident or a resident of the European Union, United Kingdom, Lichtenstein, Norway or Iceland. We have created mechanisms to provide you with the following control over your Personal Data:
+You may choose not to provide Personal Data through our Website or when you register for the Product, in which case Amplitude may not be able to provide certain services to you or respond to your requests.
+You can access, review and change your Personal Data by logging into your account on the Website and visiting your account profile page. You may also send us an email at
+privacy@amplitude.com
+or
+ccpa@amplitude.com
+to request access to, correct or delete any Personal Data that you have provided to us. In some cases, we may not be able to delete your Personal Data except by also deleting your user account.
+If you do not wish to have your email address or other contact information used by us to promote our own products or services, you can opt-out by checking the relevant box located on the form on which we collect your Personal Data or at any time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes, or by sending us an email stating your request to
+privacy@amplitude.com . If we have sent you a promotional email, you may unsubscribe to receive future emails via the unsubscribe link in that email or adjust your user preferences in your account profile as noted above. The opt out specified above does not apply to information provided to us as a result of a purchase, product service experience or other transactions.
+You may also request a copy of your Personal Data that you have provided to us directly by sending an email to
+privacy@amplitude.com
+or
+ccpa@amplitude.com .
+We will provide you a copy of your Personal Data in a commonly used electronic form.
+Please note to exercise the rights set forth above we will ask you to: (1) provide sufficient information to allow us to verify that you are the person about whom we have collected Personal Data, and (2) describes request in sufficient detail to allow us to understand, evaluate, and respond to it. Each request that meets both of these criteria will be considered a Valid Request. We may not respond to requests that do not meet these criteria. We will only use Personal Data provided in a Valid Request to verify you and complete your request. You do not need an account to submit a Valid Request.
+We will work to respond to your Valid Request within 30 days of receipt. We will not charge you a fee for making a Valid Request unless your Valid Request(s) is excessive, repetitive, or manifestly unfounded. If we determine that your Valid Request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
+You may submit a Valid Request using the following methods:
+Emailing us at
+privacy@amplitude.com
+or
+ccpa@amplitude.com
+Submitting a form at this address:
+Amplitude CCPA: Requests for Access or Deletion of Personal Data
+We will not discriminate against you for exercising your rights under the GDPR, CCPA or other applicable data privacy laws or regulations. We will not deny you our goods or services, charge you different prices or rates, or provide you a lower quality of goods and services if you exercise your rights under the GDPR, CCPA or other applicable data privacy laws or regulations.
+9. OTHER INFORMATION ABOUT OUR PRIVACY PRACTICES
+9.1 Our Retention Practices
+Personal Data that Amplitude collects and processes as a controller for the purposes identified in this Privacy Notice are not kept by Amplitude for longer than is necessary for the specific purpose identified in this Privacy Notice unless Amplitude is required to retain your Personal Data for a longer period of time to comply with our legal obligations (for example, if we are required to retain your Personal Data to comply with applicable laws or regulations), resolve disputes, and enforce our legal agreements and policies. Personal Data that Amplitude processes on behalf of its Customers as a processor is retained for the period of time specified in the agreement between Amplitude and its Customers, unless Amplitude is required to retain the Personal Data for a longer period of time to comply with our legal obligations (for example, if we are required to retain your personal information to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+9.2 Childrens Privacy
+Amplitude does not knowingly collect or solicit Personal Data directly from Visitors of the Website that are under the age of 13. If you are under 13, please do not provide or send us any Personal Data or attempt to register for or otherwise use the Product. If we learn that a child under 13 has directly provided us with their Personal Data through the Website, then we will delete that information. If you believe a child under 13 has registered for an account on the Website, please contact us at
+privacy@amplitude.com .
+9.3 Automated Decision-Making
+Amplitude does not use any Personal Data provided by you for the purpose of automated decision-making.
+9.4 Other Websites; Links
+Our Website may contain links to other third party websites or applications (such as Facebook, LinkedIn or Twitter). This Privacy Notice does not apply to any third party websites, including through any application that may link to or be accessible from or on the Website, and Amplitude is not responsible for the privacy policies and the content of the third party websites or applications.
+10. UPDATES AND CHANGES TO THE PRIVACY NOTICE Please note that we reserve the right, at any time, to add to, change, update, or modify this Privacy Notice. If, in our reasonable discretion, the changes are material, we will post a notice on our website or send you an email. The modified Privacy Notice will be posted on this website along with the effective date. You are responsible for ensuring that we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this Privacy Notice to check for any changes. Changes to this Privacy Notice are effective when they are posted on this page.
+11. DISPUTES As part of our commitment to the Privacy Shield Principles, if you are a resident of the European Union or Switzerland and you have a privacy or data use concern, please contact Amplitude directly at
+privacy@amplitude.com
+and Amplitude will use its best efforts to address your concern within 45 days of receipt of your complaint. For an unresolved privacy or data use concern that Amplitude has not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider (free of charge) at
+https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim.
+For any Privacy Shield disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the Privacy Shields binding arbitration scheme, please see:
+https://www.privacyshield.gov/article?id=ANNEX-I-introduction .
+The Federal Trade Commission has investigation and enforcement authority over Amplitudes compliance with the Privacy Shield Framework.
+12. CONTACT US If you have any comments, concerns or questions about this Privacy Notice or our privacy practices in general, please send an email to
+privacy@amplitude.com ,
+ccpa@amplitude.com , or send mail to: Amplitude, Inc. Attn: Privacy 631 Howard Street, Floor 5 San Francisco, CA 94105 Your right to file a complaint with a data supervisory authority about our privacy practices remains unaffected.
+Under California Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties direct marketing purposes; in order to submit such a request, please contact us at
+privacy@amplitude.com
+or
+ccpa@amplitude.com .
+EFFECTIVE DATE
+This Privacy Notice was last updated on January 1, 2020.
+13. COOKIES Amplitude uses cookies, web beacons and other tracking technologies to collect certain information about your equipment, browsing actions, and patterns. Below we describe what are cookies and web beacons, why we use cookies and web beacons, the types of cookies and web beacons that we use as well as what you can do in order to manage and delete cookies and web beacons.
+What are cookies and web beacons?
+Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors to their websites. A cookie contains a unique number, which is used to recognize your computer or mobile device when you return to our Website. Cookies can remain on your computer or mobile device for different periods of time. The cookies can be either persistent cookies or session cookies. Persistent cookies are stored by a web browser and remain valid until a set expiration date. Session cookies only exist while your internet browser is open and are automatically deleted once you close your browser.
+Web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) are small electronic files contained on pages of websites that permit companies to count users who have visited certain webpages on a website and are used for other related website statistics (e.g., recording the popularity of certain website content and verifying system and server integrity).
+What does Amplitude use cookies and web beacons for?
+Amplitude uses a variety of cookies, web beacons and other tracking technologies for different purposes. Specifically, Amplitude uses cookies and web beacons to enhance the experience of our visitors to our Website (for example, by remembering your preferences and letting you navigate between pages efficiently) and to better understand how the Website and Product are used. Cookies may tell us, for example, whether you have visited the Website before or whether you are a new visitor.
+What types of cookies and web beacons are used by Amplitude?
+Amplitude uses both first-party and third-party cookies and web beacons. First-party cookies and web beacons are cookies and web beacons that are served directly by Amplitude to your computer or mobile device. Third-party cookies and web beacons are served by a third-party service provider on behalf of Amplitude. Third-party cookies are most commonly used for advertising and analytics purposes.
+There are four categories of cookies and web beacons used by Amplitude. Specifically, Amplitude uses essential, performance, functionality and advertising cookies and web beacons.
+Essential cookies, web beacons and other tracking technologies are necessary for the operation of the Website and Product. These tracking technologies enable you to move around on the Website and use the Websites features. You may not opt-out of these types of cookies because they are required to operate the Website and Product.
+Performance cookies, web beacons and other tracking technologies collect information about how you have used the Website and Product. We use performance cookies, web beacons and other tracking technologies to improve the user experience with our Website and Product.
+Functionality cookies, web beacons and other tracking technologies allow us to remember how you are logged into our Website, when you logged in or out and the actions you have taken while you have been logged into the Website.
+Content cookies enable us to display content most relevant to the audience. Privacy policy:
+https://www.mutinyhq.com/privacy
+Advertising cookies, web beacons and other tracking technologies are used by our third-party service providers to deliver advertising to you on other third-party websites as well as help measure the effectiveness of our advertising campaigns. We also use these types of cookies to analyze Website visits and ad conversions from third-party websites.
+The table below lists the types of cookies and third party service providers currently used by Amplitude but may not include all cookies or third party service providers. In addition, the below list of cookies and third party service providers is subject to change at any time.
+Cookie Type
+Who serves it
+What it does
+More information
+Performance
+Amplitude
+We use our own products and services to analyze the user behavior within our website and our own products and services.
+-
+-
+Google Analytics
+We use Google Analytics to analyze the use of our website.
+For more information about Googles privacy practices, see
+https://policies.google.com/privacy .
+-
+Drift
+We use Drift for tracking unique visitors to our website.
+For more information about Drifts privacy practices, see
+https://www.drift.com/privacy-policy/ .
+-
+Optimizely
+We use Optimizely to optimize page content on our website.
+For more information about opting-out of Optimizelys cookies, see
+https://www.optimizely.com/legal/opt-out/ .
+-
+New Relic
+We use New Relic to analyze web page performance.
+For more information about New Relics privacy practices, please see:
+https://newrelic.com/termsandconditions/privacy .
+-
+Squarespace
+We use Squarespace to analyze the use of our website.
+For more information about Squarespaces privacy notices, please see:
+https://www.squarespace.com/privacy/ .
+Advertising
+Marketo
+We use Marketo for marketing automation services.
+For more information about Marketos cookie policy, see:
+https://documents.marketo.com/legal/cookies/ .
+-
+Doubleclick
+We use Doubleclick to track advertisements and measure website visits and conversions.
+For more information about opting out of the ads, see:
+https://support.google.com/ads/answer/2662922?hl=en .
+-
+LinkedIn
+We use LinkedIn to track conversions and website visits from our advertisements displayed on LinkedIn.
+For more information about LinkedIns privacy practices, please see:
+https://www.linkedin.com/legal/privacy-policy .
+-
+Facebook
+We use Facebook to track conversions and website visits from our advertisements displayed on Facebook.
+For more information about Facebooks privacy practices, please see:
+https://www.facebook.com/help/www/213802165366955 .
+Content
+Mutiny
+We use Mutiny for onsite personalization
+For more information about Mutinys privacy practices, please see:
+https://www.mutinyhq.com/privacy
+What are your choices about cookies?
+It is your choice as to whether or not to accept cookies. Most browsers allow you to configure the browser settings so that cookies from websites cannot be placed on your computer or mobile device. If you choose not to accept cookies, then you may be able to continue browsing our Website but we may not be able to provide you with certain features. If you want to opt out of advertising or performance cookies, then you may do so by reviewing the privacy policies of the third party service providers who serve the advertising and performance cookies identified above. If you would like further information about cookies and how to manage and delete them, please visit
+www.allaboutcookies.org
+or
+www.youronlinechoices.eu .
+What are your choices about cookies and interest-based advertisements?
+Through the Digital Advertising Alliance and Network Advertising Initiative, several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of, and greater control over, ads that are customized based on a consumers online behavior across different websites and properties. To make choices about internet-based ads from participating third parties, including to opt-out of receiving behaviorally targeted advertisements from participating organizations or to learn more about opting out of advertising cookies, please visit the Network Advertising Initiatives or Digital Advertising Alliances consumer opt-out pages, which are located at
+http://networkadvertising.org/choices/
+or
+www.aboutads.info/choices .
+For those users located in the European Union, you can visit the European Interactive Digital Advertising Alliances user information website a
+http://www.youronlinechoices.eu/ .
+14. Previous Privacy Version March 24, 2018
+Product Why Amplitude? What's Product Intelligence? What's new? Engage Govern Scale Insight Accounts Portfolio Query Solutions Understand Your Users Improve Product Experience Increase Lifetime Value and Retention Amplitude for B2B Amplitude for Ecommerce Amplitude for Media Amplitude for FinTech Resources Blog Content Library Events Customers Partners Integrations Developer Center Retention 101 Product Intelligence Guide Company About Us Careers Press Resources Engineering View pricing Amplitude for Startups Amplitude for Black Founders Connect Contact us Try it free Help Center System Status ©2020 Amplitude,
+Inc. All rights reserved. Amplitude is a registered trademark of Amplitude, Inc. Terms of Service Privacy Policy Cookie Settings

@@ -1,0 +1,413 @@
+Terms of Service   Talkdesk
+Get Started
+Products
+Contact Center Software · CX Cloud
+Customer Engagement
+Overview
+Voice
+ACD
+IVR · Studio
+Outbound Dialer
+Omnichannel
+Self-Service
+Workforce Engagement
+Overview
+Agent Desktop
+Mobile Agent
+Workforce Management
+Quality Management
+Call Recording
+Performance Management
+AI & Knowledge
+Overview
+Agent Assist
+Virtual Agent
+Knowledge Base · Guide
+Analytics & Insights
+Overview
+Dashboards · Live
+BI · Explore
+Speech Analytics
+Surveys
+Enterprise Collaboration
+Overview
+Phone
+Messaging
+Integrations
+Overview
+Salesforce
+Zendesk
+Slack
+View All
+Platform
+Overview
+Boost for Business Continuity
+Connections
+AppConnect Marketplace
+APIs & SDKs
+Flexible Deployment
+Security & Compliance
+AI · Talkdesk iQ
+Solutions
+Contact Center Solutions
+By Industry
+Retail & E-Commerce
+Financial Services
+Healthcare
+Travel & Hospitality
+By Business Type
+Enterprise
+Small & Mid-size
+By Contact Center Type
+Customer Service
+Sales
+BPO
+Customers
+Services & Support
+Business Transformation Services
+Overview
+CX Strategy
+CX Enablement
+CX Success
+Partners
+Developers
+Resources
+Webinars
+Reports
+Datasheets
+Ebooks
+Infographics
+Guides
+View All Resources
+Blog
+Business Continuity Resources
+Demo Center
+Customer Reviews
+Benchmark Tool
+Talkdesk CXTalent
+Knowledge Base
+Talkdesk Academy
+Company
+About
+Leadership
+Trust
+News & Press
+Innovations
+Awards & Recognition
+Events
+Careers
+Login
+Get Started
+EBOOK Talkdesk for Sales Powers Inside Sales Teams Read More EBOOK The Cloud Customer Experience: Moving away from Legacy Contact Center Providers Read More Customer Stories Cognosante Read Story
+MASTER SUBSCRIPTION AGREEMENT
+DEFINITIONS.
+ Affiliate  means any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity. Control, for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.
+ Agreement  means this Master Subscription Agreement and any incorporated schedules.
+ Authorized Users  means Customers employees and independent contractors working for Customer in the ordinary course of Customers business for whom access to the Talkdesk Service has been purchased pursuant to this Agreement.
+ CCPA  means
+the California Consumer Privacy Act.
+ Content  means information obtained by Talkdesk from publicly available sources or its third-party content providers and made available to Customer through the Services, Early Access Services or pursuant to an Order Form, as more fully described in the Documentation.
+ Confidential Information  means all information disclosed by a party (Disclosing Party) to the other party (Receiving Party), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Confidential Information of Customer includes Customer Data; Confidential Information of Talkdesk includes the Services and Content, and the terms and conditions of this Agreement and all Order Forms (including pricing). Confidential Information of each party includes business and marketing plans, technology and technical information, product plans and designs, and business processes disclosed by such party.
+ Customer  means in the case of an individual accepting this Agreement on his or her own behalf, such individual, or in the case of an individual accepting this Agreement on behalf of a company or other legal entity, the company or other legal entity for which such individual is accepting this Agreement, and Affiliates of that company or entity (for so long as they remain Affiliates) which have entered into Order Forms.
+ Customer Data  means any electronic data, information or material provided or submitted by or for Customer or its Authorized Users into the Talkdesk Service, excluding Content and non-Talkdesk Applications.  Customer Data that is aggregated and de-identified is no longer deemed Customer Data.
+ Documentation  means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Talkdesk Service, including any usage guides and policies, that are provided or made available by Talkdesk, as updated from time to time, accessible via online or login to the applicable Service.
+ Early Access Services  means Talkdesk Services or functionality that may be made available to Customer to try at its option at no additional charge which is clearly designated as beta, pilot, limited release, developer preview, non-production, evaluation, or by a similar description.
+ Intellectual Property Rights  means any and all registered and unregistered rights granted, applied for, or otherwise now or hereafter in existence under or related to any patent, copyright, trademark, trade secret, database protection, or other intellectual property rights laws, and all similar or equivalent rights or forms of protection, in any part of the world
+ Malicious Code  means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.
+ Marketplace  means an online directory, catalog or marketplace of applications that interoperate with the Services, including, for example, the AppConnect at
+https://www.talkdesk.com/call-center-software/platform/appconnect/ , and any successor websites.
+ Minimum Commitment  means the number of Authorized Users listed in the Order Form or any renewal.
+ Non-Talkdesk Application  means a Web-based, mobile, offline or other software application functionality that interoperates with a Service, that is provided by Customer or a third party and/or listed on a Marketplace including as AppConnect or under similar designation.
+ Order Form  shall mean the order form of
+Schedule A
+and any subsequent order form signed and approved by both parties identifying a given type of Service to be made available by Talkdesk pursuant to this Agreement, which may detail, among other things, the number of Authorized Users. Each Order Form shall be agreed upon by the parties as set forth in
+Schedule A .
+ Professional Services  are Services rendered under the scope of an SOW.
+ Professional Services Intellectual Property or
+PSIP  means all materials created in connection with the performance of Professional Services, including but not limited to: methodologies, know-how, source and object code; specifications, configurations, designs, architecture, processes, techniques, concepts, discoveries, and, inventions made or developed.
+ Representatives  means a partys director, officer, agent, employee, subsidiary, parent company, or financial or legal adviser. Any recipient of a permitted disclosure of Confidential Information under
+Section 7.2
+shall be deemed a Representative.
+ Services  means the Professional Services together with the Talkdesk Service.
+ Service Term  means the Term identified in the Order Form, and any renewal of such term, as applicable.
+ Short Code Application  means each short code application or request for a short code submitted by Customer or on Customers behalf by Talkdesk.
+ Statement of Work  or  SOW  means any description of Professional Services if professional services are required, inclusive of Professional Services rates and charges.
+ Talkdesk Services  means the software as a service to be provided by Talkdesk as identified in the Order Form, as may be modified by Talkdesk to maintain or improve the quality or marketability of the Talkdesk Service or to bring Talkdesks provision of the Talkdesk Service into compliance with applicable law.
+ Taxes  means any taxes, levies, duties or similar governmental assessments of any nature, including, for example, value-added, sales, use, excise, or withholding taxes, assessable by any jurisdiction whatsoever.
+ Third-Party Products  means any services or applications offered by third parties on the AppConnect Marketplace that integrate with the Talkdesk Service.
+ Usage Data  means any information or data associated with or collected from Customer and each Authorized User relating to the usage or results of the Talkdesk Service; provided, that the Usage Data shall not include the Customer Data.
+SERVICES.
+2.1
+Talkdesk Services . Subject to and conditioned upon Customers compliance with the terms and conditions of this Agreement, Talkdesk hereby grants Customer the revocable, limited, non-exclusive, non-sublicensable, and non-transferable right to access and use (and to permit the Authorized Users to access and use) the Talkdesk Services made available to Customer pursuant to this Agreement, and the applicable Order Forms and Documentation during the Service Term.  All rights in the Talkdesk Services not expressly granted in this Agreement are reserved to Talkdesk. Customer will not provide access to the Talkdesk Services to any third party without Talkdesks prior written consent.
+2.2
+Authorized User Credentials .  Customer shall be responsible for and liable for its Authorized Users compliance with this Agreement.  Each Authorized User must create and use unique access credentials and the Customer shall ensure its Authorized do not share their access credentials with any other person or permit any other person to access the Talkdesk
+2.3
+Access to Talkdesk Services . Each Authorized User will access and use the Talkdesk Services through a unique user ID and password.  User IDs and passwords may not be shared or used by more than one Authorized User. Customer shall take all reasonable precautions to prevent unauthorized access to or use of the Talkdesk Services and shall notify Talkdesk promptly of any unauthorized access or use. Customer shall be responsible for any unauthorized usage that occurs due to misuse of its log-in credentials.  Customer will be solely responsible, at Customers expense, for acquiring, installing and maintaining all hardware, software and other equipment as may be necessary for Customer and each Authorized User to connect to, access, and use the Talkdesk Services.
+2.4
+Provision of Services.
+Talkdesk will (a) provide applicable Talkdesk standard support for purchased Talkdesk Services to Customer at no additional charge, and/or upgraded support if purchased, (b) use commercially reasonable efforts to make the online purchased Talkdesk Services available 24 hours a day, 7 days a week, except for: (i) planned downtime (of which Talkdesk shall give or post advance electronic notice), and (ii) any unavailability caused by circumstances beyond Talkdesks reasonable control, including, for example, an act of God, act of government, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem (other than one involving Talkdesk employees), Internet service provider failure or delay, Non-Talkdesk Application, or denial of service attack, and (c) provide the Talkdesk Services in accordance with laws and government regulations applicable to Talkdesks provision of its Talkdesk Services to its customers generally (i.e., without regard for Customers particular use of the Talkdesk Services), and subject to Customers use of the Talkdesk Services in accordance with this Agreement, the Documentation and the applicable Order Form.
+2.5
+Suspension of Services . Talkdesk may suspend, terminate, or otherwise deny Customer or any Authorized Users access to or use of all or any part of the Services or Documentation, without incurring any resulting obligation or liability, if (i) Customer or any Authorized User has failed to comply with any material term of this Agreement, including but not limited to Customers failure to pay any fees in a timely manner or Customer or an Authorized Users use of the Services for a purpose not authorized under this Agreement, or (ii) Customer or any Authorized User is, has been, or is likely to be involved in any fraudulent, misleading, or unlawful activities relating to or in connection with any of the Services. This Section 2.3 does not limit any of Talkdesks other rights or remedies, whether at law, in equity, or under this Agreement.
+3
+USE OF SERVICES AND CUSTOMER DATA.
+3.1
+Subscriptions . Unless otherwise provided in the applicable Order Form or Documentation, (a) Services and access to Content are purchased as subscriptions for each Authorized User for the term stated in the applicable Order Form or in the applicable online purchasing portal, (b) subscriptions for Services for additional Authorized Users may be added during a subscription term at the same pricing as the underlying subscription pricing, prorated for the portion of that subscription term remaining at the time the subscriptions are added, and (c) any added subscriptions will be co-terminus with the underlying subscriptions. The number of subscriptions for Authorized Users may only be decreased between the initial term and any renewal term, or between renewal terms, provided that Customer delivers a notice of such decrease to Talkdesk at
+[email protected]
+at least thirty (30) days prior to the beginning of the renewal term Customer agrees that its purchases are not contingent on the delivery of any future functionality or features, or dependent on any oral or written public comments made by Talkdesk regarding future functionality or features.
+3.2
+Customer Responsibilities .  Customer will (a) be responsible for its Authorized Users compliance with this Agreement, Documentation and Order Forms, (b) be responsible for the accuracy, quality and legality of Customer Data, the means by which Customer acquired Customer Data, Customers use of Customer Data with the Services, and the interoperation of any Non-Talkdesk Applications with which Customer uses Services or Content, (c) use commercially reasonable efforts to prevent unauthorized access to or use of Services and Content, and notify Talkdesk promptly of any such unauthorized access or use, (d) use Services and Content only in accordance with this Agreement, Documentation, Order Forms and applicable laws and government regulations, and (e) comply with terms of service of any Non-Talkdesk Applications with which Customer uses Services or Content. Any use of the Services in breach of the foregoing by Customer or Authorized Users that in Talkdesks judgment threatens the security, integrity or availability of Talkdesks services, may result in Talkdesks immediate suspension of the Services; however Talkdesk will use commercially reasonable efforts under the circumstances to provide Customer with notice and an opportunity to remedy such violation or threat prior to any such suspension.
+3.3
+Local Jurisdictions.
+Customer acknowledges that given the nature of the Services and the number of clients and volume of information submitted and different features chosen, Talkdesk cannot evaluate compliance with the applicable law for each sort of processing requested, data protection laws and that Talkdesk is a worldwide service and some features may be prohibited in some jurisdictions. Customer expressly agrees that Talkdesk will not be liable for compliance with applicable laws and Customer agrees to undertake a legal analysis before the beginning of the provision of the Services.
+3.4
+Removal of Content and Non-Talkdesk Applications . If Customer receives notice that Content or a Non-Talkdesk Application must be removed, modified and/or disabled to avoid violating applicable law, or third-party rights, Customer will promptly do so. If Customer does not take required action in accordance with the above, or if in Talkdesks judgment continued violation is likely to reoccur, Talkdesk may disable the applicable Content, Service and/or Non-Talkdesk Application. If requested by Talkdesk, Customer shall confirm such deletion and discontinuance of use in writing and Talkdesk shall be authorized to provide a copy of such confirmation to any such third-party claimant or governmental authority, as applicable. In addition, if Talkdesk is required by any third-party rights holder to remove Content, or receives information that Content provided to Customer may violate applicable law or third-party rights, Talkdesk may discontinue Customers access to Content through the Services
+3.5
+Use Restrictions.   Talkdesk may monitor the Services to detect any violation of this Agreement.  Customer and its Authorized Users shall not access or use the Services or the Documentation except as otherwise expressly permitted or contemplated by this Agreement. For the purpose of clarity and without limiting the generality of the foregoing, Customer and its Authorized Users shall not:
+3.5.1
+Make any Services or Content available to anyone other than Customer or Authorized Users, or use any Services or Content for the benefit of anyone other than Customer or its Affiliates, unless expressly stated otherwise in an Order Form or the Documentation;
+3.5.2
+Modify, translate, adapt, alter, or create derivative works or improvements of the Talkdesk Services or the Documentation;
+3.5.3
+Copy, rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer, or otherwise exploit or make available the Talkdesk Services or Documentation to any person, including on or in connection with the internet or any time-sharing, service bureau, software as a service, cloud, or other technology or service;
+3.5.4
+Bypass or breach or attempt to bypass or breach any security device or protection used by the Talkdesk Services;
+3.5.5
+Use the Services or a Non-Talkdesk Application to store or transmit infringing, libelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party privacy rights;
+3.5.6
+Input, upload, transmit, or otherwise provide to or through the Talkdesk Services any information or materials that are unlawful or injurious, or contain, transmit or activate any harmful code;
+3.5.7
+Use the Services or a Non-Talkdesk Application to store or transmit Malicious Code;
+3.5.8
+Interfere with or disrupt the integrity or performance of any Services or third-party data contained therein;
+3.5.9
+Attempt to gain unauthorized access to any Services or Content or its related systems or networks;
+3.5.10
+Permit direct or indirect access to or use of any Services or Content in a way that circumvents a contractual usage limit, or use any Services to access or use any of Talkdesk intellectual property except as permitted under this Agreement, an Order Form, or the Documentation;
+3.5.11
+Copy Content except as permitted herein or in an Order Form or the Documentation;
+3.5.12
+Frame or mirror any part of any Services or Content, other than framing on Customers own intranets or otherwise for its own internal business purposes or as permitted in the Documentation;
+3.5.13
+Except to the extent permitted by applicable law, disassemble, reverse engineer, or decompile the Services or any Content or access it to (1) build a competitive product or service, (2) build a product or service using similar ideas, features, functions or graphics of the Services, (3) copy any ideas, features, functions or graphics of the Services, or (4) determine whether the Services are within the scope of any patent;
+3.5.14
+Access the Services and Documentation for purposes of monitoring their monitoring their availability, performance or functionality, or for any other benchmarking or competitive purposes; or
+3.5.15
+Otherwise use the Services or the Documentation in any unlawful manner.
+3.6
+Customer Data . Customer acknowledges that Talkdesk is not responsible for the creation, content, or use of the Customer Data by Customer or any third party. Customer represents that it owns or has acquired the necessary licenses to grant Talkdesk the below license to use Customer Data. Talkdesk is not required to keep any Customer Data for more than thirty (30) days after the Service Term is terminated.
+3.7
+Protection of Customer Data.
+Talkdesk will maintain appropriate administrative, physical, and technical safeguards for protection of the security, confidentiality and integrity of Customer Data. Those safeguards will include, but will not be limited to, measures designed to prevent unauthorized access to or disclosure of Customer Data (other than by Customer or Authorized Users).
+3.8
+License by Customer to Talkdesk . Customer grants Talkdesk, its Affiliates and applicable contractors a worldwide, limited-term license to host, copy, use, transmit, and display any Non-Talkdesk Applications and program code created by or for Customer using a Service or for use by Customer with the Services, and Customer Data, each as appropriate for Talkdesk to provide and ensure proper operation of the Services and associated systems in accordance with this Agreement. If Customer chooses to use a Non-Talkdesk Application with the Services, Customer grants Talkdesk permission to allow the Non-Talkdesk Application and its provider to access Customer Data and information about Customers usage of the Non-Talkdesk Application as appropriate for the interoperation of that Non-Talkdesk Application with the Service. Subject to the limited licenses granted herein, Talkdesk acquires no right, title or interest from Customer or its licensors under this Agreement in or to any Customer Data, Non-Talkdesk Application or such program code.
+3.9
+License by Customer to Use Feedback . Customer grants to Talkdesk and its Affiliates a worldwide, perpetual, irrevocable, royalty free license to use and incorporate into its services any suggestion, enhancement request, recommendation, correction or other feedback provided by Customer or Authorized Users relating to the operation of Talkdesks or its Affiliates, including but not limited to its Services, Content, and Marketplace. Talkdesk may use anonymized, aggregated Customer Data, for the purpose of maintaining or improving the Service or Marketplace.
+4
+PROFFESSIONAL SERVICES, EARLY ACCESS, AND PRODUCT TERMS .
+4.1
+Professional Services.
+If Professional Services are purchased, Talkdesk will perform Professional Services on a time and materials basis unless otherwise stated in a SOW. Talkdesk shall control how the Professional Services are performed. Talkdesk reserves the right to make all staffing decisions in its sole and reasonable discretion.  Customer shall make available at no charge all technical data, computer facilities, programs, files, documentation, test data, sample output, office space, equipment and other assistance as reasonably requested by Talkdesk in the performance of Professional Services. Talkdesk retains sole and exclusive ownership of all PSIP. To the extent, and for any reason the foregoing statement of ownership is not effective, Talkdesk shall have a royalty-free, worldwide, transferable, sublicensable, irrevocable, perpetual license to use the PSIP, including incorporation into Talkdesk Services. Unless otherwise set forth in the SOW or Order Form, Customer is hereby granted a license to use the PSIP solely in connection with the Talkdesk Services.
+4.2
+Early Access Services . From time to time, Customer may have the option to participate in a program with Talkdesk where Customer is able to use Early Access Services. Talkdesk may discontinue Early Access Services at any time in its sole discretion and may decide not to make an Early Access Service generally available. THESE EARLY ACCESS SERVICES ARE NOT GENERALLY AVAILABLE AND MAY CONTAIN BUGS, ERRORS, DEFECTS OR HARMFUL COMPONENTS. ACCORDINGLY, TALKDESK IS PROVIDING THE EARLY ACCESS SERVICES TO CUSTOMER AS IS. TALKDESK MAKES NO WARRANTIES OF ANY KIND WITH RESPECT TO THE EARLY ACCESS SERVICES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. NOTWITHSTANDING ANYTHING IN THIS AGREEMENT TO THE CONTRARY OR ANY PUBLISHED DOCUMENTATION THAT STATES OTHERWISE, TALKDESK DOES NOT WARRANT THAT THE EARLY ACCESS SERVICES WILL BE ERROR-FREE OR THAT THEY WILL MEET ANY SPECIFIED SERVICE LEVEL OR WILL OPERATE WITHOUT INTERRUPTIONS OR DOWNTIME. TALKDESK SHALL HAVE NO LIABILITY WHATSOEVER FOR ANY HARM OR DAMAGE ARISING OUT OF OR IN CONNECTION WITH AN EARLY ACCESS SERVICE.
+4.3
+Short Codes.
+If Customer uses a short code as a part of the Talkdesk Services, (a) Customer will not change its short code use case (such as a campaign) approved by the telecommunications providers without first working with Talkdesk to have the new short code use case approved by such telecommunications providers; (b) Customer will stop sending additional messages to any party that replies by texting STOP (or the equivalent) to the short code, except for sending a single text message confirming that such party has been successfully opted out of the short code; and (c) Customer will follow all applicable telecommunications provider rules with respect to the use of short codes, including, without limitation, telecommunications provider rules with respect to ensuring that each of your recipients knowingly and explicitly opts in to receive messages from the short code prior to receiving any such messages. Customer agrees that each Short Code Application is subject to approval from the applicable telecommunications provider. Talkdesk has no control over the telecommunications provider approval process for short codes and will bear no liability if a Short Code Application is rejected by a telecommunications provider. Furthermore, if a telecommunications provider rejects a Short Code Application, Talkdesk has no obligation to refund any short code-related fees paid by Customer to Talkdesk prior to the telecommunications providers rejection of the Short Code Application.
+5
+ADD-ONS, AND THIRD-PARTY PRODUCTS AND SERVICES.
+5.1
+Add-ons . Talkdesk may make available through the Talkdesk Marketplace, such as AppConnect, additional features, functionality, and services (each, an Add-on) offered by Talkdesk, its Affiliates, or third-party partners (each, an Add-on Provider). If Customer, at Customers discretion, chooses to use an Add-on, then Customer may be required to accept the Add-on Providers terms of service (Add-on Providers Terms) as part of the Add-on installation process. Customer acknowledges for each Add-on Customer purchase through the Talkdesk Marketplace, the Add-on Providers Terms constitute a binding agreement between Customer and the relevant Add-on Provider only. The Add-on Provider of each Add-on is solely responsible for that Add-on, the content therein, and any claims that Customer or any other party may have relating to that Add-on or Customers use of that Add-on. Customer acknowledges that Customer is purchasing the license to each Add-on from the relevant Add-on Provider; Talkdesk is acting as agent for the Add-on Provider in providing each such Add-on; Talkdesk is not a party to the license between Customer and the Add-on Provider with respect to that Add-on; and Talkdesk is not responsible for that Add-on, the content therein, or any claims that Customer or any other party may have relating to that Add-on or Customers use of that Add-on. Customer acknowledges and agrees that Talkdesk, and its Affiliates, are third party beneficiaries of the agreement between Customer and the Add-on Provider for each Add-on, and that Talkdesk and its affiliates have the right (and will be deemed to have accepted the right) to enforce such license against Customer as a third party beneficiary thereof. The Add-on Providers Terms shall not modify or otherwise supersede the terms and conditions of this Agreement. By purchasing an Add-on, Customer grants Talkdesk permission to share Customer Data with the Add-on Provider as necessary in order to provide Customer the Add-on.
+5.2
+Third-Party Products.
+Talkdesk makes no representations, endorsements, guarantees, or warranties, express or implied, with respect to Add-ons, including but not limited to the continuing availability of such Add-ons or the continuing ability to use and integrate the Talkdesk Service with such Add-ons. Talkdesk is not responsible for any disclosure, modification or deletion of Customer Data caused by an Add-on or its provider.  Talkdesk does not warrant or support Add-ons or other Non-Talkdesk Applications, whether or not they are designated by Talkdesk as certified or otherwise, unless expressly provided otherwise in an Order Form. Talkdesk is not responsible for any disclosure, modification or deletion of Customer Data resulting from access by such Add-on, Non-Talkdesk products or services or its provider.
+5.3
+Integration with Non-Talkdesk Applications.
+The Services may contain features designed to interoperate with Non-Talkdesk Applications. Talkdesk cannot guarantee the continued availability of such Service features, and may cease providing them without entitling Customer to any refund, credit, or other compensation, if for example and without limitation, the provider of a Non-Talkdesk Application ceases to make the Non-Talkdesk Application available for interoperation with the corresponding Service features in a manner acceptable to Talkdesk.
+6
+INVOICE AND PAYMENT .
+6.1
+Talkdesk Service Fees . Customer shall pay all fees specified in Order Forms. Except as otherwise specified herein or in an Order Form, (i) fees are based on provision of Services and Content subscriptions purchased and not actual usage, usage is billed as provided in 6.3 (ii) payment obligations are non- cancelable and fees paid are non-refundable, and (iii) quantities purchased cannot be decreased during the relevant subscription term.  Unless otherwise provided for in the order form, Customer shall pay Talkdesk the annual fees for the Talkdesk Service in advance, based on the pricing and number of Authorized Users identified in the Order Forms, and subject to any other terms and conditions contained in this Agreement. Unless otherwise stated in the Order Forms, the fees for the Talkdesk Service shall increase by 9% at the beginning of each renewal term.
+6.2
+Professional Services Fees . If the Talkdesk Services require Professional Services, Customer shall pay Talkdesk the fees for the Professional Services identified in a SOW in advance, subject to any other terms and conditions contained in this Agreement.
+6.3
+Service Charge Fees . Customer may choose to pre-pay for one-time or recurring service charges, such as minutes for calls, phone number line access fees, or connection fees. Such pre-paid service charges may not be applied toward fees for the Talkdesk Service or Professional Services, including any Marketplace, AppConnect, and Non-Talkdesk Applications. If Customer does not pre-pay for service charges or a pre-paid service balance reduces to zero, Talkdesk will deliver monthly invoices to Customer for service charges incurred by Customer.
+6.4
+Late Fees and Collections . Customer shall pay all fees within thirty (30) days of receipt of issuance of an invoice for such fees. If Customer fails to pay any invoice within such thirty (30) day period, Talkdesk shall be entitled to interest from the day on which the invoice is due, without limiting Talkdesks rights or remedies. Both parties agree that the rate of interest on past due invoices shall up to the maximum amount permitted by applicable law. Customer shall reimburse Talkdesk for all costs incurred by Talkdesk in collecting any late payments, fees or interest, including but not limited to attorneys fees, court costs, and collection agency fees.
+6.5
+Disputed Fees Process . To dispute an unpaid invoice, Customer must, no later than thirty (30) days after the receipt of the invoice, notify Talkdesk of the dispute by email at
+[email protected] . To dispute a paid invoice, Customer must notify Talkdesk of the dispute by email at
+[email protected]
+no later than 60 days after the date of the invoice. Customer shall pay all undisputed portions of the invoice by the due date of the invoice. If Customer fails to pay the undisputed portions of an invoice by the due date of the invoice, or if Customer fails to provide notice as required in this Section 6.6, Customer hereby waives its right to dispute any portion of the invoice.
+6.6
+Taxes . Unless provided to the contrary in the Order Form, Talkdesks fees do not include any Taxes. Customer is responsible for paying all Taxes associated with its purchases hereunder. If Talkdesk has the legal obligation to pay or collect Taxes for which Customer is responsible under this section, Talkdesk will invoice Customer and Customer will pay that amount unless Customer provides Talkdesk with a valid tax exemption certificate authorized by the appropriate taxing authority. For clarity, Talkdesk is solely responsible for taxes assessable against it based on its income, property and employees.
+6.7
+Suspension of Service and Acceleration.
+If any charge or fees owing by Customer under this or any other agreement for Services is 30 days or more overdue, Talkdesk may, without limiting its other rights and remedies, accelerate Customers unpaid fee obligations under such agreements so that all such obligations become immediately due and payable, and suspend Services until such amounts are paid in full, provided that Talkdesk will give Customer at least ten (10) days prior notice that its account is overdue before suspending services to Customer.
+6.8
+Payment Disputes . Talkdesk will not exercise its rights under this
+Section 6 , including the Suspension of Service and Acceleration section above, if Customer is disputing the applicable charges reasonably and in good faith and is cooperating diligently to resolve the dispute.
+6.9
+Pre -Paid Credits.  Customer pre-paid credits expire on renewal.
+7
+CONFIDENTIALITY AND PUBLICITY .
+7.1
+Protection of Confidential Information . As between the parties, each party retains all ownership rights in and to its Confidential Information. As a condition to being provided with any disclosure of or access to Confidential Information, the Receiving Party shall: (i) not access or use Confidential Information other than as necessary to exercise its rights or perform its obligations under and in accordance with this Agreement; (ii) safeguard the Confidential Information from unauthorized use, access or disclosure using at least the degree of care it uses to protect its similarly sensitive information and in no event less than a reasonable degree of care; and (iii) ensure its Representatives compliance with, and be responsible and liable for any of its Representatives non-compliance with, the terms of this
+Section 7 . The obligations in this
+Section 7
+shall not apply to any information that (i) is or becomes generally known to the public without breach of any obligation owed to the Disclosing Party, (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party, (iii) is received by the Receiving Party from a third party without breach of any obligation owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party. For the avoidance of doubt, the non-disclosure obligations set forth in this
+Section 7
+apply to Confidential Information exchanged between the parties in connection with the evaluation of additional Talkdesk services.
+7.2
+Permitted Disclosure.
+Neither party will disclose the terms of this Agreement or any Order Form to any third party other than its Affiliates, legal counsel and accountants without the other partys prior written consent, provided that a party that makes any such disclosure to its Affiliate, legal counsel or accountants will remain responsible for such Affiliates, legal counsels or accountants compliance with this  Confidentiality  section. Notwithstanding the foregoing, Talkdesk may disclose the terms of this Agreement and any applicable Order Form to a subcontractor or Non-Talkdesk Application Provider to the extent necessary to perform Talkdesks obligations under this Agreement, under terms of confidentiality materially as protective as set forth herein.
+7.3
+Compelled Disclosures . If the Receiving Party or any of its Representatives is compelled by applicable law to disclose any Confidential Information then, to the extent permitted by applicable law, the Receiving Party shall: (i) promptly, and prior to such disclosure, notify the Disclosing Party in writing of such requirement so that the Disclosing Party can seek a protective order or other remedy or waive its rights under this Section; and (ii) provide reasonable assistance to the Disclosing Party, at the Disclosing Partys sole cost and expense, in opposing such disclosure or seeking a protective order or other limitations on disclosure. If the Disclosing Party waives its rights under this
+Section 7.3
+or, after providing the notice and assistance required under this
+Section 7.3 , the receiving party remains required by law to disclose any Confidential Information, the Receiving Party shall disclose only that portion of the Confidential Information that the Receiving Party is legally required to disclose and, on the Disclosing Partys request, shall use commercially reasonable efforts to obtain assurances from the applicable court or other presiding authority that such Confidential Information will be afforded confidential treatment.
+7.4
+Publicity . Notwithstanding anything in this Agreement to the contrary, either party may issue publicity or general marketing communications concerning its involvement with the other party, subject to such other partys prior written approval, which must not be unreasonably withheld, conditioned or delayed. Customer hereby grants a limited, worldwide, royalty-free license to Talkdesk to display Customers name and logo on its website and in marketing materials during the Service Term; provided, however, that Customer may revoke this license by providing written notice to Talkdesk at
+[email protected] . Customer shall cooperate with Talkdesk to issue a press release announcing that it has selected Talkdesk as a preferred partner no later than forty-five (45) days after signing this Agreement. Customer shall cooperate with Talkdesk to issue a case study no later than ninety (90) days after implementation is complete, discussing the success metrics, and shall participate in other marketing-related activities related to the Talkdesk implementation.
+8
+INTELLECTUAL PROPERTY RIGHTS.
+8.1
+Talkdesk Intellectual Property.
+Customer acknowledges that it does not have any ownership or other rights in or to the Services or the Documentation except as specifically described in this Agreement, and Talkdesk shall exclusively own and retain all right, title and interest in and to all of its intellectual property of every kind, including in and to all inventions (whether patented or not), copyrights and works of authorship (whether subject to a U.S. copyright registration or not), know-how, software applications, routines, source and object code, algorithms, APIs, processes and workflows, and improvements, enhancements, derivations or modifications of any of the foregoing that were or are developed by Talkdesk in connection with the Services or the Documentation. Nothing herein shall be interpreted as a license, transfer or grant by Talkdesk to Customer of any interest in or to Talkdesk intellectual property of any kind, including without limitation any subject matter that is patented or patentable, copyrighted (registered or unregistered), constitutes a trade secret or Talkdesk know how, or any other legally protectible technology, item of information, product, interest or process capable of protection as intellectual property anywhere in the world.
+8.2
+Customer Intellectual Property.   Talkdesk acknowledges that it does not have any ownership or other rights in or to the Customer Data except as specifically described in this Agreement.  All of Customers rights in the Customer Data that are not specifically granted to Talkdesk in this Agreement shall be reserved to Customer.
+9
+MUTUAL INDEMNIFICATION .
+9.1
+Indemnification by Customer . Customer will defend, indemnify, and hold Talkdesk harmless from and against all claims, demands, actions, suits, discovery demands, including, without limitation, third party subpoenas, government investigations or enforcement actions brought against Talkdesk by a third party and any damages, liabilities, losses, settlements, judgments, costs and expenses (including, without limitation, reasonable attorneys fees and costs) related thereto alleging: (i) Customers use of any feature of the Talkdesk Service in violation of its contractual, regulatory, or other legal obligations ; and (ii)
+Talkdesks use of any Customer Data as permitted by this Agreement or any Customer Data infringes or misappropriates a third partys Intellectual Property Rights, (b) a Non-Talkdesk Application provided by Customer, or (c) the combination of a Non-Talkdesk Application provided by Customer and used with the Services, infringes or misappropriates such third partys Intellectual Property Rights, or arising from Customers use of the Services or Content in an unlawful manner or in violation of the Agreement, the Documentation, or Order Form; provided Talkdesk (a) promptly gives Customer written notice of the claim against Talkdesk, (b) gives Customer sole control of the defense and settlement of the claim against Talkdesk (except that Customer may not settle any claim against Talkdesk unless it unconditionally releases Talkdesk of all liability), and (c) gives Customer all reasonable assistance, at Customers expense. The above defense and indemnification obligations do not apply if a claim against Talkdesk arises from Talkdesks breach of this Agreement, the Documentation or applicable Order Forms.
+9.2
+Indemnification by Talkdesk . Talkdesk will defend, indemnify, and hold Customer harmless from and against all claims, demands, actions, suits, discovery demands, including, without limitation, third party subpoenas, government investigations or enforcement actions brought against Customer by a third party and any damages, liabilities, losses, settlements, judgments, costs and expenses (including, without limitation, reasonable attorneys fees and costs) related thereto alleging that Customers use of the Talkdesk Service as permitted by this Agreement infringes or misappropriates a third party copyright, trade secret, trademark or patent; provided Customer shall provide Talkdesk with prompt notice of any allegation that the Talkdesk Service infringes or misappropriates a third partys intellectual property right, shall grant Talkdesk exclusive control over the defense and settlement of any such claim, and shall give Talkdesk any information it reasonably requests in connection with the defense of the allegation. Talkdesk shall not settle any claim under this
+Section 9.2
+in a manner that does not unconditionally release Customer from liability without Customers written consent. If Talkdesk receives information about an infringement or misappropriation claim related to a Service, Talkdesk may in its discretion and at no cost to Customer (i) modify the Services so that they are no longer claimed to infringe or misappropriate, (ii) obtain a license for Customers continued use of that Service in accordance with this Agreement, or (iii) terminate Customers subscriptions for that Service upon 30 days written notice and refund Customer any prepaid fees covering the remainder of the term of the terminated subscriptions. The above defense and indemnification obligations do not apply if (1) the allegation does not state with specificity that the Services are the basis of the  claims against Customer; (2) a claim against Customer arises from the use or combination of the Services or any part thereof with software, hardware, data, or processes not provided by Talkdesk, if the Services or use thereof would not infringe without such combination; (3) a claim against Customer arises from Services under an Order Form for which there is no charge; or (4) a claim against Customer arises from Content, a Non-Talkdesk Application or Customers breach of this Agreement, the Documentation or applicable Order Forms.
+9.3
+Exclusive Remedy.
+This
+Mutual Indemnification Section 9
+states the indemnifying partys sole liability to, and the indemnified partys exclusive remedy against, the other party for any third-party claim described in this section.
+10
+REPRESENTATIONS.
+10.1Representations . Each party represents that it has validly entered into this Agreement and has the legal power to do so.
+11
+DISCLAIMERS .
+11.1GENERAL DISCLAIMER. CUSTOMER ACKNOWLEDGES AND AGREES THAT THE SERVICES, MARKETPLACE AND THE DOCUMENTATION ARE PROVIDED ON AN AS IS BASIS AND TALKDESK DOES NOT MAKE ANY AND HEREBY SPECIFICALLY DISCLAIMS ANY REPRESENTATIONS, ENDORSEMENTS, GUARANTEES, OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS. CONTENT AND EARLY ACCESS SERVICES ARE PROVIDED AS IS, AND AS AVAILABLE EXCLUSIVE OF ANY WARRANTY WHATSOEVER.
+11.2EMERGENCY SERVICES DISCLAIMER. THE SERVICES ARE NOT INTENDED TO SUPPORT OR CARRY EMERGENCY CALLS OR SMS MESSAGES TO ANY EMERGENCY SERVICES. NEITHER TALKDESK NOR ITS REPRESENTATIVES WILL BE LIABLE UNDER ANY LEGAL OR EQUITABLE THEORY FOR ANY CLAIM, DAMAGE, OR LOSS (AND CUSTOMER WILL HOLD TALKDESK HARMLESS AGAINST ANY AND ALL SUCH CLAIMS) ARISING FROM OR RELATING TO THE INABILITY TO USE THE SERVICES TO CONTACT EMERGENCY SERVICES.
+12
+LIMITATION OF LIABILITY.
+12.1IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, BUSINESS INTERRUPTION, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, SAVINGS, GOODWILL, BUSINESS OPPORTUNITY, BUSINESS, OR REVENUES, WHETHER OR NOT CHARACTERIZED IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHER THEORY OF LIABILITY, ARISING OUT OF THIS AGREEMENT, REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE BY ONE OR BOTH PARTIES AND WHETHER SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+12.2EXCEPT WITH RESPECT TO ITS OBLIGATIONS UNDER SECTION 9.2, IN NO EVENT SHALL TALKDESKS LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER ARISING OUT OF OR RELATED TO BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EXCEED THE AGGREGATE AMOUNT PAID BY CUSTOMER TO TALKDESK PURSUANT TO THIS AGREEMENT IN THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT THAT GAVE RISE TO SUCH CLAIM.  NOR WILL TALKDESK BE LIABLE FOR CUSTOMERS INABILITY TO USE THE TALKDESK SERVICES BECAUSE OF A FAILURE OR DEGRADATION OF A THIRD-PARTY PROVIDERS NETWORK, A FAILURE OR DEGRADATION OF INTERNET SERVICES PROVIDERS OR ANY OTHER THIRD-PARTY CAUSE.
+13
+TERM AND TERMINATION.
+13.1Term.
+This Agreement shall commence as of the effective date of the Order Form and will continue until the Service Term has expired or has been terminated.
+13.2Automatic Renewal.
+The initial term shall automatically renew for additional equal periods to the expiring subscription term or initial term unless either party gives written notice to the other party of its intention not to renew no later than thirty (30) days prior to the end of the then-current term.
+13.3Termination.
+Either party may terminate the Service Term upon at least thirty (30) days prior written notice in the event (1) the other party has materially breached this agreement and such breach remains uncured at the expiration of such thirty (30) day period or (2) the other party has become insolvent, does not pay its debts as they become due, makes a general assignment for the benefit of its creditors, becomes the subject of any domestic or foreign bankruptcy or insolvency law, or applies for or has a receiver, trustee, or similar agent appointed to manage or dispose of any material portion of its property or business. Talkdesk may terminate access to the Services immediately if Talkdesk determines Customer is using the services in violation of law or will expose Talkdesk to criminal or regulatory fines.
+13.4  Surviving Provisions.
+The sections titled Fees and Payment, Intellectual Property Rights, Confidentiality and Publicity, Disclaimers, Mutual Indemnification, Limitation of Liability, Term and Termination, Removal of Content and Non-Talkdesk Applications, Surviving Provisions and General Provisions will survive any termination or expiration of this Agreement, and the section titled Protection of Customer Data will survive any termination or expiration of this Agreement for so long as Talkdesk retains possession of Customer Data.
+14
+DISPUTE RESOLUTION .
+14.1Class Action Waiver . To the extent permitted by applicable law, the parties hereby waive their rights to assert any claim as a plaintiff or class member in any purported class action, collective action, private attorney general action, or other representative proceeding.
+14.2Arbitration . Except for collection efforts and enforcement of an arbitration order under this
+Section 14 , if the parties are unable to resolve any dispute related to this Agreement by direct negotiation, they shall resolve the dispute through binding arbitration in San Francisco, CA before a single arbitrator from the American Arbitration Association in accordance with its Commercial Arbitration Rules.
+14.3Choice of Law.
+This Agreement and any dispute related to this Agreement shall be governed by and interpreted in accordance with the laws of the State of Delaware without regard to its conflict of laws provisions.  If any litigation is validly instituted in connection with this Agreement, the parties hereby consent to the exclusive personal jurisdiction of the state and federal courts in Delaware and waive any objection as to venue or inconvenient forum.
+14.4Jury Trial.
+The parties hereby waive any right to a jury trial in connection with a dispute related to this Agreement.
+14.5Attorneys Fees . If any arbitration or legal proceeding is validly instituted to resolve a dispute or to enforce the terms of this Agreement, the prevailing party may recover its attorneys fees and other costs.
+15
+GENERAL PROVISIONS.
+15.1Anti-Corruption . Neither party has received or been offered any illegal or improper bribe, kickback, payment, gift, or thing of value from an employee or agent of the other party in connection with this Agreement. Reasonable gifts and entertainment provided in the ordinary course of business do not violate the restriction contained in this
+Section 15.1 .
+15.2Export Compliance . The Services and derivatives thereof may be subject to export laws and regulations of the United States and other jurisdictions. Talkdesk and Customer each represents that it is not named on any U.S. government denied-party list. Customer will not permit any Authorized User to access or use the Services or Documentation in a U.S.-embargoed country or region (currently Cuba, Iran, North Korea, Sudan, Syria or Crimea) or in violation of any U.S. export law or regulation.
+15.3 CCPA Compliance .  If the CCPA applies to the Customer Data, Talkdesk agrees that:
+15.3.1
+Talkdesk is receiving the personal information from the Customer pursuant to a business purpose;
+15.3.2
+Talkdesk will not sell the personal information as defined under the CCPA (as the term sell is defined under the CCPA);
+15.3.3
+Talkdesk will retain, use or disclose such personal information only for the specific purpose of performing the Services; and
+15.3.4
+Talkdesk shall comply with the restrictions of the CCPA.
+15.4Assignment.   Neither party may assign its rights or obligations under this Agreement (including all Order Forms) to a third party without the prior written consent of the other party; provided, however, that either party shall have the right to assign, without any consent of the other party, its rights and obligations under this Agreement to any other entity pursuant to a merger, consolidation or reorganization or sale of substantially all of its assets or equity. Any purported assignment contrary to this
+Section 15.4
+shall be void.
+15.5Notice . Talkdesk shall deliver notices to the Customers billing address or billing email address stated on the Order Form. Except as otherwise provided herein, Customer shall deliver notices to:
+Talkdesk, Inc.
+Attn: Law Department
+535 Mission Street, Floor 12
+San Francisco, CA 94105
+[email protected]
+All notices under this agreement must be in writing and must be delivered by hand, by email, by registered or certified mail (postage prepaid), or by commercial overnight delivery service. Notice will be deemed to have been duly given (1) upon delivery, if delivered by hand to an officer of the receiving party; (2) when sent to the appropriate email address, if delivered by email; (3) three business days after being mailed by registered or certified mail, postage prepaid, or on the day tracking information indicates delivery, if applicable; or (4) the next business day, if sent by commercial overnight delivery service, or on the day tracking information indicates delivery, if applicable.
+15.6Independent Contractor .  The parties are independent contractors and have no right to assume or create any obligation or responsibility on behalf of the other party. Neither party shall hold itself out as an agent of the other party. This agreement does not create or imply any partnership, agency, joint venture or formal business entity of any kind.
+15.7Government Usage.
+This is a commercial item agreement. If the Services are acquired by or on behalf of the U.S. Government, a state or local government, or a prime contractor or subcontractor (of any tier) of the foregoing, such government customers and users shall obtain only those commercial license rights set forth in the Agreement.
+15.8Severability.   If any provision of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, such holding shall not affect any other provision hereof, and the Agreement shall be construed as if the invalidated or unenforceable provision had not been contained herein, and in a manner to fulfill the original intent of the parties, insofar as possible.
+15.9Waiver.   Except as expressly provided for, no waiver shall be deemed to have been made by either party unless expressed in writing and signed by the waiving party. The failure of either party to insist in any one or more instances upon strict performance of any of the terms or provisions of this Agreement, or to exercise any option or election herein contained, shall not be construed as a waiver or relinquishment for the future of such terms, provisions, option or election, but the same shall continue and remain in full force and effect, and no waiver by any party of any one or more of its rights or remedies under this Agreement shall be deemed to be a waiver of any prior or subsequent rights or remedy hereunder or at law.
+15.10
+Entire Agreement.   This Agreement constitutes the entire and sole agreement among the parties with respect to the subject matter hereof and supersedes any previous and contemporaneous verbal agreements, negotiations, understandings, or other matters, whether oral or written, with respect to the subject matter hereof.
+15.11
+No Third-Party Beneficiaries . This Agreement is for the sole benefit of the parties hereto and their respective successors and permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of this Agreement.
+15.12
+Execution, Digitized Copies and Counterparts.   This Agreement may be executed in two or more identical counterparts (whether by electronic signature, in facsimile, email, in PDF or original, or acknowledgement through a webpage), each of which shall constitute an original as against the party whose signature appears thereon, and all of which together shall constitute one and the same instrument.
+Download the PDF
+If you are subscribing for Talkdesk Services after December 31, 2019, you are subject to the above Master Subscription Agreement.
+If you subscribed for Talkdesk Services between November 1, 2018 and December 31, 2019, you can find your Terms of Service
+here .
+If you subscribed for Talkdesk Services prior to November 1, 2018, you can find your Terms of Service
+here .
+For our AppConnect terms of service, click
+here .
+US
++1 (888) 743-3044
+AU
++61 2 8294 5955
+FR
++33 9 74 59 59 58
+UK
++44 20 3322 6242
+ES
++34 911 23 54 11
+PT
++351 308 806 998
+Why Talkdesk
+Customer Service
+Sales
+Pricing
+AppConnect
+Integrations
+Customers
+Solutions
+Healthcare
+Retail & E-Commerce
+BPO
+Resources
+Resource Library
+Blog
+Knowledge Base
+Talkdesk Academy
+Company
+About
+Leadership
+Partners
+Developers
+News & Press
+Events
+Careers
+Product Demo
+Login
+Cloud Call Center Software
+Want to hear Talkdesk's call quality?
+GIVE US A CALL 1-844-332-2859
+535 Mission Street, 12th Floor, San Francisco, CA 94105
+Terms of Service
+Privacy Policy
+Contact Us
+© 2020 Talkdesk, Inc, All Rights Reserved
+We use cookies to improve your browsing experience.
+More information.
+Ok

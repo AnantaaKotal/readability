@@ -1,0 +1,279 @@
+Privacy   Vlocity
+REGION
+North America EMEA LATAM APAC Japan India
+LANGUAGE
+English
+Español
+Français
+Deutsch
+Italiano
+Português
+
+Support Center
+Contact Us
+Customers
+Case Studies
+Digital Transformation
+Voice of the Customer
+Customer Success
+Success Community
+Partners
+Find a Consulting Partner
+Find a Technology Partner
+Salesforce
+Industries
+Communications
+Intelligent Service Experiences
+Delight Retail Customers
+Orchestrate the Perfect Order
+Go Digital with Vlocity & MATRIXX Software
+Media & Entertainment
+GoMedia Subscriber
+GoMedia Ad Sales
+GoMedia Commerce
+GoMedia OTT Streaming
+Energy & Utilities
+One Solution for Your Entire Customer Base
+Open for Business On All Channels
+Deliver Next Generation Customer Service
+Innovate With Your Customers And Partners
+Insurance
+Life & Annuities
+Property & Casualty Insurance
+Group Insurance
+Claims
+Customer Service Contact Centers
+Vella: Virtual Insurance Agent
+Health
+Provider Network and Operations
+Enterprise Benefits Catalog and Rating Engine
+Multiline Marketplace and Sales Automation
+Group Enrollment and Installation
+Member Policy Administration
+Omnichannel Contact Center
+Producer Lifecycle and Channel Management
+Formulary, Pharmacy, and Medication Management
+Government
+Health & Human Services Case Management
+Housing Program Administration
+Foster Care
+Child Welfare
+Platform
+Vlocity Omniscript
+Vlocity Industry Console
+Vlocity Dataraptor
+Vlocity Process Engines
+Vlocity Mobile & Vlocity Wear
+Vlocity Clickstream Analytics
+AppExchange
+About
+Our History
+Newsroom
+Blog
+Media Coverage
+Press Releases
+Awards
+Videos
+Analyst Reports
+Authors
+Why Vlocity
+Values
+Careers
+Leadership Team
+Board of Directors
+Contact Us
+Community
+Events
+Vlocity University
+Giving Back
+Success Community
+The Vlociters
+Resources
+Industry Cloud Resources
+Videos
+Media Resources
+Branding Guidelines
+Industry Cloud Dictionary
+Vlocity Privacy Policy
+Effective Date: January 31, 2020
+Vlocity (Vlocity, Company, us, our, or we refers to Vlocity, Inc. and its subsidiary entities) is committed to protecting your privacy online. This privacy policy (Policy) discloses our privacy practices for our sites that link or refer to this Policy (such as our websites, mobile software applications, social media pages and HTML-formatted e-mail messages), as well as through offline sales and marketing activities and related applications, services, events and programs offered by Vlocity (collectively, Services). This Policy is designed to help you understand what information we collect and how we collect, share, and use the information. The Policy applies to all users of our Services and the information customers provide to us in connection with the creation or administration of Vlocity industry cloud applications accounts.
+This Policy does not apply to the content that customers submit to the Vlocity industry cloud applications (the Accounts), including any Personal Information of their end users, or to applicants who submit Personal Information and a resume or curriculum vitae in connection with applying for a job with the Company. Customers should refer to their agreement with Vlocity for information about how we handle content you submit through our Accounts. When visitors apply for a job with the Company and submit Personal Information and a resume or curriculum vitae (Applicant Information), Vlocitys
+Applicant Privacy Policy
+provides information about how we use and secure applicants Personal Information.
+Our Services are not intended or designed for use by children under 18 and we do not knowingly collect Personal Information from children under 18. If you are not 18 years of age, please discontinue such use immediately.
+Vlocitys websites may contain links to other websites. The information practices or the content of such other websites is governed by the privacy statements of such other websites. The Company encourages you to review the privacy statements of other websites to understand their information practices.
+THE PERSONAL INFORMATION WE COLLECT
+Personal Information is information that identifies you as an individual or relates to an identifiable individual, such as name, address, telephone number, or email. We collect the following types of Personal Information from our users:
+PERSONAL INFORMATION YOU PROVIDE TO US
+We collect the following types of information through our Services when you choose to provide it to us by filling out a form or taking some other explicit action. You can choose not to provide us with any of the information below, but you may not be able to take advantage of certain features without creating an account or providing the appropriate information.
+Content you provide through our websites:
+The Services also include our websites like
+www.vlocity.com
+and social media or social networking websites operated by us. We collect other content that you submit to these websites. For example, you provide content to us when you provide feedback or when you participate in any interactive features, surveys, promotions, activities or events.
+Account Information:
+Customers provide Personal Information to us in connection with the creation or administration of Vlocity Accounts, which includes names, usernames, phone numbers, email addresses and billing information associated with a customers Account.
+Information you provide through our support channels:
+The Services also include our customer support, where you may choose to submit information regarding a problem you are experiencing with an Account. Whether you designate yourself as a technical contact, open a support ticket, speak to one of our representatives directly or otherwise engage with our support team, you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue.
+Payment Information:
+We collect certain payment and billing information when you register for paid Accounts or events. For example, we ask you to designate a billing representative, including name and contact information, upon registration. You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
+Information Provided in Promotions or through Corporate Events:
+You may be asked to submit Personal Information when you enter a contest or sweepstakes, fill out a survey or interact with us at a corporate event, such as Dreamforce.
+User Uploaded Information and Information Obtained about Third Parties:
+If you provide us with Personal Information about others, such as internal personnel lists, affiliate lists, or customer or prospect lists or other information, you represent that you have the authority to do so and to permit us to use the information in accordance with this Policy. You understand that it is your responsibility to obtain all necessary approvals and clearances prior to providing any third-party Personal Information in association with our Services.
+PERSONAL INFORMATION COLLECTED FROM OTHER SOURCES
+We receive your Personal Information from other sources, such as publicly available databases. Similarly, an administrator may provide your contact information when they designate you as the billing or technical contact on your companys Account.
+Vlocity Partners:
+We work with a global network of partners that provide consulting, implementation, training and other services around our products. Some of these partners also help us to market and promote our products, generate leads for us, and resell our products. We receive information from these partners, such as billing information, billing and technical contact information, company name, what Vlocity products you have purchased or may be interested in, evaluation information you have provided, what events you have attended and what country you are in.
+Other Partners:
+We receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements.
+INFORMATION COLLECTED AUTOMATICALLY
+In order to understand how our Services is being used and to make it better, we also automatically receive, store, and log certain types of technical information whenever you interact with our Services. Information of this sort does not reveal your specific identity or does not directly relate to an identifiable individual and includes:
+Technical Information About Your Browser and Mobile Device:
+Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device identifier, device manufacturer and model, language, Internet browser type and version and the name and version of the Service (such as the mobile application) you are using. This information is used in the aggregate to help us optimize the Service for common browsers and devices.
+App Usage Information:
+When you download and use a mobile application, we and our service providers may track and collect mobile application usage data, such as the date and time the mobile application on your device accesses our servers and what information and files have been downloaded to the mobile application based on your device number.
+Usage Information, Such As The Pages You Request, Searches You Conduct, Emails You Open And The Features You Interact With:
+This information is used in the aggregate to generate statistics about how the Service is being used and is never shared in any form that would identify you personally.
+Cookies :
+These are alphanumeric identifiers that help us to distinguish between unique browsers and devices in order to avoid showing you the same information twice, keep you logged into our Services and improve your experience. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We do not currently respond to browser do-not-track signals. If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to
+http://www.allaboutcookies.org/manage-cookies/index.html . You are always free to decline our cookies if your browser permits, but some parts of our Services may not work properly in that case.
+Pixel Tags and Similar Technologies:
+Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns, and compile statistics about usage of the Services and response rates.
+Analytics:
+We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Googles practices by going to
+www.google.com/policies/privacy/partners/ , and exercise the opt out provided by Google by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.
+IP Address:
+Your IP address is automatically assigned to your computer by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing problems and administering the Services. We may also derive your approximate location from your IP address.
+We may use and disclose information collected automatically for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine information collected automatically with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined. If we are required to treat information collected automatically as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Policy.
+HOW WE USE YOUR PERSONAL INFORMATION
+In addition to the specific uses discussed above, your Personal Information may be used by us or our service providers for legitimate business purposes, including:
+Providing the functionality of the Services and fulfilling your requests:
+To respond to requests that you make or to aid us in serving you better;
+To fix technical problems and trouble-shoot errors or issues with an Account or the Services and handle or respond to customer support questions and issues;
+To provide administrative services and communicate with you regarding your Account;
+To provide you with updates, offers, and announcements about products, new products, services, features, promotions, enhancements, improvements or updates;
+To notify you when we make material changes to this Policy;
+To process or fulfill your request(s) and/or order(s) for Accounts, information, or features;
+To enable user-to-user communication and interaction;
+To track purchases and usage information;
+To manage your Account and Services preferences, establish your profile and Account information.
+We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation. We will engage in this activity with your consent or where we have a legitimate interest.
+Providing you with marketing materials and facilitating social sharing:
+To market our products and/or services to you, including sending you information, newsletters, e-mail campaigns, and communications regarding new, improved, or existing products or promotions;
+To facilitate social sharing functionality that you choose to use.
+Analysis of Personal Information for business reporting and providing personalized services:
+To provide, administer, and facilitate your use of an Account and Services;
+To solicit input and feedback to improve user experience;
+To ask you to participate in surveys about products and services.
+We will provide personalized services either with your consent or because we have a legitimate interest. We use this information to manage our contractual relationship with you.
+Allowing you to participate in sweepstakes, contests or other promotions:
+To market, process, or fulfill promotions administered or sponsored by us or by our partners or affiliates.
+Some of these promotions have additional rules containing information about how we will use and disclose your Personal Information.
+Aggregating and/or anonymizing Personal Information:
+To create, review, analyze and share aggregate information where we have a legitimate interest to do so. We may aggregate and/or anonymize Personal Information so that it will no longer be considered Personal Information. We do so to generate other data for our use, which we may use and disclose for any purpose.
+Accomplishing our legitimate business purposes:
+To develop new and/or improved Accounts or offerings;
+To evaluate our Services and determine how to improve our Services and general user experience;
+To monitor the technical functioning of the Accounts and Services;
+To identify, research, and protect against any actual, potential or threatened misuse, unauthorized use, or unwanted use of any of Accounts and Services, including but not limited to researching any claims made by or about other users and/or about Accounts and Services, and such efforts of which may include information provided from third-party sources;
+To analyze trends and user traffic;
+To resolve disputes; or
+As we, in our sole discretion, otherwise determine to be necessary or required to ensure the safety and/or integrity of our users, employees, third parties, members of the public, and/or the Account and Service.
+We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
+HOW WE SHARE YOUR PERSONAL INFORMATION
+We disclose Personal Information:
+To our affiliates, for the purposes described in this Policy. You can consult the list and location of our affiliates here on the
+Contact Us
+section of our
+www.vlocity.com
+website. Vlocity, Inc. is the party responsible for the management of the jointly-used Personal Information.
+To our third-party service providers, to facilitate services they provide to us. These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, consulting services subcontracting, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
+To third-party sponsors of sweepstakes, contests, and similar promotions.
+When we believe in good faith, that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+If we are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your Personal Information may be sold or transferred as part of that transaction.
+When we receive a request in connection with or relevant to a judicial, governmental or legal inquiry, investigation, order, or proceeding. This can include judicial or governmental authorities outside your country of residence.
+When we are required to respond to a subpoena, court order, or other requirement of law, which requires disclosure of your information. These can include laws outside your country of residence.
+When reasonably necessary to enforce this Policy, or any other legal agreements.
+When required to detect, prevent, or otherwise address fraud, abuse, misuse, potential violations of law (or rule/regulation), and/or security or technical issues.
+When required or reasonably necessary to protect against imminent harm to the rights, property or safety of us, our users, employees, any minors, members of the public and/or the Services.
+To our auditors or legal advisors in conjunction with accessing our disclosure obligations and/or rights under this Policy.
+Note that by using the Services, you may elect to disclose Personal Information:
+On message boards, chat, profile pages, blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.
+Business Partners:
+From time to time, Vlocity may partner with other companies to jointly offer products, services, or programs (such as webinars or downloadable content) such as our Vlocity Implementation Program (VIP) partners. If you purchase, specifically express interest in, or register for a jointlyoffered product, service, or program from or through Vlocity, the Company may share Personal Information about Vlocity prospects or customers collected in connection with your purchase or expression of interest with our partner(s). Vlocity does not control our business partners use of the personal data about Vlocity prospects or customers that we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
+WHAT WE DO TO KEEP YOUR INFORMATION SECURE
+We take commercially reasonable security measures to protect against unauthorized access to, or unauthorized alteration, disclosure or destruction of your Personal Information that you share and we collect and store. These security measures may include practices such as keeping your sensitive or Personal Information on a secured server behind a firewall, transmitting sensitive information (such as a credit card number) entered on our Services using secure socket layer technology (SSL), internal reviews of our data collection practices and platforms, as well as technical security measures to guard against unauthorized access to systems where we store your information.
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Service cannot be guaranteed and you transmit such information at your own risk; and (c) any such information and data may be viewed or tampered with in transit by a third party.
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+WHAT YOU CAN DO TO PROTECT YOUR PERSONAL INFORMATION
+While we are committed to taking all reasonable precautions to protect your Personal Information, there are steps you can take as well; such as:
+Use only secure websites when disclosing your information. Secure pages begin with https.
+Creating strong passwords and use them wisely (e.g., dont use the same password for us that you use for your bank, for example).
+Never respond to unsolicited requests for your social security number or financial information.
+Do not disclose your passwords to the Services or your Account Information to any other person.
+Be sure to sign off when finished using a shared computer.
+Be careful about disclosing Personal Information such as your name, address, or e-mail address in discussion forums or other public areas of the Services. Any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties.
+Be aware when clicking on hypertext links and third party advertising on the Services, if any. Other sites accessible through our Services via links or service partnerships have their own privacy policies and data collection, use and disclosure practices. We encourage you to review other websites policies before revealing any sensitive or Personal Information. Additionally, other companies may place advertising on our Services and may collect information about you when you view or click on their advertising through the use of cookies. You should contact these advertisers directly if you have any questions about their use of the information that they collect. We cannot be and are not responsible for maintaining your privacy once you leave our Services and are not responsible for the policies or practices of third parties. In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the mobile applications or our Social Media Pages.
+YOU CAN OPT-OUT IF YOU DONT WANT TO RECEIVE COMMUNICATIONS FROM US
+You can opt out of any marketing communications sent by us via the Services on a going-forward basis by following the instructions included with each email or by contacting us with an unsubscribe request at:
+privacy@vlocity.com ; however our employees, contractors or agents may still need to contact you personally, for example, if you are in violation of our license or Subscription Agreement.
+A NOTE FOR CALIFORNIA RESIDENTS: YOUR CALIFORNIA PRIVACY RIGHTS
+If you are a California resident, please see our California Consumer Privacy Act Notice, located
+here
+for details on how we handle the Personal Information of California residents and how to exercise your rights under the California Consumer Privacy Act.
+As provided by California Civil Code Section 1798.83, California residents have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed (within the previous calendar year) Personal Information pertaining to you for that company's direct marketing purposes; and b) a description of the categories of Personal Information disclosed. If you are a California resident and wish to obtain such information, submit a request to privacy@vlocity.com with "Request for California Privacy Information" as the subject line and in the body of your message. Please be aware that not all information sharing is covered by requirements and only information on covered sharing will be included in our response.
+HOW YOU CAN UPDATE, DELETE, OR CORRECT YOUR PERSONAL INFORMATION
+We encourage you to promptly update your Personal Information if it changes. If you are concerned about the accuracy of Personal Information maintained by us or would like to request to review, correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us with your request at:
+privacy@vlocity.com . We will respond to your request consistent with applicable law. We may decline requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, or are extremely impractical. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase, you may not be able to change or delete the Personal Information provided until after the completion of such purchase).
+If you are located in the EEA: You have the right to lodge a complaint with a data protection authority about our collection and use of your personal information. For more information, please contact your
+local data protection authority .
+HOW WE TRANSFER YOUR PERSONAL INFORMATION; EEA
+Your Personal Information may be stored and processed in any country where we have offices or in which we engage service providers, and by using the Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
+If you are located in the EEA : Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available here:   https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en ).  For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your Personal Information. You may obtain a copy of these measures by contacting  privacy@vlocity.com .
+You may reach our data protection officer, Felix Wittern of Fieldfisher, at
+DPO@vlocity.com .
+HOW LONG WE RETAIN YOUR INFORMATION
+We retain Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law. The criteria used to determine our retention periods include:
+The length of time we have an ongoing relationship with you and provide the Services to you (for example, for as long as you have an Account with us or keep using the Services);
+Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
+THIRD PARTY ADVERTISING
+We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services.
+You may receive advertisements based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. These companies place or recognize a unique cookie on your browser (including through the use of pixel tags). They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.
+If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Statement, please visit
+http://optout.aboutads.info/#/
+and
+http://optout.networkadvertising.org/#/ . You may download the AppChoices app at
+www.aboutads.info/appchoices
+to opt out in mobile apps.
+PRIVACY SHIELD PARTICIPATION
+Vlocity has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Vlocity is committed to subjecting all personal data received from European Union (EU) member countries, the United Kingdom, and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Frameworks applicable Principles. To learn more about the Privacy Shield program, and to view our certification, please visit  www.privacyshield.gov .
+Vlocity is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Vlocity complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Vlocity is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Vlocity may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If you believe Vlocity maintains your personal data in one of the services within the scope of our Privacy Shield certification, you may direct any inquiries or complaints concerning our Privacy Shield compliance to
+privacy@vlocity.com . Vlocity will respond within 45 days. Vlocity has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit
+www.jamsadr.com/eu-us-privacy-shield
+for more information or to file a complaint. JAMS services are provided at no cost to you. If neither Vlocity nor our dispute resolution provider resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
+WHAT WILL HAPPEN IF WE CHANGE THIS POLICY
+We may amend this Policy from time to time. Use of information we collect now is subject to the Policy in effect at the time such information is used. If we make changes that, in our sole discretion, we believe materially reduces your rights on increases your responsibilities, we will notify you by delivering an announcement via our Services to the email address associated with your account, or by means of a notice on this website prior to the change becoming effective. It is your responsibility to maintain a valid e-mail address as a registered user. If you opt out of communications from us, you may not receive these notifications, however they will still govern your use of the Services, and you are responsible for checking for any changes. Any changes will become effective when we post the revised Policy. Your use of the Services after the changes become effective means that you accept the modified Policy.
+HOW YOU CAN CONTACT US
+Vlocity, Inc. located at Salesforce Tower, 415 Mission St., 50th Floor, San Francisco, CA 94105 USA, is the company responsible for collection, use and disclosure of your Personal Information under this Policy.
+If you have any questions about this Policy, the practices of the Services, or your dealings with the Services, please contact us at  (i) at the address given above; (ii) by email at:
+privacy@vlocity.com ; or (iii) online at the
+Contact Us
+section of our
+www.vlocity.com
+website.
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
+Vlocity is a leading provider of industry-specific cloud and mobile software, driving digital transformation for the worlds largest companies. A three-time Forbes Cloud 100 winner, Vlocity is an industry cloud pioneer built in partnership with Salesforce, the worlds #1 CRM provider. Vlocity increases sales, service and marketing agility, operational efficiency and faster time to value for cloud and digital adoption across the enterprise. Committed to innovation, customer success and a values-led culture, Vlocity serves the worlds leading companies in Communications, Media & Entertainment, Energy & Utilities, Insurance, Health, and Government. Vlocity is headquartered in San Francisco, with offices throughout North America, Europe, Asia, and Latin America. On February 25, 2020, Salesforce signed a definitive agreement to acquire Vlocity.
+Salesforce and others are among the trademarks of salesforce.com, inc.
+©
+Vlocity Inc.
+Privacy Site Terms
+Vlocity Named to 2019 Forbes Cloud 100
+ 
+Third Consecutive Year
+ 
+Learn More

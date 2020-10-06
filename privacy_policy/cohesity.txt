@@ -1,0 +1,337 @@
+Cohesity Privacy Policy   Cohesity
+Resources
+Blogs
+Partners
+Support
+Developer
+Marketplace
+EN
+English
+Deutsch
+Français
+
+What We Do
+Overview
+Our Vision
+Solving Mass Data Fragmentation
+Products
+Products
+Overview
+Software
+DataProtect
+DataPlatform
+DataPlatform Cloud Edition
+DataPlatform for Edge
+Imanis Data
+Helios
+Analytics Workbench
+App Ecosystem
+Overview
+Marketplace
+Industry Partners
+Cisco
+HPE
+Hyperconverged Platforms
+C4000
+C6000
+Distributed File System
+SpanFS
+Redefining Data Management
+Solutions
+Solutions Overview
+Workloads
+Virtual
+VMware
+Hyper-V
+AHV
+Kubernetes
+Cloud
+AWS
+Azure
+Google
+Cloud
+Physical
+NAS
+Windows
+Databases
+Oracle
+SQL
+Distributed Databases
+SAP HANA
+Applications
+Office 365
+Exchange
+Splunk
+Use Cases
+Backup and Recovery
+Cloud Backup Service
+Continuous Data Protection
+TCO Calculator
+Disaster Recovery and Replication
+Long-Term Retention and Archival
+Scale-Out Storage
+File Services
+Object Services
+Development and Test
+Security and Compliance
+Anti-Ransomware
+Vulnerability Management
+GDPR
+Automation
+Industry
+Finance
+Government
+Healthcare
+Service Provider
+Single, simple user interface for managing data globally.
+Customers
+Company
+About
+Team
+News
+Press Releases
+Awards
+Blogs
+Webinars
+Events
+Careers
+Executive Briefing Center
+Contact
+Redefining data management to solve mass data fragmentation.
+Resources
+Blogs
+Partners
+Support
+Developer
+Marketplace
+Get Started
+Get Started
+EN
+English
+Deutsch
+Français
+
+Cohesity Privacy Policy
+Effective date : January 1, 2020
+We at Cohesity, Inc. ( Company ,  we ,  us ,  our ) know that our visitors and users (you, your) care about your privacy and how your personal information is used and shared. We take your privacy seriously.
+This Privacy Policy ( Policy ) is intended to help you understand:
+What this Policy covers
+What information we collect about you
+How we use information we collect
+How we share information we collect
+How we store information we collect
+How you can access and control information about you
+How we transfer information internationally
+California resident privacy information
+Nevada resident privacy information
+Other important information
+Changes to the Policy
+What this Policy covers:
+This Policy covers our use and treatment of personally identifiable information (also referred to as personal data) (Personal Information):
+that we collect when you access or use our services, website, or websites owned or operated by us, in any manner (collectively the Services) or
+provided to us as described below and
+unless you are notified another policy applies.
+By accessing or using our Services, you acknowledge and agree that you consent to the practices and policies outlined in this Policy. If you do not agree with this Policy, please do not access or use our Services or interact with any other aspect of our business.
+This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. Where you access the Services under contract with an organization (for example your employer), that organization controls the information processed by the Services. For more information, please see Notice to End Users below.
+Choices
+This Policy also explains your choices about how we use information about you. Your choices include how you can object to certain uses of information about you and how you can access and update certain information about you.
+Children
+We do not knowingly collect or solicit personal information from children or anyone under the age of 16 or knowingly allow such persons to use, access or register for the Services. Neither our websites, Services, nor this Policy, are directed to such persons. If you are a child or under 16, please cease use of the websites, do not attempt to use the Services or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from such persons without a lawful basis, we will delete that information as quickly as possible. If you believe that we might have any information from or about such a person, please contact us immediately at  privacy@cohesity.com .
+What information we collect about you
+a. Information you provide to us:
+We receive and store any information you knowingly provide to us. For example, we collect Personal Information, including but not limited to your name, title, company, email address, phone number, address, location and device/browser information when you provide feedback to us, engage with interactive features, or participate in events or promotions.  We also collect and store information you provide if you apply for or accept a position at Cohesity. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. Unless another policy applies, we also collect and use information you submit through any support or customer portal related to the Services.
+If you have provided us with a means of contacting you for particular purposes, we may use such means to communicate with you for those purposes. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Services. Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services. If you previously provided us with such information but no longer wish to receive communications from us, please indicate your preference by sending an email to  privacy@cohesity.com . Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
+b. Information we collect automatically:
+Whenever you interact with our websites, we automatically receive and record information on our server logs from your browser including your IP address, cookie information, and the page you requested. Cookies are identifiers we transfer to your computer or device that allow us to recognize your browser or mobile device and tell us how and when pages and features are visited and by how many people. We and our third-party partners, such as our advertising and analytics partners, may use cookies and other tracking technologies (e.g., web beacons, device identifiers and pixels) to provide functionality and to recognize you across different websites and devices. You may be able to change the preferences on your browser or device to prevent or limit your computer or devices acceptance of cookies, but this may necessarily prevent you from taking advantage of some of our features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Policy does not cover the use of cookies by any third parties.
+We may collect information about your computer, phone, tablet, or other devices you use to access the websites. This device information may include your connection type, settings, operating system, browser type, IP address, URLs of referring/exit pages, or device identifiers. We may use your IP address and/or country preference in order to approximate your location to provide you with a better experience. How much of this information we collect may depend on the type and settings of the device you use and the settings you choose on such device and/or in your browser.
+When we collect usage information (such as the numbers and frequency of visitors to the website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Services, so that we can make the Services appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
+c. Information we receive from other sources:
+We may receive information about you from:
+other Service users (e.g. if your email address is mentioned in feedback or designated as a contact)
+third-party services (e.g. if you link another account you own to the Services, we may receive your name and email address as permitted by your Google profile settings in order to authenticate you). The information we receive when you link or integrate our Services with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with our Services.
+companies owned or operated by us (in accordance with those companies policies)
+business and channel partners. We work with a global network of partners. Some of these partners help us to market and promote our products, generate leads for us, and resell our products. In this context, we may receive information such as contact information, company name, what products you have purchased or may be interested in, evaluation information you have provided, what events you have attended, and what country you are in. We also may receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in and engagement with, our Services and online advertisements.
+How we use information we collect
+How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us. Below are the specific purposes for which we use the information we collect about you.
+We may use information about you, for example:
+To provide the Services that you request.
+To register you for events (for example if you sign up for an information event or demo via the Services).
+To process an application or request you submit.
+For security (for example to authenticate you, verify accounts and activity, monitor suspicious or fraudulent activity, and to identify violations of Service policies).
+To provide support (for example if you submit a request and include a return email address).
+To operate and maintain the Services (for example to resolve technical issues you encounter, to respond to your requests for assistance, to analyze crash information, and to repair and improve the Services).
+To process or personalize our interaction with you (for example, we may use your email domain to infer your affiliation with a particular organization or industry to personalize our interactions with you, or where you use multiple Services, we may combine information about you and your activities to provide an integrated experience, such as to present relevant product information as you travel across our websites).
+For research and development (we are always looking for ways to make our Services smarter, faster, secure, integrated, and useful to you. We use collective or aggregated learnings about how people use our Services and feedback provided directly to us to troubleshoot and to identify trends, usage, activity patterns and areas for integration and improvement of the Services).
+To communicate with you about the Services (for example responding to your comments, questions and requests, providing support, and sending you notices, updates, security alerts, and administrative messages).
+To market, promote and drive engagement with the Services: (for example we may use your contact information and information about how you use the Services to send promotional communications that may be of specific interest to you, including by email and by displaying ads on other companies websites and applications, as well as on platforms like Facebook and Google. These communications are aimed at driving engagement and maximizing what you get out of the Services, including information about new features, survey requests, newsletters, and events we think may be of interest to you. We also communicate with you about new product offers, promotions and contests. You can control whether you receive these communications as described below.
+To protect our legitimate business interests and legal rights: Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we may use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above. For example, we may publish testimonials or featured customer stories to promote the Services, with your permission.
+For any other business purpose for which your Personal Information is provided to us or as otherwise set forth in applicable data privacy laws, such as the California Consumer Privacy Act (the CCPA).
+Legal bases for processing (for EEA users):
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on the Services you use and how you use them. This means we collect and use your information only where:
+We need it to provide you the Services, including to operate the Services, provide support and personalized features and to protect the safety and security of the Services
+It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests
+You give us consent to do so for a specific purpose or
+We need to process your data to comply with a legal obligation.
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer being able to use the Services or having reduced usability.
+How we share information we collect
+We neither rent nor sell your Personal Information in personally identifiable form to anyone. However, we do share your Personal Information with third parties as described in Section 3 and in this Section:
+a. Affiliated businesses and third party websites we do not control:
+In certain situations, businesses or third party websites were affiliated with may sell items or provide services to you through the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business or websites policies.
+The Services may include links that direct you to other websites or services whose privacy practices may differ from ours. Your use of and any information you submit to any of those third-party sites is governed by their privacy policies, not this one.
+Some of our Services may contain widgets and social media features. These widgets and features may collect your IP address, which page you are visiting on the Services, and may set a cookie to enable the feature to function properly. Widgets and social media features are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
+b. Agents:
+We employ other companies and people to perform tasks on our behalf and may need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. If an agent needs to access information about you to perform services on our behalf, they do so under close instruction from us, including policies and procedures designed to protect your information.
+c. Business transfers:
+We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party (including prospective affiliates, acquirers or similar). The protections of this Policy apply to the information we share in these circumstances. You will be notified via email and/or a prominent notice on the Services if a transaction takes place, as well as any choices you may have regarding your information.
+d. Protection of company and others:
+Strictly to the extent permitted by law, we reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This may include exchanging information with other companies and organizations for fraud protection.
+e. With your consent:
+We share information about you with third parties when you give us consent to do so. For example, we often display personal testimonials of satisfied customers on our public websites. With your consent, we may post your name alongside the testimonial. Except as set forth above, you will be notified when your Personal Information may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information.
+If you register or access the Services using an email address with a domain that is owned by your employer or organization, and such organization wishes to establish an account or site, certain information about you including your name, contact info, content and past use of your account may become accessible to that organizations administrator and other Service users sharing the same domain.
+If we make a forum, message board or similar facility available, you should be aware that any information you provide  including profile information associated with the account you use to post the information  may be read, collected, and used by any person who accesses these facilities (including us). Your posts and certain profile information may remain even after you terminate your account. We urge you to consider the sensitivity of any information you input into these Services. To request removal of your information from publicly accessible websites operated by us, please contact us as provided below. In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to and why.
+How we store information we collect
+a. Security:
+We endeavor to protect the privacy of your Personal Information we hold in our records, including using what we believe to be appropriate technical and organizational measures, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of your information at any time.
+The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that sites privacy policy.
+b. Retention:
+How long we keep information we collect about you depends on the type of information, as described in further detail below. After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible. For example,
+We may retain account/user-type information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate. We may also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you
+If you posted information to a forum or similar, it may remain visible even if you delete or deactivate your account
+If any aspect of the Services is made available to you through an organization (e.g., your employer), we retain your information as long as required by the administrator of your account
+If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services, such as when you last opened an email from us. We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
+How you can access and control information about you
+You can always opt not to disclose information to use, but some information may be needed to register with us or to take advantage of some of our special features. This section summarizes some of the other rights and tools available to you, including:
+You may request deletion of your information by emailing us at  privacy@cohesity.com . Please note that some information may remain in our records, for example in our archives, after your request of deletion of such information. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Please also note that comments you post publicly on our website, such as comments on our blog posts, will remain visible to the public.
+If you have any questions about viewing or updating information we have on file about you, please contact us at  privacy@cohesity.com . Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to  privacy@cohesity.com .
+To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services. We and our third party partners also collect information using web beacons (also known as tracking pixels). Many browsers include their own management tools for removing other identifiers such as HTML5 local storage objects.
+You have the right to request a copy of your information, to object to our use of your information (including for marketing purposes), to request the deletion or restriction of your information, or to request your information in a structured, electronic format. Below, we describe the tools and processes for making these requests. You can exercise some of the choices by logging into the Services and using settings available within the Services or your account. Where the Services are administered for you by an administrator (see Notice to End Users below), you may need to contact your administrator to assist with your requests first. For all other requests, you may contact us as provided herein to request assistance.
+Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we have compelling legitimate interests to keep. If you have unresolved concerns, you may have the right to complain to a data protection authority in the country where you live, where you work or where you feel your rights were infringed.
+Access, delete and update your information or deactivate an account or profile: Certain of our Services may give you the ability to access and update certain information about yourself. Otherwise you can contact us in relation to such requests at  privacy@cohesity.com . Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+Request that we stop using your information: In some cases, you may ask us to stop accessing, storing, using and otherwise processing your information where you believe we dont have the appropriate rights to do so. Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time. You can also opt-out of our use of your information for marketing purposes by contacting us, as provided herein. When you make such requests, we may need time to investigate and facilitate your request. If there is delay or dispute as to whether we have the right to continue using your information, we will restrict any further use of your information until the request is honored or the dispute is resolved, provided your administrator does not object (where applicable). If you object to information about you being shared with a third-party app, please disable the app or contact your administrator to do so.
+Opt out of communications: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email or by contacting us as provided herein.
+Send Do Not Track Signals: Some browsers have incorporated Do Not Track (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked.
+Data portability: Data portability is the ability to obtain information in a format you can move from one service provider to another (for instance, when you transfer your mobile phone number to another carrier). Depending on the context, this may apply to some or all of your information which we will supply in electronic format upon request subject to applicable law.
+How we transfer information internationally
+We collect information globally and primarily store that information in the United States. We may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services. Whenever we transfer your information, we take steps to protect it.
+To facilitate our global operations, we may allow access to information from countries in which a company owned or operated by us has operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where you reside. In addition, some of the third parties described in this Policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information about you in this way, we endeavor to provide appropriate protections including by making use of standard contractual data protection clauses (approved by the European Commission) binding corporate rules for transfers to data processors, or other appropriate mechanisms to safeguard the transfer.
+We encourage you to contact us as provided below should you have a complaint. You may also contact your local data protection authority within the European Economic Area or Switzerland (as applicable) for unresolved complaints.
+California resident privacy information
+Categories of Personal Information We May Collect
+The following chart details the categories of Personal Information that we may collect and/or have collected over the past twelve (12) months.
+Category of Personal Information
+Personal Information Collected (Examples)
+What is the source of this Personal Information?
+A.
+Personal identifiers
+Real name, alias, postal address, identification, unique personal identifier, online identifier, email address, Social Security number (if shared with us for specific purposes such as employment).
+You/
+Affiliates/
+Third Parties
+B.
+Records identified by state law
+Name, signature, address, telephone number, identification documents or numbers, insurance, education, employment, bank or health insurance information.
+You/
+Affiliates/
+Third Parties
+C.
+Protected classification characteristics under state or federal law
+We would only collect this kind of information if you provide it to us in accordance with law, e.g. race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex/sexual orientation, veteran or military status or genetic information.
+You/
+Affiliates/
+Third Parties
+D.
+Internet or other similar network activity information
+Limited information on a consumers interaction with a website, application or advertisement.
+You/
+Affiliates/
+Third Parties
+E.
+Sensory data
+If you work for us, we may collect your photograph for ID or similar purposes.
+You/
+Affiliates/
+Third Parties
+F.
+Professional or employment-related information
+Current or past job history or performance evaluations.
+You/
+Affiliates/
+Third Parties
+G.
+Non-public education information
+(per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99))
+Education records in the context of assessing an employment application you may submit.
+You/
+Affiliates/
+Third Parties
+How we use and share these categories of personal information
+See Section 3 How we use information we collect above for more information.  We will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+As noted above, we may communicate with you if youve provided us the means to do so. For example, if youve given us your email address, we may send you promotional email offers or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us, which helps us improve our services. If you do not want to receive communications from us, please indicate your preference by emailing us at
+privacy@cohesity.com .
+Disclosures of Personal Information for a Business Purpose
+We may disclose or have disclosed in the past 12 months your Personal Information to service providers and other parties for legitimate business purposes, only if connected to the purpose for which you provided us the Personal Information, such as auditing, security, processing orders, or providing services or benefits. We may also disclose or have disclosed in the past 12 months your Personal Information to the following other parties:
+Parties who acquire your Personal Information through an acquisition or other change of control.
+Personal Information may be transferred to a third party if we undergo a merger, acquisition, bankruptcy or other transaction in which that third party assumes control of our business (in whole or in part)
+Other parties at your direction.
+Other users (where you post information publicly or as otherwise necessary to effect a transaction initiated or authorized by you through the Services)
+Third-party business partners who you access through the Services
+Other parties authorized by you
+California Resident Rights
+If you are a California resident, you have the rights outlined in this section. Please see the Exercising Your Rights section below for instructions regarding how to exercise these rights. If there are any conflicts between this section and any other provision of this Privacy Policy and you are a California resident, the portion that is more protective of Personal Information shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at privacy@cohesity.com.
+Access
+You have the right to request certain information about our collection and use of your Personal Information over the past 12 months. We will provide you with the information required by law.
+Deletion
+You have the right to request that we delete the Personal Information that we have collected from you. Under the CCPA, this right is subject to certain exceptions. If your deletion request is subject to one of these exceptions, we may deny your deletion request.
+Exercising Your Rights
+To exercise the rights described above, you must send us a request that (1) provides sufficient information to allow us to verify that you are the person about whom we have collected Personal Information, and (2) describes your request in sufficient detail to allow us to understand, evaluate, and respond to it. Each request that meets both of these criteria will be considered a Valid Request.  Valid Requests must be sent to privacy@cohesity.com. We may not respond to requests that do not meet these criteria. We will only use Personal Information provided in a Valid Request to verify you and complete your request.
+We will work to respond to your Valid Request within 45 days of receipt. We will not charge you a fee for making a Valid Request unless your Valid Request(s) is excessive, repetitive, or manifestly unfounded. If we determine that your Valid Request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
+We Will Not Discriminate Against You for Exercising Your Rights Under the CCPA
+We will not discriminate against you for exercising your rights under the CCPA.
+Nevada Resident Rights
+Please note that we do not currently sell your Personal Information as sales are defined in Nevada Revised Statutes Chapter 603A.
+Other important information
+Notice to End Users
+Where the Services are made available to you through an organization (e.g. your employer), that organization is the administrator of the Services and is responsible for the accounts and/or Service sites over which it has control. If this is the case, please direct your data privacy questions to your administrator, as your use of the Services is subject to that organizations policies. We are not responsible for the privacy or security practices of an administrators organization, which may be different than this policy.
+If you use an email address provided by an organization (such as your work email address) to access the Services, then the owner of the domain associated with your email address (e.g. your employer) may assert administrative control over your account and use of the Services at a later date. If you do not want an administrator to be able to assert control over your account or use of the Services, use your personal email address to register for or access the Services (if permitted).
+Changes to the Policy
+In this Version:
+We have worked hard to make sure our business is ready for the European Union General Data Protection Regulation (GDPR), and our updates in this version of the Policy are part of that work. To make the policy easier to understand, we use clear, plain language and examples that illustrate our activities. We also reformatted our Policy so you can quickly find the information that matters most to you. We will continue to monitor the implementation and interpretation of the GDPR, and update this Policy as necessary. As such, we ask that even if you do not reside in the EEA you review changes to this Policy each time you use the Services.
+General:
+We are committed to complying with data privacy laws in every jurisdiction we do business. As such, we may amend this Policy from time to time. Use of information we collect now is subject to the Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website, sending you a message, and/or by some other means. You are bound by any changes to the Policy when you use the Services after such changes have been first posted. If you disagree with any changes to this Policy, you will need to stop using the Services.
+QUESTIONS OR CONCERNS?
+Your Personal Information is controlled by Cohesity, Inc. If you have any questions or concerns regarding our privacy policies, please send us a detailed message to  privacy@cohesity.com , and we will do our very best to resolve your concerns.
+What We Do
+Our Vision
+Solving Mass Data Fragmentation
+Products
+DataPlatform
+DataProtect
+Helios
+App Ecosystem
+Marketplace
+SpanFS
+Solutions
+Backup and Recovery
+Long-Term Retention and Archival
+Scale-Out Storage
+Virtual
+Cloud
+Physical
+Databases
+Applications
+Customers
+Company
+Team
+News
+Blogs
+Events
+Webinars
+Careers
+Resources
+© 2020 Cohesity, Inc. All Rights Reserved.
+Privacy Policy
+Legal
+1-855-9COHESITY
+Search
+Cancel

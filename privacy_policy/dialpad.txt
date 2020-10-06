@@ -1,0 +1,345 @@
+Privacy Policy - Archive Dec, 2019   Dialpad
+X
+Contact Us
+I'm a customer and need help
+I'm interested and have questions
+Products
+Business Phone System
+Dialpad Talk
+Contact Center
+Dialpad Support
+Video Conferencing
+UberConference
+Sales Dialer
+Dialpad Sell
+Why Dialpad
+Voice Intelligence
+Productivity and insights powered by AI.
+Features
+Get the most out of Dialpad.
+App Marketplace
+We integrate with your favorite tools.
+Customers
+Companies love us. Heres why.
+Resources
+Webinars, demo videos, and more.
+Trust
+How we keep you safe and secure.
+Solutions
+BY BUSINESS TYPE
+Enterprise
+Small Business
+Startup
+BY INDUSTRY
+Tech & Services
+Retail
+Real Estate
+Education
+Legal
+Financial Services
+Pricing
+US: 415-469-1690
+UK: +44 203-048-4377
+AU: +61 260-581-007
+NZ: +64 9-886-8400
+Contact
+Login
+Try Free
+Try Free
+Effective date: December 31, 2019
+View prior version
+View current version
+Privacy Policy
+Dialpad provides tools to help individuals and organizations communicate more effectively, including Dialpad
+Talk, Dialpad Support, Dialpad Sell, UberConference, and associated websites and mobile apps. Dialpad uses a
+single Privacy Policy that addresses our treatment of personally identifiable information (Personal
+Information) when you use any of these Services, including through your mobile device, Dialpads desktop
+applications, browser and/or extensions, or your desk phone.
+This guide answers questions like:
+What Personal Information does Dialpad collect?
+How does Dialpad use Personal Information?
+What Personal Information does Dialpad share with third parties and why?
+How is Personal Information about me secured?
+How can I access, manage, and delete my data?
+How does Dialpad comply with specific state and country laws?
+What happens when Dialpad makes changes to this Privacy Policy?
+Where can I ask questions about this policy?
+Remember that your use of Dialpads Services is also subject to the
+Terms of Service , which incorporate this Privacy
+Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of
+Service.
+What Personal Information does Dialpad collect?
+Information You Provide to Us
+When you create a Dialpad account, you provide us with Personal Information such as your name, email address,
+phone number, password, and payment information.
+If you provide your third-party account credentials to us or sign in to the Services through a third party site
+or service, such as Office365 or Google, some information from those accounts (Third Party Account
+Information) may be transmitted into your account with us if you authorize such transmissions. That Third Party
+Account Information transmitted to our Services is covered by this Privacy Policy. Certain information may be
+required to register with us or to take advantage of some of our features.
+You can always opt not to disclose information to us, but keep in mind some information may be needed to register
+with us or to take advantage of some of our features within the Services.
+Information We Collect As You Use Our Services
+When you interact with our Services, we automatically receive and record information that we then use to provide
+the Services.
+Device and Session Information:
+We collect information about your browser or device, which may
+include your IP address, device IDs, or other unique identifiers, cookie information, the type of browser and/or
+device youre using to access our Services, and the page or feature you requested. We use this data to customize
+your experience with our Services, based on your usage patterns. We also use it to improve the Services  for
+example, this data can tell us how often users use a particular feature of the Services, and we can use that
+knowledge to make decisions about future development focus. You may be able to change the preferences on your
+browser or device to prevent or limit your devices acceptance of cookies, but this may prevent you from taking
+advantage of some of our features.
+Telephony Information:
+We maintain customer call records such as time, duration, the number of the called party.
+Like all telephony services, we also maintain and temporary copies of call audio for
+up to 48 hours for quality assurance.
+Call Audio:
+Some of Dialpads Services and its Voice Intelligence features include saving audio
+and transcription from calls, both to enable these features and to train and improve the models that these
+features are based on, such as speech recognition and understanding. Dialpad may use pseudonymized segments of
+such transcriptions and recordings to improve or validate its features, or securely share it with contractors to
+do so on Dialpads behalf. Any training data saved by Dialpad is used only for improving Dialpads language
+models, and is processed primarily by automated systems. A small fraction of training data may be manually
+reviewed. You may opt out of manual review at any time by contacting
+support@dialpad.com .
+You can control what data is stored by choosing which Dialpad features you use from the settings menu in the
+relevant Service.
+How does Dialpad use Personal Information?
+Dialpad uses Personal Information to deliver the Services, and also to improve the Services and to communicate
+with you about the Services, including marketing communications.
+The main ways that we use the Personal Information that you provide to us or that we collect when you use the
+Service are to:
+deliver the Services, including placing and receiving voice and video calls, and providing recordings,
+transcriptions, and analytics of calls; determining your geographic location for efficient call routing, and
+organizing your contacts,
+manage your account and billing, to enable secure login and single sign on, and allow third party
+integrations;
+prevent, detect, and investigate potentially prohibited or illegal activities, including fraud and
+violations of our Terms of Service and Acceptable Use Policy; and
+improve Dialpads products and train the audio and language models that the Services are based on.
+We may communicate with you if youve provided us the means to do so. For example, if youve given us your email
+address, we may send you promotional email offers on behalf of other businesses, or email you about your use of
+the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us
+make our communications with you more applicable and improve our services. If you do not want to receive
+communications from us, you can always opt out by unsubscribing through the link at the bottom of our emails.
+We do not use Personal Information to make automated decisions.
+What Personal Information does Dialpad share with third parties and why?
+We do not license or sell your Personal Information to third parties, including advertisers, without your
+consent. As described below, when we share any information about you with third parties, we pseudonymize and
+aggregate any information about you before we share it unless more detail is necessary to the function of the
+Services. Although Dialpads Privacy Policy does not apply to the practices of companies we dont own or control
+or people that we dont manage, our Data Processing Agreements with European customers and/or users in the
+European Union define how these third parties can use and store your information, consistent with this Policy.
+Information thats no longer personally identifiable
+We may anonymize your Personal Information so that you are not individually identifiable, and provide that
+information to certain of our partners to help us improve our Service, such as sending anonymized samples of
+audio or text to a third party to improve speech-to-text transcription and reading comprehension. We may also
+provide aggregate usage information to our partners to understand how often and in what ways people use our
+Services. However, we never disclose aggregate usage information to a partner in a manner that would identify
+you personally, as an individual.
+Cookies Policy, Third Party Analytics, and Tracking
+Dialpad and third party service providers of tracking technologies gather non-personal information about how users enter,
+navigate, and leave the website and Services, the frequency and length of visits to the Services or third party websites,
+application or device usage data, and your product or service preference indicated by the number of times and the
+length of time you view a product. Dialpad gathers this data using cookies (both first party cookies, such as the
+Google Analytics cookie, and third-party cookies, such as the DoubleClick cookie), web beacons, tags, and other similar
+techniques that deliver small files to your computer and which allow these networks to provide anonymized, aggregated auditing,
+research and reporting for us and for advertisers.
+Dialpad uses certain third-party services that help us understand traffic on our website in various ways:
+Google Analytics and Google Adwords help Dialpad understand who is visiting Dialpads websites and to show
+relevant ads on other websites to people who have visited Dialpads websites. You can control what ads you see
+through the
+Google Ad Settings Manager . More information on how Google uses information collected when you use
+Googles partner sites is available at
+Googles Partner Technologies
+page.
+Marketo
+is a marketing automation
+tool that handles various marketing tasks, such as contacting visitors who provide their contact information and
+requested additional information. You can read more about Marketo's Privacy Policy and opt-out options here via
+Marketos Privacy Notice .
+Wistia
+powers the videos on our site.
+Wistia tracks how you interact with these videos: how much of a video you watch, at what points in a video you
+pause or rewind, etc. In some videos, we pause the video and request that you provide your email address or name.
+You are under no obligation to provide this information, but we reserve the right to limit certain videos to identified users.
+Wistia aggregates the data collected through the videos here, including names and email addresses, and provides it to us.
+Wistia does not sell or provide the data it collects to third parties.
+You may be able to opt out of tracking conducted by third parties through our Services by adjusting the Do Not Track
+settings on your browser; but we dont control whether or how these third parties comply with Do Not Track requests. Our
+Services do not support Do Not Track requests at this time, which means that we collect information about your online
+activity both while you are using the Services and after you leave our Services.
+Affiliated Businesses and Service Integrations
+Some businesses or third party websites were affiliated with provide products or services to you through or in
+connection with the Services, or allow you to to access Dialpads services through those third party products.
+For a list of Dialpads affiliates and integrations, go to
+https://dialpad.com/integrations .
+We will share your Personal Information with affiliated businesses only if you or your Dialpad Services
+administrator set up an integration, and we will only share your information to the extent that it is related to
+the transaction or service, such as the ability for you to automatically transmit Third Party Account
+Information to your Services profile or to automatically transmit information in your Services profile to your
+third party account. If you choose to take part in any transaction or service relating to an affiliated website
+or business, please review their policies.
+Agents, Subprocessors, and Contractors
+We employ other companies and people to perform tasks on our behalf and need to share your information with them
+to provide the Services to you. For example, we use a payment processing service to receive and process your
+credit card transactions for us. Our agents do not have any right to use the Personal Information we share with
+them beyond what is necessary to assist us and may not use such information for marketing purposes. We may
+authorize access to your data for those employees, contractors, partners, and agents who need to know that
+information in order to operate, develop and improve products and services. With regard to data of customers in
+the European Union, we remain liable in cases of onward transfer to agents and third parties pursuant to the
+EU-U.S. Privacy Shield (described in more detail below in the section on data protection for customers in
+Europe). Dialpads list of sub-processors can be viewed within our
+Help Center .
+User Profiles and Contacts
+Certain user profile information, including your profile photo and status, may be displayed to other users within
+the Services. You are responsible for entering and updating that content. Additionally, if you sign into the
+Services through a third party service, your list of contacts from that site or service may be automatically
+imported to the Services.
+Business Transfers
+If we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other
+change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
+Protection of Dialpad and Others
+We reserve the right to access, read, preserve, and disclose any Personal Information that we believe is
+necessary to comply with the law; to respond to lawful requests by public authorities, a court order or
+subpoena; to enforce or apply our Terms of Service and other agreements; or to protect the rights, property, or
+safety of Dialpad, our employees, our users, or others, including to meet national security or law enforcement
+requirements.
+How is Personal Information about me secured?
+Your account is protected by a password, and your Personal Information is encrypted in transit and in storage
+using industry standard encryption. If you access your account via a third party site or service, you may have
+additional or different sign-on protections via that third party site or service. You must prevent unauthorized
+access to your account and Personal Information by selecting and protecting your password and/or other sign-on
+mechanism appropriately and limiting access to your computer or device and browser by signing off after you have
+finished accessing your account.
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but
+unfortunately, we cannot guarantee complete security.
+How can I access, manage, and delete my data?
+Through your account settings, you may access, and, in some cases, edit, or delete the following information
+youve provided to us:
+name and password
+email address
+phone number(s)
+location
+time zone
+place of employment
+devices
+recorded/transcribed messages and calls
+call history including incoming/outgoing number and duration
+user profile information, including images you have uploaded
+billing information
+contacts
+other third-party account information you have linked to the site
+The information you can view, update, and delete may change as the Services change. You also have the right to
+access, correct, amend, or delete information that we hold via a
+Data Subject
+Access Request . When you update information, we may maintain a copy of the unrevised information in our
+records.
+You may request deletion of your Dialpad Talk, Dialpad Support and/or Dialpad Sell account by contacting
+support@dialpad.com . You may delete your UberConference account by
+selecting the Delete My Account link at the bottom of the account page (www.uberconference.com/account). After
+deletion of your account, some information may remain in our records for a period of time that is consistent
+with the purpose it was collected for. We may use any anonymized and aggregated data derived from your Personal
+Information after you update or delete it, but not in a manner that would identify you personally.
+Following the cancellation of your Services, we will delete and/or anonymize information related to your account
+so that no personal information is retained by Dialpad or its contractors, unless otherwise required by law.
+How does Dialpad comply with specific state and country laws?
+Europe and GDPR
+As part of Dialpads compliance with the General Data Protection Regulation, Dialpad participates in the EU-U.S. and Swiss-U.S.
+Privacy Shield Framework as set forth by the U.S. Department of Commerce. Privacy Shield governs the collection,
+use, and retention of personal information transferred from the European Union to the United States. Dialpad has
+certified to the Department of Commerce that it adheres to the Privacy Shield Principles. The programs official
+website provides
+Dialpads
+Privacy Shield certification page
+as well as
+Privacy Shield FAQs . If there is
+any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield
+Principles govern. Dialpads participation in Privacy Shield is subject to the jurisdiction of the Federal Trade
+Commission.
+Dialpad commits to cooperate with EU data protection authorities and comply with the advice given by such
+authorities with regard to human resources data transferred from the EU in the context of the employment
+relationship. For more information on how to sign Data Processing Agreements for your organization please visit
+our
+DPA
+Help Center article .
+EU individuals have the right to access their personal data. If you have questions Dialpads Privacy Policy, you
+may contact
+legal@dialpad.com
+or submit a
+Data Subject
+Access Request Form .
+Dialpad has further committed to refer unresolved Privacy Shield complaints to PrivacyTrust, an alternative
+dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your
+complaint from us, or if we have not addressed your complaint to your satisfaction, please visit
+PrivacyTrusts Dispute Resolution Form
+for more
+information or to file a complaint. The services of PrivacyTrust are provided at no cost to you. Finally, as a
+last resort and in limited situations, European Union individuals may seek redress from the
+Privacy Shield Panel , a binding
+arbitration mechanism.
+California and CCPA
+Dialpad complies with the California Consumer Privacy Act (CCPA).
+Details on the rights and disclosures relevant to California residents are available in the
+CCPA Addendum
+to Dialpads privacy policy.
+COPPA Compliance Statement
+Dialpad does not provide services designed for use by children under the age of 13, nor does it knowingly collect
+or solicit personal information from anyone under the age of 13. If we learn that we have collected such
+information we will delete that information as quickly as possible. If you believe that a child under 13 has
+provided us personal information, please contact us at
+support@dialpad.com .
+What happens when Dialpad makes changes to this Privacy Policy?
+Were constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time
+as well. However, we will alert you to changes by placing a notice on the Dialpad website, by sending you an
+email, and/or by some other means. Please note that if youve opted not to receive legal notice emails from us
+(or you havent provided us with your email address), those legal notices will still govern your use of the
+Services, and you are still responsible for reading and understanding them. Use of information we collect now is
+subject to the Privacy Policy in effect at the time such information is used.
+Where can I ask questions about this policy?
+You can always reach Dialpad with questions or concerns regarding our Privacy Policy by sending an email to
+legal@dialpad.com .
+Why Dialpad
+Voice Intelligence
+Customers
+Enterprise
+Trust
+App Marketplace
+Products
+Business Phone System
+Contact Center
+Sales Dialer
+Video Conferencing
+Phones & Devices
+Features
+Pricing
+About
+Company
+Careers
+Partners
+Press
+Legal
+Contact Us
+Resources
+Webinars
+Work From Anywhere
+Blog
+Resource Library
+Help Center
+Status Dashboard
+FAQ
+Do Not Sell My Info
+Dialpad Apps
+Android
+iOS (iPhone)
+iOS (iPad)
+Chrome Extension
+Mac and Windows
+© 2015 - 2020 DIALPAD is a trademark of Dialpad, Inc.
+Select Language
+English US
+
+English UK
+English AU

@@ -1,0 +1,332 @@
+TripActions Terms of Service   TripActions
+Search TripActions
+Search
+TripActions_Logo_Black
+Icon - Search
+Created with Sketch.
+Why TripActions
+Overview
+Redefining the business travel experience
+Easy Setup
+Get going in the shortest amount of time
+User Experience
+Achieve traveler satisfaction levels like never seen before
+Company Savings
+Gain spend visibility, control and insights to drive real savings
+Traveler Support
+Get global 24/7 proactive live human support for stress-free travel
+Travel Services
+Premier travel services to save you time
+See Why TripActions is a Leader
+Download the Report
+Travel
+How It Works
+Manage all your corporate travel, all in one place
+Business Travel Continuity
+Ensure your business can respond quickly and smartly to changing conditions
+Inventory
+Unrivaled inventory, with the choices travelers want
+Carbon Impact
+Get actionable insights into your business travel carbon impact
+Trust & Transparency
+Latest customer stats, security and compliance information
+TripActions
+For Finance
+Gain visibility and control to manage spend efficiently
+For Travel Managers
+Take travel experience, visibility and savings to new heights
+For Human Resources
+Delight employees with a best-in-class travel experience
+For Travelers
+Experience fast and easy travel booking, from anywhere
+For Risk/Crisis Managers
+Centralized travel management for visibility and traveler safety
+For Enterprise Teams
+Global travel management with tech, inventory and travel agents at scale
+Watch a 3-Minute Product Intro
+Watch Now
+Payments
+TripActions Liquid
+The modern end-to-end travel booking and payments platform
+Centralized Billing
+Simplify payments for everyone through billback and consolidated invoices
+Find out more
+Watch a 3-Minute Product Intro
+Watch Now
+Company
+About Us
+A business travel partner you can trust
+Customers
+Your success is our top priority
+Careers
+Join a mission-driven culture and redefine business travel
+Partners
+TripActions partners streamline business processes
+Press Room
+Read how TripActions is becoming the default for business travel
+Resources & Events
+Learn how TripActions is reimagining business travel
+Blog
+Check out our top posts for travel management
+Community
+Business continuity travel forum
+Academy
+The path to modern corporate travel management
+Share best practices on all things business travel.
+Join Now
+Contact
+Get Started
+Sign In
+Icon - Phone
+Created with Sketch.
+Contact us
++1 (888) 505 TRIP (8747)
+Icon - Search
+Created with Sketch.
+Sign In
+Get Started
+TripActions Terms of Service
+Last Updated: August 12, 2019
+These terms of service ( Agreement ) form a legal agreement between you (including, if applicable, any legal entity which you represent or act for) ( Customer ) and TripActions, Inc. ( TripActions ) and sets forth the terms and conditions governing Customers access to and use of the Subscription Services (as defined below). By clicking I Accept, entering into a Service Order, or by using the Subscription Services, Customer agrees to be bound by this Agreement, as may be amended by TripActions from time to time with notice to Customer.
+1. DEFINITIONS
+1.1. Affiliate
+means with respect to a party, any entity which (i) is controlled by, (ii) controls, or (iii) is under common control with such party, where the term control means the ownership, directly or indirectly, of more than fifty percent (50%) of the shares entitled to vote for the election of directors.
+1.2. App
+means the mobile application owned by TripActions through which an Authorized User (as defined below) may access the Subscription Services.
+1.3. Authorized User
+means an employee, advisor, or agent of Customer, or other individual authorized by Customer, that has (i) been assigned a unique username-password combination to access and use the Subscription Services, and (ii) downloaded and registered through the App or the Site to access and use the Subscription Services.
+1.4. Confidential Information
+means any written, machine-reproducible and/or visual materials that (i) are clearly labeled as proprietary or confidential, (ii) are identified as proprietary or confidential at the time of its disclosure or in a writing provided within thirty (30) days after disclosure, or (iii) which should reasonably be understood to be confidential given the nature and circumstances of its disclosure, provided that Confidential Information shall not include information that: (a) is or becomes publicly known through no act or omission of the receiving party; (b) was in the receiving partys lawful possession prior to the disclosure; (c) is rightfully disclosed to the receiving party by a third party without restriction on disclosure; or (d) is independently developed by the receiving party, which independent development can be shown by written evidence.
+1.5. Customer Data
+means any data input into and/or stored by the Subscription Services by or for Customer or Authorized Users, including data and personal information about Customers Authorized Users who use the Subscription Services, and including Shared Information (defined in Section 3.5). Customer Data is Confidential Information of Customer.
+1.6. Extension
+means a browser extension or plugin developed by TripActions and downloaded by Authorized Users to enable Authorized Users to book Travel Services (as defined in Section 3.5) outside the TripActions Site or App but within the corporate travel program of Customer.
+1.7. Fees
+means any fees paid by Customer for the Subscription Services and Implementation Services, including Implementation Fees, Platform Fees, and Booking Fees, as stated in the applicable Service Order, and the Management Fee (defined in Section 3.7.3), but does not include any monies paid by Customer for Travel Services (defined in Section 3.6.1) or for Reward Program Funds (defined in Section 3.7.1).
+1.8. Implementation Services
+means the services performed by TripActions to configure and launch the Subscription Services to Customer and its Authorized Users.
+1.9. Intellectual Property Rights
+means patent rights (including, without limitation, patent applications and disclosures), copyrights, trade secrets, moral rights know-how, and any other intellectual property rights recognized in any country or jurisdiction in the world.
+1.10. Service Order
+means an order for Subscription Services mutually agreed between the parties, which incorporates this Agreement by reference.
+1.11. Site
+means the TripActions website located at www.tripactions.com.
+1.12. Software
+means any TripActions or third-party software used by TripActions to provide the Implementation Services and/or Subscription Services.
+1.13. Subscription Services
+means the online and hosted services provided by TripActions through the App, Site, or Extension, which includes, at a minimum, the functionality for Authorized Users to search for and book corporate travel, submit travel expenses, and access 24/7/365 traveler support; as well administrative functionality including real-time reporting, traveler tracking, spend reconciliation, and (if applicable) corporate customer support. The scope of the Subscription Services purchased by the Customer may be further described in the applicable Service Order.
+1.14. Trip
+means the full set of travel reservations  including, but not limited to, air tickets, hotel, car rental, and other ancillary services, in any combination  that are purchased to enable one (1) personal or business trip.
+2. ACCOUNT; IMPLEMENTATION
+2.1.
+Employer Account . To access the features of the Subscription Services, Customer must register for an account (the  Employer Account ) on the TripActions Site and App. Customer is responsible for maintaining the confidentiality of its account access credentials, the credentials of Authorized Users, and the security of Customers systems and networks that it uses to access the Subscription Services. If Customer has reason to believe that its Employer Account is no longer secure, then it shall notify TripActions as soon as possible.
+2.2.
+Implementation Services . Subject to Customers cooperation and assistance in accordance with Section 4.1, TripActions will provide any applicable Implementation Services to enable Customer to use the Subscription Services.
+3. SUBSCRIPTION SERVICES
+3.1.
+Subscription Services . TripActions will provide the Subscription Services in accordance with this Agreement, commencing on the date set forth in the Service Order (or, if no Service Order is in place, then on the date Customer begins using the Subscription Services) and continuing until such time as Customer cancels the Employer Account or this Agreement is otherwise terminated hereunder. Customer may access and use the Subscription Services solely for its internal business purposes and such access and use is expressly limited to the Authorized Users of Customer.
+3.2.
+Restrictions . Customer shall not attempt to interfere with or disrupt the Subscription Services or the Software or attempt to gain access to any systems or networks that connect thereto (except as required to access and use the Subscription Services). Customer shall not allow access to or use of the Subscription Services by anyone other than Authorized Users. Customer shall not, and shall use commercially reasonable efforts to ensure its Authorized Users do not: (a) copy, modify or distribute any portion of the Subscription Services or Software; (b) rent, lease, or provide access to the Subscription Services on a time-share or service bureau basis; or (c) transfer any of its rights hereunder (except as specified in Section 13.8).
+3.3.
+Acceptable Use Policies . Customer shall use the Subscription Services exclusively for authorized and legal purposes, consistent with all applicable laws, regulations and the rights of others. Customer may not, and shall ensure that Authorized Users do not, use the Subscription Services in any manner that would violate the rights of any third party, including but not limited to storing or processing any third party confidential, personal, or payment information into the Subscription Services without proper lawful license or permission to do so. Customer shall not use the Subscription Services to transmit any bulk unsolicited commercial communications. Customer shall, and shall ensure that its Authorized Users, keep confidential and do not disclose to any third parties any user identifications, account numbers and account profiles. Customer shall be responsible for the compliance of its Authorized Users with Customers travel expense and payment policies, including but not limited to in-policy selection of travel options by Authorized Users, proper use of Customers corporate credit card by Authorized Users, and proper submission and substantiation of travel expenses by Authorized Users for reimbursement by Customer. Customer acknowledges that the Subscription Services are not designed, intended or authorized for use in hazardous or mission-critical circumstances or for uses requiring fail-safe performance or where failure could lead to death, personal injury or environmental damage, and Customer shall not use the Subscription Services for such purposes or under such circumstances.
+3.4.
+Illegal Use of Services . TripActions may immediately suspend or terminate Customers access to the Subscription Services, by written notice to Customer, in the event that (i) TripActions determines on the basis of reasonable evidence that the Subscription Services are being used for fraudulent or criminal activities, or in violation of any applicable law or regulation, or (ii) in the event that a governmental, legal or other law enforcement authority so requires, or instructs TripActions to terminate or suspend services to Customer. In the event TripActions suspects or anticipates such termination, TripActions will, to the extent practical under the circumstances, use commercially reasonable efforts to provide Customer with prior written notice of the same and an opportunity to cure the same prior to (and in avoidance of) termination. Customer acknowledges that under certain circumstances such prior notice and/or cure period may not be possible or practical.
+3.5.
+Data Maintenance and Backup Procedures . The TripActions platform is not intended to be a failsafe data warehouse or data back-up solution. In the event of any loss or corruption of Customer Data, TripActions shall use its commercially reasonable efforts to restore the lost or corrupted Customer Data from the latest backup of such Customer Data maintained by TripActions; Customer acknowledges that full restoration of Customer Data may not be possible under all circumstances.
+3.6.
+Travel Services.
+3.6.1. Through the Subscription Services, Customer and its Authorized Users may receive services ( Travel Services ) from third-party providers of travel and related services, such as airlines, hotel operators, travel inventory aggregators, and car rental agencies ( Travel Service Provider(s) ). In order to facilitate the purchase of Travel Services by an Authorized User, Customer and the Authorized User authorize TripActions to submit certain information, including the name and other personal information of the Authorized User and the applicable payment information (collectively, the  Shared Information ), to the Travel Service Provider to the extent required by the Travel Service Provider. As an example and by way of illustration only: to facilitate an Authorized Users purchase of an airline ticket, TripActions may provide the Authorized Users name, other identifying information, and payment information to the Travel Service Provider (the airline).
+3.6.2. TripActions is not responsible for the provision of Travel Services and does not guarantee the correctness of any material, information or results made available to Customer by or from Travel Service Providers, and the presentation of travel inventory through the Subscription Services does not constitute a binding contract offer by TripActions or the respective Travel Service Provider. Customer acknowledges and agrees that (i) the purchase of Travel Services may be subject to the terms and conditions, agreements (such as contract of carriage), and privacy and security policies of the specific Travel Service Provider selected by the Authorized User, and (ii) the use of Travel Services will be subject to Customers and Authorized Users compliance with applicable law. Customer and its Authorized Users shall be solely responsible for, and assume all risk arising from, the selection, use and receipt of any Travel Service. Customer shall be responsible for the accuracy of all Shared Information it provides to TripActions.
+3.6.3. TripActions shall not be liable for the performance of any Travel Service, any loss or injury to any Authorized User resulting from a Travel Service, or any unauthorized use, disclosure, or misuse of any Shared Information by a Travel Service Provider.
+3.7.
+Rewards Program . If Customer elects, in a Service Order or through the Employer Account, to enable the TripActions Rewards Program for Authorized Users, Customer agrees that the following terms will apply:
+3.7.1. Definitions. (i)  Price to Beat  means the target cost of a particular travel option, as determined by the Algorithm, as displayed in the Subscription Services. (ii)  Reward-Eligible Booking  means a travel option (e.g., flight, hotel, car rental) that is purchased and actually used by an Authorized User via the TripActions Site, App, or Extension for business travel (excluding any travel services for personal or non-business travel, and travel services for which payment is made using Reward Points (as defined below)). (iii)  Eligible Savings  means the difference between the Price to Beat and the total actual purchase price of the Reward-Eligible Booking, where the purchase price is less than the Price to Beat. (iv)  Reward Points  means a percentage of the Eligible Savings (which percentage is determined by the Algorithm), which is allocated to, and may be redeemed by, the Authorized User as a personal reward via the TripActions Reward Program. Reward Points accrue to the Authorized User upon the Authorized Users completion of travel for the Reward-Eligible Booking. (v)  Reward Program Funds  means the aggregate accrued Reward Points for all Authorized Users.
+3.7.2.
+Invoicing and Payment . Each month, Customer shall pay to TripActions the Reward Program Funds that have accrued during the prior calendar month, whether or not the Reward Points have been redeemed by the Authorized Users. Customer is solely responsible for the cost of the Reward Program Funds, and any redemption of Reward Points by an Authorized User is subject to Customers payment of the applicable Reward Program Funds. TripActions shall invoice Customer for the Reward Program Funds on the third day of each calendar month (or the first business day thereafter, if the third day is not a business day), and payment shall be due on the tenth day of the calendar month (or the first business day thereafter, if the tenth day is not a business day), regardless of the method of payment used.
+3.7.3
+Management Fee . In addition to the Reward Program Funds, Customer shall be charged, and agrees to pay, a payment service fee equal to five percent (5%) of the applicable Reward Program Funds (the  Management Fee ). The Management Fee shall be invoiced and payable along with the Reward Program Funds, and such Management Fee shall be considered a part of the Fees as defined above. If Customer elects to pay the Reward Program Funds by ACH Autopay, the Management Fee will be waived for all such payments.
+3.7.4
+Taxes and Legal Responsibilities . Customer shall be responsible for payment of all Taxes and associated legal responsibilities, and any related interest and/or penalties, resulting from any payments made to Authorized Users under the TripActions Reward Program, including, but not limited to, preparing applicable Forms W2 and Forms 1099-MISC for Authorized Users.
+3.7.5
+Rewards . TripActions is not responsible for and makes no warranty with respect to the quality of any Rewards, or their suitability to a specific use. Rewards are supported by the warranties of their individual providers, if any. As used herein,  Rewards  means eligible goods or similar items that TripActions will determine in its discretion and display via the Site, App, or Extension, such as gift cards or travel packages, which can be redeemed by Authorized Users in exchange for Reward Points.
+4. CUSTOMER OBLIGATIONS
+4.1.
+Cooperation and Assistance . Customer shall at all times: (a) provide TripActions with good faith cooperation and access to such information and personnel assistance as may be reasonably required by TripActions in order to provide the Implementation Services and Subscription Services from time to time; and (b) carry out in a timely manner all other Customer responsibilities set forth in this Agreement.
+4.2.
+Marketing Support . Customer grants to TripActions a non-exclusive, non-transferable (except as permitted under Section 13.8), revocable, limited right to use the Customer name, trademarks, and logos (collectively, the  Customer Marks ) in accordance with any Customer trademark and logo use guidelines that Customer provides to TripActions. Any public use by TripActions of the Customer Marks shall be subject to Customers prior consent, except that TripActions may use the Customer Marks to identify Customer as a customer of TripActions, including on the TripActions corporate website. All goodwill developed from such use shall be solely for the benefit of Customer.
+4.3.
+Enforcement . Customer shall ensure that all Authorized Users comply with this Agreement, including, without limitation, with Customers obligations set forth in Sections 3.2, 3.3, and 3.4. Customer shall be responsible for noncompliance by Authorized Users, and for any charges incurred as a result of such actions. Customer shall promptly notify TripActions of any suspected or alleged violation of this Agreement by an Authorized User or unauthorized third party and shall cooperate with TripActions with respect to TripActions resulting investigation and any actions to enforce this Agreement. TripActions may suspend or terminate any Authorized Users access to the Subscription Services upon notice to Customer in the event that TripActions reasonably determines that such Authorized User has violated this Agreement or has otherwise violated the law.
+4.4.
+Telecommunications and Internet Services . Customer acknowledges and agrees that Customers and its Authorized Users use of the Subscription Services is dependent upon access to telecommunications and Internet services. Customer shall be solely responsible for acquiring and maintaining all telecommunications and Internet services and other hardware and software required to access and use the Subscription Services, including, without limitation, any and all costs, fees, expenses, and taxes of any kind related to the foregoing. TripActions shall not be responsible for any loss or corruption of data, lost communications, or any other loss or damage of any kind arising from any such telecommunications and Internet services.
+4.5.
+License to Customer Data . Customer Data includes data derived from Customer Data, but does not include non-identifiable data or metadata associated solely with the behaviors or actions of Authorized Users with the Subscription Services. Customer shall retain all right, title, and interest in and to Customers intellectual property rights in Customer Data. By importing or processing Customer Data, Customer grants to TripActions the right and license to reproduce, distribute, modify, and adapt Customers Data solely for the purpose of providing the Subscription Services to Customer, including the right to disclose Customer Data to TripActions subcontractors as necessary to provide the Subscription Services to Customer as well as to Travel Service Providers when necessary to facilitate the purchase or provision of Travel Services by an Authorized User. TripActions may use, display, store, disclose or transfer Customer Data as may be required by law or legal process and TripActions shall provide reasonable notice to Customer of any such disclosure.
+4.6.
+Representations and Warranties with Respect to Customer Data . With respect to any Customer Data that Customer imports, stores, or processes through TripActions, Customer represents, and warrants that:
+4.6.1. It is the creator and owner of, or has the necessary licenses, rights, consents, and permissions to use and to authorize TripActions (and, where applicable, Authorized Users) to use and distribute Customer Data as necessary to exercise the licenses granted by Customer in this Agreement.
+4.6.2. Customer Data, and the use thereof as contemplated herein, does not and will not infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right.
+4.6.3. Customers privacy policies and practices allow Customer to provide Customer Data regarding Authorized Users to TripActions, and does not prohibit or conflict with TripActions ability to use, store, and disclose such Customer Data as set forth in the TripActions Privacy Policy ( https://tripactions.com/privacy ) and TripActions Security Practices ( https://tripactions.com/security ).
+5. FEES; TAXES
+5.1.
+Fees; Late Payment . Customer shall pay the Fees as set forth and defined in the applicable Service Order, using the method described therein or as selected by Customer on the TripActions Site. Customer is responsible for maintaining complete and accurate billing and contact information and notifying TripActions of any changes to such information. If TripActions is unable to charge the Fees to the payment information on file or if the Fees are otherwise overdue, TripActions shall have the right to (i) apply interest on past due amounts at the rate of one and one half percent (1.5%) per month, but in no event greater than the highest rate of interest allowed by law, calculated from the date such amount was due until the date that payment is received by TripActions, and (ii) suspend Customers access to the Subscription Services if Fees remain overdue after reasonable notice is provided to Customer. TripActions shall not pursue its rights in the foregoing sentence with respect to Fees that are under a reasonable good faith dispute which Customer is cooperating diligently to resolve. If undisputed Fees remain overdue for ninety (90) days or more, Customer shall be obligated to reimburse TripActions for the reasonable costs of collection, including reasonable fees and expenses of attorneys. Except as otherwise set forth in an applicable Service Order, all Fees are non-refundable.
+5.2.
+Payment by ACH . Customer has the option to select ACH Bank Transfer as its authorized payment method on the Service Order or by updating its Employer Account on the TripActions Site. Customer may select either standard ACH Bank Transfer or ACH Auto-Pay, as described below. Regardless of the payment method selected, it is the responsibility of Customer to maintain sufficient funds or credit in its designated account(s) to cover and timely pay any Fees, and to authorize its financial institution to authorize entries as transmitted by TripActions. Customer understands that there may be a service charge for any TripActions charge that is denied due to insufficient funds.
+5.2.1. If Customer elects standard
+ACH Bank Transfer , then Customer shall receive an invoice in advance of the payment due date and shall initiate payment to TripActions from its bank account to cover Fees due, on or before the payment due date.
+5.2.2. If Customer elects
+ACH Auto-Pay , then TripActions shall provide an invoice to customer in advance of the payment due date, and Customer hereby authorizes TripActions to initiate a debit transaction on the designated account on the payment due date without any further authorization on the part of Customer. TripActions may draw or transmit funds to its own order to pay any Fees.
+5.3.
+Taxes . All amounts and fees stated or referred to in this Agreement or any Service Order, are exclusive of taxes, duties, levies, tariffs, and other governmental charges (including, without limitation, VAT) (collectively,  Taxes ). Customer shall be responsible for payment of all Taxes and any related interest and/or penalties resulting from any Fees, other than any taxes based on TripActions net income. With respect to Taxes charged on or applicable to the purchase or sale of Travel Services, TripActions shall reflect such Taxes in invoices and/or in the reporting available to Customer on the TripActions Site, and Customer shall be responsible for the payment of all such Taxes.
+5.4.
+Local Currency . All Fees will be invoiced in USD except (i) as otherwise provided in a Service Order, or (ii) with respect to Fees associated with the purchase of Travel Services (for example, Booking Fees), in the local currency applicable to the purchase of such Travel Services. To the extent a currency conversion is required, the conversion will be undertaken at the time of the purchase, at the exchange rate applicable at that time.
+6. OWNERSHIP.
+As between TripActions and Customer, the Subscription Services and Software (and all copies of the Software), and all Intellectual Property Rights therein or relating thereto, are and shall remain the exclusive property of TripActions or its licensors. The visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), products, software, services, and all other elements of the Subscription Services and Software provided by TripActions (the  Materials ) are protected by all relevant intellectual property and proprietary rights and applicable laws. Except for the Customer Data, all Materials contained in the Subscription Service are the property of TripActions or its third-party licensors. Except as expressly authorized by TripActions, Customer may not make use of the Materials. TripActions reserves all rights to the Materials not expressly granted in this Agreement.
+7. CONFIDENTIALITY AND SECURITY.
+7.1.
+Confidentiality Obligations . During the Term and for a period of five (5) years after expiration or termination of this Agreement, neither party shall make the others Confidential Information available to any third party or use the others Confidential Information for any purposes other than exercising its rights and performing its obligations under this Agreement. Neither party shall disclose Confidential Information except to such partys advisors, accountants, attorneys, investors (and prospective investors), and prospective acquirers that have a reasonable need to know such information, provided that any such third parties shall, before they may access such information, either (a) execute a binding agreement to keep such information confidential or (b) be subject to a professional obligation to maintain the confidentiality of such information. Each party shall take all reasonable steps to ensure that the others Confidential Information is not disclosed or distributed by its employees or agents in violation of the terms of this Agreement, but in no event will either party use less effort to protect the Confidential Information of the other party than it uses to protect its own Confidential Information of like importance. Each party will ensure that any agents or subcontractors that are permitted to access any of the others Confidential Information are legally bound to comply with the obligations set forth herein. Notwithstanding the foregoing, Confidential Information may be disclosed as required by any governmental agency, provided that before disclosing such information the disclosing party must provide (to the extent permitted by applicable law) the non-disclosing party with sufficient advance notice of the agencys request for the information to enable the non-disclosing party to exercise any rights it may have to challenge or limit the agencys authority to receive such Confidential Information.
+7.2.
+Security Obligations . TripActions shall (i) maintain appropriate information security practices for TripActions systems used to provide Subscription Services, including reasonable security procedures and practices appropriate to the nature of the information, to prevent unauthorized access to, or use or disclosure of, any Customer Data (a Security Incident), and (ii) comply with all privacy and data security laws and regulations applicable to TripActions. TripActions shall promptly notify Customer of any confirmed Security Incident that has impacted Customer Data, investigate, and remediate any such Security Incident. For Security Incidents arising out of TripActions negligence or failure to apply commercially reasonable security practices, TripActions shall be responsible for (i) costs of government or regulatory fines, and (ii) if Customer reasonably determines that it is required by applicable law to provide notice and/or credit monitoring or identity protection to any Authorized User and/or to provide notice to any governmental entity, costs associated with any such notices or identity protection (collectively, Breach Costs). TripActions shall have no responsibility to pay costs related to a Security Incident to the extent such costs are due to gross negligence, willful misconduct, or fraud by Customer or its Authorized Users. TripActions liability for Breach Costs shall not be limited by Sections 11.1 or 11.2.
+8. WARRANTY AND DISCLAIMER
+8.1.
+Warranty for Subscription Services . TripActions warrants that the Subscription Services will substantially conform to the functionality set forth herein, and that the Implementation Services and Subscription Services shall be provided in a professional and workmanlike manner, in compliance with all applicable laws.
+8.2.
+Customer Use and Data . TripActions shall have no liability for any claims, losses, or damage caused by errors or omissions in any information provided to TripActions by Customer or by any Authorized User in connection with the Subscription Services. Except as otherwise set forth herein, TripActions expressly disclaims any and all liability in connection with Customer Data. TripActions is under no obligation to edit or control Customer Data that Customer imports to or the Subscription Services. TripActions may, at any time without prior notice, remove any Customer Data that violates this Agreement or applicable law, or which violates the rights of a third party or TripActions. TripActions shall have no liability for any acts taken by Customer or an Authorized User in violation of the Acceptable Use Policies described in Section 3.3, including but not limited to an Authorized Users misuse of Customers corporate credit card or violation of Customers travel and expense policies.
+8.3.
+Third Party Services . TripActions does not guarantee the accuracy of the information and description of the Travel Services displayed on the Subscription Services (including, without limitation, the pricing, photographs, list of hotel amenities, general product descriptions, etc.). TripActions disclaims any and all liability for any errors or other inaccuracies relating to the Travel Services except to the extent such errors are caused by or introduced by an act of TripActions. TripActions expressly reserves the right to correct any pricing errors on the Subscription Services and/or pending reservations made under an incorrect price.
+8.4.
+Algorithm . The Subscription Services make use of certain proprietary algorithms (collectively, the Algorithm) that take into account factors such as Customer policy, Authorized User profiles and behavior, current market conditions, and other relevant factors to determine dynamic travel policy limits, market price, Price to Beat, Rewards availability and amounts, sorting of Travel Services results, availability of special products and discounts, or other features. The Algorithm does not determine or affect the price of any Travel Services. Customer acknowledges that the Algorithm is a dynamic feature of the Subscription Services and may display different results in connection with different Authorized Users, locations, travel dates, and other search and profile elements.
+8.5.
+Travel Risk . By offering reservations for Travel Services via the Subscription Services, in particular for international destinations, TripActions does not represent or warrant that travel to such areas is advisable or without risk, and is not liable for damages or losses that may result from travel to such destinations. The Travel Service Providers are independent contractors and not agents, subcontractors, or employees of TripActions. TripActions disclaims all liability relating to the actions or inactions of Travel Service Providers or to any Travel Services, including any actions or inactions that result in any personal injuries, death, property damage, or other damages to Customer or an Authorized User. TripActions has no liability to Customer or its Authorized Users and will make no refund in the event of any delay, cancellation, overbooking, strike, force majeure or other causes beyond TripActions control.
+8.6.
+General Disclaimer . Except as expressly provided in Section 8.1, TripActions makes no representations or warranties of any kind whatsoever, express or implied, in connection with this Agreement, the Implementation Services, or the Subscription Services. Without limiting the foregoing, except as expressly provided in Section 8.1, TripActions disclaims any warranty that the Subscription Services will be error free or uninterrupted or that all errors will be corrected. TripActions further disclaims any and all warranties with respect to the Subscription Services as to merchantability, accuracy of any information provided, or fitness for a particular purpose, or non-infringement. TripActions further disclaims any and all warranties arising from course of dealing or usage of trade. No advice or information, including but not limited to tax advice and reporting responsibilities, whether oral or written, obtained from TripActions or elsewhere shall create any warranty not expressly stated in this Agreement. In jurisdictions that by law do not allow the exclusion of certain warranties in certain circumstances, the disclaimers in this Section 8.6 and elsewhere in this Agreement shall be construed to comply with such applicable law.
+9. TERM AND TERMINATION
+9.1.
+Term . The term of the Subscription Services shall be as set forth in the applicable Service Order (Term). This Agreement shall commence on the date set forth in the Service Order (or, if no Service Order is in place, then on the date Customer commences using the Subscription Services), and shall continue until such time as Customer cancels the Employer Account, unless terminated earlier as provided in this Agreement. Commencement of the Subscription Services shall be determined by the Parties and included in the applicable Service Order. Except as otherwise specified in the applicable Service Order, the Term shall automatically renew for additional periods equal to the expiring Term unless either party gives the other notice of non-renewal at least thirty (30) days before the end of the expiring Term.
+9.2.
+Termination for Convenience . At any time, Customer may terminate this Agreement, effective immediately, by cancelling their Employer Account. Customer may, in its sole discretion, elect to offer TripActions advance notice of any such termination, and if so, TripActions will reasonably cooperate with Customer, in a wind-down of services prior to such termination. Unless otherwise stated in the applicable Service Order, Customer shall not be entitled to a refund of any prepaid Fees as a result of Customers termination for convenience. In no event shall any termination relieve Customer of the obligation to pay any undisputed Fees payable to TripActions for the period prior to the effective date of termination or cancellation.
+9.3.
+Termination for Breach . If either Party commits a material breach of its obligations in this Agreement or any Service Order (including payment obligations), the non-defaulting Party may give written notice to the defaulting Party specifying the nature of the default, and if such default is not remedied, or substantial efforts are not made to remedy such default, within thirty (30) days from the receipt of such notice, then the non-defaulting Party shall have the right to immediately terminate this Agreement or the Service Order by written notice. If the breach relates solely to one Service Order, then only such Service Order may be terminated in accordance with the terms herein and the other Service Orders and this Agreement shall continue in full force and effect. In the event that Customer terminates due to breach by TripActions, Customer shall be entitled to a pro-rated refund of unused, prepaid Fees as of the date of termination.
+9.4.
+Termination for Insolvency . Notwithstanding anything hereinabove set forth, either Party may terminate this Agreement immediately by providing written notice to the other Party in the event the other Party becomes insolvent, makes an assignment for the benefit of creditors, ceases to do business, or if any bankruptcy, reorganization, arrangement, insolvency, liquidation proceeding, or other proceeding under any bankruptcy or other law for the relief of debtors is instituted by or against such Party.
+9.5.
+Rights and Obligations Upon Expiration or Termination . Upon expiration or termination of this Agreement, (i) Customers and Authorized Users right to access and use the Subscription Services shall immediately terminate, (ii) Customer and its Authorized Users shall immediately cease all use of the Subscription Services, (iii) TripActions shall cease use of the Customer Marks within a reasonable time, and (iv) each party shall delete or return, and make no further use of, any Confidential Information, materials, or other items (and all copies thereof) belonging to the other party.
+9.6.
+Survival . Upon termination, any provision which, by its nature or express terms should survive, will survive, including, specifically, Sections 6 (Ownership), 7 (Confidentiality and Security), 10 (Indemnification), 11 (Limitation of Liability), 12 (Disputes), 13 (General).
+10. INDEMNIFICATION
+10.1
+Indemnification by Customer . Customer shall indemnify TripActions, its officers, directors and employees, from and against any liabilities, losses, damages and expenses, including court costs and reasonable attorneys fees, associated with any claim by a third party: (i) to the extent arising out of Customers or any Authorized Users use of the Subscription Services in a manner that violates Sections 3.2, 3.3, or 3.4; or (ii) alleging that any Customer Data, as used in the Subscription Services, violates a third partys privacy rights (except to the extent such damages are caused by TripActions failure to guard the privacy and security of Customer Data). Customers obligations under this Section 10.1 are contingent upon TripActions providing Customer with prompt written notice of such claim. TripActions may not settle any claim to which it is seeking or is entitled to indemnification in a manner that would result in an admission of any wrongdoing by Customer, without Customers prior written approval.
+10.2
+Indemnification by TripActions . TripActions shall indemnify Customer, its officers, directors, and employees, from and against any liabilities, losses, damages and expenses, including court costs and reasonable attorneys fees, associated with any third partys claim that: (i) the Subscription Services or Customers authorized use of Subscription Services infringes or misappropriates the Intellectual Property Rights of any third party; or (ii) arises out of TripActions violation of applicable law. TripActions obligations under this Section 10.2 are contingent upon: (a) Customer providing TripActions with prompt written notice of such claim; (b) Customer providing reasonable cooperation to TripActions, at TripActions expense, in the defense and settlement of such claim; and (c) TripActions having sole authority to defend or settle such claim. With respect to claims described in subsection (i) herein, in the event that TripActions right to provide the Subscription Services is enjoined or in TripActions reasonable opinion is likely to be enjoined, TripActions may obtain the right to continue providing the Subscription Services, replace or modify the Subscription Services so that they become non-infringing, or, if such remedies are not reasonably available, terminate this Agreement without liability to Customer and provide a pro rata refund of any Fees prepaid and unused upon such termination. The foregoing states the entire obligation of TripActions and its licensors with respect to any alleged or actual infringement or misappropriation of intellectual property rights by the Subscription Services. TripActions shall have no liability under this Section 10.2 to the extent that any claims described herein are based on use of the Subscription Services in a manner that violates this Agreement or the instructions given to Customer by TripActions.
+11. LIMITATION OF LIABILITY
+11.1
+Consequential Damages Waiver . Except for liabilities arising from Section 10 (Indemnification), in no event shall either party be liable to the other party for an incidental, special, exemplary or consequential damages, including loss of income, data, profits, revenue or business interruption, or cost of substitute services, or other economic loss, whether or not such party has been advised of the possibility of such damages, and whether any claim for recovery is based on theories of contract, warranty, tort (including negligence and strict liability) or otherwise.
+11.2
+Liability Cap . Except as provided in Section 11.3 below, in no event shall either partys aggregate liability to the other party in connection with this Agreement exceed the total Fees paid or payable by Customer in the twelve month period preceding the claim or action, regardless of the form or theory of the claim or action.
+11.3
+Exceptions . Sections 11.1 and 11.2 shall not apply to TripActions obligation to pay Breach Costs (as defined in Section 7.2) or to either partys indemnification obligations as provided in Section 10.
+12. DISPUTES
+12.1
+Informal Resolution . Before filing a claim, each party agrees to try to resolve the dispute by contacting the other party through reasonable means and providing notice of the dispute. Both parties will use good faith efforts to attempt to reach a resolution. If a dispute is not resolved within thirty (30) days of notice, either party may bring a formal proceeding.
+12.2
+Agreement to Arbitrate . TripActions and customer agree to resolve any claims relating to this Agreement through final and binding arbitration, except as set forth below. The American Arbitration Association (AAA) will administer the arbitration under its Commercial Arbitration Rules. The arbitration will be held in San Francisco, CA or any other location mutually agreeable to the parties.
+12.3
+Exceptions . Either party may bring a lawsuit in the state or federal courts located in Santa Clara County, California (i) to enforce the arbitration provisions of this Agreement, or (ii) for equitable relief as described in Section 13.12. TripActions and Customer hereby consent to exclusive jurisdiction in such courts.
+13. GENERAL
+13.1
+Governing Law . This Agreement and all matters arising out of or relating to this Agreement shall be governed by the laws of the State of California, without regard to its conflict of law provisions.
+13.2
+Waiver . The waiver by either party of any default or breach of this Agreement shall not constitute a waiver of any other or subsequent default or breach.
+13.3
+Notices . Any notices provided by TripActions under this Agreement, including those regarding modifications to this Agreement, will be given: (i) via email; or (ii) by posting to the Subscription Services. For notices by e-mail, the recipient shall be the e-mail address provided by Customer in the applicable Service Order, and the date of receipt will be the date on which such notice is transmitted.
+13.4
+Severability . If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+13.5
+Force Majeure . Neither party shall be liable hereunder by reason of any failure or delay in the performance of its obligations hereunder (except for the payment of money) on account of events beyond the reasonable control of such party, which may include without limitation denial-of-service attacks, strikes (except by its own employees), shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, terrorism, governmental action, labor conditions, earthquakes and material shortages (each a  Force Majeure Event ). Upon the occurrence of a Force Majeure Event, the non-performing party will be excused from any further performance of its obligations effected by the Force Majeure Event for so long as the event continues and such party continues to use commercially reasonable efforts to resume performance.
+13.6
+Compliance with Laws . Each party agrees to comply with all applicable laws, including U.S. export laws, and regulations with respect to its activities hereunder.
+13.7
+Relationship Between the Parties . Nothing in this Agreement shall be construed to create a partnership, joint venture or agency relationship between the parties. Neither party will have the power to bind the other or to incur obligations on the others behalf without such other partys prior written consent.
+13.8
+Assignment/Successors . Neither party may assign or transfer this Agreement, in whole or in part, without the other partys prior written consent except to its Affiliate or in the event of a Change of Control (as defined below). Any attempted assignment or transfer in violation of this Section will be null and void.  Change of Control  means, with respect to a party: (a) the direct or indirect acquisition of either (i) the majority of voting stock of such party or (ii) all or substantially all of the assets of such party, by another entity in a single transaction or a series of transactions; or (b) the merger of such party with another entity. Subject to the foregoing, this Agreement shall inure to the benefit of the successors and permitted assigns.
+13.9
+Feedback . If Customer or its Authorized Users submit suggestions, ideas, comments, or questions containing product feedback about or posted through the Subscription Services(Feedback), Customer grants TripActions and its Affiliates a worldwide, non-exclusive, royalty-free, perpetual, and irrevocable right to use (and full right to sublicense), reproduce, modify, adapt, publish, translate, create derivative works from, distribute, transmit, and display such Feedback in any form. Customer shall have no intellectual property right in the Subscription Services as a result of TripActions incorporation of Feedback into the Subscription Services.
+13.10
+Changes . TripActions reserves the right to, without materially affecting the functionality of the Subscription Services: (1) discontinue, impose limits on, or restrict access to any aspect of the Subscription Services at any time, with or without cause or notice, including the availability of any of the features, delivery services, databases, or content, or (2) edit or delete any documents, information, or other content appearing in the Subscription Services. In the event that changes permitted by this Section 13.10 materially impact the features available to Customer and its Authorized Users for a substantial period of time, Customer may terminate this Agreement without penalty (and shall be entitled to receive a prorated refund of any unused prepaid Fees) after providing thirty (30) days prior notice to TripActions.
+13.11
+Entire Agreement . This Agreement, together with the exhibits hereto and including any Service Orders, constitutes the complete and exclusive agreement between the parties concerning its subject matter and supersedes all prior or contemporaneous agreements or understandings, written or oral, concerning the subject matter of this Agreement.
+13.12
+Equitable Relief . Each party acknowledges that a breach by the other party of any confidentiality or proprietary rights provision of this Agreement may cause the non-breaching party irreparable damage, for which the award of damages would not be adequate compensation. Consequently, the non-breaching party may institute an action to enjoin the breaching party from any and all acts in violation of those provisions, which remedy shall be cumulative and not exclusive, and a party may seek the entry of an injunction enjoining any breach or threatened breach of those provisions, in addition to any other relief to which the non-breaching party may be entitled at law or in equity.
+13.13
+No Third-Party Beneficiaries . This Agreement is for the sole benefit of the signatories and is not intended to benefit any third party. Only the parties may enforce this Agreement.
+See TripActions in action
+I consent to receiving emails about TripActions' products and special offers.
+View a Demo
+Already have an account?
+Sign In.
+View a Demo
+Already have an account?
+Sign In.
+Request a Demo
+close
+Contact us to learn more about TripActions.
+I consent to receiving emails about TripActions' products and special offers.
+View a Demo
+Product
+Open Menu
+Close Menu
+Why TripActions
+How It Works
+Trust & Transparency
+TripActions Reviews
+Customer Referral
+Business Travel Definitions
+Company
+Open Menu
+Close Menu
+About Us
+Customers
+Partners
+Contact Us
+Press Room
+Community
+Popular Topics
+Open Menu
+Close Menu
+Business Continuity
+Business Travel Agency
+Business Travel Safety
+Business Traveler
+Corporate Travel
+Corporate Travel Policy
+Corporate Travel Solution
+Duty of Care
+Risk Management
+Travel Management
+Travel Software
+Travel Costs
+Change region
+Australia/New Zealand
+France
+Germany
+Israel
+United Kingdom
+United States
+icon-facebook
+Created with Sketch.
+icon-twitter
+Created with Sketch.
+icon-linkedIn
+Created with Sketch.
+icon-instagram
+Created with Sketch.
+icon-youtube
+Created with Sketch.
+App Store Badge
+Created with Sketch.
+Google Play Badge
+Created with Sketch.
+Terms of Service
+Privacy Policy
+Security Policy
+©
+2020
+TripActions

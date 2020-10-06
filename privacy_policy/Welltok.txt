@@ -1,0 +1,334 @@
+Privacy Policy - Welltok l Consumer Health Activation
+About
+Leadership
+Partners
+Careers
+Locations
+Solutions
+COVID-19
+Gap Closure
+Health System Growth
+Medication Adherence
+Retention
+Total Wellbeing
+Resources
+Press Releases
+Content
+Headlines
+Blog
+About
+Leadership
+Partners
+Careers
+Locations
+Solutions
+COVID-19
+Gap Closure
+Health System Growth
+Medication Adherence
+Retention
+Total Wellbeing
+Resources
+Press Releases
+Content
+Headlines
+Blog
+Privacy Policy - Welltok l Consumer Health Activation
+8769
+page-template,page-template-full_width,page-template-full_width-php,page,page-id-8769,stockholm-core-1.2.1,ajax_fade,page_not_loaded,,select-theme-ver-4.4.1,smooth_scroll,wpb-js-composer js-comp-ver-6.2.0,vc_responsive
+Privacy Policy
+Effective: November 1, 2019
+Protecting your personal data is important to Welltok and its subsidiaries (collectively, Welltok or we). For more information about our subsidiaries, please see How We Share Personal Information. When you use any of our websites or mobile applications (the Platform), we may collect information about you, including information that can be used to identify you (Personal Information). Additionally, we may collect Personal Information from your health plan, your employers self-funded health plan, your employer, a health service provider, your pharmacy and/or other similar types of entities (your Sponsor) or from other third parties described in this Privacy Notice. In some cases, the Personal Information we collect may include Protected Health Information (PHI) as defined under the Health Insurance Portability and Accountability Act (HIPAA), which is a regulated subset of Personal Information. We collect this data to provide you with the services and functionality that you request (the Services), as well as for the other purposes described in this Privacy Notice.
+This Privacy Notice is intended to help you understand: (A) what Personal Information we collect, how we collect it, how we use it, and how we share it, (B) the choices you have related to your Personal Information, and (C) how we protect your Personal Information, when you use the Services. Please take a moment to review the terms of this Privacy Notice, which is incorporated into the
+Terms of Use
+governing your use of the Services. By accessing the Platform or using the Services, you expressly agree that we may collect, process, and share your information (including Personal Information) consistent with this Privacy Notice and to the Terms of Use.
+If you are a resident of California, please see our
+Supplemental Privacy Notice for California Residents , which provides additional information and disclosures.
+1. Information About Our Services
+The Services may be offered to you through your Sponsor.
+The Services may allow you to connect to independent third parties that offer programs, resources, content, activities and/or services in categories such as health and wellbeing, condition management, benefits, financial health, etc. (each a Connect Partner). For example, a Connect Partner may help facilitate biometric screenings or provide you with nutrition planning assistance. These Connect Partners are separate and distinct entities from Welltok, but we may exchange Personal Information with them as described in this Privacy Notice. If you agree to accept the services offered by a Connect Partner, such agreement is solely between you and the Connect Partner, and any information you provide to or that is collected by a Connect Partner is subject to that Connect Partners Privacy Notice. We are not responsible for the privacy practices or services of the Connect Partner.
+2. Information We Collect
+When you interact with our Platform or use the Services, we may collect the following types of information.
+A. Personal Information
+We may collect Personal Information including, but not limited to, the following categories:
+Name;
+Date of Birth;
+Email Address;
+Home Address;
+Business Address;
+Phone Number;
+Social Security Number;
+Other Identification Numbers (e.g. state-issued identification number, member number, or employee number);
+Geolocation Data; and
+Biometric Information.
+B. Other Health Information
+We also collect Personal Information specifically related to your health including, but not limited to, the following categories:
+Physical Activity and Movement Data;
+Health Risk Assessments;
+Lab Scores;
+Data Related to Managed Health Programs;
+Medications and Prescriptions;
+Cognitive Assessment Data;
+Health Conditions or Diseases;
+Health Plan Information;
+Insurance Information; and
+Eating Habits and Nutrition.
+C. Protected Health Information
+We may receive Personal Information from the Sponsor that qualifies as PHI, including claims information, lab and biometric information, electronic medical records/electronic health records, and program activity. We limit our use of such information to restrictions imposed by each Sponsor and HIPAA. For more details about the PHI that is provided to us, please review your Sponsors Notice of Privacy Practices or related disclosures.
+D. Usage Information
+We may collect certain information automatically when you visit the Platform (Usage Information), including:
+Your browser type and operating system;
+Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+Geolocation information;
+Other unique identifiers, including mobile device identification numbers;
+Sites you visited before and after visiting the Platform;
+Pages you view and links you click on within the Platform;
+Information collected through cookies, web beacons, and other technologies;
+Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded; and
+Standard Server Log Information.
+Except to the extent required by applicable law, we do consider Usage Information to be Personal Information. However, Usage Information may be combined with your Personal Information. To the extent that we combine Usage Information with your Personal Information, we will treat the combined information as Personal Information under this Privacy Notice.
+3. How We Collect Information
+We may collect Personal information in the following ways:
+A. From Sponsors
+We may receive Personal Information from your Sponsor such as your name, contact information (e.g. email address, home and business addresses and phone number), identification number (e.g., member, employee and social security number), gender, birthdate, etc. We may also receive Personal Information from your Sponsor that qualifies as PHI under HIPAA, including claims information, lab and biometric information, electronic medical record/electronic health record and program activity.
+B. From You
+We may receive Personal Information directly from you such as your name, contact information (e.g., email address, home and business addresses, and phone number), identification number (e.g., member, employee, and social security number), gender, birthdate. You may also choose to provide Personal Information regarding your health and personal interests when you participate in various activities (e.g. health assessments, action cards, challenges or contests, message boards, and engaging with a coach). Additionally, you may be required to provide Personal Information when submitting inquiries to us through the chat functionality, email or otherwise contacting us.
+C. From a Connect Partner
+We may receive Personal Information from a Connect Partner such as your participation and completion of an activity. We may also receive health, clinical and fitness (e.g., program activity, biometric information, and health assessment) information from the Connect Partner.
+D. Through a Health or Fitness Device or Application
+If you are a Platform user, you may choose to send Personal Information to Welltok from a health or fitness device or application. The Personal Information Welltok receives varies by device/application and device/application vendor (e.g., connecting a fitness watch may result in Welltok receiving your daily step count, your heart rate, your activity for the day, etc.). You should review the documentation for your device/application and any permissions it requests prior to connecting the device/application to the Services. To disconnect a device/application and stop providing related Personal Information you may modify your account settings on the Platform or changing the settings on your device/application.
+E. Through Other Technology
+Welltok and third parties that we work with may use automated means to collect Usage Information about you, your computer or other device that you used to access the Platform and Services. These automated means include technologies such as cookies, web beacons, and similar technologies. These technologies help us analyze trends, administer the Services, track your movements around the Platform, gather demographic information about our user base, and otherwise provide you with relevant content. We may receive reports on individuals as well as aggregated basis through our use of these technologies and any third-party service providers acting on our behalf.
+i. Cookies and Tokens
+Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Our Services may use HTTP cookies, HTML5 cookies, Flash cookies and other types of local storage (such as browser-based or plugin-based local storage). Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the  Adobe Flash Website Storage Settings Manager . Please note, however, that without cookies you may not be able to use all of the features of our Services.
+Our cookies, tokens and similar technologies (collectively, Tracking Technologies) also are used for administering the Services, including without limitation, for authentication, to remember your settings, to customize the content and layout of the Services for you, to contact you about the Services, and to improve our internal operations and the content of our Services. To learn more about cookies and similar tracking technologies, and how they can affect your privacy, visit
+allaboutcookies.org .
+You may be able to control the use of, or reject or disable, some Tracking Technologies at the individual browser level. If you reject or disable Tracking Technologies, you may still use our Platform and Services, but your ability to use some features may be limited. We use Tracking Technologies to identify your device and keep track of your Internet session with our Services. We also use Tracking Technologies that allow us to recognize your device when you return to the Platform within a certain period of time (as determined by us in our sole discretion) and automatically log you back into your account with us.
+ii. Pixels/Web Beacons
+To control which servers collect information by automated means, we may place tags on our Platform called web beacons. Web beacons (sometimes called transparent GIFs, clear GIFs, or web bugs) are small strings of code that provide a way for us to deliver a small graphic image (usually invisible) on a web page or in an email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page where the web beacon is placed. We also may include web beacons in e-mail messages to record whether an email has been opened or whether certain links in such email have been clicked.
+iii. Online Analytics
+We may use third-party analytics services, such as Google Analytics, to evaluate your use of the Site, compile reports on activity, collect demographic data, analyze performance metrics, and collect and evaluate other information related to the Platform. Google Analytics is a web analytics service provided by Google, Inc., (Google). Google Analytics places cookies on your computer to help the website analyze how users use the Site. The information generated by the cookie about your use of the Platform (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Googles behalf. Google will not associate your IP address with any other data held by Google. By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For more information regarding Google Analytics please visit Googles website, and pages that describe Google Analytics, such as
+www.google.com/analytics/learn/privacy.html .
+F. From Public Sources and Third Parties
+We also obtain Personal Information from public sources and records. We either gather this information ourselves or pay third parties to gather and compile for us. Additionally, we may pay third parties for datasets that contain Personal Information but are not publicly available.
+G. Through Just-in-Time Disclosures
+We may also provide just-in-time disclosures or additional information about our collection, use, and disclosure of Personal Information. These may supplement or clarify our privacy practices or may provide you with additional choices about how we process your Personal Information.
+4. How We Use Personal Information
+We may use information that we collect from you for the following purposes:
+A. Providing the Services to You
+We may use Personal Information that we collect through your use of the Platform and Services for numerous purposes, including to:
+Personalize the Services to you;
+Respond to or fulfill any of your requests;
+Administer and manage your account;
+Authenticate your identity;
+Identify you when you sign in;
+Provide you with content, including, without limitation, generating recommendations (such as recommended activities, services, benefits, or rewards), and processing your preferences and requests;
+Track your use of the Services and the progress in the activities in which you participate;
+Track and prove you with the rewards you earn;
+Administer newsletters and provide you with information about the Services and activities you have elected to participate in or that may be of interest to you;
+Administer any contest or promotions, including winner notification and prize delivery;
+Communicate with you and respond to your questions and requests; and
+Improve the Platform and Services.
+B. Providing the Services to Your Sponsor
+We use your Personal Information to provide the Services to your Sponsor, including but not limited to:
+Administering and managing your Sponsors wellness program;
+Providing you with other services on behalf of your Sponsor;
+Providing you with rewards and incentives that you have earned;
+Generating analytical reports; and
+Developing, enhancing, and promoting the Services.
+C. Data Aggregation
+Additionally, we may use your Personal Information to create aggregated data records (collectively Aggregated Data). Some of this Aggregate Data is anonymous and/or de-identified. We anonymized and de-identify data by removing information (including any contact information) that would allow the remaining data to be linked back to you. We may use the Aggregated Data for internal purposes, such as analyzing patterns and program usage to improve our services. Additionally, we may use Aggregated Data to analyze and understand demographic trends, user behavior patterns and preferences, and information that can help us enrich the content and quality of the Services.
+D. Compliance with Laws and Protection of Rights
+We may use your Personal Information as necessary to comply with any applicable laws. We may also use your Personal Information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of our Service; to enforce or apply our online Terms of Use or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+E. Analytics
+We use analytics, machine learning, and automated decision-making technologies (Analytics) to support our data processing activities. Our Analytics rely upon Personal Information that we collect from your Sponsor, from you through surveys, from public sources, and from third parties. Using this Personal Information, our Analytics power our Platform and allow us to tailor our Services to your needs and goals.
+We use Analytics to provide you with recommended activities or content. For example, we may use analytics to provide you with the following Services:
+Condition and disease management;
+Weight management;
+Nutrition management;
+Establishing wellness goals;
+Recognizing when you qualify for an award;
+Helping you take your medications as instructed; and
+Recommending you visit a doctor, get a screening, or take other affirmative actions.
+Additionally, we use Analytics to help your Sponsor better understand your health, provide tailored recommendations, and generally help you stay healthy. Every Sponsor uses our Analytics and the data they produce differently. However, it is typically for the purposes described in this Section, as well as:
+Determining when to contact you;
+Identifying your risk of developing a condition;
+Predicting the likelihood that you will enroll or engage with a program;
+Reducing disenrollment in your healthcare or wellness plan;
+Identifying what kind of communications are most effective;
+Informing program structure and product design; and
+Reduce costs.
+5. How We Share Personal Information
+We will only disclose Personal Information to the following entities:
+A. Within Welltok
+We may share Personal Information within the Welltok family of businesses, which include the following companies:
+IncentOne, Inc. (to facilitate our rewards program);
+Welltok Mindbloom, Inc. (to provide certain mobile and app-based Services);
+Predilytics, Inc. (to power our analytics);
+Silverlink Communications, LLC (to communicate with consumers);
+Welltok Acquisition, LLC (to provide interactive experiences);
+Welltok TTEC Communications LLC (to provide customer service);
+Tea Leaves Health, LLC, Wellpass, Inc. (to communicate with consumers); and
+and Voxiva, Inc. (to communicate with consumers)
+Each of these entities will use and share your Personal Information only as set forth in this Privacy Notice to provide you with access to the Platform and Services and in accordance with applicable law.
+B. With Your Sponsor
+We may provide your name, contact information and other Personal Information as part of our contract with your Sponsor and as required to verify and administer your participation in the Services or in a contest or other event sponsored by your Sponsor and for the Sponsor to manage, administer and evaluate its health and wellness programs. We may also provide Personal Information associated with the activities you have chosen to participate in, your progress and any rewards you may have earned. Some of the Personal Information provided to your Sponsor may include PHI, which will only be disclosed as permitted under HIPAA or with your consent.
+C. With a Connect Partner
+We may provide your name, contact information and the name of your Sponsor to allow you to register and receive the Connect Partners services. You may authorize us to share additional Personal Information, including PHI, with a Connect Partner. If you do so, you acknowledge and agree that we may transfer additional Personal Information to the Connect Partner so that the Connect Partner can provide you with the services that you request. Any information that you share with a Connect Partner is collected directly by such Connect Partner but may be shared with us.
+D. With a Third-Party Service Provider
+We may, without your consent, share Personal Information collected through our Service with third-party service providers who act for or on our behalf in providing the Service. These third-party service providers may need information about you to perform their functions. In cases of onward transfer of Personal Information of European Union or Swiss individuals received pursuant to the Privacy Shield (as defined below under the Privacy Shield section), Welltok is responsible for ensuring that third parties use, protect, share such Personal Information consistent with this Privacy Notice.
+E. Protected Health Information
+We may provide your PHI to a Sponsor, Connect Partner or third-party service provider as either a covered entity or a business associate. We will only disclose your PHI as allowed under HIPAA to provide you with the Services or with your express consent.
+F. Aggregated Data
+We may provide Aggregated Data to third parties including a Sponsor or a Connect Partner. We may make de-identified Aggregated Data public on our site. We do not limit a third partys use of de-identified Aggregate Data other than to require that they will not attempt to make the Aggregate Data personally identifiable by combining it with other data.
+G. Publicly
+You have the option to participate on public portions of our Platform (e.g. message boards, and community forums), you should have no expectation of privacy in the information you post to the public areas of the Service and your user name may be visible to others using the Service. You may also choose to participate in certain public contests and some of your Personal Information may be published on a winners page, newsletter or other announcement.
+H. Private Messaging
+You may choose to communicate with other users through the Services and those other users may be able to view certain Personal Information such as your user name and any other information you choose to share. If you send an email to a user or invite a non-user to join our Service, we will provide your name and your email address to the intended recipient. Please do not provide us with the email address or any Personal Information of another person unless that has person has expressly agreed that you may do so or if you are otherwise legally authorized to provide such Personal Information.
+I. Business Transfers
+In the event that we enter into, or intend to enter into, a transaction that alters the structure of our business, such as a reorganization, merger, sale, joint venture, assignment, transfer, change of control, or other disposition of all or any portion of our business, assets or stock, we may share Personal Information with third parties for the purpose of facilitating and completing the transaction. If such a transaction occurs, the successor organizations use of your Personal Information will still be subject to this Notice and the privacy preferences you have expressed to us.
+J. Compliance with Laws and Protection of Rights
+We may disclose your Personal Information to comply with laws, court orders or subpoenas. We may also disclose your Personal Information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of our Service; to enforce or apply our online
+Terms of Use
+or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others. We also may be required to disclose an individuals personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+6. Communications with You
+By registering for our Service, you consent to receive regular communications from us, as well as your Sponsor and any applicable Connect Partner. With your consent, we may communicate with you via email, mail, phone, text, or SMS message.
+A. Texting and SMS Messaging Policy
+You will have the option to opt-in to receive certain communications from Welltok through text or SMS messages. By providing your express consent to receive text or SMS messages from Welltok, you agree to our
+Terms of Use
+and acknowledge that you may receive alerts about your account, reminders to take certain actions, or details about new products and features.
+To stop receiving text or SMS messages, you may reply to any messages with STOP or email
+support@cafewell.com . If you are subscribed to receive several types or categories of messages, you may be required to opt-out of each type or category of message separately. Please note that we may not be able to process your request to opt out of receiving certain important messages about your account or related to your health or treatment. We may utilize software from third party contractors to facilitate our text or SMS communications.
+B. Promotional Emails
+We may send you promotional emails about our Platform, Services, or other materials that we believe may be of interest to you. If required by applicable law, we will obtain your consent before sending you marketing emails.
+C. Unsubscribing
+You may unsubscribe from communications from promotional communications by clicking the link at the bottom of any promotional email, through your preferences on the Platform, or by contacting us at
+support@cafewell.com . However, you may still receive communications about your account or from your Sponsor. Please contact your Sponsor or the Connect Partner for information on how to unsubscribe from their communications.
+7. Your Choices
+We respect your right to make choices about the ways we collect, use and share your Personal Information. Discussed above are choices you have about delivery of cookies to your computer through our Service. In addition, we will sometimes ask you to indicate your choices at the time we collect your Personal Information. For example, we may provide you with an opportunity to opt in or opt out of receiving certain communications from us. In addition, we include an unsubscribe link in electronic newsletters or promotional e-mails we send you, so that you can inform us if you no longer wish to receive such communications from us. When making a request under this section, we may ask you for additional information to verify your identity. We may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identity. We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law.
+You may exercise control over your Personal Data in the following ways:
+A. Previously Expressed Preferences
+When you first register to use the Platform, you may set certain preferences as to how we use your Personal Information and communicate with you. If you are a Platform user, you may change previously expressed preferences regarding how we use your Personal Information by visiting the Profile & Settings page once you are logged in or by contacting us at
+support@cafewell.com .
+B. Consent
+In order to register for and use our Platform, you expressly consent to our collection, use, and disclosure Personal Information consistent with this Privacy Notice. If you provide additional Personal Information while using our Platform and Services, you further consent that we may collect, use, and disclose this personal information consistent with this Privacy Notice.
+You may have the right to withdraw your consent by using the
+Individual Data Rights Request form . However, your withdrawal of your consent may restrict your ability to use the Platform and Services.
+C. Updating and Correcting
+If you are a Platform user, you have the ability to update or correct much of your Personal Information by visiting Profile & Settings page once you are logged. If you are unable to make the necessary updates or corrections there, please contact us using the
+Individual Data Rights Request form . For Personal Information we receive from a Sponsor or Connect Partner, you may need to contact them directly to update or correct your Personal Information.
+D. Your Postings
+You may have limited rights to edit or remove any content that you post, share or otherwise distribute on our Service that includes your Personal Information, depending on the specific portion of the Service on which it is posted. For example, a user will not have the ability to edit or delete information posted in a public forum. To request removal of information you have made available on the Platform, please contact us at
+support@cafewell.com . We will require: (i) a complete description of the content you would like removed, and (ii) the web address(es) of the content you would like removed. Please be aware that our fulfillment of this request does not ensure complete or comprehensive removal of the content or information you have posted on our Platform.
+Note:
+If you delete your content or remove your content from the view of others, such information may still be stored on other databases, specifically, including those kept for archival purposes. While we will do our best to honor your request to remove any of your User Content (as described in the
+Terms of Use ), any content that was previously shared with a sponsor or other third party at your consent will be subject to their own privacy policies and user agreements and cannot be deleted or removed by us. We will not endeavor to retrieve deleted content in order to erase it from our archives. Users should be aware that any user-generated content that you post may have been republished or distributed prior to deletion and may remain publicly available on another portion of the Service.
+8. EU-US Privacy Shield
+Welltok complies with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce (together the
+ Privacy Shield  ) regarding the collection, use, and retention of personal information transferred from European Union member countries and Switzerland to the United States, respectively. Welltok has certified that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Notice and the Privacy Shield principles, the Privacy Shield principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit
+https://www.privacyshield.gov/ .
+We will conduct regular compliance audits of our privacy practices to verify compliance with the Privacy Shield principles and this Notice. Any questions or concerns about our privacy practices should be sent to the address or email below. We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of personal information in accordance with the provisions of this Notice.
+The U.S. Department of Commerce has jurisdiction over Welltoks compliance with the Privacy Shield.  Welltok is also subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Welltok commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union and Swiss individuals with inquiries or complaints regarding this Notice should first contact us either at
+privacy@welltok.com
+or by writing to us at:
+Welltok
+1515 Arapahoe Street, Tower 3, Suite 700
+Denver, CO 80202
+Attn: Privacy Officer
+Welltok has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit
+www.bbb.org/EU-privacy-shield/for-eu-consumers/  for more information and to file a complaint. The services of the BBB EU PRIVACY SHIELD are provided at no cost to you. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+9. Notice to European Union Residents
+The following terms, obligations, and rights apply only to individuals residing in the European Union (EU) or Switzerland if and to the extent we make our Platform or Services available to those individuals.
+A. Legal Basis for Processing Information
+If you are located in the EU or Switzerland, we rely on several legal bases to process your Personal Information. These legal bases include where:
+The processing is necessary to perform our contractual obligations, such as to provide you with our services;
+You have given your prior consent, which you may withdraw at any time (such as for marketing purposes or other purposes we obtain your consent for from time to time);
+The processing is necessary to comply with a legal obligation, a court order or to exercise or defend legal claims;
+The processing is necessary for the purposes of our legitimate interests, such as in improving, personalizing, and developing our services, marketing new features or products that may be of interest, and promoting safety and security as described above.
+If you have any questions about, or would like further information concerning, the legal basis on which we collect and use your Personal Information, please contact us by emailing
+privacy@welltok.com .
+B. Rights Under the General Data Protection Regulation
+If you are located in the EU or Switzerland, you have the following rights in respect of your Personal Information that we hold:
+Right of access . The right to obtain access to your Personal Information.
+Right to rectification . The right to obtain rectification of your Personal Information without undue delay where that Personal Information is inaccurate or incomplete.
+Right to erasure . The right to obtain the erasure of your Personal Information without undue delay in certain circumstances, such as where the Personal Information is no longer necessary in relation to the purposes for which it was collected or processed.
+Right to restriction . The right to obtain the restriction of the processing undertaken by us on your Personal Information in certain circumstances, such as where the accuracy of the Personal Information is contested by you, for a period enabling us to verify the accuracy of that Personal Information.
+Right to portability . The right to portability allows you to move, copy, or transfer Personal Information easily from one organization to another.
+Right to object . You have a right to object to processing based on legitimate interests and direct marketing.
+If you wish to exercise one of these rights, please submit a request through using the
+Individual Data Rights Request
+form. Before acting on your request, we may request additional information to verify your identity. Please note that we may be legally or contractually prohibited from acting on your request. For example, if a statute requires that we retain elements of your Personal Information or if your Sponsor expressly requires that we obtain consent before deleting Personal Information that it has provided to us. If this is the case, we will respond to your request with an explanation and, if applicable, additional steps you can take.
+You also have the right to lodge a complaint to your local data protection authority. Further information about how to contact your local data protection authority is available at
+http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm .
+C. Obligations to Data Protection Authorities (DPAs)
+We will respond diligently and appropriately to requests from DPAs about this Policy or compliance with applicable data protection privacy laws and regulations. We will, upon request, provide DPAs with names and contact details of the individuals designated to handle this process. With regard to transfers of Personal Information, we will (i) cooperate with inquiries from the DPA responsible for the entity exporting the data, and (ii) respect its decisions, consistent with applicable law and due process rights. With regard to transfers of data to third parties, we will comply with DPAs decisions relating to it and cooperate with all DPAs in accordance with applicable legislation.
+D. Contacting Our Data Protection Officer
+To contact our designated Data Protection Officer, please send an email to
+privacy@welltok.com .
+10. Notice to California Residents
+A. Your California Privacy Rights
+We comply with the California Consumer Privacy Act (CCPA). If you are a resident of California, please see our
+Supplemental Privacy Notice for California Residents , which provides additional information and disclosures. The Supplemental Privacy Notice also describes several rights available to you, including:
+The right to access your Personal Information;
+The right to obtain your Personal Information in a portable format;
+The right to have your Personal Information deleted from our databases; and
+The right to refuse us the right to sell your Personal Information;
+If you would like to make any requests under the CCPA, please use our
+Individual Data Rights Request .
+B.   Your California Privacy Rights
+California law permits users of our Services who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please use our Individual Data Rights Request form or write to us at:
+Welltok, Inc.
+1515 Arapahoe Street, Tower 3, Suite 700
+Denver, CO 80202
+Attn: Privacy Officer
+privacy@welltok.com
+We will provide a list of the categories of Personal Information, if any, disclosed to third parties during the immediately preceding calendar year for third-party direct marketing purposes, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the email or postal address specified above. Please include California Privacy Rights in the subject line and in your request. You must provide us with specific information regarding yourself so that we can accurately respond to the request.
+B. Do Not Track Signals
+We do not recognize or respond to browser-initiated Do Not Track signals.
+11. Data Protection
+A. In General
+We maintain reasonable administrative, physical, and technological measures to protect the confidentiality, privacy and security of your Personal Information, based on the nature of the information provided. Unfortunately, no website, server or database is completely secure or hacker proof. We therefore cannot guarantee that Personal Information you provide will not be disclosed, misused or lost by accident or by the unauthorized acts of others.
+B. HIPAA
+Welltok is not a covered entity under HIPAA, but your Sponsor may be, and in those instances where we receive PHI from or on behalf of a covered entity we may be a business associate of the covered entity Sponsor. When we are a business associate and are handling your PHI, we will protect it in accordance with HIPAA and our business associate agreement with the covered entity. We protect all PHI in accordance with all applicable laws and the requirements imposed by your Sponsor.
+C. Retention
+We retain Personal Information after we cease providing Services to you for the purpose of fraud monitoring, detection and prevention. We also retain Personal Information to comply with our tax, accounting, and financial reporting obligations, where we are required to retain the data by our contractual commitments (e.g. with your Sponsor or a Connect Partner), and where data retention is otherwise mandated by law. Where we retain data, we do so in accordance with any limitation periods and records retention obligations that are imposed by applicable law. Please note that we may delete your Personal Information upon the request of your Sponsor or if we are otherwise contractually or legally obligated to do so.
+If you have consented to receive marketing materials from us, we will retain your Personal Information for as long as we have your consent to send you marketing materials. Additionally, we indefinitely retain data that is anonymized, de-identified, and/or aggregated in a manner that removes identifiable Personal Information from it.
+12. External Websites
+Our Platform or Services may contain links to other websites, including Sponsor sites and Connect Partner sites. Additionally, other users may post links or references to other websites. Please be aware that we are not responsible for the privacy practices of other websites, regardless of whether the link was provided by us or posted by a user on the Platform. Welltok does not monitor the content, safety or suitability of such external websites. As such, this Privacy Notice only applies to information collected by us on the Platform. We do not control and are not responsible for any use of your Personal Information by or through any third-party sites. By linking to an external website, you assume the risk that Personal Information you provide on that website may be viewed and or used by third parties. When visiting any website, it is in your best interest to review that sites privacy policies and terms of use before providing any Personal
+Information.
+13. Childrens Information
+You must be at least thirteen (13) years of age to access the Platform or Services. We do not knowingly request or collect Personal Information from any person under the age of 13. If a user submitting Personal Information is suspected of being younger than 13 years of age, we will require the user to close his or her account, and we will also take steps to delete the information as soon as possible. If you know of any individuals under the age of 13 using the Platform, please email us at
+privacy@welltok.com
+so we can take action to prevent such access.
+Even though we do not collect Personal Information from individuals under the age of 13, third parties may provide us with information about these individuals. For example, a Sponsor or the individuals parent or legal guardian may provide us with such Personal Information. In the event we receive Personal Information about individuals under the age of 13, we will process, store, and disclose it consistent with all applicable laws.
+14. Contact Welltok
+If you have any questions about this Notice or our privacy practices, please contact us either at
+privacy@welltok.com
+or by writing to us at:
+Welltok, Inc.
+1515 Arapahoe Street, Tower 3, Suite 700
+Denver, CO 80202
+Attn: Privacy Officer
+15. Updates
+We may add features and/or functionality to our Service or Platform which may involve collecting, using, or sharing Personal Information in new ways. To make you aware of these changes, we may update or revise this Privacy Notice. Accordingly, we reserve the right to update or modify this Privacy Notice at any time, without prior notice, by posting the revised version of this Privacy Notice on our Platform. Your continued use of our Platform or Service after we have posted the revised Notice constitutes your agreement to be bound by the revised Privacy Notice.
+Welltok is an award-winning consumer activation solution company that improves peoples total wellbeing. Only Welltok leverages proprietary data and advanced analytics to engage consumers in personalized and rewarding ways to drive action. Our solutions integrate data-driven SaaS software, curated resources and professional services to help health plans, self-funded employers and health systems support healthier, happier populations.
+Copyright © 2020 Welltok, Inc. All rights reserved.
+Welltok is an equal opportunity employer.
+Company
+About
+Careers
+COVID-19
+Gap Closure
+Health System Growth
+Medication Adherence
+Retention
+Total Wellbeing
+Resources
+Blog
+Resources
+Press Release
+Contact Us
+Legal
+Do Not Sell My
+Personal Information

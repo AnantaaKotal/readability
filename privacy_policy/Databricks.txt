@@ -1,0 +1,302 @@
+Privacy Policy - Databricks
+MENU MENU Platform
+Overview Unified Data Analytics Platform
+Data Science Workspace
+Collaborative Notebooks Machine Learning Runtime Managed MLflow
+Unified Data Service
+Delta Lake Databricks Runtime
+Enterprise Cloud Service
+Enterprise Security Simple Administration Production Ready Platform
+Pricing
+BY CLOUD ENVIRONMENT Azure
+Product News
+AWS
+Product News
+By Technology Apache Spark Delta Lake TensorFlow MLflow R
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Solutions
+By Use Case AutoML Cybersecurity Analytics Deep Learning Internet of Things GDPR Genomics Machine Learning & Graph Processing
+By Industry Advertising & Marketing Technology Enterprise Technology & Software Federal Government Financial Services Gaming Healthcare
+By Industry Cont. Life Sciences Media & Entertainment Oil and Gas Industry Retail & Consumer Packaged Goods
+Accelerate Discovery with Unified Data Analytics for Genomics
+LEARN MORE >
+Customers Learn
+DIVE IN Resources Documentation FAQ Forums Research
+PROFESSIONAL SERVICES
+Industry Best Practices Databricks Roadmap Access Advisory Services
+TRAINING & CERTIFICATION
+Welcome to Education Course Catalog Public Class Schedule Private Class Request FAQ - Frequently Asked Questions Education Policies
+Learn
+about Apache Spark, Delta Lake, MLflow, TensorFlow, deep learning, applying software engineering principles to data engineering and machine learning
+LEARN MORE >
+Partners
+FEATURED PARTNERS Microsoft AWS Tableau Informatica Talend
+PARTNERS Technology Consulting and System Integrator
+Events
+Spark + Ai Summit North America 2020 Europe 2019 Video Archive
+Other Events Upcoming Local Events Webinars Meetups Global Events
+Data + ML Spark + AI Summit Training
+Join us at Spark + AI Summit --- The Virtual Event for Data Teams
+NOW FREE
+Open Source
+Apache Spark What is Spark Comparing Spark & Databricks Use Cases Resources Meetups Technical Blogs
+Other Technologies Delta Lake MLflow TensorFlow Koalas
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Company
+Databricks About Us Careers at Databricks Leadership Board of Directors Newsroom Research
+Blogs All Posts Company Posts Engineering Posts
+Contact Contact Databricks
+Join us to help data teams
+solve the world's toughest problems
+SEE JOBS >
+Toggle Search
+Search
+Search
+EN
+FR
+DE
+JP
+Support
+Contact
+Log In
+Try Databricks
+Toggle navigation
+Search
+Search
+Free Trial
+Support
+Log In
+EN
+FR
+DE
+MENU MENU Platform
+Overview Unified Data Analytics Platform
+Data Science Workspace
+Collaborative Notebooks Machine Learning Runtime Managed MLflow
+Unified Data Service
+Delta Lake Databricks Runtime
+Enterprise Cloud Service
+Enterprise Security Simple Administration Production Ready Platform
+Pricing
+BY CLOUD ENVIRONMENT Azure
+Product News
+AWS
+Product News
+By Technology Apache Spark Delta Lake TensorFlow MLflow R
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Solutions
+By Use Case AutoML Cybersecurity Analytics Deep Learning Internet of Things GDPR Genomics Machine Learning & Graph Processing
+By Industry Advertising & Marketing Technology Enterprise Technology & Software Federal Government Financial Services Gaming Healthcare
+By Industry Cont. Life Sciences Media & Entertainment Oil and Gas Industry Retail & Consumer Packaged Goods
+Accelerate Discovery with Unified Data Analytics for Genomics
+LEARN MORE >
+Customers Learn
+DIVE IN Resources Documentation FAQ Forums Research
+PROFESSIONAL SERVICES
+Industry Best Practices Databricks Roadmap Access Advisory Services
+TRAINING & CERTIFICATION
+Welcome to Education Course Catalog Public Class Schedule Private Class Request FAQ - Frequently Asked Questions Education Policies
+Learn
+about Apache Spark, Delta Lake, MLflow, TensorFlow, deep learning, applying software engineering principles to data engineering and machine learning
+LEARN MORE >
+Partners
+FEATURED PARTNERS Microsoft AWS Tableau Informatica Talend
+PARTNERS Technology Consulting and System Integrator
+Events
+Spark + Ai Summit North America 2020 Europe 2019 Video Archive
+Other Events Upcoming Local Events Webinars Meetups Global Events
+Data + ML Spark + AI Summit Training
+Join us at Spark + AI Summit --- The Virtual Event for Data Teams
+NOW FREE
+Open Source
+Apache Spark What is Spark Comparing Spark & Databricks Use Cases Resources Meetups Technical Blogs
+Other Technologies Delta Lake MLflow TensorFlow Koalas
+The Open Source Delta Lake Project is now hosted by the Linux Foundation.
+LEARN MORE >
+Company
+Databricks About Us Careers at Databricks Leadership Board of Directors Newsroom Research
+Blogs All Posts Company Posts Engineering Posts
+Contact Contact Databricks
+Join us to help data teams
+solve the world's toughest problems
+SEE JOBS >
+Terms
+Databricks Terms of Service
+Services Addendum
+Website Terms of Use
+Community Edition Terms of Service
+Acceptable Use Policy
+Privacy
+Privacy Policy
+Cookie Policy
+Databricks Subprocessors
+Privacy FAQs
+Customer Data Processing Addendum
+Security
+Databricks Security
+GDPR
+Privacy Policy
+In this Privacy Policy, we, Databricks, Inc., describe the types of personal data (also known as personally identifiable information or personal information) we collect; how we use, process, or share that information; and what rights you have while we hold that information.
+What does it cover?
+This Privacy Policy covers your use of Databricks-branded publicly available websites, including sites located on
+databricks.com
+(other than *.cloud.databricks.com and
+help.databricks.com ), as well as
+spark-packages.org , and any other pages that link to this Privacy Policy (the Sites), as well as Account Information and Usage Data (each defined below). This Privacy Policy does not cover any other data submitted through or otherwise made available to the Databricks Platform Services (known as Databricks and Databricks Community Edition, each located at *.cloud.databricks.com, or the related website at
+help.databricks.com
+and platform support services, together the Platform Services), which are subject to the
+Databricks Terms of Service
+(or with respect to the Community Edition, the
+Community Edition Terms of Service ) or other written agreement in place between Databricks and our customers (Customers), or any other data collection and processing, including, without limitation, data that we collect offline.
+Customers are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements or other obligations relating to such Customers use or collection of personal data in connection with the use of our Platform Services by individuals with whom our Customers interact. If you are an individual who interacts with a Customer using our Platform Services or you otherwise believe that a Customer uses our Platform Services to process your personal data, and you contact us regarding this data, you will be directed to contact the applicable Customer for assistance with any requests or questions relating to your personal data, including without limitation any requests to access, amend or erase your personal data.
+What information do we collect and how?
+We collect information and data from you in two ways. First, we collect information you manually provide to us, including registration information like your name and email address. Second, we collect information automatically from your use of our Sites and Platform Services, including how and when our Sites and Platform Services are used.
+Information you submit or make available.
+If you create an account for our Platform Services or otherwise create an account through our Sites to utilize the forums or register for one of our events or training, we may ask, and in some cases require, you to enter certain personal data such as your name, email address, phone number, physical address, gender, job title, job role, company name, company size and other information relating to your proposed use of our products and services or our events and training. You will know which data categories you provide to us, because you will affirmatively enter and submit the data. Any such information you provide us in connection with the registration for our Platform Services is deemed Account Information.
+Databricks may receive information from third parties regarding the companies and users who use our Sites and Platform Services and may combine such information with the information we receive or collect from you.
+Information we collect about your use of our Sites.
+When you use our Sites, your device automatically generates and provides data to us. We collect and use such data to help us to understand how you are using our Sites, and how to better provide those Sites to you.
+When you use the Sites, we use standard automated data collection tools such as cookies, web beacons, tracking pixels and the like (Web Data). You can learn more about these terms and what types of data are collected, how it is used and why, as well as how to opt out of certain collection, by visiting our
+Cookie Policy . While the vast majority of Web Data is not personal data, some Web Data may include certain information which may be considered personal data depending on where you live, like a Users IP address. To the extent Web Data contains personal data, it will be treated as personal data under this Privacy Policy.
+Information we collect about your use of our Platform Services.
+When you use our Platform Services, information and data gets automatically generated and collected that can help us to understand how you are using our Platform Services, and how to better provide the Platform Services to you.
+When you use the Platform Services, we automatically record information about how our users (both account holders and other users on an account) (Users) use the Platform Services (Usage Data). Most Usage Data is not personal data, and includes information like browser type, operating system, the pages or features of our Platform Services accessed or used by User and the time spent on those pages or features, search terms entered into our Platform Services to browse the docs, commands executed when using our Platform Services, information about the types and size of files analyzed via the Platform Services, and other statistical information. Some Usage Data may include certain information which may be considered personal data depending on where you live, like a Users IP address. To the extent Usage Data contains personal data, it will be treated as personal data and is covered under this Privacy Policy.
+How do we use the information we collect from you?
+We may use your personal data for the following purposes:
+to provide, maintain, improve and update the Sites, the Platform Services, and our services;
+to develop new products and services;
+for billing, payment, or account management; for example, to identify your account and correctly identify your usage of our products and services;
+to investigate security issues, prevent fraud, or combat the illegal use of our products and services;
+to provide you with support and respond to your questions, comments, and requests, including to keep in contact with you regarding the products and services you use;
+to tailor and send you newsletters, emails and other content to promote our products and services (you can always unsubscribe from our marketing emails by clicking
+here );
+to generate and analyze statistical information about how our Sites and Platform Services are used in the aggregate;
+where Databricks otherwise has a legitimate interest or lawful business purposes;
+where required by applicable law, legal process, or government regulation; or
+where you have given consent.
+How do we share your information?
+We may share your personal data with third parties as follows:
+with our affiliates and subsidiaries;
+with businesses and service providers that help us conduct our business, subject to confidentiality obligations and the requirement that those businesses and service providers do not sell your personal data;
+to identify your public contributions; for example, if you post a package on spark-packages.org
+when necessary to deliver our products and services, such as with a payment card provider to process your credit card transaction;
+where you have instructed us to share your personal data, such as to provide you with support;
+when authorized by law or necessary to comply with a legal process;
+when required to protect and defend the rights or property of Databricks, our Customers, vendors or other users of our Sites, including the security of our Sites, products and services (including the Platform Services);
+when necessary to protect the personal safety, property or other rights of the public, Databricks or its customers or employees;
+where you have consented to the sharing of your information with third parties; or
+in connection with a sale or reorganization of all or part of our business.
+Databricks does not sell personal information of California consumers (as defined in the California Consumer Privacy Act (CCPA)) and we will not do so without offering you the right to opt out of any sale.
+What rights do you have over your information?
+We offer you choices regarding the collection, use and sharing of your personal data and we will respect the choices you make.
+Where you have consented to Databricks processing of your personal data, you may withdraw that consent at any time by contacting
+privacy@databricks.com
+with the subject Withdraw Consent. Please note that if you decide not to provide us with your personal data, you may not be able to access the Platform Services or certain features of the Sites.
+Opt Out of Certain Communications.
+We may periodically send you free communications that directly promote our products and services. When you receive such promotional or marketing communications from us, you will have the opportunity to opt out (either by following the unsubscribe instructions in the communication you receive or by clicking
+here ). We may also send you certain necessary communications regarding your use of our products or services and you may not be able to opt out of those communications; for example, we may need to send you communications regarding updates to our terms, this Privacy Policy, or relating to payment and billing.
+Rights of Access, Modification, Deletion and Restriction of Your Information.
+If you are located in certain parts of the world, including the European Economic Area, the United Kingdom, and certain other legal jurisdictions (for example California), you may have certain rights in relation to certain of your personal data. Those rights may include asking us to provide information (including categories of sources), access, export, modification, deletion, or to restrict processing of certain of your personal data. If you wish to exercise these rights:
+and you are an individual user of our Community Edition services, please contact us at
+ce-dsr@databricks.com
+with your request with the subject Community Edition Data Subject Request;
+and you are an individual user of a Customer account, please route your request through the appropriate Customer and ask that the administrator of the account send us an email at
+dsr@databricks.com
+with the subject Data Subject Request. Please note that we cannot process your request directly, as your information is controlled by that Subscriber, and we do not directly have a relationship with you;
+and you are a California consumer, please send us an email at
+california-dsr@databricks.com
+with the subject CCPA Rights Request;
+and you believe we have your personal data for some other reason, including if you registered for one of our events, please contact us at
+privacy@databricks.com
+with your request with the subject Other Personal Data Request and please provide as much information as you can regarding you request so we can properly resolve it.
+Databricks may take certain steps to verify requests submitted using information available to us, including your email address and any information associated with your account. Where allowed, we may ask you to provide your government identification to verify your account. Personal data you provide to us for verification will only be used to verify and maintain records regarding your request.
+We will endeavor to promptly respond to your request. Although Databricks makes good faith efforts to provide users of our Sites and Platform Services with access to their personal data, there may be circumstances in which Databricks is unable to provide access including but not limited to: where the information is legally privileged, would compromise the privacy or other legitimate rights of others, where the burden or expense of providing the information would be disproportionate to the risks to the Users privacy in the case in question, where the request is manifestly unfounded or excessive or where the information is proprietary. If you request deletion of your personal data, please note that we may continue to retain certain of your personal data in archived/backup copies for our records or as otherwise required or allowed by law.
+How long do we store your information?
+Databricks may retain the personal data we collect from you as described in this Privacy Policy for as long as you use our services or as necessary to fulfill the purpose(s) for which it was collected, provide our services, resolve disputes, establish legal defenses, conduct audits, pursue our legitimate interests, for our business or commercial purposes, enforce our agreements, and comply with applicable laws.
+What steps do we take to secure your Information?
+Databricks considers protecting the security of your data to be its number one responsibility.
+Databricks has received certification to the internationally recognized industry standard information security management system,
+ISO27001 , and aligns its security practices to the internationally recognized industry standard code of practice for protecting personal data in the cloud, ISO27018.
+Databricks encrypts communications you make with our Sites and the Platform Services, for example, entering your username and password or information into forms, using TLS (transport layer security) or other industry standard technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure or safe. Accordingly, we cannot guarantee the absolute security of any information.
+What about international data transfer?
+Databricks may transfer your personal data to countries other than the one from which you provide it to us. Specifically, if you are located outside the United States and provide your personal data to us, we may transfer your personal data to the United States and process it there, subject to the following safeguards:
+E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield . To comply with European Union and Swiss data protection laws, Databricks adheres to and has self-certified to the EUU.S. and Swiss-US Privacy Shield Frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Economic Area and Switzerland to the United States. Once the United Kingdom is no longer a Member State of the European Union, Databricks will comply with the E.U.-U.S. Privacy Shield in respect of the collection, use and retention of personal data transferred from the United Kingdom to the United States in reliance on the E.U.-U.S. Privacy Shield until such time as a successor framework or other transfer mechanism exists between the U.S. and the U.K.
+If you are a resident of the European Economic Area or Switzerland and feel that Databricks is not abiding by the terms of the Privacy Policy, or is not in compliance with the Privacy Shield Principles, please contact
+privacy@databricks.com
+with the subject Privacy Shield. Databricks will respond to any such requests within 45 days. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our US-based third party dispute resolution provider (free of charge) at
+https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim . If neither Databricks nor our dispute resolution provider resolves your complaint, you may have the possibility, under certain conditions, to invoke binding arbitration through the Privacy Shield Panel.
+Databricks commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+To learn more about the Privacy Shield program and to view our certification, please visit the U.S. Department of Commerces Privacy Shield website
+here .
+European Union Model Clauses. Databricks offers our Customers the ability to enter into a data processing addendum (DPA) that contains the European Economic Area Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our Customers with users located in the European Economic Area or are otherwise using Databricks to process any data originating from the European Economic Area. If you represent a Customer that you have determined is subject to the GDPR or other applicable data protection law and you do not yet have in place an updated data processing addendum (DPA) with us, please review and complete the instructions on our
+DPA .
+What about third party services?
+We may make available certain features and functionality that allow you to sign into our Sites using third party login credentials (such as LinkedIn, Facebook, Twitter and Google+ and others ) or access certain third-party services from our Platform Services (such as Github) (each such third party services, a Third Party Service). Any data you submit to any Third Party Services will be subject to the terms of service and privacy policy of such Third Party Service.
+We may also link to co-branded websites or products that are maintained by Databricks and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand. When you click a link to a third-party site, you will leave our site and we dont control or endorse anything on third-party sites.
+Do we collect childrens data?
+Databricks products and services are not directed to children under 18 years of age and Databricks does not knowingly collect personal data from children under 18 years of age. If we learn that we have collected any personal data from children under 18 years old, we will promptly take steps to delete such information.
+If you are aware that a child has submitted us such information, please contact us at
+privacy@databricks.com
+with the subject Child Data.
+How can we make changes to this Privacy Policy?
+Databricks may change this Privacy Policy from time to time by updating this site. If there are material changes to Privacy Policy that may impact your rights, Databricks will attempt to notify you by email or as otherwise required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you visit our Sites or use any of our products or services after such changes have been made.
+How can you contact us?
+Please contact us at
+privacy@databricks.com
+if you have any questions about our Privacy Policy.
+Effective Date :
+We last updated this Privacy Policy on January 1, 2020 (updated to comply with the California Consumer Privacy Act)
+Product
+Databricks
+Feature Comparison
+Pricing
+Security
+Documentation
+FAQ
+Forums
+Apache Spark
+About Apache Spark
+Certification
+Instructor-Led Apache Spark Training
+Community Events Guidelines
+Solutions
+Industries
+Data Science Teams
+Data Engineering Teams
+Use Cases
+Customers
+Global Services
+Professional Services
+Education Services
+Company
+About Us
+Leadership
+Board of Directors
+Partners
+Newsroom
+Careers at Databricks
+Contact Us
+Blog
+See All
+Company Blog
+Engineering Blog
+Resources
+Databricks Inc.
+160 Spear Street, 13th Floor
+San Francisco, CA 94105
+1-866-330-0121
+Contact Us
+Follow Databricks on Twitter
+Follow Databricks on LinkedIn
+Follow Databricks on Facebook
+Follow Databricks on YouTube
+Follow Databricks on Glassdoor
+Databricks Blog RSS feed
+© Databricks
+. All rights reserved. Apache, Apache Spark, Spark and the Spark logo are trademarks of the
+Apache Software Foundation . Privacy Policy
+ 
+Terms of Use

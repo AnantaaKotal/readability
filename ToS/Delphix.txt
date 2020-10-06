@@ -1,0 +1,174 @@
+Terms of Use   Delphix
+Skip to main content
+Language
+Language
+English
+German
+French
+Japanese
+Portuguese
+Partners
+Contact
+Support
+Login
+Vision
+Vision
+The Delphix Vision
+What is DataOps
+Product
+Product
+Delphix DataOps Platform
+Integrations
+DataOps Marketplace
+Capabilities
+Virtualization
+Data Masking
+Data Access & Control
+Solutions
+Solutions
+By Topic
+Cloud Migration
+CX Transformation
+Cloud Data Compliance
+GDPR
+Test Data Management
+By Technology
+AWS
+Azure
+Google Cloud Platform
+Oracle
+SQL Server
+IBM DB2
+SAP ASE
+SAP
+By Role
+Developers & Testers
+IT Operations
+Risk and Compliance
+By Industry
+Financial Services
+Healthcare
+Consumer Goods and Retail
+Telecom
+Insurance
+Resources
+Resources
+Customer Stories
+Webinars
+White Papers
+Solution Briefs
+Data Sheets
+Videos
+More.
+Support
+Support
+Community
+Support
+Documentation
+Knowledge Base
+Company
+Company
+About
+Leadership
+News
+Blogs
+Events
+Careers
+Diversity & Inclusion
+Language
+Language
+English
+German
+French
+Japanese
+Portuguese
+Partners
+Contact
+Support
+Login
+Get a Demo
+Company
+Terms of Use
+Last Updated: May 9, 2016
+Welcome, and thank you for your interest in Delphix Corp. (" Delphix ", " we ," or " us ") and our website at delphix.com and any subdomains related thereto (our " Site "). These Terms of Use, which incorporate our  Privacy Policy  (together, our " Terms "), are a legally binding contract between you and Delphix regarding your use of the Site.
+Overview . The Site provides a platform for the dissemination of information regarding (i) Delphix's products and services and the manner in which they may be used and (ii) Delphix and its operations.
+Prohibited Conduct . BY USING THE SITE YOU AGREE NOT TO:
+ use the Site for any illegal purpose, or in violation of any local, state, national, or international law;
+ conduct activities that may be harmful to others or that could damage Delphix's reputation;
+ violate, or encourage others to violate, the rights of third parties, including by infringing or misappropriating third party intellectual property rights;
+ sell or otherwise transfer the access granted herein or any Materials (as defined in Section 7 below) or any right or ability to view, access, or use any Materials;
+ interfere with security-related features of the Site, including without limitation by: (i) disabling or circumventing features that prevent or limit use or copying of any content; or (ii) reverse engineering or otherwise attempting to discover the source code of the Site or any part thereof except to the extent that such activity is expressly permitted by applicable law;
+ interfere with the operation of the Site or any user's enjoyment of the Site, including without limitation by: (i) uploading or otherwise disseminating any virus, adware, spyware, worm, or other malicious code; (ii) making unsolicited offers or advertisements to other users of the Site; (iii) attempting to collect, personal information about users or third parties without their consent; or (iv) interfering with or disrupting any networks, equipment, or servers connected to or used to provide the Site, or violating the regulations, policies, or procedures of such networks, equipment, or servers; or
+ attempt to do any of the foregoing in this Section 2, or assist or permit any persons in engaging or attempting to engage in any of the activities described in this Section 2.
+Third-Party Sites and Linked Websites . Delphix may provide tools through the Site that enable you to connect to third party websites, including our implementation of third party buttons (such as "like" or "share" buttons). By using these tools, you agree that we may transfer such information to the applicable third-party website. Such third party websites are not under our control, and we are not responsible for their use of your exported information. The Site may also contain links to third-party websites. Such linked websites are not under our control, and we are not responsible for their content. Please note that our Delphix Community website is hosted and operated by a third party and is subject to different  Terms of Service .
+Termination of Use; Discontinuation and Modification of the Site . If you violate any provision of these Terms, your permission to use the Site will terminate automatically. Additionally, Delphix, in its sole discretion may suspend or terminate your access to the Site at any time, with or without notice. We also reserve the right to modify or discontinue the Site at any time (including, without limitation, by limiting or discontinuing certain features of the Site) without notice to you. To the fullest extent permitted under applicable law, we will have no liability whatsoever on account of any change to the Site or any suspension or termination of your access to or use of the Site, to the fullest extent permitted under applicable law. The foregoing may not apply to personal information to which you may have access rights under applicable law and as described in the Privacy Policy.  You may terminate your account at any time by contacting customer Site at unsubscribe@delphix.com.
+Privacy Policy; Additional Terms
+
+Privacy Policy . Please read the Delphix Privacy Policy carefully for information relating to our collection, use, storage and disclosure of your personal information. The Delphix Privacy Policy is hereby incorporated by reference into, and made a part of, these Terms.
+
+Additional Terms . Your use of the Site is subject to any and all additional terms, policies, rules, or guidelines applicable to the Site or certain features of the Site that we may post on or link to on the Site (the " Additional Terms "), such as end-user license agreements for any downloadable applications that we may offer, or rules applicable to particular features or content on the Site, subject to Section 6 below. All such Additional Terms are hereby incorporated by reference into, and made a part of, these Terms.
+Changes to the Terms . We reserve the right, at our discretion, to change these Terms on a going-forward basis at any time. In the event that a change to these Terms materially modifies your rights or obligations, we will make reasonable efforts to notify you of such change and we may require you to provide consent by accepting the changed Terms. If we require your acceptance of the changed Terms, changes are effective only after your acceptance. If you do not accept the changed Terms, we may terminate your access to and use of the Site. All other changes are effective upon publication of the changed Terms.
+Ownership; Proprietary Rights . The Site is owned and operated by Delphix. The visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, Sites, and all other elements of the Site (the " Materials ") provided by Delphix are protected by all relevant intellectual property and proprietary rights and applicable laws. All Materials contained in the Site are the property of Delphix or our third-party licensors. Except as expressly authorized by Delphix, you may not make use of the Materials. Delphix reserves all rights to the Materials not granted expressly in these Terms.
+Feedback . If you choose to provide input or suggestions regarding problems with or proposed modifications or improvements to the Site (" Feedback "), then you hereby grant Delphix an unrestricted, perpetual, irrevocable, non-exclusive, fully-paid, royalty-free right to exploit the Feedback in any manner and for any purpose, including to improve the Site and create other products and Sites.
+Indemnity. To the fullest extent permitted under applicable law,  you agree that you will be responsible for your use of the Site, and you agree to defend, indemnify, and hold harmless Delphix and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (collectively, the " Delphix Entities ") from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with: (i) your access to, use of, or alleged use of the Site; (ii) your violation of these Terms or any representation, warranty, or agreements referenced herein, or any applicable law or regulation; (iii) your violation of any third-party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right; or (iv) any disputes or issues between you and any third party. To the fullest extent permitted under applicable law, we reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (and without limiting your indemnification obligations with respect to such matter), and in such case, you agree to cooperate with our defense of such claim.
+Disclaimers; No Warranties
+THE SITE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SITE ARE PROVIDED "AS IS" AND ON AN "AS AVAILABLE" BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED. THE DELPHIX ENTITIES SPECIFICALLY (BUT WITHOUT LIMITATION) DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SITE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SITE, INCLUDING BUT NOT LIMITED TO: (i) ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (ii) ANY WARRANTIES ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE DELPHIX ENTITIES DO NOT WARRANT THAT THE SITE OR ANY PART THEREOF, OR ANY MATERIALS OR CONTENT OFFERED THROUGH THE SITE, WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THE FOREGOING WILL BE CORRECTED.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE SITE OR ANY MATERIALS OR CONTENT AVAILABLE ON OR THROUGH THE SITE WILL CREATE ANY WARRANTY REGARDING ANY OF THE Delphix ENTITIES OR THE SITE THAT IS NOT EXPRESSLY STATED IN THESE TERMS. YOU ASSUME ALL RISK FOR ALL DAMAGES THAT MAY RESULT FROM YOUR USE OF OR ACCESS TO THE SITE, YOUR DEALINGS WITH OTHER SITE USERS, AND ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SITE. YOU UNDERSTAND AND AGREE THAT YOU USE THE SITE AND USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAIN MATERIALS OR CONTENT THROUGH THE SITE AND ANY ASSOCIATED SITES OR SITES AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM USED IN CONNECTION WITH THE SITE) OR LOSS OF DATA THAT RESULTS FROM THE USE OF THE SITE OR THE DOWNLOAD OR USE OF SUCH MATERIALS OR CONTENT.
+THE ABOVE PARAGRAPHS APPLY TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW. SOME JURISDICTIONS MAY PROHIBIT A DISCLAIMER OF WARRANTIES, IN PARTICULAR A DISCLAIMER OF WARRANTIES PROVIDED OR IMPLIED BY LAW, AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
+Limitation of Liability
+IN NO EVENT WILL THE DELPHIX ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SITE OR ANY MATERIALS OR CONTENT ON THE SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE OR ANY OTHER LEGAL THEORY, WHETHER OR NOT THE DELPHIX ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.
+YOU AGREE THAT THE AGGREGATE LIABILITY OF THE DELPHIX ENTITIES TO YOU FOR ANY AND ALL CLAIMS ARISING OUT OF RELATING TO THE USE OF OR ANY INABILITY TO USE THE SITE (INCLUDING ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SITE) OR OTHERWISE UNDER THESE TERMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO THE AMOUNTS, IF ANY, YOU HAVE PAID TO DELPHIX FOR ACCESS TO AND USE OF THE SITE IN THE 12 MONTHS PRIOR TO THE CLAIM.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES. ACCORDINGLY, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. Furthermore, nothing in these Terms limits or excludes any liability that cannot be limited or excluded by law, SUCH AS LIABILITY FOR INTENTIONAL VIOLATION OF THESE TERMS. NOTHING IN THESE TERMS AFFECTS YOUR LEGAL RIGHTS AS A CONSUMER.
+EACH PROVISION OF THESE TERMS THAT PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER OF WARRANTIES, OR EXCLUSION OF DAMAGES IS TO ALLOCATE THE RISKS UNDER THESE TERMS BETWEEN THE PARTIES. THIS ALLOCATION IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN THE PARTIES. EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THESE TERMS. THE LIMITATIONS IN THIS SECTION 11 WILL APPLY EVEN IF ANY LIMITED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+Governing Law . To the fullest extent permitted pursuant to applicable law, these Terms shall be governed by the laws of the State of California without regard to conflict of law principles. To the extent that any lawsuit or court proceeding is permitted hereunder, you and Delphix agree to submit to the personal and exclusive jurisdiction of the state courts and federal courts located within San Mateo County, California for the purpose of litigating all such disputes. If you are a consumer located in the EU, such jurisdiction of the San Mateo County courts will be non-exclusive. We operate the Site from our offices in California, and we make no representation that Materials included in the Site are appropriate or available for use in other locations.
+General.  These Terms, together with the Privacy Policy and any other agreements expressly incorporated by reference herein, constitute the entire and exclusive understanding and agreement between you and Delphix regarding your use of and access to the Site, and except as expressly permitted above may be amended only by a written agreement signed by authorized representatives of all parties to these Terms. You may not assign or transfer these Terms or your rights hereunder, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign these Terms at any time without notice, to the fullest extent permitted under applicable law. The failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor shall a waiver of any breach or default of these Terms or any provision of these Terms constitute a waiver of any subsequent breach or default or a waiver of the provision itself. Use of section headers in these Terms is for convenience only and shall not have any impact on the interpretation of particular provisions. In the event that any part of these Terms is held to be invalid or unenforceable, the unenforceable part shall be given effect to the greatest extent possible and the remaining parts will remain in full force and effect. Upon termination of these Terms, any provision that by its nature or express terms should survive will survive such termination or expiration, including, but not limited to, Sections 2, and 4 through 14.
+Consent to Electronic Communications . By using the Site, you consent to receiving certain electronic communications from us as further described in our Privacy Policy. Please read our Privacy Policy to learn more about your choices regarding our electronic communications practices. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing.
+Contact Information.  The Sites hereunder are offered by Delphix Corp., located at 1400A Seaport Blvd., Suite 200, Redwood City, CA 94063. You may contact us by sending correspondence to the foregoing address or by emailing us at privacy@delphix.com.
+If you access the Sites from the European Economic Area, you may contact Delphix Software Limited located at Carrick House, Lypiatt Road, Cheltenham, Gloucestershire GL50 2QJ, United Kingdom.
+Footer social
+Facebook
+Linkedin
+Twitter
+Product
+Delphix DataOps Platform
+DataOps Marketplace
+Virtualization
+Data Masking
+Data Access & Control
+Solutions
+CX Transformation
+Test Data Management
+Cloud Data Compliance
+GDPR
+Cloud Migration
+Healthcare
+Financial Services & Banking
+Consumer Goods and Retail
+Insurance
+Telecom
+Company
+About
+Vision
+Leadership
+News
+Blogs
+Careers
+Partners
+Resources
+Customer Stories
+Webinars
+White Papers
+Solutions Briefs
+Data Sheets
+Events
+Support
+Community
+Support
+Product Documentation
+Knowledge Base
+Footer menu
+Privacy Policy
+Terms of Use
+Legal
+Cookie Policy
+© 2020 Delphix

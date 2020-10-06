@@ -1,0 +1,179 @@
+Enterprise End User Agreement
+Platform
+App Threats Map
+Mobile Phishing Map
+See Our Platform
+arrow_forward
+Products
+Mobile Endpoint Security
+Phishing and Content Protection
+Lookout for Small Business
+App Defense
+Personal
+Threat Advisory Services
+Government Solutions
+See All Products
+arrow_forward
+Resources
+Blogs
+Analyst Reports
+Events
+Post-Perimeter Security Alliance
+Business Resilience
+See All Resources
+arrow_forward
+Company
+Customers
+Partners
+Media Center
+Life at Lookout
+Careers
+Leadership
+Foundation
+Diversity
+About Us
+arrow_forward
+Contact Sales
+Log In
+Personal
+Enterprise
+Partners
+Enterprise End User Terms of Service
+Effective Date: May 18, 2018
+This Enterprise User Terms of Service (Terms of Service, TOS or Terms) is a legal contract between you and Lookout (Lookout, we, our).
+You may have been directed to download and install the Enterprise Security Service (the Services or Enterprise Services) as a result of your employment by an organization that either (1) requires all or some of its workforce to install the Enterprise Security Product or (2) requires all or some of its workforce to install a mobile device management suite that includes the Enterprise Security Services. These Terms govern access to and your use of Lookout Enterprise Services. By using Enterprise Services, you agree to be bound by this Terms of Service. If you do not agree to the Terms, please cease using the Enterprise Services immediately.
+You may use the Enterprise Services only if you can form a binding contract with Lookout and are not a person barred from receiving service under the laws of the United States or other applicable jurisdiction. You may use the Enterprise Services only in compliance with these Terms and all applicable local, state, national, and international laws, rules and regulations. If you are under 16, you cannot use our Services.
+1. Lookouts Rights
+a. We License Our Services to You: Lookout grants you a personal, non-exclusive, non-transferable, non- sublicensable, revocable license to use the Enterprise Services according to these Terms.
+b. Lookout Retains All Rights in Enterprise Services: All right, title, and interest in and to the Enterprise Services are and will remain the exclusive property of Lookout. Enterprise Services are protected by intellectual property laws and other proprietary rights of the United States and foreign countries. Lookout grants you no license to Enterprise Services or any other Lookout content beyond what is expressly granted in this TOS nor any rights to use or appropriate, in any manner, the Lookout trademarks, logos, domain names, or any other intellectual property or brand features of Lookout.
+c. We Can Modify Enterprise Services: We reserve the right to modify, suspend, or cancel the Enterprise Services (or any features within the Enterprise Services) to you at any time and for any reason. When we do so, we may notify you through the mobile app, via the email you provided to us, or your organization may so inform you.
+d. Open Source and Third-Party Code Has Its Own Licenses: All open source or third-party code incorporated in the Enterprise Services is covered by the applicable open source or third-party end user license agreement, if any, that authorizes the use of such code.
+e. Feedback You Provide: If you submit comments, ideas, or feedback to us, you agree that we can use them without any restriction or compensation to you.
+2. Restrictions on Your Use of the Enterprise Services
+a. The Integrity of Your Account Information Is Your Responsibility: You must ensure that all information relating to your account (i.e. password and any login credentials) is kept secure, accurate and up to date at all times. You are solely and fully responsible for all activities that occur under your account and we will not be liable for any damages or liability resulting from your failure to keep your account information accurate, up to date, or secure. Should you suspect that any unauthorized party may be using your account, or you suspect any other breach of security, you agree to contact us immediately.
+b. Obey the Law and Our Rules: You may not use the Enterprise Services in any way that violates any laws, regulation, or these Terms, harms any person, or infringes any person or entitys rights (including intellectual property and other proprietary rights). In addition, without limitation, when using the Enterprise Services you may not:
+1. Hack or interfere with the Enterprise Services, its servers or any connected networks.
+2. Adapt, alter, license, sublicense or translate the Enterprise Services for your own personal or commercial use.
+3. Remove or alter, visually or otherwise, any copyrights, trademarks or proprietary marks and rights owned by Lookout.
+4. Register under different usernames or identities, after your account has been suspended or terminated.
+c. You May Not Circumvent Our Security: You are permitted to access and use the Enterprise Services only through the means we expressly provide to you. You are not allowed to circumvent or disable the Enterprise Services or any technology, features, or measures included in the Enterprise Services for any reason, except as permitted by law.
+d. Respect Our Intellectual Property: The license granted to you in these Terms is solely for the purpose of allowing you to use the Enterprise Services. You may not violate any exclusive rights that we have under any intellectual property or other proprietary rights laws. You may not decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code for any part of the Enterprise Services, including executable and configurable content, except as permitted by law.
+e. You May Only Use Lookout to Secure Your Device: Our services are only provided to function on and secure your device(s). You may not execute Lookout's software in any other environment, e.g., in an emulated environment, as a research tool, or in any other way to develop or support another product, or use results derived from use of Lookouts client for any other purpose, e.g. to verify a set of known results or to scan, power, or support any other services, without our explicit written consent. Contact us at
+malware@lookout.com
+to request such access.
+f. Only You Can Use Your Account: You may not sell, transfer, or allow any other person to access your account password or Enterprise Services account. You may not provide information that is false, misleading or inaccurate, or imply affiliation with a company or organization to which you are not affiliated.
+3. Using Enterprise Services
+If you join an Enterprise Services account, you must use it in compliance with your employers terms and policies. Please note that Enterprise Services accounts are subject to your employers control and the administrator of your Enterprise Services account has the right see the security status of your device. You may be able to dissociate from the Enterprise Services account by contacting your IT administrator. By using the Enterprise Services you acknowledge your understanding, and acceptance, that administrators of your Enterprise Services will have access to information about malicious applications, and other relevant information, on your device. By using the Enterprise Services, you agree that Lookout shall not be liable in any manner for the access to, and potential use of, information obtained by your employer through the Enterprise Services.
+4. Your Privacy is Important to Us
+It is important that you review our
+Privacy Statement , which governs our collection, use, and disclosure of your personal information. Please read it carefully.
+5. Termination and Suspension of Your Account
+We may terminate or suspend your access to Enterprise Services without prior notice and without liability, at our sole discretion, including but not limited to such termination or suspension being based on (a) our good faith belief that you have violated these Terms, or (b) if you use the Services in a way that causes legal liability to us or disrupts others use of the Services. We will make a reasonable attempt to notify you of any termination or suspension of your access to the Enterprise Services by the email address associated with your account or through the Lookout mobile app. These remedies are in addition to any other remedies Lookout may have at law or in equity. Even after your right to use the Enterprise Services is terminated or suspended, these Terms shall remain enforceable against you.
+6. Disclaimers, Indemnity, and Limitations of Liability
+a. Disclaimers:
+1. THE ENTERPRISE SERVICES AND ANY THIRD-PARTY SOFTWARE, SERVICES, OR APPLICATIONS MADE AVAILABLE IN CONNECTION WITH THE ENTERPRISE SERVICES ARE PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LOOKOUT AND ITS SUBSIDIARIES, AFFILIATES, RELATED COMPANIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS, DISTRIBUTORS, AND LICENSORS (LOOKOUT ENTITIES) DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING (BUT NOT LIMITED TO) IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS OR ANY REGARDING AVAILABILITY, RELIABILITY, OR ACCURACY OF THE SERVICES. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR EQUIPMENT OR DEVICE, LOSS OF USE, OR LOSS OF DATA.
+2. WITHOUT LIMITING THE FOREGOING, NEITHER LOOKOUT NOR ITS AFFILIATES OR LICENSORS WARRANT THAT ACCESS TO THE SERVICE WILL BE UNINTERRUPTED OR THAT THE SERVICE WILL BE ERROR-FREE; NOR DO THEY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE, OR AS TO THE TIMELINESS, ACCURACY, RELIABILITY, COMPLETENESS OR CONTENT OF ANY SERVICE, INFORMATION OR MATERIALS PROVIDED THROUGH OR IN CONNECTION WITH THE USE OF THE SERVICE.
+3. NEITHER LOOKOUT NOR ITS AFFILIATES OR LICENSORS IS RESPONSIBLE FOR THE CONDUCT, WHETHER ONLINE OR OFFLINE, OF ANY USER.
+4. LOOKOUT AND ITS AFFILIATES AND LICENSORS CANNOT AND DO NOT GUARANTEE THAT ANY PERSONAL INFORMATION SUPPLIED BY YOU WILL NOT BE MISAPPROPRIATED, INTERCEPTED, DELETED, DESTROYED OR USED BY OTHERS.
+b. Indemnity: You agree to indemnify and hold harmless Lookout and Lookout Entities from any and all claims, suits, actions, losses, costs, damages, and any other liabilities, including attorneys fees, arising out of or related to (a) your misuse of the Enterprise Services, (b) any violation of the rights of any other person or entity by your use or misuse of the Enterprise Services, or (c) your breach of any part of this TOS. Lookout reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. You will not, in any event, settle any claim or matter relating to Lookout without the written consent of Lookout.
+c. Limitation of Liability: TO THE MAXIMUM EXTENT PERMITTED BY LAW, LOOKOUT AND LOOKOUT ENTITIES WILL NOT BE LIABLE TO YOU FOR ANY SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, RELIANCE, CONSEQUENTIAL, OR EXEMPLARY DAMAGES RELATING TO YOUR USE OF THE ENTERPRISE SERVICES, EVEN IF LOOKOUT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE. IN NO EVENT SHALL LOOKOUT OR LOOKOUT ENTITIES TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, OR CAUSES OF ACTION ARISING OUT OF OR RELATING TO THIS TOS EXCEED (1) THE AMOUNT PAID BY YOUR EMPLOYER FOR THE ENTERPRISE SERVICES USED BY YOU DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE DATE OF YOUR CLAIM OR (2) ONE THOUSAND U.S. DOLLARS, WHICHEVER IS GREATER.
+7. Governing Law and Jurisdiction
+a. Please Contact Us First: Our goal is for you to be happy and satisfied with your use of the Enterprise Services. If you have a dispute with Lookout, you agree to contact us at
+enterprisesupport@lookout.com
+and attempt, in good faith, to resolve the dispute with us informally. If a dispute is not resolved within 60 days of notice, you or Lookout may bring a formal proceeding.
+b. You Agree to Arbitrate: To the extent allowable under the laws of your jurisdiction, any dispute, claim or controversy arising out of or relating to the use of the Enterprise Services, this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be submitted before one arbitrator for final and binding arbitration in San Francisco, California, or other location to which both parties agree to in writing. The arbitration shall be administered by Judicial Arbitration and Mediation Services (JAMS) pursuant to its Comprehensive Arbitration Rules and Procedures and in accordance with the Expedited Procedures in those Rules (collectively, the JAMS Rules), both of which are available at the JAMS website
+www.jamsadr.com . Judgment on the award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction. The parties will cooperate with JAMS and with one another in selecting an arbitrator from the JAMS panel of neutrals and in scheduling the proceedings. Your arbitration fees and your share of arbitrator compensation will be governed by the JAMS Rules. The arbitrator shall award to the prevailing party, if any, the costs and attorneys fees reasonably incurred by the prevailing party in connection with any arbitration arising out of or related to use of the Enterprise Services or this Agreement. If the arbitrator determines a party to be the prevailing party under circumstances where the prevailing party won on some but not all of the claims and counterclaims, the arbitrator may award the prevailing party an appropriate percentage of the costs and attorneys fees reasonably incurred by the prevailing party in connection with the arbitration.
+c. Exception to Arbitration: Either party may bring a lawsuit in the federal or state courts of San Francisco County, California solely for injunctive relief to stop unauthorized use or abuse of the Services or infringement of Intellectual Property Rights without first engaging in the informal dispute notice process described above.
+d. U.S. Licensees Only - Waiver of Right to be a Plaintiff or Class Member in a Purported Class Action or Representative Proceeding: You and Lookout agree that any arbitration will be limited to the dispute between Lookout and you individually. YOU ACKNOWLEDGE AND AGREE THAT YOU AND LOOKOUT ARE EACH WAIVING THE RIGHT TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING. Further, unless both you and Lookout otherwise agree, the arbitrator may not consolidate more than one persons claims, and may not otherwise preside over any form of any class or representative proceeding. If this specific paragraph is held unenforceable, then Subsections 7(b)-(d) will be deemed null and void.
+e. California Provides the Governing Law and Jurisdiction for This TOS: This TOS will be governed by the laws of the State of California, without regard to conflicts of law provisions. Both parties consent to the exclusive jurisdiction of the state and federal courts sitting in San Francisco County, California for any actions not subject to arbitration and you and the Company agree to submit to the personal jurisdiction of such courts.
+8. General Matters
+a. Severability: If any provision of this TOS is held invalid or unenforceable, that provision will be modified to the extent necessary to render it enforceable without losing its intent. If no such modification is possible, that provision will be severed from this TOS and this TOS will otherwise remain in full force and effect.
+b. No Waiver: Our failure or delay to enforce a provision under these Terms is not a waiver of our right to do so in the future.
+c. No Assignment or Transfer: This TOS and any rights and licenses that we grant to you may not be transferred or assigned by you, but may be assigned or transferred by Lookout without restriction.
+d. Entire Agreement: These Terms will constitute the entire agreement between you and Lookout concerning the Enterprise Services unless your Enterprise has a master license agreement with Lookout which incorporates end user terms of service. If your Enterprise has such a master license agreement then the terms of the master license will control over any conflicting Terms. Where these Terms do apply they supersede all prior or contemporaneous agreements between you and Lookout.
+e. We Can Modify This TOS: Lookout may modify these Terms from time to time in its sole and absolute discretion. You agree to be bound by any changes to the TOS if you continue to use the Enterprise Services after such changes are posted, so please read all changes carefully. The most current version of this TOS will be located at
+https://www.lookout.com/legal/enterprise-user-tos .
+f. No agency, partnership, joint venture, employer-employee or franchiser-franchisee relationship is intended or created by these Terms.
+g. In the Event of Termination: The provisions that require or contemplate performance after the termination of these Terms, and all provisions relating to limitation of liability, disclaimers, and indemnification in these Terms will be enforceable regardless of the termination of these Terms.
+I HEREBY ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE FOREGOING TERMS OF SERVICE AND AGREE THAT MY USE OF THE SERVICE IS AN ACKNOWLEDGMENT OF MY AGREEMENT TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+Sign up for a demo
+Contact Lookout
+Contact support
+Contact enterprise sales
+Worldwide office locations
+Careers
+Lookout Partners
+Partner with Lookout
+Channel partners
+Technology partners
+Partner login
+Learn more
+Mobile threats
+Mobile threat defense
+Spectrum of mobile risk
+Mobile phishing
+Mobile compliance risks
+Post-perimeter security
+PPS Alliance
+United States (English)
+keyboard_arrow_down
+United States (English)
+United Kingdom (English)
+España (Español)
+Deutschland (Deutsch)
+Netherlands (English)
+France (Français)
+ ()
+Polska (Polski)
+Brasil (Português)
+ ()
+ ()
+ ()
+ ()
+Legal
+ 
+Privacy Notice
+ 
+Cookie Policy
+ 
+Transparency Report
+© 2020 Lookout, Inc. LOOKOUT®, the Lookout Shield Design®, LOOKOUT with Shield Design®, SCREAM®, and SIGNAL FLARE® are registered trademarks of Lookout, Inc. in the United States and other countries. EVERYTHING IS OK®, LOOKOUT MOBILE SECURITY®, POWERED BY LOOKOUT®, and PROTECTED BY LOOKOUT®, are registered trademarks of Lookout, Inc. in the United States; and POST PERIMETER SECURITY ALLIANCE and DAY OF SHECURITY are trademarks of Lookout, Inc.
+Android is a trademark of Google Inc.
+Apple, the Apple logo, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+Suggestions
+Suggestions
+Log In
+Personal
+Enterprise
+Partners
+Contact Sales
+Platform
+App Threats Map
+Mobile Phishing Map
+See Our Platform
+Products
+Mobile Endpoint Security
+Phishing and Content Protection
+Lookout for Small Business
+App Defense
+Personal
+Threat Advisory Services
+Government Solutions
+See All Products
+Resources
+Blogs
+Analyst Reports
+Events
+Post-Perimeter Security Alliance
+Business Resilience
+See All Resources
+Company
+Customers
+Partners
+Media Center
+Life at Lookout
+Careers
+Leadership
+Foundation
+Diversity
+About Us

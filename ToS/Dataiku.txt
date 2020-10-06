@@ -1,0 +1,152 @@
+Dataiku Terms of Service   Dataiku
+en
+de
+All
+Stories
+Features
+Whitepapers
+Close
+Product
+Features
+Plugins
+Dataiku is for
+Analytics Leaders
+Business Analysts
+Data Engineers
+Data Scientists
+Whats New
+The 2020 Gartner Magic Quadrant for Data Science and Machine-Learning Platforms
+GET A COMPLIMENTARY COPY
+Stories
+By Industry
+Banking
+Retail
+Telecommunications
+ More
+By Use Case
+Marketing
+Predictive Maintenance
+Data Regulation
+ More
+By Role
+Featured Customer Stories
+Discover the Documentary:
+Data Science Pioneers.
+Watch the Trailer
+Learn
+White Papers
+Webinars
+Upcoming on BrightTalk
+Past Webinars
+Community
+Certification
+Sample Projects
+Reference Doc.
+Get Help
+Dataiku DSS Choose Your Own Adventure Demo
+Watch Now
+Company
+Careers
+Team
+Investors
+Newsroom
+Events
+In the Press
+Press Releases
+Media Kit
+Enterprise AI
+Dataiku for the Future
+Customers
+Join the Team! Apply to our job openings worldwide.
+Careers
+Partners
+Service Partners
+Value Added Resellers
+Analytics Consultants
+OEM Partners
+Technology Partners
+Snowflake
+AWS
+Microsoft
+ More
+Become a Partner
+How Machine Learning Helps Levis Leverage Its Data to Enhance E-Commerce Experiences
+Watch the Video
+Blog
+Contact Us
+Get Started
+Get Started
+This website uses cookies to improve your experience. To change your cookie settings or find out more,
+click here . If you continue browsing our website, you accept these cookies.
+Accept
+Dataiku Terms of Service
+Date of Last Revision: December 5, 2019
+The Dataiku Terms of Service (these  Terms of Service ) are entered into between Dataiku, Inc. and its affiliates (together,  Dataiku ) and the entity or person accessing any Service ( you ).  By accessing, browsing or otherwise using the Service, you are accepting all of the terms and conditions hereunder, without any changes.  Dataiku reserves the right to modify these Terms of Service at any time, effective when the modified Terms of Service are posted.
+If you do not agree to these Terms of Service, you may not use any Service.
+Intellectual Property
+This website and any other Dataiku websites (collectively, the  Site ), and all of the content contained therein, including but not limited to text, content, photographs, video, audio and graphics, goods, designs, information, applications, software, articles, directories, guides, photographs as well as the trademarks, service marks, trade names, trade dress, copyrights, logos, domain names, subdomains, code, patents and/or any other form of intellectual property (collectively, the  Service ), are owned or licensed by Dataiku or other third parties and are protected from any unauthorized use, copying and dissemination under applicable laws, international treaties and other proprietary rights. You agree to protect the proprietary rights of Dataiku and all others having rights in the Service during and after the term of these Terms of Service and to comply with reasonable requests made by Dataiku to protect its and others contractual and other legal rights in the Service.
+All present and future rights in and to trade secrets, patents, copyrights, trademarks, service marks, know-how, and other proprietary rights of any type under the laws of any governmental authority, domestic or foreign, including rights in and to all applications and registrations relating to the Service will, as between you and Dataiku, at all times be and remain the sole and exclusive property of Dataiku. All present and future rights in and title to the Service (including the right to exploit the Service and any portions of the Service over any present or future technology) are reserved to Dataiku for its exclusive use.
+Limited License
+You acquire absolutely no rights or licenses in or to the Service and materials contained within the Service other than the limited right to use the Service in accordance with these Terms of Service.  Subject to these Terms of Service, you are granted a limited license to use the Site to learn about and potentially access the Service. Should you choose to download software from the Site (the  Software ), you must do so in accordance with these Terms of Service.  For the duration specified on the Site, you are granted a non-exclusive, non-transferable and non-sublicensable license to (i) download and install the Software on a computer owned or controlled by you, and (ii) use the Software to process data owned, licensed, or controlled by you for non-commercial and personal or internal company use only.
+Restrictions on Use
+While using the Service, you will comply with all applicable laws, rules and regulations.  Your use of the Service is conditioned on your compliance with the restrictions listed below.  Any failure to comply may result in termination of your access to the Service, in Dataikus sole discretion.  In using the Service, you agree that you will not, and will not allow or authorize any third party to:
+Input, distribute, upload, post, email, transmit or otherwise make available any content through the Service that:
+is illegal, fraudulent, deceptive, invasive of anothers privacy, tortious or unauthorized by these Terms of Service;
+is promotional in nature, without the prior written consent of Dataiku, or constitutes spam, pyramid schemes or the like;
+is offensive, vulgar, harassing, threatening, discriminatory, racist, hateful or otherwise harmful, against any individual or group;
+infringes any patent, trademark, trade secret, copyright or other proprietary rights of Dataiku or any third party;
+contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware, or telecommunications equipment;
+constitutes the personally identifiable information of any third party; or
+you do not have the right to under any law or contractual or fiduciary relationship.
+Except as expressly permitted by Dataiku in writing, copy, reproduce, recompile, decompile, disassemble, reverse engineer, distribute, publish, display, perform, modify, upload to, create derivative works from, transmit, transfer, sell, license, upload, edit, post, frame, link or in any way exploit any part of the Service.
+Recirculate, redistribute or publish the content included in the Service without Dataikus prior written consent.  You may use the share function solely to inform others about a Dataiku blog post, and you will abide all terms and conditions applicable to the third party platform on which the blog post is shared.
+Use any of the trademarks, trade names, service marks, copyrights or logos of Dataiku in any manner that creates the impression such items belong to or are associated with you or are used with Dataikus consent.
+Either obtain or attempt to obtain through any means any materials or information on the Service that have not been intentionally made publicly available either by public display on the Service or through accessibility by a visible link on the Service.
+Interfere with or attempt to interfere with or otherwise disrupt the proper working of the Service, any activities conducted on or through the Service or any servers or networks connected to the Service.
+Violate the security of the Service or attempt to gain unauthorized access to the Service, data, materials, information, computer systems or networks connected to any server associated with the Service, through hacking or any other means.
+Either take or attempt any action that, in the sole discretion of Dataiku, imposes or may impose an unreasonable burden on the Service or the infrastructure of the Service.
+Use any software, device or any other process to scrape or download data from the Site.
+Alter, remove or obscure any copyright notice, digital watermark, proprietary legend or any other notice included in materials in the Service.
+Registration and Account Creation
+As part of the account creation process necessary to obtain access to certain portions of the Service, you will provide Dataiku with accurate, truthful and updated registration information.
+Service Fees
+Dataiku reserves the right at any time to charge fees for access to any portion of the Service.
+Modifications
+You accept Dataikus right to change the content or technical specifications of any aspect of the Service at any time in Dataikus sole discretion.  You further accept that such changes may result in your being unable to access the Service.
+Submitted Suggestions
+You acknowledge and agree that Dataiku has no obligation of confidentiality or nondisclosure, express or implied by considering your suggestion, feedback or idea.  You hereby grant Dataiku a fully paid, royalty-free, perpetual, irrevocable, worldwide, non-exclusive, and fully sublicensable right and license to use, reproduce, perform, display, distribute, adapt, modify, create derivative works of, and otherwise commercially exploit any suggestion, feedback or ideas you submit to Dataiku.
+Your Authority to Agree to these Terms of Service
+Your represent, warrant and covenant that (i) you have read, understand and agree to these Terms of Service, (ii) are of legal age to form a binding contract with Dataiku and (iii) if you are using the Service as an employee, contractor or agent of a company, then you have the authority to bind the company to the acceptance of these Terms of Service.
+Export Control Regulations
+Dataiku does not represent that materials in the Service are appropriate or available for use in any particular location.  Those who choose to access the Service do so on their own initiative and are responsible for compliance with all applicable laws.
+By downloading or using the Service, you represent, warrant and covenant that you are not (a) located in or a national or resident of any country that is subject to U.S. trade sanctions or (b) on any U.S. government denied-party list or acting on behalf of any person or entity on any such list.
+Disclaimer and Limitation of Liability
+DATAIKU SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, CONDITIONS AND OTHER TERMS INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES, CONDITIONS AND OTHER TERMS OF MERCHANTABILITY, SATISFACTORY QUALITY OR FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO THE SERVICE.  NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN: (i) THE SERVICE IS PROVIDED AS-IS AND WITHOUT WARRANTY OF ANY KIND BY DATAIKU; (ii) WITHOUT LIMITATION, DATAIKU DOES NOT MAKE ANY WARRANTY OF ACCURACY, COMPLETENESS, TIMELINESS, OR UNINTERRUPTABILITY, OF THE DATAIKU SERVICES; AND (iii)
+DATAIKU IS NOT RESPONSIBLE FOR RESULTS OBTAINED FROM THE USE OF THE DATAIKU SERVICES OR FOR CONCLUSIONS DRAWN FROM SUCH USE .
+NEITHER DATAIKU, NOR ANY OF ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS OR OTHER REPRESENTATIVES WILL BE LIABLE FOR ANY DAMAGES, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, INCOME, PROFIT OR GOODWILL, LOSS OF OR DAMAGE TO PROPERTY AND CLAIMS OF THIRD PARTIES ARISING OUT OF YOUR ACCESS TO OR USE OF THE SERVICE, HOWEVER CAUSED, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), PROPRIETARY RIGHTS INFRINGEMENT, PRODUCT LIABILITY OR OTHERWISE.  THE FOREGOING SHALL APPLY EVEN IF DATAIKU WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IF YOU BECOME DISSATISFIED IN ANY WAY WITH THE SERVICE OR THESE TERMS OF SERVICE, YOUR SOLE AND EXLUSIVE REMEDY IS TO STOP YOUR USE OF THE SERVICE. YOU HEREBY WAIVE ANY AND ALL CLAIMS AGAINST DATAIKU, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES AND LICENSORS ARISING OUT OF YOUR USE OF THE SERVICE.  IF ANY PORTION OF THIS LIMITATION ON LIABILITY IS FOUND TO BE INVALID OR UNENFORCEABLE FOR ANY REASON, THEN THE AGGREGATE LIABILITY OF DATAIKU SHALL NOT EXCEED ONE HUNDRED DOLLARS ($100).
+Indemnification
+You will defend, indemnify and hold harmless Dataiku from and against all liabilities, costs, damages and expenses (including settlement costs and reasonable attorneys fees) incurred by Dataiku, including its officers, directors, employees, agents and other representatives, to the extent arising from or related to your breach of these Terms of Service.
+Termination
+You may terminate these Terms of Service, with or without cause and at any time, by discontinuing your use of the Service and destroying all materials obtained from the Service.
+You agree that, without notice, Dataiku may terminate these Terms of Service, or suspend your access to the Service, with or without cause at any time.  These Terms of Service will terminate immediately without notice if you, in Dataikus sole discretion, fail to comply with any of the terms and conditions hereunder.
+Assignment
+These Terms of Service, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Dataiku without restriction.
+Governing Law
+These Terms of Service will be governed and interpreted in accordance with the laws of the United States and the State of New York, without giving effect to conflicts-of-law principles.
+Waiver of Jury Trial and Arbitration
+YOU AGREE THAT BY ENTERING INTO THIS AGREEMENT, YOU AND DATAIKU ARE EACH WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+Any and all disputes between you and Dataiku arising under or related in any way to these Terms of Service must be resolved through binding arbitration.
+The arbitration will be governed by the Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes of the American Arbitration Association,
+and any hearings must take place in New York, New York.
+In the event this agreement to arbitrate is held unenforceable by a court, then the disputes that would otherwise have been arbitrated shall be exclusively brought in the state or federal courts located
+in New York, New York.
+Miscellaneous (Severability, Entire Agreement and Amendment)
+If any of the terms and conditions hereunder is found invalid or unenforceable, such term or condition will be enforced to the maximum extent permissible, and all other terms and conditions will remain in full force and effect.  The failure of Dataiku to exercise or enforce any right or terms and conditions hereunder shall not constitute a waiver thereof. Those terms and conditions that by their nature are intended to survive termination of these Terms of Service shall so survive.
+These Terms of Service and any other terms and conditions of service on the Site, and its successor, constitute the entire agreement between you and Dataiku, and supersede all prior or contemporaneous written or oral agreements between the parties with respect to the subject matter hereof.  These Terms of Service may not be amended, nor any obligation waived, without Dataikus express written authorization.
+Reporting Violations
+You agree to report any violation of these Terms of Service by others that you become aware of by contacting us at:
+[email protected]
+© 2013 - 2020 Dataiku. All rights reserved.
+Privacy Policy
+Cookie Policy
+Events Code Of Conduct

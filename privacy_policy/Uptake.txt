@@ -1,0 +1,211 @@
+Privacy Policy   Uptake
+uptake
+Artboard 1
+Applications
+Asset Strategy Library® Get data-backed insights powered by the worlds largest library of asset types and failure mechanisms.
+Asset Strategy Library® Overview
+Uptake Improve the availability and reliability of assets and cost-optimize maintenance programs. Learn More
+Dealer Suite Increase your sales and service revenue, reduce costs, and improve customer satisfaction. Learn More
+Industries
+Untapped Energy In Current U.S. wind Fleet Could Power 1.1m Homes Estimated 12 TWh lost each year due to downtime would power nearly all homes in city of Chicago annually.
+Learn how to tap into more wind power
+Industry
+Agriculture
+Aviation
+Buildings
+Construction
+Energy
+Equipment Dealers
+Fleet
+Government
+Manufacturing
+Mining
+Oil & Gas
+Rail
+Customers
+Platform
+About
+Codelco to Deploy Industrial Artificial Intelligence (AI) from Uptake Industrial artificial intelligence leader, Uptake, and Codelco, the worlds largest copper producer, are working together to support Codelcos digital transformation.
+Read Press Release
+Company
+About Uptake
+Partners
+Newsroom
+Philanthropy
+Careers Connect
+Resources
+Blog
+Events Expertise
+Services
+Data Science
+Security
+Blog
+Contact
+Log In
+Applications caret right
+caret left Back
+All Applications
+Uptake
+Dealer Suite
+Industries caret right
+caret left Back
+All Industries
+Industry
+Agriculture
+Aviation
+Buildings
+Construction
+Energy
+Equipment Dealers
+Fleet
+Government
+Manufacturing
+Mining
+Oil & Gas
+Rail
+Customers
+Platform
+About caret right
+caret left Back
+All About
+Company
+About Uptake
+Partners
+Newsroom
+Philanthropy
+Careers
+Connect
+Resources
+Blog
+Events
+Expertise
+Services
+Data Science
+Security
+Blog
+Contact
+Log In
+Uptake Privacy Notice Introduction What this Privacy Notice Covers.
+This Privacy Notice applies only to Uptakes processing of your Personal Data (well define processing and Personal Data below) in connection with your browsing of Uptakes website. If you have provided personal data to Uptake in another context, Uptakes processing of that personal data is explained in another privacy notice. Read this Privacy Notice!
+We want you to feel that our processing of your Personal Data is conducted fairly and transparently, so we want you to read this Privacy Notice. We also understand that youre busy, and these things can be dense. Thats why weve provided. A Quick Guide to this Privacy Notice.
+This Privacy Notice is your one-stop-shop for understanding what were doing with your Personal Data and why. Of course, you should read it top-to-bottom. In case you dont have the time right now, you can use the menu below to jump to your topic of interest and come back to the other parts as soon as you can.   Who are we? Click here if: You want to know what we mean when we say Uptake (or us or our or we).   What are we processing? Click here if: You want to know what personal data were processing and how.   Why are we processing it? Click here if: You want to know why we need your Personal Data.   How are we processing it? Click here if: You want to know how we process your Personal Data and what that means for you.   How long will we have it? Click here if: You want to know how long were going to keep your Personal Data.   Who else is getting it? Click here if: You want to know if were sharing your Personal Data and, if so, with whom.   Where is it going? Click here if: You want to know whether your Personal Data is taking any international trips.   What if something changes? Click here if: Youre wondering how youll know if our processing or this Privacy Notice changes.   What can you do about it? Click here if: You dont like what youve seen so far.   Anything else? Click here if: Youve read all of the other sections and havent answered your question. 1. Who are we?
+When we say Uptake (or us or our or we), we mean Uptake Technologies, Inc. We dont mean other companies or individuals that we dont own or control.
+You can find, and send mail to (if youd like), our headquarters at 600 W. Chicago Ave., Suite 350, Chicago, IL 60654.
+If you prefer phone, you can reach us at 312-242-2200. Emails related to this Privacy Notice can be sent to
+[email protected] .
+2. What are we processing?
+Personal Data Were Processing.
+We are processing some or all of the following information: your language, county and city from which you are browsing, browser, operation system, service provider, and screen resolution. Though this is only used on an anonymized, aggregated basis, we refer to it in this Privacy Notice as  Personal Data . Personal Data may also include other information (like IP address) that we may collect as needed to achieve the Reasons for Processing described below. If it is more helpful, wed consider most of the Personal Data collected under this Privacy Notice to be identifiers, but there is also some geolocation and internet or other electronic network activity information.
+How We Get Your Personal Data.
+We obtain your Personal Data through tracking technologies (like cookies) from our some of our analytics and related Processors (well define that below).
+A Note on Cookies.
+Most browsers include an option to clear existing cookies or reject new ones. If you prefer not to use any cookies, you can also opt out in some browsers by adjusting your browser settings.
+However, if you opt out or reject new cookies, some portions of the website may not function as intended. Note that we currently do not support Do Not Track browser settings.
+3. Why are we processing it?
+Reasons for Processing.
+We obtain all categories of Personal Data through tracking technologies (like cookies) from our some of our Processors that we consider data analytics providers (well define that below). analyzing our web traffic (including where its coming from and how it got here); analyzing the effectiveness of our marketing strategies; mapping our sales opportunities to online sources; and gaining insight into individual visitors needs.
+Lawful Basis.
+Uptake does not process personal data without a lawful basis for doing so. We believe that we have a lawful basis for processing your Personal Data and that our lawful basis is the legitimate interest of Uptake in collecting and analyzing information regarding the use of our website for marketing, recruiting, and other legitimate business purposes. Achieving these interests is critical to our business, and the processing under this Privacy Notice is necessary to achieve these interests.
+The provision of your Personal Data is neither a statutory requirement nor a contractual requirement.
+4. How are we processing it?
+Scope of Processing.
+Throughout this Privacy Notice, youll see us talk about processing your Personal Data. This has a broad definition and refers to everything were doing with respect to your Personal Data under this Privacy Notice.
+More specifically, though, we are storing your Personal Data and using it to assess and improve our ability to market and to sell to our target market. When were done with it (described in more detail below), we may also delete or destroy it. We are not conducting any automated decision-making, including profiling, with respect to your Personal Data.
+Consequences of Processing on You.
+As a result of our processing your Personal Data, well know when youve visited our website, where you were located when you visited, what source drove you to our site, and whether or not you revisit our site. We will not use your Personal Data to send you unwanted communications.
+Data Security.
+Uptake takes data security very seriously and will always use reasonable efforts to secure your Personal Data. We have implemented appropriate technical and organizational measures to protect personal data, including encryption of personal data transmitted to and from our website and services. However, no data transmission
+over the Internet is completely secure, so we cannot guarantee the absolute security of this data.
+5. How long will we have it?
+Personal Data.
+Theres no precise time period, but we intend to store your Personal Data at least while we are analyzing our current marketing programs.
+We expect this period to be one (1) year after youve last visited our website.
+Deidentified Data.
+The description above of our data retention and deletion processes does not apply to any data that we have derived from your Personal Data, provided that this derived data cannot be used to identify you. This data is not considered Personal Data.
+6. Who else is getting it?
+Within Uptake.
+Your Personal Data will be shared among the employees and contractors that need to use it to develop marketing or recruiting strategies, to make updates to this website, or to otherwise understand our websites traffic and usage (including its security). It wont include employees or contractors that have no involvement in marketing, recruiting, security, or our website.
+Outside of Uptake:
+Uptake discloses Personal Data within each category described above for commercial purposes, namely to receive services from our Processors (well define that shortly). However, Uptake does not, and will not sell your Personal Data (as the term sell is defined under the California Consumer Privacy Act). The situations in which your Personal Data may be disclosed are described below.
+Processors.
+Your Personal Data will be shared with our marketing automation and customer relationship management (CRM) providers (also known around here as  Processors ), which are Marketo and Salesforce, respectively. As we expand or otherwise revise our marketing strategies, we may engage additional, similar Processors that may require access to your Personal Data. In all cases, we only make your Personal Data available to Processors who truly need it, and their processing will generally be limited to what is necessary to provide us with the Product-related services.
+Change in Control of Sale of our Business
+We may share your Personal Data (in all categories) if Uptake is ever purchased by a third party (regardless of how that happens or whether its all or only a portion of Uptake). This may include sharing prior to the consummation of that purchase. Regardless of who obtains that Personal Data, they will need to keep using it in accordance with this Privacy Notice unless they tell you otherwise. Note specifically that this does not constitute a sale of your Personal Data under the California Consumer Privacy Act.
+Law Enforcement.
+Like other global companies, Uptake is subject to various legal obligations and falls within the jurisdiction of numerous government and law enforcement officials. We will cooperate with these officials, as well as any private parties, as required to enforce and comply with the law. We may disclose your Personal Data as we, in our discretion, believe is necessary or appropriate: (a) to comply with law, regulation, or valid legal process; or (b) to protect our property, rights, and safety, and the property, rights, and safety of a third party or the public in general. If we are going to release your Personal Data on this basis, we will do our best to provide you with prior notice unless doing so is prohibited by law,
+regulation, or valid legal process or could otherwise be prejudicial to our ability to enforce and/or comply with the law.
+7. Where is it going?
+Uptake is a Chicago-based company, and we access your Personal Data from our Processors in the United States. Your Personal Data was transferred to the United States by those third-party providers pursuant to the appropriate safeguards they have applied (if any). If you have browsed any website maintained by or related to Uptake Canada Inc. (our affiliate), your Personal Data may be transferred to Canada, which has been found by the European Commission to provide an adequate level of protection of personal data. Except for transfers to Canada (if applicable), your Personal Data will not leave the United States unless you ask for it back, in which case it will be transferred back to the country in which you reside.
+Read This if You Live in Europe.
+As you may be aware, the United States has not been subject to a universal adequacy decision by the European Commission. While we cant read their minds, we believe this means that the European Commission does not consider U.S. laws to provide the same level of legal protections to individuals concerning their personal data and how it is used, in part because U.S. companies may not be subject to legal obligations as stringent as those applicable to European companies. This means that processing in the U.S. may be undertaken with fewer privacy- and security-focused protections than in Europe, which may increase the risk of data breaches, losses of data, or similar events affecting personal data privacy and security. In any event, Uptake is firmly committed to data privacy and security and has implemented a number of measures that are intended to ensure all personal data (including your Personal Data) is protected just as strongly in the U.S. as it might be in Europe. We wont get into all of it here, but this includes entering into EU-approved model contract clauses with certain of our Processors (including those weve described above) and providing appropriate technical and organizational measures to secure your Personal Data (as discussed above).
+If you have any questions about cross-border processing, please dont hesitate to reach out to
+[email protected] .
+8. What if something changes?
+It could happen. This Privacy Notice is current as of January 17th, 2020, but we may change this Privacy Notice or the way in which we process your Personal Data (including the purpose of that processing or the methods for doing so).
+If we do, we will update our website to display the current version of this Privacy Notice. We will do our best to notify you of these new versions.
+9. What can you do about it?
+Uptake is committed to the cause of giving individuals greater control over the processing of their personal data. In furtherance of this commitment, as one of our data subjects (a technical term), you may be entitled to certain rights:
+Right to Request Information . You have the right to ask us questions about our processing of your Personal Data, including if you feel information is missing from this Privacy Notice.
+Right to Access . You have the right to request access to your Personal Data.
+Right to Rectification . You have the right to ask us to correct errors, or to complete omissions, in your Personal Data.
+Right to Erasure .* You may have the right to ask us to delete your Personal Data. Some people call this the right to be forgotten.
+Right to Object .* You may have the right to object to, and stop, our processing of your Personal Data.
+Right to Restriction of Processing .* You may have the right to limit our processing of your Personal Data.
+Right to Data Portability .* You may have the right to receive, or have us transmit to another person, a portable copy of your Personal Data. The rights above with an asterisk (*) are subject to some conditions and may not be applicable under this Privacy Notice. Wed prefer that you send requests to exercise any of the above-described rights via email at
+[email protected] . However, we also take these requests by phone at +1-312-242-2200 (youll want to be connected to our legal and/or security teams).
+Uptake will never discriminate against individuals who exercise their legal rights concerning their personal data. Its your data, and we want you to have a say in how its used.
+If youre not happy with what youve read so far, or if you believe weve overstepped, you can always reach out to your local data protection authority. The identity of your local data protection authority depends on where you live, so we are unable to identify it for you.
+If you live in Europe, you may find this link to be helpful:
+https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en .
+10. Anything else?
+If we havent answered your question yet, you sure do have a lot of questions. Fire those questions over to
+[email protected] .
+Applications
+Uptake
+Dealer Suite
+Platform
+Developers
+Industries
+Agriculture
+Aviation
+Buildings
+Construction
+Energy
+Equipment Dealers
+Fleet
+Government
+Manufacturing
+Mining
+Oil & Gas
+Rail
+Services
+About
+About Uptake
+Newsroom
+Careers
+Philanthropy
+Blog
+Events
+Data Science
+Security
+Customers
+600 W Chicago Ave.
+Suite 350
+Chicago, IL 60654
+[email protected]
+P: 312.242.2200
+© 2020 Uptake Technologies Inc.
+Privacy Policy
+Cookie Settings
+Twitter
+twitter
+LinkedIn
+linkedin
+YouTube
+youtube
+Instagram
+instagram
+Facebook
+facebook
+Glassdoor
+glassdoor

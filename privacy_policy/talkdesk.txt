@@ -1,0 +1,277 @@
+Privacy Policy   Talkdesk
+Get Started
+Products
+Contact Center Software · CX Cloud
+Customer Engagement
+Overview
+Voice
+ACD
+IVR · Studio
+Outbound Dialer
+Omnichannel
+Self-Service
+Workforce Engagement
+Overview
+Agent Desktop
+Mobile Agent
+Workforce Management
+Quality Management
+Call Recording
+Performance Management
+AI & Knowledge
+Overview
+Agent Assist
+Virtual Agent
+Knowledge Base · Guide
+Analytics & Insights
+Overview
+Dashboards · Live
+BI · Explore
+Speech Analytics
+Surveys
+Enterprise Collaboration
+Overview
+Phone
+Messaging
+Integrations
+Overview
+Salesforce
+Zendesk
+Slack
+View All
+Platform
+Overview
+Boost for Business Continuity
+Connections
+AppConnect Marketplace
+APIs & SDKs
+Flexible Deployment
+Security & Compliance
+AI · Talkdesk iQ
+Solutions
+Contact Center Solutions
+By Industry
+Retail & E-Commerce
+Financial Services
+Healthcare
+Travel & Hospitality
+By Business Type
+Enterprise
+Small & Mid-size
+By Contact Center Type
+Customer Service
+Sales
+BPO
+Business Continuity Solutions
+Business Continuity for Contact Centers
+Business Continuity Resources
+Customers
+Services & Support
+Business Transformation Services
+Overview
+CX Strategy
+CX Enablement
+CX Success
+Partners
+Developers
+Resources
+Webinars
+Reports
+Datasheets
+Ebooks
+Infographics
+Guides
+View All Resources
+Blog
+Demo Center
+Customer Reviews
+Benchmark Tool
+Talkdesk CXTalent
+Knowledge Base
+Talkdesk Academy
+Company
+About
+Leadership
+Trust
+News & Press
+Innovations
+Awards & Recognition
+Events
+Careers
+Login
+Get Started
+EBOOK Talkdesk for Sales Powers Inside Sales Teams Read More News A Word From Our CEO: Series C Funding Read the blog News Talkdesk raises $143M in Series C Read more
+Talkdesk Privacy Policy
+Last Updated: December 31, 2019
+Talkdesk is a company that acts on the CCaaS (Contact Center as a Service) space. As part of the contact center services Talkdesk provides to customers throughout the world, Talkdesk processes personal data on behalf of its customers (hereinafter, the Customers), acting as a processor to the purposes of the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter, the General Data Protection Regulation or GDPR).
+Additionally, Talkdesk also processes personal data of its own, acting as a controller, i.e. determines the purposes and means of the processing of personal data to some purposes (e.g. billing and tax purposes).
+This privacy policy covers both situations.
+Data subjects whose personal data are processed by Talkdesks Customer, they must consult Customers privacy policies .
+For easier understanding, this policy covers the same topics from both perspectives: Controller and Processor:
+Why is personal data collected?
+What personal data is collected?
+How long is personal data retained?
+What are the data subject rights?
+How can a data subject/person exercise its rights?
+To whom is personal data transferred?
+Where is information stored?
+How is information protected?
+Person Information from Children
+Privacy Shield Independent Recourse Mechanism
+California User Consumer Rights (only as a controller)
+Talkdesk as a Controller
+Why is personal data collected?
+The purposes for which personal data is processed includes:
+Recruiting management;
+Sales and marketing (including telemarketing)  B2B perspective;
+Customer relationship management  this may include payment information;
+Events registrations (including webinars, meet-ups and others);
+Access to our offices;
+Usage of our site;
+Cookies usage (specific policy shared on site);
+Talkdesk Academy.
+What personal data is collected?
+Talkdesk collects information according to applicable data privacy legislation and the information collected is registered in the list of processings.
+More details can be provided through the Data Protector Officer email  [email protected] .
+How long is personal data retained?
+Data retention periods depend on the purposes of the processing. Under applicable legislation, Talkdesk provides more information on the data retention periods when personal data is collected. More details can be obtained through the Data Protection Officers email  [email protected] .
+What are the data subject rights?
+Data subject right depends on the jurisdictions where they are and typical data subjects rights include:
+Right of access : Right to obtain confirmation as to whether or not personal data concerning the data subject is being processed, and, where that is the case, access to that personal data;
+Right to rectification : Right to obtain rectification of inaccurate personal data concerning the data subject;
+Right to erasure or to be forgotten : Right to the erasure of personal data concerning the data subject;
+Right to restrict processing : Right to receive the personal data provided and concerning the data subject, in a structured, commonly used and machine-readable format;
+Right to data portability : Right to receive the personal data provided and concerning the data subject, in a structured, commonly used and machine-readable format;
+Right to object : Right to object to the processing of your data for reasons related to your own personal situation;
+Right not to be subject to automated decision-making : Right not to be subject to a decision based solely on automated processing;
+Right to withdraw consent : Right to remove consent for specific processing;
+Right to complaint : Right to send a complaint to the proper authority;
+Right to prevent your information from being sold : Right to state that you do not your personal information to be sold to anyone.
+How can a data subject/person exercise its rights?
+The exercise of data subject rights can be requested to the Data Protector Officer email  [email protected] .
+To whom is personal data transferred?
+Information collected is also processed by third-parties (sub-processors) and according to Talkdesk instructions. Talkdesk does not sell and does not allow its sub-processors to sell personal data (as the term sell is defined under the CCPA).
+A list of Talkdesk sub-processors can be provided if requested  [email protected] .
+Where is information stored?
+Personal data, when held physically, is stored in the same location as where it was produced.
+Personal data, when held digitally is mainly stored in the US and transfer of information from European Economic Area (EEA), United Kingdom and Switzerland is made based on:
+Adequacy Decision : Countries designated by European Commission as having an adequate level of protection for personal data;
+Privacy Shield : Talkdesk comply with the EU-U.S. Privacy Shield and the Swiss  U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. Talkdesk has certified to the Department of Commerce that adhere to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view Talkdesk certification, please visit  https://www.privacyshield.gov ;
+Standard Contractual Clauses : Talkdesk relies in the European Commissions model contracts for the transfer of personal data to third countries (i.e. the standard contractual clauses) pursuant to Decision 2010/87/EU.
+How is information protected?
+Talkdesk adopts an Information Security Management Systems (ISMS) and BCMS (Business Continuity Management System) as a framework for continuous improvement of security and business continuity. The ISMS and BCMS includes Policies, Awareness on Security and Privacy, adequate processual and technical controls, audit logging and third-party due diligence, among others.
+Talkdesk performs regular due diligence on third parties for security and privacy.
+Personal Information from Children
+Talkdesk will never knowingly collect any personal information from children under the age of 13. If we obtain actual knowledge that we have collected personal information from a child under the age of 13, that information will be immediately removed from any access. Because we do not collect such information, we have no such information to use or to disclose to third parties. We have designed this policy in order to comply with the Childrens Online Privacy Protection Act (COPPA).
+Privacy Shield Independent Recourse Mechanism
+In compliance with the EU-U.S. Privacy Shield and Swiss  U.S. Privacy Shield, Talkdesk is committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us at:  [email protected] .
+If necessary, we have further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield to JAMS, an alternative dispute resolution provider located in the United States.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  https://www.jamsadr.com/eu-us-privacy-shield .
+As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission. The Federal Trade Commission has jurisdiction over Talkdesks compliance with this policy and the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield, Talkdesk is potentially liable.
+In compliance with the Privacy Shield Principles, Talkdesk commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Talkdesk at:
+Privacy Team/DPO
+[email protected]
+Talkdesk has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+California User Consumer Rights
+This section only applies when Talkdesk is a controller.
+In accordance with California Civil Code Section 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to  [email protected] . For more information about protecting your privacy, you may wish to visit:  http://www.ftc.gov .
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties direct marketing purposes. With respect to us, this privacy policy applies only to their activities within the State of California. To make such a request or if you have questions about this privacy policy, please send an email to  [email protected] .
+Talkdesk as a Processor
+Why is personal data collected?
+Personal data is collected to provide the service of Contact Center as a Service.
+What personal data is collected?
+When acting as a processor, Talkdesk provides a cloud service and acts on behalf of its customers. Therefore, the information that is collected by Talkdesks customers when using Talkdesk product is of its own responsibility as it is the definition of the categories of data subjects
+Nevertheless, the information that is collected includes:
+Contact : typically, customers customer or prospect (its customer responsibility to define who the types of contacts for which Talkdesk service is provided): Name, phone number and email;
+Agent : usually someone from the customer that uses Talkdesk for inbound or outbound calls: Name, e-mail and associated phone number. May also include characteristics of the agent such as gender;
+Interactions : call metadata such as a contact phone number, agent phone number, date, time and duration of call and call context.
+How long is personal data retained?
+Since Customers are acting as controllers, they define the retention periods for the information they collect. Additionally, when Customer terminates its contract with Talkdesk, the information is removed up to 90 days after the contract termination or earlier if requested.
+Talkdesk may keep anonymized information for longer periods (that will not identify directly or indirectly any agent, contact or customer) for analysis of how service is used for improvement of it.
+What are the data subject rights?
+Data subject right depends on the jurisdictions where they are and the jurisdictions where Talkdesk customers are. Nevertheless, typical data subjects rights include:
+Right of access : Right to obtain confirmation as to whether or not personal data concerning the data subject is being processed, and, where that is the case, access to that personal data;
+Right to rectification : Right to obtain rectification of inaccurate personal data concerning the data subject;
+Right to erasure or to be forgotten : Right to the erasure of personal data concerning the data subject;
+Right to restrict processing : Right to receive the personal data provided and concerning the data subject, in a structured, commonly used and machine-readable format;
+Right to data portability : Right to receive the personal data provided and concerning the data subject, in a structured, commonly used and machine-readable format;
+Right to object : right to object to the processing of your data for reasons related to your own personal situation;
+Right not to be subject to automated decision-making : Right not to be subject to a decision based solely on automated processing;
+Right to withdraw consent : Right to remove consent for specific processing;
+Right to complaint : Right to send a complaint to the proper authority;
+Right to prevent your information from being sold : Right to state that you do not your personal information to be sold to anyone.
+How can a data subject exercise its rights?
+When Talkdesk processes information on behalf of a customer, all data subject rights must be addressed directly to the customer.
+To whom is personal data transferred?
+As a processor/service provider, Talkdesk only uses data to provide the service agreed and according to customer instructions and Talkdesk does not sell the information its customers collect while using Talkdesk service (as the term sell is defined under the CCPA).
+Nevertheless, Talkdesk uses third-parties to provide its service and those providers follow the same security and privacy commitments as Talkdesk.
+A list of Talkdesk sub-processors can be provided to customers. Such request must be sent to  [email protected] .
+Where is information stored?
+Information is mainly stored in the US and transfer of information from European Economic Area (EEA), United Kingdom and Switzerland is made based on:
+Adequacy Decision : Countries designated by European Commission as having an adequate level of protection for personal data;
+Privacy Shield : Talkdesk comply with the EU-U.S. Privacy Shield and the Swiss  U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. Talkdesk has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view Talkdesk certification, please visit  https://www.privacyshield.gov ;
+Standard Contractual Clauses : Talkdesk relis in the Commissions model contracts for the transfer of personal data to third countries (i.e. the standard contractual clauses) pursuant to Decision 2010/87/EU.
+Transfers between other jurisdictions may require specific and additional provisions that must defined by customer in conjunction with Talkdesk.
+How is information protected?
+Talkdesk adopts an Information Security Management Systems (ISMS) and BCMS (Business Continuity Management System) as a framework for continuous improvement of security and business continuity. The ISMS and BCMS includes Policies, Awareness on Security and Privacy, adequate processual and technical controls, audit logging and third-party due diligence, among others.
+Talkdesk performs regular due diligence on third parties for security and privacy.
+Personal Information from Children
+Talkdesk never knowingly collects any personal information from children under the age of 13. If we obtain actual knowledge that we have collected personal information from a child under the age of 13, that information is immediately removed from any access. Because we do not collect such information, we have no such information to use or to disclose to third parties. We have designed this policy to comply with the Childrens Online Privacy Protection Act (COPPA).
+Privacy Shield Independent Recourse Mechanism
+In compliance with the EU-U.S. Privacy Shield and Swiss  U.S. Privacy Shield, Talkdesk is committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us at:  [email protected] .
+If necessary, we have further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield to JAMS, an alternative dispute resolution provider located in the United States.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at  https://www.jamsadr.com/eu-us-privacy-shield .
+As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission. The Federal Trade Commission has jurisdiction over Talkdesks compliance with this policy and the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield, Talkdesk is potentially liable.
+In compliance with the Privacy Shield Principles, Talkdesk commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Talkdesk at:
+Privacy Team/DPO
+[email protected]
+Talkdesk has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+Privacy Policy changes
+Future changes made to this policy are posted on our website. Any questions regarding this policy can be sent to  privacy [email protected] .
+US
++1 (844) 332-2859
+AU
++61 2 8294 5955
+FR
++33 9 74 59 59 58
+UK
++44 20 3322 6242
+SP
++34 911 23 54 11
+PT
++351 308 806 998
+Why Talkdesk
+Customer Service
+Sales
+Pricing
+AppConnect
+Integrations
+Customers
+Solutions
+Healthcare
+Retail & E-Commerce
+BPO
+Resources
+Resource Library
+Blog
+Knowledge Base
+Talkdesk Academy
+Company
+About
+Leadership
+Partners
+Developers
+News & Press
+Events
+Careers
+Product Demo
+Login
+Cloud Call Center Software
+Want to hear Talkdesk's call quality?
+GIVE US A CALL 1-844-332-2859
+535 Mission Street, 12th Floor, San Francisco, CA 94105
+Terms of Service
+Privacy Policy
+Contact Us
+© 2020 Talkdesk, Inc, All Rights Reserved
+We use cookies to improve your browsing experience.
+More information.
+Ok
